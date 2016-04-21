@@ -2,6 +2,7 @@ import os
 from bs4 import BeautifulSoup
 import csv
 import codecs
+import re
 
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 XML_DIR =os.path.join(PROJECT_ROOT, 'xml')
@@ -40,10 +41,32 @@ def write_csv(parsed):
         ] + ['institution{}'.format(x) for x in institutionHeaders]
         cwriter.writerow(headers)
         for item in parsed:
-            row = [item[h] for h in headers]
+            row = [str(item[h]) for h in headers]
             cwriter.writerow(row)
-
-
+    with open(os.path.join(PROJECT_ROOT, 'investigator.csv'),'w') as f:
+        cwriter = csv.writer(f)
+        headers = ['awardid'] + investigatorHeaders
+        cwriter.writerow(headers)
+        for item in parsed:
+            for inv in item['investigator']:
+                row = [item['awardid']]+[str(inv[h]) for h in investigatorHeaders]
+                cwriter.writerow(row)
+    with open(os.path.join(PROJECT_ROOT, 'elements.csv'), 'w') as f:
+        cwriter = csv.writer(f)
+        headers = ['awardid', 'code', 'text']
+        cwriter.writerow(headers)
+        for item in parsed:
+            for elem in item['programelement']:
+                row = [item['awardid']]+[str(elem[h]) for h in headers[1:]]
+                cwriter.writerow(row)
+    with open(os.path.join(PROJECT_ROOT, 'references.csv'), 'w') as f:
+        cwriter = csv.writer(f)
+        headers = ['awardid', 'code', 'text']
+        cwriter.writerow(headers)
+        for item in parsed:
+            for elem in item['programreference']:
+                row = [item['awardid']]+[str(elem[h]) for h in headers[1:]]
+                cwriter.writerow(row)
 def count_tags(soup, tag):
     print len(soup.find_all(tag))
 
@@ -58,25 +81,25 @@ def parse_soup(soup):
         key = h.replace('.value','')
         obj = getattr(soup, key)
         if "awardinstrument" in h:
-            mainDict[key] = str(obj.value.text)
+            mainDict[key] = str(obj.value.string).encode('utf8', 'replace')
         else:
-            mainDict[key] = codecs.utf_8_decode(obj.text.encode('utf-8'))
-    mainDict['programofficer'] = str(soup.programofficer.signblockname)
-    mainDict['organizationcode'] = str(soup.organization.code.text)
-    mainDict['organizationdirectorate'] = soup.organization.directorate.longname.text
-    mainDict['organizationdivision'] = soup.organization.longname.text
+            mainDict[key] = str(obj.text.encode('utf8', 'replace'))
+    mainDict['programofficer'] = str(soup.programofficer.signblockname.string)
+    mainDict['organizationcode'] = str(soup.organization.code.string)
+    mainDict['organizationdirectorate'] = str(soup.organization.directorate.longname.string)
+    mainDict['organizationdivision'] = str(soup.organization.longname.string)
 
     inst = soup.institution.contents
     for item in inst:
         if item:
             mainDict["institution{}".format(item.name)] = item.string
-    mainDict['abstractnarration'] = soup.abstractnarration.text
+    mainDict['abstractnarration'] = soup.abstractnarration.string
     mainDict['investigator'] = []
     for person in soup.find_all('investigator'):
         pdict = {}
         for header in investigatorHeaders:
             obj = getattr(person, header)
-            pdict[header] = obj.text
+            pdict[header] = obj.string
         mainDict['investigator'].append(pdict)
 
     mainDict['programelement'] = []
@@ -88,7 +111,6 @@ def parse_soup(soup):
 
     mainDict['programreference'] = []
     for e in soup.find_all('programreference'):
-        edict = {}
         edict['code'] = e.code.string
         edict['text'] = e.text
         mainDict['programreference'].append(edict)
