@@ -87,7 +87,7 @@ def parse_soup(soup):
     mainDict['programofficer'] = str(soup.programofficer.signblockname.string.encode('utf8', 'replace'))
     mainDict['organizationcode'] = str(soup.organization.code.string)
     mainDict['organizationdirectorate'] = str(soup.organization.directorate.longname.string)
-    mainDict['organizationdivision'] = str(soup.organization.longname.string)
+    mainDict['organizationdivision'] = str(soup.organization.division.longname.string)
 
     inst = soup.institution.contents
     for item in inst:
