@@ -84,7 +84,7 @@ def parse_soup(soup):
             mainDict[key] = str(obj.value.string).encode('utf8', 'replace')
         else:
             mainDict[key] = str(obj.text.encode('utf8', 'replace'))
-    mainDict['programofficer'] = str(soup.programofficer.signblockname.string)
+    mainDict['programofficer'] = str(soup.programofficer.signblockname.string.encode('utf8', 'replace'))
     mainDict['organizationcode'] = str(soup.organization.code.string)
     mainDict['organizationdirectorate'] = str(soup.organization.directorate.longname.string)
     mainDict['organizationdivision'] = str(soup.organization.longname.string)

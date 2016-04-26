@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RUI: Investigation of Exotic Nuclear Shapes by Gamma-Ray Spectroscopy</AwardTitle>
+    <AwardEffectiveDate>08/01/2015</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2018</AwardExpirationDate>
+    <AwardAmount>44200</AwardAmount>
+    <AwardInstrument>
+      <Value>Interagency Agreement</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03010000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Physics</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Allena Opper</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>07/22/2015</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/22/2015</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1502092</AwardID>
+    <Investigator>
+      <FirstName>Daryl</FirstName>
+      <LastName>Hartley</LastName>
+      <EmailAddress>hartley@usna.edu</EmailAddress>
+      <StartDate>07/22/2015</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>United States Naval Academy</Name>
+      <CityName>Annapolis</CityName>
+      <ZipCode>214025030</ZipCode>
+      <PhoneNumber>4102932504</PhoneNumber>
+      <StreetAddress>589 McNair Rd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+  </Award>
+</rootTag>
