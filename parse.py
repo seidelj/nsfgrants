@@ -67,6 +67,15 @@ def write_csv(parsed):
             for elem in item['programreference']:
                 row = [item['awardid']]+[str(elem[h]) for h in headers[1:]]
                 cwriter.writerow(row)
+
+    with open(os.path.join(PROJECT_ROOT, 'abstracts.csv'), 'w') as f:
+        cwriter = csv.writer(f)
+        headers = ['awardid', 'abstractnarration']
+        cwriter.writerow(headers)
+        for item in parsed:
+            row = [str(item[h]) for h in headers]
+            cwriter.writerow(row)
+
 def count_tags(soup, tag):
     print len(soup.find_all(tag))
 
@@ -93,7 +102,10 @@ def parse_soup(soup):
     for item in inst:
         if item:
             mainDict["institution{}".format(item.name)] = item.string
-    mainDict['abstractnarration'] = soup.abstractnarration.string
+    try:
+        mainDict['abstractnarration'] = str(soup.abstractnarration.string.encode('utf8', 'replace'))
+    except AttributeError:
+        mainDict['abstractnarration'] = ""
     mainDict['investigator'] = []
     for person in soup.find_all('investigator'):
         pdict = {}
