@@ -5,7 +5,7 @@ import codecs
 import re
 
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
-XML_DIR =os.path.join(PROJECT_ROOT, '2017')
+XML_DIR =os.path.join(PROJECT_ROOT, 'xml')
 
 mainHeaders = [
     'awardtitle', 'awardeffectivedate', 'awardexpirationdate',
@@ -94,14 +94,24 @@ def parse_soup(soup):
         else:
             mainDict[key] = str(obj.text.encode('utf8', 'replace'))
     mainDict['programofficer'] = str(soup.programofficer.signblockname.string.encode('utf8', 'replace'))
-    mainDict['organizationcode'] = str(soup.organization.code.string)
-    mainDict['organizationdirectorate'] = str(soup.organization.directorate.longname.string)
-    mainDict['organizationdivision'] = str(soup.organization.division.longname.string)
+    mainDict['organizationcode'] = str(soup.organization.code.string.encode('utf8', 'replace'))
+    try:
+        mainDict['organizationdirectorate'] = str(soup.organization.directorate.longname.string.encode('utf8', 'replace'))
+    except AttributeError:
+        mainDict['organizationdirectorate'] = str(soup.organization.directorate.longname.string)
+    try:
+        mainDict['organizationdivision'] = str(soup.organization.division.longname.string.string.encode('utf8', 'replace'))
+    except AttributeError:
+        mainDict['organizationdivision'] = str(soup.organization.division.longname.string.string)
+
 
     inst = soup.institution.contents
     for item in inst:
         if item:
-            mainDict["institution{}".format(item.name)] = item.string
+            try:
+                mainDict["institution{}".format(item.name)] = item.string.encode('utf8', 'replace')
+            except AttributeError:
+                mainDict["institution{}".format(item.name)] = item.string
     try:
         mainDict['abstractnarration'] = str(soup.abstractnarration.string.encode('utf8', 'replace'))
     except AttributeError:
@@ -111,7 +121,10 @@ def parse_soup(soup):
         pdict = {}
         for header in investigatorHeaders:
             obj = getattr(person, header)
-            pdict[header] = obj.string
+            try:
+                pdict[header] = obj.string.encode('utf8', 'replace')
+            except AttributeError:
+                pdict[header] = obj.string
         mainDict['investigator'].append(pdict)
 
     mainDict['programelement'] = []
