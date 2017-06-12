@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: From the Cosmos to the Living Cell - Scientific Tools and Best Practices for Successful Careers in Physics</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>105168</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03010000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Physics</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kathleen V. McCloud</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award supports the renewal of the Research Experiences for Undergraduates (REU) site at the University of Illinois in Urbana-Champaign. The Department of Physics at the University hosts an intensive 10-week summer research program for 12 undergraduates per year, who are integrated into existing research groups led by senior faculty. Students are exposed to life at a large public research university that has extensive research activities across a full range of physics subfields. During the program, students perform hands-on research in projects on important scientific problems. In addition to research skills, participants are trained in computing in physics, error analysis, technical communications, research collaboration practices, and professional ethics skills which are essential to their future success. The REU students are also exposed to career options through talks and workshops and receive advice on applying for graduate school and graduate research fellowships.&lt;br/&gt;&lt;br/&gt;The intellectual focus of the program is to teach students not only how to do physics, but also how to be physicists. Students work on cutting-edge research projects that apply the tools of physics to important problems in traditional physics subdisciplines as well as in materials science, nanotechnology, molecular biology, and high-performance computing. Students also have ample opportunities to learn about technical communications, research collaboration and networking, and responsible conduct of research. An intangible but real contribution to the project is the University's research infrastructure. The REU students have the benefit of state-of-the-art research laboratories, extraordinary computer and visualization facilities, desk-top access to library collections and services, and the student computer laboratory in Loomis Laboratory.</AbstractNarration>
+    <MinAmdLetterDate>02/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659598</AwardID>
+    <Investigator>
+      <FirstName>Dale</FirstName>
+      <LastName>Van Harlingen</LastName>
+      <EmailAddress>dvh@illinois.edu</EmailAddress>
+      <StartDate>02/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Matthias</FirstName>
+      <LastName>Perdekamp</LastName>
+      <EmailAddress>mgp@illinois.edu</EmailAddress>
+      <StartDate>02/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Urbana-Champaign</Name>
+      <CityName>CHAMPAIGN</CityName>
+      <ZipCode>618207473</ZipCode>
+      <PhoneNumber>2173332187</PhoneNumber>
+      <StreetAddress>SUITE A</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9134</Code>
+      <Text>Integrative Activities in Phys</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

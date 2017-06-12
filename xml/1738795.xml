@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Workshop on Microsystems for Electroceuticals and Bioelectronic Medicine, April 12-13, 2017, IBM Conference Center Washington DC.</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>28000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07010000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Usha Varshney</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This proposal request is for the organization of a workshop to explore the scientific issues and technological challenges associated with bioelectronic microsystems for personalized medicine with an ability to treat a wide range of diseases with a tiny device less than 100 microns in size that is capable of performing in-vivo sensing and direct electrical interactions with a single living cell. The goal of this workshop will be to develop a roadmap of technology capabilities that are needed to enable a prototypical bioelectromicrocell by 2022 in order to position the U.S. at the forefront of this technology. This proposal requests support to provide travel funds and subsistence for experts to participate in the NSF-SRC workshop on 'Microsystems for Electroceuticals and Bioelectronic Medicine' to be held on April 12-13, 2017 at the IBM Conference Center in Washington DC. The discussions will also bring out opportunities and changes necessary in education as the complexity of the large scale integrated electronics demands interdisciplinary knowledge needs. Development of bioelectronic medical devices requires multidisciplinary knowledge and skills, including neuroscience, medicine, systems engineering, materials, electronics. The workshop will help to identify needs for future undergraduate and graduate curriculum in Biomedical Engineering. Plans are to disseminate the outcome of the meeting by posting presentation materials on the meeting website of SRC for the general public. The proceedings of the workshop and the list of recommendations will be made available to all participants of the workshop, NSF, other government scientists, industry and policymakers.&lt;br/&gt;&lt;br/&gt;Bioelectronic Medicine promises a new era of real-time, personalized medical diagnosis and treatment. Microsystems for Bioelectronic Medicine are envisioned as medical devices that employ electrical currents to affect and modify body functions as an alternative to drug-based interventions. This group of emerging devices is also referred to as 'electroceuticals'. Currently, research on this topics is still in its infancy stage. This NSF/SRC technical exchange meeting is organized to develop future research agenda that enable the scientific explorations on 'bioelectromicrocell' for bioelectronics medicine. It will explore ideas at the intersection of science and engineering of semiconductor platforms for synthetic biology and hybrid bioelectronics systems to address the key questions ranging from the fundamentals and application of microsystems for bioelectronic medicine; electronic signal treatment for therapeutic applications; realization for the fabrication of bioelectromicrocell for replacing drugs by semiconductor technologies; biocompatibility issues of bioelectromicrocell technologies; and finally the development of roadmap from research to commercialization. The workshop will provide an excellent opportunity for intellectual pursuit and discernment of scientific challenges related to new approaches for bioelectronics medicine.</AbstractNarration>
+    <MinAmdLetterDate>03/31/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/31/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1738795</AwardID>
+    <Investigator>
+      <FirstName>Victor</FirstName>
+      <LastName>Zhirnov</LastName>
+      <EmailAddress>victor.zhirnov@src.org</EmailAddress>
+      <StartDate>03/31/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Semiconductor Research Corporation</Name>
+      <CityName>Durham</CityName>
+      <ZipCode>277038447</ZipCode>
+      <PhoneNumber>9199419400</PhoneNumber>
+      <StreetAddress>1101 Slater Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1517</Code>
+      <Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>108E</Code>
+      <Text>Bioelectronics</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8028</Code>
+      <Text>Sensor Technology</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

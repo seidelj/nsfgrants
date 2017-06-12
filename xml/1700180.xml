@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Fourier analysis and partial differential equations</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2020</AwardExpirationDate>
+    <AwardAmount>150000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Bruce P. Palka</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The principal investigator on this project is Charles Fefferman, and the co-principal investigator is Elias Stein. The project involves research in harmonic analysis, theoretical fluid dynamics, materials science, and statistics. Harmonic analysis is a basic tool in science and engineering. Fluids also arise in many problems of science and technology, but our fundamental understanding of their behavior is very primitive. The materials that will be studied include graphene and its photonic analogues, which are widely regarded as having great promise for technology. The statistics problems to be studied entail fitting to a given data set a smooth object (say, a graph or a "manifold"), which has become a standard strategy for studying big data.&lt;br/&gt;&lt;br/&gt;Fefferman hopes to understand extension and interpolation of functions in the context of Sobolev spaces; to provide efficient algorithms for selection problems geared to m-times smoothly differentiable functions; to demonstrate new mechanisms for singularity formation for fluid equations; and to obtain asymptotic formulas for the lifetimes of edge resonances in graphene-like materials. Stein seeks to produce counterexamples to demonstrate the optimality of his previous estimates in Lebesgue spaces for Cauchy-type integrals in several complex variables; to obtain dimension-free estimates by techniques he had developed earlier to study discrete analogues; and to obtain analogous results in the setting of nilpotent Lie groups.</AbstractNarration>
+    <MinAmdLetterDate>03/30/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/30/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1700180</AwardID>
+    <Investigator>
+      <FirstName>Charles</FirstName>
+      <LastName>Fefferman</LastName>
+      <EmailAddress>cf@math.princeton.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Elias</FirstName>
+      <LastName>Stein</LastName>
+      <EmailAddress>stein@math.princeton.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Princeton University</Name>
+      <CityName>Princeton</CityName>
+      <ZipCode>085442020</ZipCode>
+      <PhoneNumber>6092583090</PhoneNumber>
+      <StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

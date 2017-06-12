@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Braids in Algebra, Geometry, and Topology</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>25000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project supports the participation of US based researchers in a conference on braid groups to be held from May 22, 2017 until May 26, 2017 at the International Centre for Mathematical Sciences (ICMS) in Edinburgh, Scotland. Informally, braid groups encode the way that a collection of particles can move around each other in space. They were introduced by Emil Artin in the early 20th century and have since played an increasingly important role in both mathematics and physics. New applications for them continue to be found, often in areas of research that seemingly have little connection to braid groups' humble physical origins.&lt;br/&gt;&lt;br/&gt;This conference will bring together researchers in a wide variety of fields in which braid groups play a role. Areas of particular focus include algebraic geometry, number theory, low-dimensional topology, and geometric group theory. Though these subjects all make use of braid groups, workers in them often are not aware of the tools used to study braid groups in other fields. The purpose of this conference is to bring all these different people together to learn about the problems that are of interest in other subareas and to foment inter-disciplinary collaboration. The website of the conference is&lt;br/&gt;http://www.icms.org.uk/workshop.php?id=421</AbstractNarration>
+    <MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1664688</AwardID>
+    <Investigator>
+      <FirstName>Andrew</FirstName>
+      <LastName>Putman</LastName>
+      <EmailAddress>andyp@math.rice.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Notre Dame</Name>
+      <CityName>NOTRE DAME</CityName>
+      <ZipCode>465565708</ZipCode>
+      <PhoneNumber>5746317432</PhoneNumber>
+      <StreetAddress>940 Grace Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Indiana</StateName>
+      <StateCode>IN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1264</Code>
+      <Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1267</Code>
+      <Text>TOPOLOGY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

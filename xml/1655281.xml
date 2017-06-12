@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Testing the Social Construction of Rights and Media Coverage in an Age of Judicialization</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>219734</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Scott Barclay</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The rising use of litigation to make policy has been called one of the most important developments in contemporary governance, as interest groups across the political spectrum now routinely turn to the courts to pursue their policy agendas. One potential consequence of all of this litigation relates to the dissemination of information about public policies through the media. This research project will generate new data on media coverage of litigation-based policies. Using statistical and mixed-method analysis, the findings will provide insights into how litigation and media biases influence public information about policy. The project includes training undergraduate and graduate students in the practice of research design, data collection and mixed-method analysis.&lt;br/&gt;&lt;br/&gt;The scientific literature is currently divided on how media coverage should interact with policy design and it generates competing approaches. This project addresses this challenge by contrasting coverage of injury compensation policies that reflect differing levels of reliance on litigation. Specifically, building on a significant pilot project, it will collect original data on newspaper stories in 3 distinct policy areas as presented in national news outlets. The project will code individual news stories using a series of validated measures. The project will analyze these data using multiple methods, including statistical analysis, mixed-method comparative case studies, and in-depth interpretive analyses of content.</AbstractNarration>
+    <MinAmdLetterDate>01/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655281</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Barnes</LastName>
+      <EmailAddress>barnesj@usc.edu</EmailAddress>
+      <StartDate>01/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Parker</FirstName>
+      <LastName>Hevron</LastName>
+      <EmailAddress>phevron@mail.twu.edu</EmailAddress>
+      <StartDate>01/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas Woman's University</Name>
+      <CityName>Denton</CityName>
+      <ZipCode>762045619</ZipCode>
+      <PhoneNumber>9408983375</PhoneNumber>
+      <StreetAddress>BOX 425619 T W U STATION</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1372</Code>
+      <Text>LAW AND SOCIAL SCIENCES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1372</Code>
+      <Text>LAW AND SOCIAL SCIENCES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

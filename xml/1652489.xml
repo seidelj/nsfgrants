@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Ultrasound-Assisted Biofabrication Of Biomimetic Soft Tissue Constructs With Aligned Fiber Organization</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2022</AwardExpirationDate>
+    <AwardAmount>500000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven R. Schmid</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Faculty Early Career Development (CAREER) award project involves the use of ultrasound principles to aid in bioprinting of functional tissues with highly organized fibers as reinforcement, thereby providing for stronger functional biomanufactured tissue. This has been recognized as a serious technical limitation of existing bioprinting applications, and has far-reaching impacts. Perhaps the most immediate is the production of scaffolds for soft tissue reconstruction surgeries where the scaffold has improved mechanical properties. Long-term applications are significant and range from constructs for drug evaluation to replacement organs. The PI's education and outreach plan includes development of courses on biofabrication as well as a centralized biofabrication web-based knowledge resource, as well as extensive outreach to K-12 students and the broader bioprinting community. Specifically, the PI will develop a Bio-Design and Manufacturing summer workshop for high school students and collaborations with the North Carolina Science Museum. &lt;br/&gt;&lt;br/&gt;The use of a standing ultrasonic wave in additive manufacturing with cell-infused bionics leads to orientation in reinforcing fibers. Leveraging the PI's expertise in biomedical design and manufacturing, multidisciplinary collaborations, and lab capabilities, this project will generate new knowledge about fundamental material-process-structure-function interactions in the ultrasonic manipulation of 3D encapsulated cells, nanofibers and cell-secreted extracellular matrix (ECM). The outcomes will confirm if aligned polymer nanofibers within a hydrogel can guide fibrous ECM formation along their alignment trajectory better than aligned encapsulated cells alone (without nanofibers). The validated analytical and empirical models will provide a multivariate mapping of UAB parameter interrelationships with functionally-critical cellular and ECM responses. For the first time, the 3D-bioprinting of human anterior cruciate ligament (ACL) and annulus fibrosus tissue constructs with biomimetic ECM organization will be achieved.</AbstractNarration>
+    <MinAmdLetterDate>02/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652489</AwardID>
+    <Investigator>
+      <FirstName>Rohan</FirstName>
+      <LastName>Shirwaiker</LastName>
+      <EmailAddress>rashirwaiker@ncsu.edu</EmailAddress>
+      <StartDate>02/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>North Carolina State University</Name>
+      <CityName>RALEIGH</CityName>
+      <ZipCode>276957514</ZipCode>
+      <PhoneNumber>9195152444</PhoneNumber>
+      <StreetAddress>CAMPUS BOX 7514</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1468</Code>
+      <Text>Manufacturing Machines &amp; Equip</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>082E</Code>
+      <Text>MFG MACHINES &amp; METROLOGY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>083E</Code>
+      <Text>MATERIAL TRANSFORMATION PROC</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

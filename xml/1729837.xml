@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research in DRMS: Integrating Managerial Insight and Optimal Algorithms</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>23287</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan W. Leland</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An extensive body of experimental work shows that human decision-makers routinely make sub-optimal choices when faced with uncertainty in the laboratory. Since these deviations from rational behavior cut into firm profits, one might conclude that employees who routinely encounter such choices should be replaced with software that is programmed to automatically implement optimal strategy. On the other hand, if human managers have ?managerial insight? that can resolve some of the uncertainty about future demand, then they should be considered valuable assets rather than liabilities. Humans have a broad contextual awareness of the world, but their computational abilities are limited and error-prone. Computers are relatively unaware, but they are unerring and have nearly unlimited processing capability. This Doctoral Dissertation Research Improvement Grant, the co-PI develops a model to examine how a business might best take advantage of human managers? insights while scaffolding their decision-making with technology.  The project will explore whether it is better to have human managers adjust recommendations made by an automated system or whether managerial insight should be translated into a machine-usable format for automated processing with the software holding ultimate decision rights. Implications of these findings to issues like supply chain management will be explored.&lt;br/&gt;&lt;br/&gt;The project involves an experimental methodology where participants in a ?newsvendor problem? setting are endowed with managerial insight in the form of a noisy signal about upcoming demand. With this additional piece of information, a manager computing the optimal insight-informed ordering policy should outperform the optimal policy absent this information.  However, in the lab, human subjects fail to improve profitability when making these decisions because their superior demand information is undercut by their inferior computational ability. The co-Pi will explore whether, by  disaggregating the forecasting task (where managerial insight can improve operations) from the order quantity selection (which can be mechanically computed once demand information is known) can lead to truly optimal responses.</AbstractNarration>
+<MinAmdLetterDate>05/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1729837</AwardID>
+<Investigator>
+<FirstName>Elena</FirstName>
+<LastName>Katok</LastName>
+<EmailAddress>ekatok@utdallas.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Blair</FirstName>
+<LastName>Flicker</LastName>
+<EmailAddress>bflicker@utdallas.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Dallas</Name>
+<CityName>Richardson</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress>800 W. Campbell Rd., AD15</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1321</Code>
+<Text>DECISION RISK &amp; MANAGEMENT SCI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

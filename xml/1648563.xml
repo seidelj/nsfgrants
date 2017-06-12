@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>STTR Phase I: Autonomous Landing of sUAS onto Moving Platforms</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>224912</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Muralidharan S. Nair</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this project is the expansion of autonomous unmanned aerial systems (UAS, or drones) to new maritime operational environments and commercial markets. The proposed technology will enable small UAS to operate from vessels moving at sea, without the need for a dedicated pilot or installed hardware, even while far from shore and beyond the reach of established communication networks. Small UAS can offer the same aerial perspective provided by manned helicopters at a fraction of the size, cost, and risk. Real-time aerial imagery from UAS will supply maritime operators with invaluable information about their surroundings at sea, which is not available by any other means. This information is critical for many maritime applications, including fishing, ocean monitoring, scientific exploration, maritime surveillance, and search, and rescue. This information will offer a particularly large and immediate impact for 98% of worldwide commercial fishing vessels (those that do not carry embarked manned helicopters for fish-finding) by dramatically reducing their fuel costs; providing net economic and environmental gains for the industry.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project will develop algorithms and software to enable small UAS autonomously and reliably land onto a moving platform at sea. Commercially-available small UAS can offer invaluable real-time aerial imagery for maritime operators. But, this technology is not currently in widespread use due to technological barriers. In particular, the key enabling technology is the ability to autonomously and reliably land a small UAS onto a moving platform. The research objective is to develop algorithms and software that enable small UAS to autonomously operate from moving vessels at sea. Computer vision algorithms automatically detect the host vessel and the dedicated landing area. Data fusion algorithms estimate the relative drone-boat position and orientation in real time, including compensation for vessel roll, pitch, &amp; heave. Precision control algorithms optimize the drone?s trajectory for save, reliable, autonomous launch and landing. A prototype system will be built by integrating the STTR-developed software with commercially available hardware components.</AbstractNarration>
+    <MinAmdLetterDate>12/14/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/14/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648563</AwardID>
+    <Investigator>
+      <FirstName>Randal</FirstName>
+      <LastName>Beard</LastName>
+      <EmailAddress>beard@byu.edu</EmailAddress>
+      <StartDate>12/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Gaemus</FirstName>
+      <LastName>Collins</LastName>
+      <EmailAddress>gaemus@planckaero.com</EmailAddress>
+      <StartDate>12/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Planck Aerosystems Inc</Name>
+      <CityName>San Diego</CityName>
+      <ZipCode>921017351</ZipCode>
+      <PhoneNumber>6192305049</PhoneNumber>
+      <StreetAddress>710 13th St Unit 307</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1505</Code>
+      <Text>STTR PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1505</Code>
+      <Text>STTR PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>6840</Code>
+      <Text>ROBOTICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8034</Code>
+      <Text>Hardware Components</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8035</Code>
+      <Text>Hardware Devices</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>HPCC</Code>
+      <Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

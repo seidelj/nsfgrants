@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>NSF/CISE Computer Systems Research 2017 PI Meeting</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>212946</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Yan Solihin</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Computing Systems Research (CSR) program of the NSF funds a wide&lt;br/&gt;range of systems research including (but not limited to) systems for&lt;br/&gt;Internet-of-Things (which makes our homes and city smarter), systems to&lt;br/&gt;make more affordable and energy-efficient our Supercomputers (which&lt;br/&gt;furthers medical research, our understanding of the universe, and&lt;br/&gt;warns the population of tornadoes and hurricanes, to name a few),&lt;br/&gt;systems to improve the usefulness, security, and reliability of our&lt;br/&gt;smartphones, and systems to secure and scale the cloud (which has&lt;br/&gt;expanded the capabilities of IT systems while dramatically decreasing&lt;br/&gt;the associated costs). The project organizes and funds a community&lt;br/&gt;event for all the PIs of awards from the CSR program. At this event,&lt;br/&gt;the researchers funded by the CSR program will have the opportunity to&lt;br/&gt;meet at-large and share and discuss their research and ideas for the&lt;br/&gt;future.&lt;br/&gt;&lt;br/&gt;The project organizes a PI meeting that includes mostly three types of&lt;br/&gt;activities. Plenary presentations will give a forum for the most&lt;br/&gt;remarkable research in the field to be presented and diffused to a&lt;br/&gt;large audience. These presentations are also useful to set the tone&lt;br/&gt;and quality of expected research for the PIs of more recent&lt;br/&gt;awards. Poster presentations of ongoing award enable casual scientific&lt;br/&gt;conversation and person-to-person research diffusion; they are&lt;br/&gt;expected to strengthen the social interaction between CSR researchers&lt;br/&gt;and to lead to new collaborations and synergy in the field. Breakout&lt;br/&gt;sessions will focus on subfield of systems research to summarize&lt;br/&gt;recent successful methodology and identify problems and opportunities&lt;br/&gt;for future work. The project provides a forum for systems researchers to meet and to&lt;br/&gt;form new collaborations, to discuss and to disseminate successful&lt;br/&gt;efforts, to identify the problems and opportunities of the future, and&lt;br/&gt;to maximize the impact of subsequent systems research efforts.</AbstractNarration>
+    <MinAmdLetterDate>04/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1740398</AwardID>
+    <Investigator>
+      <FirstName>Erik</FirstName>
+      <LastName>Saule</LastName>
+      <EmailAddress>esaule@uncc.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of North Carolina at Charlotte</Name>
+      <CityName>CHARLOTTE</CityName>
+      <ZipCode>282230001</ZipCode>
+      <PhoneNumber>7046871888</PhoneNumber>
+      <StreetAddress>9201 University City Boulevard</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7354</Code>
+      <Text>COMPUTER SYSTEMS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7354</Code>
+      <Text>COMPUTER SYSTEMS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

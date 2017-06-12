@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRI: II-New: An Infrastructure of Display Devices to Study Visual Analytics Beyond the Desktop</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>273552</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jun Huan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Visual Analytics studies how to help people make sense of complex data by providing interactive visual interfaces for data analysis and presentation. By making data visible and interactive, visual analytics enables scientists and researchers to detect patterns, formulate novel hypotheses and derive new insights on relevant scientific, social, and economic issues. Existing methods and technologies however focus exclusively on standard desktop interfaces and, as such, do not take advantage of the remarkable opportunities non-traditional display devices such as large screen displays, touch tables, and stereoscopic displays, can bring. In this project the research team explores these opportunities by developing methods for collaborative visual data analysis; real-time data monitoring in mission-critical settings; and immersive virtual navigation of "data spaces".&lt;br/&gt;&lt;br/&gt;The research the PI carries out includes: (1) user studies to understand how people solve data analysis problems in collaborative, data monitoring and immersive settings; (2) development of novel interaction techniques and applications for touch and 3D interfaces; (3) advanced evaluation methods that take advantage of rich user experience sensors such as EEG and eye-tracking devices. Research in these three directions will expand the horizon of visual analytics and increase our knowledge of how it can help people extract useful and actionable knowledge out of complex and large data sets.</AbstractNarration>
+<MinAmdLetterDate>05/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1730396</AwardID>
+<Investigator>
+<FirstName>Claudio</FirstName>
+<LastName>Silva</LastName>
+<EmailAddress>csilva@nyu.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Enrico</FirstName>
+<LastName>Bertini</LastName>
+<EmailAddress>enrico.bertini@nyu.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

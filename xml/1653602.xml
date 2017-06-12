@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Statistics of Extrema in Complex and Disordered Systems</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>40523</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tomek Bartoszynski</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Natural and social systems involving many interacting agents can accurately be described by probabilistic models. This is the case for a large class of systems in condensed matter physics, data science, finance, computer science, and pure mathematics. The behavior of such complex systems depends crucially on rare events, or extrema, that may have a large impact on their dynamics. This project is a rigorous study of the fundamental patterns that arise in a wide range of complex systems exhibiting many different extrema. The aim is to develop general quantitative methods to understand the statistics of extrema of these systems and to draw new connections with related problems in mathematics and physics. It also involves the advanced training of students in the applications of probability in data science, finance, and computer science in partnership with practitioners in academia and in industry. &lt;br/&gt;&lt;br/&gt;More precisely, complex systems can be viewed as stochastic processes with strongly correlated random variables. The statistics of extrema of such processes are still poorly understood from a rigorous point of view. Important examples include disordered systems in statistical mechanics (e.g., spin glasses), which are closely related to optimization problems in computer and data sciences. The focus of the project is on developing new probability methods in two instances: realistic spin glasses in statistical mechanics and the Riemann zeta function in number theory. In particular, it builds on recent progress in the description of infinite-dimensional models of spin glasses to propose a new rigorous method to investigate the behavior of realistic (finite-dimensional) spin glasses, which exhibit unusual magnetic behavior due to the presence of many extremal energies. The program also outlines new directions of research in pure mathematics by studying the Riemann zeta function as a disordered system. The objectives are to develop methods of statistical mechanics to study the extreme values of the Riemann zeta function in a short interval of the critical strip, and to explore the implications in number theory.</AbstractNarration>
+    <MinAmdLetterDate>01/04/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/04/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653602</AwardID>
+    <Investigator>
+      <FirstName>Louis-Pierre</FirstName>
+      <LastName>Arguin</LastName>
+      <EmailAddress>Louis-Pierre.Arguin@baruch.cuny.edu</EmailAddress>
+      <StartDate>01/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>CUNY Baruch College</Name>
+      <CityName>New York</CityName>
+      <ZipCode>100105526</ZipCode>
+      <PhoneNumber>6463122205</PhoneNumber>
+      <StreetAddress>One Bernard Baruch Way</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1263</Code>
+      <Text>PROBABILITY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8048</Code>
+      <Text>Division Co-Funding: CAREER</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

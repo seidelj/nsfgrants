@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Metallic glass catalysts for energy conversion and storage</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is the application of high performance catalysts for use in energy conversion/storage devices such as fuel cells and batteries. Successful commercialization will considerably advance nano-manufacturing in electrochemical energy conversion/storage and have a positive impact on a number of clean energy technologies. Typical customers for the proposed innovation include a broad spectrum of high-tech industries which will potentially benefit from commercialization of this technology. Some examples include fuel cell manufacturers, automotive industry, consumer electronics and energy storage companies. Superior performance of novel amorphous catalysts compared to state of the art suggests that this technology might be attractive core strength for a new company. As such, this I-Corps program will seek to understand whether a market opportunity exists around application of this technology and any potential spin-out company.&lt;br/&gt;&lt;br/&gt;This I-Corps project is focused on addressing catalyst performance bottlenecks in energy conversion/storage technologies such as fuel cells and batteries. This will be achieved by replacing state of the art nanoparticle catalysts with novel amorphous metallic alloys. Metallic glasses are fully amorphous multi-component alloys with unique combination of properties and processing ability. They can be produced in a wide range of compositions that are not available in crystalline form and therefore their electronic and catalytic characteristics can be engineered to achieve superior performance. A self-supporting architecture will be used for these novel amorphous catalysts, which prevent the dissolution of support material and significantly improve durability. The success of this project will lead to commercialization of highly-efficient and low-cost catalytic materials for electrochemical energy devices. It will pave the way for new clean energy technology ventures.</AbstractNarration>
+    <MinAmdLetterDate>03/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1737819</AwardID>
+    <Investigator>
+      <FirstName>Sundeep</FirstName>
+      <LastName>Mukherjee</LastName>
+      <EmailAddress>Sundeep.Mukherjee@unt.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of North Texas</Name>
+      <CityName>DENTON</CityName>
+      <ZipCode>762035017</ZipCode>
+      <PhoneNumber>9405653940</PhoneNumber>
+      <StreetAddress>1155 Union Circle #305250</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

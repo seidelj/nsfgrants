@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Ship Operations - R/V SALLY RIDE Cy 17</AwardTitle>
+<AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2018</AwardExpirationDate>
+<AwardAmount>380260</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rose Dufour</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Part 1: &lt;br/&gt;Boarder Impacts&lt;br/&gt;Scripps Institution of Oceanography (SIO) proposes to operate the research vessel Sally Ride to support&lt;br/&gt;NSF-funded scientific research in the year 2017. As a large shared-use facility scheduled within the&lt;br/&gt;collaborative framework of the University-National Oceanographic Laboratory System (UNOLS), Sally&lt;br/&gt;Ride will host scientists from across the United States and undertake research in a variety of disciplines.&lt;br/&gt;The ship will be operated in a manner that promotes efficiency, capability, and safety in order to&lt;br/&gt;maximize NSF's investment in this shared-use facility, and the programs that are conducted on board. A&lt;br/&gt;key element of our approach is preparing the vessel, crew and technicians to rapidly accommodate&lt;br/&gt;radically different scientific missions during brief in-port periods, involving extensive loading,&lt;br/&gt;offloading, laboratory reconfiguration, and installation of project-specific deck equipment. The operating&lt;br/&gt;tempo of expeditionary oceanography requires a carefully planned yet flexible approach to vessel&lt;br/&gt;maintenance, regulatory compliance, foreign clearance, crewing and working with scientists, which we&lt;br/&gt;will execute so that projects can be completed successfully and on schedule.&lt;br/&gt;Part 2:  Intellectual Merit:&lt;br/&gt;The observation, measurement, and collection of samples and data are accomplished on a global scale by&lt;br/&gt;operations aboard Sally Ride. SIO-operated ships have played a critical role in the exploration of our&lt;br/&gt;planet since 1907, and continue to contribute significantly to the U.S. ocean research effort. The seagoing&lt;br/&gt;operations proposed here enable transformative scientific research in physical and biological processes in&lt;br/&gt;the natural environment upon which human well-being depends. The intellectual merit of this proposal is&lt;br/&gt;amplified by the combined merit of research projects undertaken by scientists on board. During 2017,&lt;br/&gt;Sally Ride will support four NSF-sponsored research cruises in the eastern Pacific Ocean to conduct&lt;br/&gt;research in marine ecology, marine chemistry, ocean observing, and physical oceanography. NSFsponsored&lt;br/&gt;research (including Ocean Observing Initiative research) will account for 19% (39 days) of&lt;br/&gt;Sally Ride's work this year. The remainder of the work will be supported by the Navy (110 days, 55%),&lt;br/&gt;the National Oceanic and Atmospheric Administration (26 days, 13%), and the Scripps Institution of&lt;br/&gt;Oceanography (27 days, 13%). Each program contributes its own distinct intellectual merit.&lt;br/&gt;Broader Impacts:&lt;br/&gt;The proposed work constitutes strongly collaborative, multi-disciplinary and multi-institutional use of&lt;br/&gt;shared-use research and education infrastructure. As a charter member of UNOLS, SIO is actively&lt;br/&gt;involved in coordinating research vessel operations with scientists and funding agencies so shipboard&lt;br/&gt;capabilities can best meet the current and anticipated research needs of the entire community. The&lt;br/&gt;spectrum of research projects enabled by SIO's operation of Sally Ride achieves far-reaching broader&lt;br/&gt;impacts through the operation and maintenance of infrastructure that is critical to the promotion of&lt;br/&gt;training and learning, increasing the participation of underrepresented groups in research, advancing&lt;br/&gt;scientific and technological understanding and informing policy making.&lt;br/&gt;SIO's proposed operation of Sally Ride enables institutional programs to directly advance NSF's&lt;br/&gt;mission to promote achievement and progress in science, engineering and education for the benefit of the&lt;br/&gt;nation. In the five-year period ending in 2016, 1,026 graduate students, 448 undergraduate students, and&lt;br/&gt;131 K-12 and college educators obtained first-hand experience at sea aboard SIO research vessels. Sally&lt;br/&gt;Ride is part of SIO's UC Ship Funds Program, which enables graduate and undergraduate students,&lt;br/&gt;postdoctoral researchers and early career faculty to pursue independent research and instruction at sea via&lt;br/&gt;an internal peer-reviewed competitive process. The vessel is also integral to SIO's K-12 education&lt;br/&gt;program In the Footsteps of Sally Ride, which integrates classroom instruction, hands-on practical&lt;br/&gt;experience, and shipboard telepresence to teach physical science to economically disadvantaged seventhand&lt;br/&gt;eighth-grade students in coherence with national science standards. As a shared-use resource for&lt;br/&gt;NSF-supported scientists, Sally Ride similarly contributes to the education, training and outreach&lt;br/&gt;missions of those scientists and their home institutions.</AbstractNarration>
+<MinAmdLetterDate>06/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1734348</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Kelety</LastName>
+<EmailAddress>zkelety@ucsd.edu</EmailAddress>
+<StartDate>06/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Appelgate</LastName>
+<EmailAddress>bappelgate@ucsd.edu</EmailAddress>
+<StartDate>06/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego Scripps Inst of Oceanography</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930210</ZipCode>
+<PhoneNumber>8585341293</PhoneNumber>
+<StreetAddress>8602 La Jolla Shores Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5411</Code>
+<Text>SHIP OPERATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5411</Code>
+<Text>SHIP OPERATIONS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

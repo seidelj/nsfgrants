@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>LSU BD-8: 2017 Cohort LA-BRIDGE</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2019</AwardExpirationDate>
+    <AwardAmount>1075000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>amy rogers</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Louis Stokes Alliances for Minority Participation (LSAMP) program assists universities and colleges in diversifying the STEM workforce through the development of highly competitive students from groups historically underrepresented in STEM disciplines: African-Americans, Alaska Natives, American Indians, Hispanic Americans, Native Hawaiians, and Native Pacific Islanders. The goal of the LSAMP Bridge to the Doctorate (BD) Activity is to increase the quantity and quality of STEM graduate students from underrepresented populations, with emphasis on Ph.D. matriculation and completion. BD programs implemented in the nation's institutions of higher education contribute to addressing one of the objectives in NSF's 2014-2018 Strategic Plan, namely to "integrate education and research to support development of a diverse STEM workforce with cutting-edge capabilities." The vision of this grant is to provide a national model for the production of underrepresented scientists and engineers with doctoral degrees in STEM. &lt;br/&gt;&lt;br/&gt;Louisiana State University (LSU) serves as host of a Bridge to the Doctorate (BD) project within the Louis Stokes - Louisiana Alliance for Minority Participation. The LSU BD activity employs a multifaceted model that integrates research, education, and mentoring to address challenges underrepresented students face in doctoral programs. As such this project seeks to (1) recruit a cohort of twelve highly qualified Fellows from underrepresented racial and ethnic backgrounds employing evidence-based recruitment and selection strategies; (2) retain and support Fellows through doctoral candidacy, and prepare them for successful completion of the PhD and professional research careers by providing academic and research support, and professional development opportunities; and (3) expand and institutionalize best mentoring strategies for underrepresented PhD students. The program components are executed via an educational model that integrates mentoring and research into recruitment and retention strategies. This proposal implements additional requirements that BD Fellows apply for the NSF Graduate Research Fellowship Program (GRFP). Toward this end, scientific communication, especially written communication, will become a larger focus for this cohort. The use of Individual Development Plans (IDPs) will be refined and a new Bridge Orientation will be implemented. Evidence-based recruitment and retention strategies will be employed. The proposal includes a transformative design that incorporates inter- and intra-institutional alliances to improve the quality of STEM education at the doctoral level. This project will implement evidence-based mentoring strategies designed to support student matriculation and tools to promote self-efficacy toward PhD candidacy and doctoral attainment.</AbstractNarration>
+    <MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1702501</AwardID>
+    <Investigator>
+      <FirstName>Isiah</FirstName>
+      <LastName>Warner</LastName>
+      <EmailAddress>iwarner@lsu.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Diola</FirstName>
+      <LastName>Bagayoko</LastName>
+      <EmailAddress>bagayoko@aol.com</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Gloria</FirstName>
+      <LastName>Thomas</LastName>
+      <EmailAddress>gloriathomas@lsu.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Zakiya</FirstName>
+      <LastName>Wilson-Kennedy</LastName>
+      <EmailAddress>zwilson@lsu.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ashleigh</FirstName>
+      <LastName>Wright</LastName>
+      <EmailAddress>arwright@lsu.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Louisiana State University &amp; Agricultural and Mechanical College</Name>
+      <CityName>Baton Rouge</CityName>
+      <ZipCode>708032701</ZipCode>
+      <PhoneNumber>2255782760</PhoneNumber>
+      <StreetAddress>202 Himes Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Louisiana</StateName>
+      <StateCode>LA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9133</Code>
+      <Text>ALLIANCES-MINORITY PARTICIPAT.</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

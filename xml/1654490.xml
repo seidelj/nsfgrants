@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Novel Methods for Regio-, Stereo-, and Chemo-selectivity Remote to Functional Groups</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>303334</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kevin Moeller</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Chemical Synthesis Program of the Chemistry Division supports this project by Professor Justin Mohr to develop new catalyst molecules that aid in the synthesis of complex molecules. Professor Mohr is a faculty member in the Department of Chemistry at the University of Illinois at Chicago. His research program is combined with the development of new educational tools that can be used to explain complex concepts to science learners. On the research front, Professor Mohr and his students seek to control the behavior of highly reactive molecules that contain either an unpaired electron or an anion. These "intermediates" are formed and then converted into the production of target molecules where the specific spatial arrangement of the atoms required is difficult to obtain using currently available methods. This project contributes to the fields of organic synthesis, organometallic chemistry, and physical organic chemistry and builds new molecules with potential long-range applications in medicine, agriculture, biochemistry, and materials science. On the educational front, Professor Mohr is working to educate young students through outreach activities that involve children in grades K-12 students, and to increase laboratory research opportunities for underrepresented students. Within this overall effort is a plan to introduce the concept of catalysis to middle school students. Catalysts are molecules that help reactions proceed faster toward desirable targets while not being consumed. By helping students to understand how catalysts react, Professor Mohr is able to teach the students many of the key concepts that form the foundation of modern chemical methods. Professor Mohr's education plan also includes an effort to identify college age organic chemistry students that are prone to have difficulty with spatial recognition tasks. Such difficulties can impede their education, so his plan is to identify the problem early so that extra help can be provided to the students in a timely fashion so as to ensure their long-term success. &lt;br/&gt;&lt;br/&gt;First-row transition metals are attractive catalysts for generating reactive organic radical intermediates. These radical species are particularly suited to novel regio- and stereoselective coupling reactions with conjugated alkenes. This research seeks to develop new variants of such transformations that have specific uses in the synthesis of complex molecules applicable to the synthesis of natural products, functional materials, agrochemicals, and biochemical probes. This approach explores control of site-selectivity in reactions of conjugated dienolates. The research uses insights into the electronic structure of these anionic intermediates to overcome the typical selectivity in the location of bond formation with ambident nucleophiles. Use of this concept to synthesize organofluorine compounds reveals an unprecedented stereocontrol element with the potential to generate valuable, stereochemically rich organofluorine compounds. The research also seeks to understand the fundamental chemical concepts that explain this novel stereocontrol effect. The educational plan makes use of chemical reactivity as a platform to introduce the concept of metal catalysis to middle school students through a tangible demonstration. A second portion of the educational plan seeks to identify students at risk for difficulty in learning stereochemical concepts and to provide early interventions that improve educational outcomes. These components address scientific development at multiple levels.</AbstractNarration>
+    <MinAmdLetterDate>01/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1654490</AwardID>
+    <Investigator>
+      <FirstName>Justin</FirstName>
+      <LastName>Mohr</LastName>
+      <EmailAddress>jtmohr@UIC.EDU</EmailAddress>
+      <StartDate>01/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Chicago</Name>
+      <CityName>Chicago</CityName>
+      <ZipCode>606124305</ZipCode>
+      <PhoneNumber>3129962862</PhoneNumber>
+      <StreetAddress>809 S MARSHFIELD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>6878</Code>
+      <Text>Chemical Synthesis</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8037</Code>
+      <Text>Advanced Manufacturing</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

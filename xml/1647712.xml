@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Providing Microscopy at the Ultimate Resolution: Position, Identity, of Every Atom, in 3D</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ben Schrag</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research Phase I project addresses a major obstacle and opportunity in the present nanotechnology boom, the need for improved microscope capabilities. The growth of public investment in nanotechnology, from zero in 2000 to $68 billion in 2012, reflects the technical and commercial advantages of miniaturizing structural and chemical engineering to the nanoscale. Missing are microscopes capable of resolving such structures and chemistries with sufficient accuracy: atomic-scale resolution in three dimensions (3D). If successful, this project will demonstrate a new microscope that bridges this gap. Based on atom microscope by projection (AMP) technology, the new AMP microscope will image the position and identity of every atom in 3D. Complete atomic resolution will provide critical missing information to research scientists and more accurate inspection technology for manufacturing quality assurance. Revealing atomic origins of properties, AMP microscopes will accelerate transition from trial-and-error experimentation to computer-based design, allowing significant savings of time and money in research and development.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this project focuses on investigating feasibility of creating the first microscope capable of resolving the position and identity of every atom, in three dimensions, for billions of atoms per analysis. This represents a 100-fold spatial resolution improvement and a 2-fold chemical resolution improvement. AMP combines field-ion microscopy and field-evaporation time-of-flight mass spectrometry. Prototype AMP experiments spatially imaged 100% of atoms with 3D sub-angstrom resolution but only chemically identified 57%. This is the detection limit of using a multi-purpose detector for both spatial and chemical resolution. To reach 100% atomic spatial and chemical resolution, this project will model, simulate, and experimentally test feasibility of novel ion optics to separate the spatial resolution information from the chemical resolution information, enabling use of single-purpose detectors for each and improving quality.</AbstractNarration>
+    <MinAmdLetterDate>12/14/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647712</AwardID>
+    <Investigator>
+      <FirstName>Peter</FirstName>
+      <LastName>Liddicoat</LastName>
+      <EmailAddress>peter@atomnaut.com</EmailAddress>
+      <StartDate>12/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Atomnaut Inc.</Name>
+      <CityName>Sunnyvale</CityName>
+      <ZipCode>940868510</ZipCode>
+      <PhoneNumber>8314715539</PhoneNumber>
+      <StreetAddress>746 Gavello Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>090E</Code>
+      <Text>Chem/Bio and Physical Diagnostics</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8035</Code>
+      <Text>Hardware Devices</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>AGS-PRF: Wave-mean Flow Interactions in a Moist and Warmer Atmosphere</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2018</AwardExpirationDate>
+    <AwardAmount>86000</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020106</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ming Cai</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Weather systems in middle latitudes, such as cyclones and high pressure systems that move along jet streams, could still exist even without clouds and precipitation. These individual cyclones and high pressure systems do not just passively loop along westerly jet streams that meander around the globe. Instead they play important roles in determining the time mean intensity of the mid-latitude westerly jet stream as well as its mean latitudinal position and span. The interplay between the jet stream and weather systems that move along it is referred to as "wave-mean flow interaction" in the literature. Nevertheless, the hydrological cycle is an integral component of atmospheric circulations. Besides its by-product, rainfall, that provides the main source of water for all human uses and ecosystems, the hydrological cycle helps to cool tropical ocean surface via evaporation and keep Polar Regions much warmer than what would be by just considering the solar energy available there via poleward latent heat transport. &lt;br/&gt;&lt;br/&gt;This project explores how latent heat release associated with rainfall produced by individual storms also contributes collectively to the time mean intensity of mid-latitude westerly jet, as well as its temporal and spatial variations. It also concerns how the strengthening of hydrological cycle in a warmer climate would alter the intensity, mean latitudinal position and span of mid-latitude westerly jet. The PI developed a new diagnostic tool for studying moist wave-mean flow interactions in his dissertation research. Here he uses this newly developed tool to diagnose moist wave-mean flow interactions and contract them against the counterparts without considering latent heat release using both observational data and atmospheric general circulation model outputs.&lt;br/&gt;&lt;br/&gt;Since the future global warming projection uncertainties are highly related to future projections of hydrological cycle strength, a better understanding of the underlying dynamics of moist wave-mean interactions may help to reduce the global warming projection uncertainties. In addition, the project supports a postdoctoral researcher who is at the beginning of his scientific career, thereby providing for the future scientific workforce in this area.</AbstractNarration>
+    <MinAmdLetterDate>10/21/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/21/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1624203</AwardID>
+    <Investigator>
+      <FirstName>Ray</FirstName>
+      <LastName>Yamada</LastName>
+      <EmailAddress/>
+      <StartDate>10/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Yamada Ray</Name>
+      <CityName>New York</CityName>
+      <ZipCode>100121185</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress/>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5740</Code>
+      <Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7137</Code>
+      <Text>POSTDOCTORAL FELLOWSHIPS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>4444</Code>
+      <Text>INTERDISCIPLINARY PROPOSALS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5740</Code>
+      <Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7137</Code>
+      <Text>POSTDOCTORAL FELLOWSHIPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

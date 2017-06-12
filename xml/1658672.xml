@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>IRES: USA-Uzbekistan Collaborative Research in Leibniz algebras</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2020</AwardExpirationDate>
+    <AwardAmount>249991</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01090000</Code>
+      <Directorate>
+        <LongName>Office Of The Director</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office Of Internatl Science &amp;Engineering</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maija M Kukla</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>U.S. students will work in a diverse and vibrant environment and collaborate with Uzbek peers who are experts in cutting-edge math research. They will be exposed to unique styles of teaching and mentorship that will enrich their learning experience. In particular, this project will provide unique research opportunities for women and students from under-represented groups. Many of the California State University and the University of California campuses in Southern California, where the U.S. students will be recruited, are Hispanic Serving Institutions and Minority Serving Institutions. The project will have societal benefits by promoting mutual understandings between the two nations.&lt;br/&gt;&lt;br/&gt;The aim of the project is to give U.S. students international research experiences under the mentorship of a prominent Uzbek mathematician, Shavkat Ayupov, a well-known expert in Leibniz algebras. The PI will take three separate cohorts to Uzbekistan, 15 to 21 U.S. students over three years, to conduct research for two months at the Institute of Mathematics of the National University of Uzbekistan. The U.S. students will join Ayupov's research group and conduct research in collaboration with their Uzbek peers and mentors on topics of current interest in Leibniz algebras. Examples of research topics include studying properties of derivations of Leibniz algebras and identifying solvable rigid Leibniz algebras. The Leibniz algebras, which are generalizations of Lie algebras, are an important and rapidly developing area of mathematics with applications in general relativity, quantum mechanics and string theory. It is expected for each research project to result in publications and lead to further research collaboration. In addition to their research activities, the students will also take short courses on the language, culture and traditions of Uzbekistan to help them adjust to their surroundings. During their stay in Uzbekistan, the U.S. students will travel to the ancient cities of Samarkand, Bukhara and Khiva to learn about the cultural and scientific heritage of Uzbekistan.</AbstractNarration>
+    <MinAmdLetterDate>02/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658672</AwardID>
+    <Investigator>
+      <FirstName>Zair</FirstName>
+      <LastName>Ibragimov</LastName>
+      <EmailAddress>zibragimov@fullerton.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>California State University-Fullerton Foundation</Name>
+      <CityName>Fullerton</CityName>
+      <ZipCode>928313014</ZipCode>
+      <PhoneNumber>6572782106</PhoneNumber>
+      <StreetAddress>1121 North State College Blvd.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7727</Code>
+      <Text>IRES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5980</Code>
+      <Text>WESTERN EUROPE PROGRAM</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7639</Code>
+      <Text>IRES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7727</Code>
+      <Text>IRES/DDEP</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Representing and Classifying Enriched Quantum Symmetry</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2022</AwardExpirationDate>
+    <AwardAmount>73467</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Bruce Kitchens</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Symmetry plays an important role in mathematics and science. Classically, the symmetries of a mathematical object form a "group", which is a set with a binary operation such as the integers with addition. In recent decades, we have seen the emergence of quantum mathematical objects whose symmetries form a group-like structure called a "tensor category", which has a collection of objects with a binary fusion operation. Tensor categories are said to encode quantum symmetry: they describe topological phases of matter in physics, and they give us quantum invariants of knots and 3-dimensional surfaces. We are currently seeing the emergence of new mathematical objects which encode "enriched" quantum symmetry, which describe interfaces between 3-dimensional and 2-dimensional quantum systems. At this time, we have several competing formalisms. This project aims to unify these notions and produce exotic examples through classification. The educational component of this project includes undergraduate research and Summer schools on subfactors and quantum symmetry at the Ohio State University. The project will incorporate the principal investigators current learning materials and those developed for these programs into a book on subfactor theory. He will also collaborate with the STEAM Factory at Ohio State University to enhance general scientific and mathematical literacy in the community.&lt;br/&gt;&lt;br/&gt;This project has two main focuses: the representation and the classification of these new enriched quantum symmetries. Unitary fusion categories have objects whose dimensions are not necessarily integers, so representing unitary fusion categories requires von Neumann factors, whose modules have a notion of continuous dimension. In this project the principal investigator will use his previous experience in the classification of small index subfactors to classify quantum symmetries enriched in small unitary ribbon categories. This will study an enriched operator algebra theory to develop an enriched subfactor theory. The principal investigator will also develop the theory of bicommutant categories, which are a higher categorical analog of von Neumann algebras originally due to Henriques. These bicommutant categories have important connections to conformal field theory, and they are expected to be an important tool in the classification of enriched quantum symmetries.</AbstractNarration>
+    <MinAmdLetterDate>01/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1654159</AwardID>
+    <Investigator>
+      <FirstName>David</FirstName>
+      <LastName>Penneys</LastName>
+      <EmailAddress>penneys.2@osu.edu</EmailAddress>
+      <StartDate>01/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Ohio State University</Name>
+      <CityName>Columbus</CityName>
+      <ZipCode>432101016</ZipCode>
+      <PhoneNumber>6146888735</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8048</Code>
+      <Text>Division Co-Funding: CAREER</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -44,5 +44,13 @@
       <StateName>Virginia</StateName>
       <StateCode>VA</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>7976</Code>
+      <Text>EARS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

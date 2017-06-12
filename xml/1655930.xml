@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: Modernization, Health, and Development in the Global Cold War</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>15896</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Wenda Bauchspies</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This study will look at the difficulties that arise in defining appropriate medical technologies for four different types of organizations: non-profit foundations, multilateral United Nations-based organizations, bilateral aid organizations such as the United States Agency for International Development, and government contractors. This project will examine how recipients in developing countries have historically actively contested and negotiated the definition of appropriate technology. It will explore their role as designers of some of the technologies and the policies advocating for their adoption. This project will consider how technology transfer in foreign aid often affects women differently than men, specifically when looking at small-scale everyday health technologies. It will be of interest to development workers, citizens and policymakers because it could contribute to ensuring that development technologies are appropriate.&lt;br/&gt;&lt;br/&gt; From its inception, the study of development and modernization has been bound up with questions of technology. Development critics often point to the over-use of certain technologies or the unavailability of others. Yet underlying these claims is the assumption that there must be a more appropriate level of technology that would lead to better economic and social development. This study will explore what makes a given technology appropriate. It will use oral history interviews, archival materials, and participant observation at the sites of current-day health technology projects in South Africa and Zimbabwe. Through this work, this study will consider how historical precedents have and have not carried through development practice in the modern day and will inform development professionals and policymakers of the specific ways in which the use of health technologies in foreign aid work have impacted the communities they intend to serve.</AbstractNarration>
+    <MinAmdLetterDate>02/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655930</AwardID>
+    <Investigator>
+      <FirstName>Jeremy</FirstName>
+      <LastName>Greene</LastName>
+      <EmailAddress>greene@jhmi.edu</EmailAddress>
+      <StartDate>02/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Heidi</FirstName>
+      <LastName>Morefield</LastName>
+      <EmailAddress>heidi.morefield@jhmi.edu</EmailAddress>
+      <StartDate>02/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Johns Hopkins University</Name>
+      <CityName>Baltimore</CityName>
+      <ZipCode>212182608</ZipCode>
+      <PhoneNumber>4105168668</PhoneNumber>
+      <StreetAddress>3400 N CHARLES ST</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7603</Code>
+      <Text>SCIENCE, TECH &amp; SOCIETY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1353</Code>
+      <Text>Hist &amp; Philosophy of SET</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

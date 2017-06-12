@@ -15,7 +15,7 @@
         <LongName>Directorate For Geosciences</LongName>
       </Directorate>
       <Division>
-        <LongName>Division Of Polar Programs</LongName>
+        <LongName>Office of Polar Programs (OPP)</LongName>
       </Division>
     </Organization>
     <ProgramOfficer>
@@ -44,5 +44,13 @@
       <StateName>Maine</StateName>
       <StateCode>ME</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>5111</Code>
+      <Text>ANTARCTIC ORGANISMS &amp; ECOSYST</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5111</Code>
+      <Text>ANTARCTIC ORGANISMS &amp; ECOSYST</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

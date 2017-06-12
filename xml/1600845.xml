@@ -15,7 +15,7 @@
         <LongName>Direct For Biological Sciences</LongName>
       </Directorate>
       <Division>
-        <LongName>Division Of Integrative Organismal Sys</LongName>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
       </Division>
     </Organization>
     <ProgramOfficer>
@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1600845</AwardID>
     <Investigator>
-      <FirstName>Vladimir</FirstName>
-      <LastName>Pravosudov</LastName>
-      <EmailAddress>vpravosu@unr.edu</EmailAddress>
-      <StartDate>03/24/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Carrie</FirstName>
       <LastName>Branch</LastName>
       <EmailAddress>cbranch@unr.edu</EmailAddress>
       <StartDate>03/24/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Vladimir</FirstName>
+      <LastName>Pravosudov</LastName>
+      <EmailAddress>vpravosu@unr.edu</EmailAddress>
+      <StartDate>03/24/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Board of Regents, NSHE, obo University of Nevada, Reno</Name>

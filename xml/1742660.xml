@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Nanotechnology for Boosting Vaccine Efficacy and Longevity</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project lies primarily in the enhancement of vaccine safety and efficacy. The project could potentially accelerate the development of safer and more cost-effective vaccines, and help transcend the current "safety-vs-efficacy" paradigm of current vaccine additive research. Given the escalating interest in immunomodulatory biologics from pharmaceutical companies, it is anticipated that these antibodies could enter the market at an opportune time from both regulatory and process development perspectives. Additionally, as the role of antibodies is becoming more fully elucidated in the field of immune-engineering, this antibody coating technology could also enhance treatments for cancer and autoimmune diseases.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims to explore the use of host (human) derived proteins as safe vaccine additives. Antibodies coat pathogens during the body's immune response to an infection, and these proteins may be able to enhance the immunogenicity of nanoparticulate or inactivated pathogen vaccines. Antibodies immobilized on the particles' surface would remain bound. Any non-immobilized, soluble antibody in the formulation should be recognized as host protein and consequently non-immunogenic, eliminating any off-target inflammatory effects such as those caused by soluble pathogen-derived vaccine additives.</AbstractNarration>
+<MinAmdLetterDate>05/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1742660</AwardID>
+<Investigator>
+<FirstName>Julie</FirstName>
+<LastName>Champion</LastName>
+<EmailAddress>julie.champion@chbe.gatech.edu</EmailAddress>
+<StartDate>05/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

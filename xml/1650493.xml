@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:  Western wildfire Experiment for Cloud chemistry, Aerosol absorption and Nitrogen (WE-CAN)</AwardTitle>
+<AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>154433</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia A. Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This is a collaborative effort between scientists from 5 western universities whose research is focused on the study of the emissions from western U.S. wildfire plumes.  A sampling strategy will be employed using a wide range of instrumentation on the NSF/NCAR C-130 aircraft to study atmospheric chemical reactions occurring in wildfire plumes. This field campaign is being conducted in collaboration with related campaigns supported by other agencies: the FIREX campaign by NOAA and the FIREChem mission by NASA. These campaigns are planned to take place in the late summer of 2018. &lt;br/&gt;&lt;br/&gt;The Western wildfire Experiment for Cloud chemistry, Aerosol absorption and Nitrogen (WE-CAN) campaign addresses scientific questions related to fixed nitrogen, absorbing aerosols, and cloud activation and chemistry in wildfire plumes. This research focuses on the first day of plume evolution following initial emissions. The chemistry and microphysics occurring during this time impacts the partitioning of reactive nitrogen, alters cloud chemistry and nucleation, and largely determines aerosol scattering and absorption.</AbstractNarration>
+<MinAmdLetterDate>03/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1650493</AwardID>
+<Investigator>
+<FirstName>Shane</FirstName>
+<LastName>Murphy</LastName>
+<EmailAddress>smurph19@uwyo.edu</EmailAddress>
+<StartDate>03/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wyoming</Name>
+<CityName>Laramie</CityName>
+<ZipCode>820712000</ZipCode>
+<PhoneNumber>3077665320</PhoneNumber>
+<StreetAddress>1000 E. University Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<StateCode>WY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

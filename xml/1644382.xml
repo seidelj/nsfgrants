@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Ultra Fine Particle Deposition onto Vegetated Surfaces Situated on Complex Topography: From Leaf to Landscape</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>71010</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sylvia A. Edgerton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Vegetated surfaces produce and can serve as a sink for ultrafine particles (UFP) that can affect local climate and air-quality. This work examines the interaction of the forest canopy with the UFP under realistic conditions to develop methods to predict the efficacy of forests as UFP sinks. The findings inform how vegetation effects ecosystem services, climate and air quality. It also provide and opportunity to scrub pollution from rapidly growing nano-particle products in urban areas.&lt;br/&gt;&lt;br/&gt;Forests produce particles that play an important but ill-understood role in the radiative balance and composition of the atmosphere. The proposal focuses on the quantification of Ultra-fine particles (UFP) fluxes from vegetation canopies that are controlled by complex dynamical and reactive processes using first principles. Their up scaling method resolves (1) the effects of leaf morphology (2) flows within the a canopy and on landscape scales and (3) effects of large scale topography. The project will use laboratory and field experiments over a range of scales to understand fundamental questions such as (1) How does foliage size, shape and structure impact UFP collection? (2) How does the UFP deposition velocity vary within the canopy? (3) Can we reliably upscale these UFP fluxes for complex topography? This project should enable the development of next generation canopy models to treat couplings and chemical feedbacks between ecosystems and the atmosphere.</AbstractNarration>
+    <MinAmdLetterDate>03/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1644382</AwardID>
+    <Investigator>
+      <FirstName>Gabriel</FirstName>
+      <LastName>Katul</LastName>
+      <EmailAddress>gaby@duke.edu</EmailAddress>
+      <StartDate>03/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Duke University</Name>
+      <CityName>Durham</CityName>
+      <ZipCode>277054010</ZipCode>
+      <PhoneNumber>9196843030</PhoneNumber>
+      <StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1525</Code>
+      <Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1524</Code>
+      <Text>ATMOSPHERIC CHEMISTRY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>4444</Code>
+      <Text>INTERDISCIPLINARY PROPOSALS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

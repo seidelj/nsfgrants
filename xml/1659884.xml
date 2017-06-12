@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: An Integrated Diversity Undergraduate Research Experience in Functional Nanomaterials</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>284228</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Poats</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Recent advances in nanomaterials and device physics have brought about new frontiers in undergraduate education and training. To address these scientific challenges and to significantly broaden outreach to underrepresented minority and women's groups in science and engineering, the University of California-Los Angeles (UCLA) will conduct a REU Site program, An Integrated Diversity Undergraduate Research Experience in Functional NanoMaterials (FNM) in partnership with the Center for Function Accelerated nanoMaterial Engineering (FAME) at UCLA. FAME is a long-standing effective industry-academia partnership, with world-leading research and competencies in unconventional materials and new correlated physics for next-generation device technologies. The REU research projects will focus on world-class unconventional materials and device physics for next-generation um and nm-scale electronics and optoelectronics. &lt;br/&gt;  &lt;br/&gt;UCLA will host 10 REU students over a 10-week summer program where they will participate in interdisciplinary research projects on functional nanomaterials.  Mentoring and cohesive cohort-wide activities will be central tenets to this REU. FNM will implement weekly faculty-student updates and discussions, weekly REU site-wide professional development and cross-training workshops, in addition to external periodic surveys with feedback action items, and a cumulative symposium for the REU scholars.</AbstractNarration>
+<MinAmdLetterDate>05/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1659884</AwardID>
+<Investigator>
+<FirstName>Chee Wei</FirstName>
+<LastName>Wong</LastName>
+<EmailAddress>cheewei.wong@ucla.edu</EmailAddress>
+<StartDate>05/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chandrashekhar</FirstName>
+<LastName>Joshi</LastName>
+<EmailAddress>cjoshi@ucla.edu</EmailAddress>
+<StartDate>05/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1360</Code>
+<Text>HUMAN RESOURCES DEVELOPMENT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

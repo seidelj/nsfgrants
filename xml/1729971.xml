@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:   CI-P: ShapeNet: An Information-Rich 3D Model Repository for Graphics, Vision and Robotics Research</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>33000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Donlon</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to plan the development of a richly annotated repository of 3D models called ShapeNet that currently exists only in a preliminary form. ShapeNet will include 3-4 million 3D models of everyday objects in 4-5 thousand categories, in a variety of representations. Models in the ShapeNet repository will be annotated with multiple annotation types: geometric (parts, symmetries), semantic (keywords for the shape and its parts), physical (weight, size), and functional (affordances, scene context). The availability of ShapeNet data, capturing the 3D geometry of a significant fraction of object categories in the world, together with associated detailed meta-data and semantic information, will catalyze major developments in graphics, vision and robotics by providing adequate data against which new proposed techniques and methodologies for shape or scene analysis and synthesis can be vetted -- and with which machine learning algorithms can be trained. ShapeNet can be considered an encyclopedia that facilitates the creation of intelligent systems and agents capable of operating autonomously in the world --- because they can have deep knowledge of that world.&lt;br/&gt;&lt;br/&gt;While most of the ShapeNet models will be initially found on the Web, the annotations will be obtained through an active learning combination of modest human input (including crowd-sourcing), extensive algorithmic transport, and human verification. During the planning period the effort will focus on mathematical representations of the semantic knowledge associated with 3D models, as well as on a design framework for key algorithms allowing knowledge transport from one model to another. Further challenges to be addressed include the quantification of data quality issues and the specification of all the multimodal (3D, image, language) UIs and APIs needed for users to be able to exploit and search this wealth of data, or to contribute additional models and annotations to it.</AbstractNarration>
+<MinAmdLetterDate>06/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1729971</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Funkhouser</LastName>
+<EmailAddress>funk@cs.princeton.edu</EmailAddress>
+<StartDate>06/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

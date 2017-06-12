@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>AGS-PRF: Reconciling Atmospheric Temperature Observations and Understanding Climate Feedbacks</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2019</AwardExpirationDate>
+    <AwardAmount>86000</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020106</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ming Cai</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Monitoring Earth's climate requires a lengthy record of global observations. Satellite remote sensing technologies provide global coverage of observations at a high spatio-temporal resolution. Due to the relatively short life span of between 8-10 years for the individual satellites, one needs to combine the observation records of multiple satellites that were launched at different eras for monitoring and understanding climate changes. The challenging of using satellite observations for climate studies is that one needs to remove/reduce inconsistencies or biases within a satellite mission due to orbital drifting and between continuous satellite missions with the same sensors due to changes of orbital parameters, besides the need of inter-satellite calibration/validation of different sensors. One of the two main objectives of this funded project is to systematically identify and correct climate scale biases/drifts in microwave brightness temperature measurements of satellites in both troposphere and stratosphere using other observation records. The PI has developed and demonstrated the key methodologies for this funded research in his dissertation research.&lt;br/&gt;&lt;br/&gt;The funded project will also take a fresh new look at this challenging question: what causes large uncertainties in projecting climate change using climate models? The PI plans to explore if and how the strength of climate feedbacks in climate models are linked to the models? own climate states. If a linkage to the models? climate feedbacks and the models? mean states can be identified, the future global warming projection uncertainties can be reduced by using such observations to constraint models mean states. &lt;br/&gt;&lt;br/&gt;The proposed research will advance our understanding of sources based on biases in both observations and climate models which will enable better decision-making.</AbstractNarration>
+    <MinAmdLetterDate>02/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1624881</AwardID>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>Po-Chedley</LastName>
+      <EmailAddress/>
+      <StartDate>02/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Po-Chedley Stephen</Name>
+      <CityName>Seattle</CityName>
+      <ZipCode>981191411</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress/>
+      <CountryName>United States</CountryName>
+      <StateName>Washington</StateName>
+      <StateCode>WA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7137</Code>
+      <Text>POSTDOCTORAL FELLOWSHIPS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5740</Code>
+      <Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>4444</Code>
+      <Text>INTERDISCIPLINARY PROPOSALS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5740</Code>
+      <Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7137</Code>
+      <Text>POSTDOCTORAL FELLOWSHIPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

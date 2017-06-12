@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>IRES: Cross-Cutting Interdisciplinary Research and Integration of Ecology and Biocultural Conservation in the World's Southernmost Forests</AwardTitle>
+    <AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2020</AwardExpirationDate>
+    <AwardAmount>249963</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01090000</Code>
+      <Directorate>
+        <LongName>Office Of The Director</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office Of Internatl Science &amp;Engineering</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joseph Miller</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Using a novel biocultural conservation approach integrating ecological sciences, arts and environmental philosophy, 18 students over three years will participate in theoretical and field-based research conducted in the pristine UNESCO's Cape Horn Biosphere Reserve, southern Chile. Mentored by Chilean and U.S. researchers, students will actively engage in crosscutting research in the context of global change integrating bryophyte and bird ecology, impact of invasive species, and the effects of water and air quality on aquatic invertebrates along altitudinal gradients. Additional objectives are to familiarize students with decision-making processes, engage them in regional educational programs focused on social and ecological well-being. They will gain hands-on experience at the interface of environmental science, policy and education, critical for understanding today's complex environmental issues.&lt;br/&gt;&lt;br/&gt;This IRES presents a unique opportunity to engage U.S. STEM students in research, education, and conservation projects to prepare them to address complex ecological problems in a geographical area comparable to subpolar regions of North America. Students from groups typically underrepresented in STEM disciplines and in particular in conservation biology, will explore, alongside Chilean and other international researchers and students, the interfaces of environmental science, policy and education. They will share their learning and research experiences with local citizens through activities within the school and community to strengthen the understanding of the unique regional biodiversity to broaden their own perspectives of their scientific research and gain the viewpoint of the local community on their natural heritage.</AbstractNarration>
+    <MinAmdLetterDate>04/12/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/12/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658651</AwardID>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Kennedy</LastName>
+      <EmailAddress>kennedy@unt.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ricardo</FirstName>
+      <LastName>Rozzi</LastName>
+      <EmailAddress>rozzi@unt.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jaime</FirstName>
+      <LastName>Jimenez</LastName>
+      <EmailAddress>jaime.jimenez@unt.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of North Texas</Name>
+      <CityName>DENTON</CityName>
+      <ZipCode>762035017</ZipCode>
+      <PhoneNumber>9405653940</PhoneNumber>
+      <StreetAddress>1155 Union Circle #305250</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7727</Code>
+      <Text>IRES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5974</Code>
+      <Text>CHILE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5977</Code>
+      <Text>AMERICAS PROGRAM</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7639</Code>
+      <Text>IRES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

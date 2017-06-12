@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>III: Student Travel Fellowships for SIGMOD 2017</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>20000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Nan Zhang</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This National Science Foundation award funds Student Travel Fellowships for US students attending SIGMOD 2017, the 2017 ACM SIGMOD International Conference on Management of Data. The Student Fellowships helps cover the travel costs for US students, making it possible for them to attend the conference and discuss and disseminate their work. The conference also provides an opportunity for them to interact with future national and international scientific collaborators. &lt;br/&gt;&lt;br/&gt;The SIGMOD conference has a dynamic and comprehensive program for publication, education, and interaction, including research papers, tutorials, panels, industrial papers, technical demonstrations, and undergraduate research papers. The program also includes workshops that demand dedicated coverage due to their relevance to the current data management research and development, industrial exhibits, and keynote talks by leaders in academia and industry. All these activities provide a unique opportunity for students to share their knowledge, experience, and research work with internationally recognized researchers from both academia and industry.</AbstractNarration>
+    <MinAmdLetterDate>04/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1719628</AwardID>
+    <Investigator>
+      <FirstName>Sudeepa</FirstName>
+      <LastName>Roy</LastName>
+      <EmailAddress>roy.sudeepa@gmail.com</EmailAddress>
+      <StartDate>04/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jun</FirstName>
+      <LastName>Yang</LastName>
+      <EmailAddress>junyang@cs.duke.edu</EmailAddress>
+      <StartDate>04/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ashwin</FirstName>
+      <LastName>Machanavajjhala</LastName>
+      <EmailAddress>ashwin@cs.duke.edu</EmailAddress>
+      <StartDate>04/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Duke University</Name>
+      <CityName>Durham</CityName>
+      <ZipCode>277054010</ZipCode>
+      <PhoneNumber>9196843030</PhoneNumber>
+      <StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7364</Code>
+      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7364</Code>
+      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

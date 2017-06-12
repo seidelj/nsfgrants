@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>DISSERTATION RESEARCH: A phylogenomic window into trophic niche evolution in frogs</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2019</AwardExpirationDate>
+    <AwardAmount>20134</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010206</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ashley Dowling</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Across the Tree of Life, diet varies widely among species. Some species have very specialized diets that consist of only one or a few items, while other species appear to eat a broad range of food items. Why some animals have highly specialized diets and how species adapt to new food items remain unanswered questions in the field of biology. This project will use frogs as a study system to understand how and why animals become specialized on different food resources. To do so, it will develop new applications of DNA sequencing to generate data on diet and new methods for analyzing complex datasets. The new methods will be broadly applicable to any system beyond just frogs and the resultant data can provide insight into other major biodiversity questions, such as why there are more species in the tropics compared to temperate areas. This project will develop international partnerships, provide research training to undergraduate students at the University of Michigan, generate large quantities of publicly accessible data for future scientific research, and produce basic natural history data that can be used to inform conservation strategies for endangered frog species.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This research project will integrate methods from phylogenetic community ecology and macroevolution to answer questions about the evolution of diet and how trophic ecology correlates with diversification. It will utilize high-throughput sequencing to analyze stomach contents of frogs from sites across the New World. This work will generate a dataset of prey items identified to species level with information about the relative abundance of each in a frog's diet. The proposed research will use the mitochondrial genomes of the prey items to construct a phylogenetic tree of the prey to pair with a phylogeny of frogs that will be estimated with genomic data. With these two trees, measures of diet breadth and overlap that reflect the phylogenetic variability in the diet and the relative abundance of each prey type will be calculated and used to infer rates of species diversification and trophic evolution. These metrics and estimated rates will then be used to examine phylogenetic conservatism in frog diet, the effect of dietary specialization on speciation, and the correlation between rates of trophic evolution and diversification rates.</AbstractNarration>
+    <MinAmdLetterDate>03/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1701459</AwardID>
+    <Investigator>
+      <FirstName>Daniel</FirstName>
+      <LastName>Rabosky</LastName>
+      <EmailAddress>drabosky@umich.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Joanna</FirstName>
+      <LastName>Larson</LastName>
+      <EmailAddress>jglarson@umich.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Michigan Ann Arbor</Name>
+      <CityName>Ann Arbor</CityName>
+      <ZipCode>481091274</ZipCode>
+      <PhoneNumber>7347636438</PhoneNumber>
+      <StreetAddress>3003 South State St. Room 1062</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7374</Code>
+      <Text>Systematics &amp; Biodiversity Sci</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

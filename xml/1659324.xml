@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Enhancing Knowledge Integration Through Undergraduate Research -- Particle-based Functional Materials for Energy, Sustainability, and Biomedicine</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>425804</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mary Poats</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Today's advances don't happen in isolation, but instead occur at the intersections of two or more technologies. This is especially true in biomedicine, sustainability, and energy. The focus of this three year renewal REU Site: Enhancing Knowledge Integration Through Undergraduate Research-Particle-based Functional Materials for Energy, Sustainability, and Biomedicine, at the University of Pittsburgh, is comprised of computational and experimental studies of materials that fulfill a specific function either because of their particulate nature or due to the influence of particles on structure. Such systems include: material self-healing, controlled delivery of therapeutics, "smart" catalysis and particle separations. The primary target populations for this program include students from primarily undergraduate institutions and students from underrepresented groups. The broader impacts of this REU Site will lie in integrating teaching and research, and training of undergraduate students while at the same time performing diverse research that will be beneficial to society at large. &lt;br/&gt;&lt;br/&gt;The goals of this 10 week summer program are to 1) train 12 undergraduate students per year to perform independent research; 2) increase the students' ability to integrate knowledge; and 3) produce REU students that are better equipped to participate in the product design process. This is accomplished by combining the traditional research of an REU site with a tailored workshop series, a translation exercise, and an innovating "cross-training" internship.</AbstractNarration>
+    <MinAmdLetterDate>03/02/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/02/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659324</AwardID>
+    <Investigator>
+      <FirstName>Taryn</FirstName>
+      <LastName>Bayles</LastName>
+      <EmailAddress>tbayles@pitt.edu</EmailAddress>
+      <StartDate>03/02/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Joseph</FirstName>
+      <LastName>McCarthy</LastName>
+      <EmailAddress>joseph.john.mccarthy@gmail.com</EmailAddress>
+      <StartDate>03/02/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Pittsburgh</Name>
+      <CityName>Pittsburgh</CityName>
+      <ZipCode>152132303</ZipCode>
+      <PhoneNumber>4126247400</PhoneNumber>
+      <StreetAddress>University Club</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1360</Code>
+      <Text>HUMAN RESOURCES DEVELOPMENT</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>116E</Code>
+      <Text>RESEARCH EXP FOR UNDERGRADS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

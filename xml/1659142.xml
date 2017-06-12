@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CC* Network Design: Network Infrastructure to Support Computational Biology, Computational Science, and Computing Across the Curriculum</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2019</AwardExpirationDate>
+    <AwardAmount>380246</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Advanced Cyberinfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kevin L. Thompson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The research partnership of Colby College, the University of Maine, and the Jackson Laboratory are building a dedicated research network to support projects in computational biology, computational physics and astrophysics, computational chemistry, and machine learning, The network is also expanding the capabilities available to faculty in the classroom, enabling more complex and modern classroom and laboratory activities.&lt;br/&gt;&lt;br/&gt;The project provides 10Gb network connectivity to all academic buildings at Colby College to give all faculty access to state-of-the-art computing and data facilities, which is critical given the trends in all academic disciplines towards greater use of digital and computing resources. The project also creates a secure dedicated 10Gb research network connecting the Advanced Computing Group resources at the University of Maine and the large genomic databases at the Jackson Laboratory with researchers in variety of disciplines at Colby College.&lt;br/&gt;&lt;br/&gt;The new research network provides the capability for researchers at Colby to obtain fast access to gigabyte and terabyte scale data sets from Jackson Laboratory or other sources and make use of advanced computing resources at the University of Maine with a high bandwidth and high availability connection. Using this infrastructure, researchers are able to execute analyses and simulations, and professors are able to assign projects and exercises in courses, that were not previously possible with the old infrastructure.</AbstractNarration>
+    <MinAmdLetterDate>12/21/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/21/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659142</AwardID>
+    <Investigator>
+      <FirstName>Charlie</FirstName>
+      <LastName>Wray</LastName>
+      <EmailAddress>charles.wray@jax.org</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Bruce</FirstName>
+      <LastName>Segee</LastName>
+      <EmailAddress>segee@maine.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Andrea</FirstName>
+      <LastName>Tilden</LastName>
+      <EmailAddress>artilden@colby.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Bruce</FirstName>
+      <LastName>Maxwell</LastName>
+      <EmailAddress>bmaxwell@colby.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>David</FirstName>
+      <LastName>Angelini</LastName>
+      <EmailAddress>drangeli@colby.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Colby College</Name>
+      <CityName>Waterville</CityName>
+      <ZipCode>049018840</ZipCode>
+      <PhoneNumber>2078594770</PhoneNumber>
+      <StreetAddress>4000 Mayflower Hill</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maine</StateName>
+      <StateCode>ME</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8080</Code>
+      <Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

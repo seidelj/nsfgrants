@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: SusChEM: Heavy Atom Isotope Effects in Carbon Dioxide Fixation Catalysis: Fundamental Understanding and Catalyst Discovery</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>271455</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tingyu Li</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In this CAREER project funded by the Chemical Structure, Dynamics &amp; Mechanisms B Program of the Chemistry Division, Professor Alfredo Angeles-Boza of the Department of Chemistry at the University of Connecticut is developing new methods to understand how carbon dioxide can be converted to other molecules with interesting properties. Carbon dioxide is an abundant by-product of fossil fuels combustion. Its conversion into other molecules with useful properties not only contributes to the long term supply of raw materials. Many research groups are investigating ways to convert carbon dioxide into other useful molecules. Clearly, better understating of how such conversions are done may lead to more effective ways of achieving such conversions. Toward such a goal, Professor Alfredo Angeles-Boza is exploiting the differences in reactivity between forms of the same element (here, carbon and oxygen) that contain equal numbers of protons but different atomic masses for the study of materials used in such conversions. The project lies at the interface of inorganic, physical and materials chemistry, and is well suited to the education of scientists at different levels, from high school students to Ph.D. graduates. The program offers a multidisciplinary training ground for undergraduate and graduate&lt;br/&gt;students. The proposal includes year-round undergraduate research projects and is part of the departmental REU program. A goal is to decrease the attrition rate among the students initially interested in sciences by working on three key issues: (i) tutoring to decrease the barriers that limit success in the early chemistry courses; (ii) assembling a group of like-minded Hispanic students as it is generally understood that such a group of a critical mass is needed to help bring a sense of familiarity to the students environment; and (iii) mentoring student to combat the lack of science-oriented minority role models. &lt;br/&gt;&lt;br/&gt;To improve catalyst design, it is important to understand the origins of the kinetic barriers of the reactions. This project is a comprehensively illuminates the chemical mechanisms of transition metal-catalyzed carbon dioxide reduction reactions. The project combines the use of synthesis, kinetics, and heavy atom (13C and 18O) isotope effects with density functional theory calculations to address bond formation, bond cleavage, and electron transfer mechanisms during carbon dioxide activation. The project seeks to answer the following questions: (1) What values of 13C and 18O kinetic isotope effects characterize transition metal-catalyzed carbon dioxide reduction reactions? (2) Can the driving force and nucleophilicity of a catalyst influence the heavy atom isotope effects measured in carbon dioxide reduction reactions? (3) What 13C and 18O equilibrium isotope effects characterize the various transition metal- carbon dioxide binding modes? For his educational plan, Professor Angeles-Boza is developing an effective learning community for students underrepresented in science.</AbstractNarration>
+    <MinAmdLetterDate>01/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652606</AwardID>
+    <Investigator>
+      <FirstName>Alfredo</FirstName>
+      <LastName>Angeles-Boza</LastName>
+      <EmailAddress>alfredo.angeles-boza@uconn.edu</EmailAddress>
+      <StartDate>01/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Connecticut</Name>
+      <CityName>Storrs</CityName>
+      <ZipCode>062691133</ZipCode>
+      <PhoneNumber>8604863622</PhoneNumber>
+      <StreetAddress>438 Whitney Road Ext.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Connecticut</StateName>
+      <StateCode>CT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9102</Code>
+      <Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8248</Code>
+      <Text>SusChEM</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8396</Code>
+      <Text>Clean Energy Technology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8650</Code>
+      <Text>Sustainable Chemistry</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8398</Code>
+      <Text>Hydrocarbon Conversion</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

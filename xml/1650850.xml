@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: Epigenentic Signatures of Social Isolation in Free-Ranging Primates</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>24042</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rebecca Ferrell</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>There is substantial evidence that social factors can affect physiological well-being and evolutionary fitness, but the molecular mechanisms underlying these relationships are not well understood. This dissertation project examines patterns of change in gene expression as they are distributed through the social networks of free-ranging rhesus monkeys, to understand how chronic social isolation might translate into physiological effects. The project will result in comparative data on sociality and epigenetic change that can inform research on human well-being and social isolation. Findings from the project will be made accessible to the global scientific community, and the project will support undergraduate and graduate student training in STEM research, as well as public science outreach activities. &lt;br/&gt;&lt;br/&gt;Although we know much about the health and fitness benefits of investing in social bonds, we know little about the molecular mechanisms that actually translate these effects. This project will test the hypothesis that DNA methylation is a coordinated response to the social environment, by comparing methylation patterns for those in chronic social isolation and those heavily involved in a group's social life, and assessing methylation patterns in genetic pathways of known consequence for physiological well-being. The investigators will use a multi-year, multi-group behavioral data set to quantify the social networks of 80 monkeys (M. mulatta) of the Cayo Santiago colony using the tool-kit of Social Network Analysis (SNA). Reduced Representation Bisulfite Sequencing with whole blood DNA will be used to calculate genome-wide methylation levels and The investigators will also determine if there is over-representation of DNA methylation in a behaviorally- and health-implicated serotonergic system. Past and pilot research indicates that serotonergic genetics might be differentially adaptive based on variance in the social environment, and this study will provide empirical data to better understand the role of the serotonergic system signaling pathway in phenotypic plasticity.</AbstractNarration>
+    <MinAmdLetterDate>02/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650850</AwardID>
+    <Investigator>
+      <FirstName>Sam</FirstName>
+      <LastName>Larson</LastName>
+      <EmailAddress>larsonsa@sas.upenn.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>MICHAEL</FirstName>
+      <LastName>PLATT</LastName>
+      <EmailAddress>mplatt@mail.med.upenn.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Pennsylvania</Name>
+      <CityName>Philadelphia</CityName>
+      <ZipCode>191046205</ZipCode>
+      <PhoneNumber>2158987293</PhoneNumber>
+      <StreetAddress>Research Services</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7608</Code>
+      <Text>DDRI Bio Anthro</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1392</Code>
+      <Text>Biological Anthropology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

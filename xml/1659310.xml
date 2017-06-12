@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Storage: Robust Persistent Identification of Data (RPID)</AwardTitle>
+<AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2018</AwardExpirationDate>
+<AwardAmount>199047</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amy Walton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project focuses upon robust, persistent identification of data, which could greatly improve scientific discovery and reuse of datasets.    Persistent identifiers of data (PIDs) enhance scientific discovery and are an important element of research data sharing.  This project creates a testbed to evaluate new capabilities for persistent identifiers.  The initial stage of the project will include four diverse repositories containing millions of PIDs, and the second stage will allow any NSF-eligible institution to use the testbed to evaluate their own work.  The project would enhance research interoperability.&lt;br/&gt;&lt;br/&gt;Currently, there are several persistent identifier options for data (such as Digital Object Identifiers, Handles, the Archive Resource Key, and Uniform Resource Names).   The existing environment is limited by multiple solutions, weak interoperability, and procedures translating PID to data object that are inconsistent.  This project provides several new capabilities:&lt;br/&gt; - A testbed to research new capabilities and interoperability for persistent identifiers, which builds upon Indiana University cyberinfrastructure and instances on Amazon Web Services;&lt;br/&gt; - The ability to prototype and evaluate PID types, allowing study of the difficulties and advantages of relating types to one another across a distributed system; and&lt;br/&gt; - Approaches to mapping from PIDs to Canonical Text Services Uniform Resource Names (CTS URNs).  Combining URNs with Handles should allow a precise CTS URN referencing capability, with the flexible resolution of the existing widely-used Handle System.&lt;br/&gt;The goal is to standardize the results of PID resolution, allowing various PID services to interoperate at a higher level.</AbstractNarration>
+<MinAmdLetterDate>01/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>01/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1659310</AwardID>
+<Investigator>
+<FirstName>Beth</FirstName>
+<LastName>Plale</LastName>
+<EmailAddress>plale@cs.indiana.edu</EmailAddress>
+<StartDate>01/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laurence</FirstName>
+<LastName>Lannom</LastName>
+<EmailAddress>llannom@cnri.reston.va.us</EmailAddress>
+<StartDate>01/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bridget</FirstName>
+<LastName>Almas</LastName>
+<EmailAddress>bridget.almas@tufts.edu</EmailAddress>
+<StartDate>01/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7726</Code>
+<Text>DATANET</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

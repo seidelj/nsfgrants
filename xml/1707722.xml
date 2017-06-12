@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>International Conference on Analysis and Geometry on Graphs and Manifolds</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>18000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant funds the travel of participants from the United States to attend the international conference "Analysis and Geometry on Graphs and Manifolds" to be held from July 31 through August 4, 2017, at the University of Potsdam in Germany.  The focus of this conference is the interplay between analysis and the geometry of the underlying space in both the continuous and discrete settings.  A main goal is to bring experts from these two different frameworks together in order to exchange ideas and develop techniques for a unified approach.  &lt;br/&gt;&lt;br/&gt;The conference will focus on the prototypes for the discrete and continuous settings, namely, graphs and manifolds.  Both settings have an associated Laplacian and Dirichlet form which is non-local in the case of graphs and strongly local in the manifold case.  Thus, while there are many commonalities in terms of set-up and questions asked, the techniques are often quite different with no direct analogues between the two.  Recent advances in notions of curvature and intrinsic metrics in the discrete setting have lead to a better conceptual understanding of the similarities and differences between these two settings; however, a unified perspective is still incomplete.&lt;br/&gt;&lt;br/&gt;The conference website can be found at:  http://www.math.uni-potsdam.de/professuren/graphentheorie/events/conference/</AbstractNarration>
+<MinAmdLetterDate>05/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1707722</AwardID>
+<Investigator>
+<FirstName>Radoslaw</FirstName>
+<LastName>Wojciechowski</LastName>
+<EmailAddress>rwojciechowski@york.cuny.edu</EmailAddress>
+<StartDate>05/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY York College</Name>
+<CityName>Jamaica</CityName>
+<ZipCode>114510002</ZipCode>
+<PhoneNumber>7182622060</PhoneNumber>
+<StreetAddress>94-20 Guy R. Brewer Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

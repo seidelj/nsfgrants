@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Adversarial Machine Learning for Structured Prediction</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2022</AwardExpirationDate>
+    <AwardAmount>102313</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Weng-keen Wong</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Many important inductive reasoning problems, ranging from understanding text and images to enabling desirable robotic behavior, are structured prediction tasks. These tasks require the joint prediction of many related variables rather than independent predictions for individual variables. For example, an autonomous vehicle's lane change decisions may depend on its position and velocity estimates for nearby vehicles, its assessment of road conditions, its localization and identification of other potential obstacles on the roadway, and so on. The goal of this NSF CAREER award project is to develop safer and more beneficial structured prediction methods. Anticipated improvements have the potential for broader impact in application areas with critical performance measures, such as healthcare and autonomous vehicle safety. This project fosters these potentials by creating multidisciplinary curriculum in data science and releasing general purpose adversarial structured prediction tools that will expose machine learning techniques to a wider audience. Additionally, the project seeks to involve undergraduates in research activities at the University of Illinois at Chicago, which is an urban institution serving a diverse student population.&lt;br/&gt;&lt;br/&gt;The approach pursued in this project is to perform structured prediction by making worst-case assumptions when reasoning about uncertainty. The main technical objectives of this project within the proposed adversarial structured prediction formulation are to:&lt;br/&gt;(1) Provide stronger theoretical guarantees (e.g., Fisher consistency, tighter generalization bounds) than existing performance measure approximation methods;&lt;br/&gt;(2) Develop scalable algorithms for solving large adversarial structured prediction problems for a range of structures and performance measures;&lt;br/&gt;(3) Enable safer structured prediction when learning from training data that is generated from a different distribution than the testing data distribution; and &lt;br/&gt;(4) Demonstrate the developed methods on a diverse range of tasks from natural language processing, inverse optimal control, and computer vision.</AbstractNarration>
+    <MinAmdLetterDate>02/22/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/22/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652530</AwardID>
+    <Investigator>
+      <FirstName>Brian</FirstName>
+      <LastName>Ziebart</LastName>
+      <EmailAddress>bziebart@uic.edu</EmailAddress>
+      <StartDate>02/22/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Chicago</Name>
+      <CityName>Chicago</CityName>
+      <ZipCode>606124305</ZipCode>
+      <PhoneNumber>3129962862</PhoneNumber>
+      <StreetAddress>809 S MARSHFIELD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

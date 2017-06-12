@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Printed Bioelectronic Solutions for Food Allergens</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is an improvement in the safety of food products. In particular, this I-Corps project aims to identify a customer base for a novel biosensing technology using printed floating-gate transistors (FGTs). FGTs are a platform-technology that can be used to detect any analyte that can be captured using an antibody or a special sequence of single-stranded DNA, known as a DNA aptamer. The most likely direction for commercialization is gluten detection. The growing industry of gluten-free foods is valued at $2.8 billion/year. These foods are critical to people suffering from celiac disease, which affects 1% of the population. The FGT platform can also be adapted to other allergens, clinically relevant proteins, or even microorganisms. The continued advancement and commercialization of this technology thus has broader impacts in food safety, and potentially for biomedical and clinical environments.&lt;br/&gt;&lt;br/&gt;This I-Corps project is motivated by the development of a new transistor-based sensing strategy that combines printed electronic and microfluidic technologies. Existing transistor-based sensing technologies pose a difficult materials science problem, wherein the transistor material needs to have outstanding electronic properties as well as stability in the biosensing environment. In contrast, the sensor electronics in the technology under development here are decoupled from the fluidic environment through a side-gate architecture. Published research has established that this platform can detect DNA and proteins. It is thus a flexible platform for biosensing. The research in this project focuses on customer discovery to identify promising directions for commercialization. The initial customer discovery will focus on the food safety industry, with the aim of determining whether gluten detection is the optimal entry point to this market. Subsequent activities will broaden the customer discovery efforts to identify targets in the biomedical and clinical areas.</AbstractNarration>
+<MinAmdLetterDate>05/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743428</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Dorfman</LastName>
+<EmailAddress>dorfman@umn.edu</EmailAddress>
+<StartDate>05/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

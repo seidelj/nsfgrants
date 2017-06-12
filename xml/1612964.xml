@@ -44,5 +44,13 @@
       <StateName>Michigan</StateName>
       <StateCode>MI</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1219</Code>
+      <Text>SPECIAL PROGRAMS IN ASTRONOMY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

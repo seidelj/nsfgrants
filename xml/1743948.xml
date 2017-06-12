@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Resin mini-extruder for additive manufacturing</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project involves providing significantly lower operating costs, broader material variety, and faster speeds than currently available with the fused-deposition modeling (FDM) additive manufacturing process. As additive manufacturing transitions from a prototyping tool to manufacturing solution, the demand for fast, inexpensive, and dynamic 3D printing solutions will continue to grow. The Resin Mini-Extruder is capable of integrating with existing 3D printer electro-mechanical systems and processing raw plastic pellets (resin) directly into a final part, unlike existing FDM technologies that require a filament feedstock. Raw pelletized plastics are typically a tenth to hundredth the cost of comparable filaments, which allow for significantly lower costs per print. In addition, the proposed solution is capable of printing a wide variety of plastics that are very difficult to print with existing extruders, including thermoplastic elastomers and polymer composites. The Resin Mini-Extruder is capable of significantly faster production than existing FDM technologies, which will enable high turnover of design prototypes and production parts.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on prior NSF-funded research involving a design framework for biomimetic elasto-fluidic systems. The research inspired the invention of a novel technology for manufacturing elasto-fluidic actuators, which forms the basis of this I-Corps project. The technology, the Resin Mini-Extruder for additive manufacturing, is a screw-driven extrusion system, which includes a novel screw-drive extruder and dynamic control system. The intent is to implement the extruder with existing 3D printer electro-mechanical systems in a FDM additive manufacturing process. The invention of the Resin Mini-Extruder was motivated by the need to print materials that existing FDM technologies are incapable of processing, namely thermoplastic elastomers. A goal of this I-Corps project is to determine whether customers demand broader material variety from FDM and if so, which materials and composites are preferred. The I-Corps process will also be used to determine the extent at which the other technology advantages are valued among customers, including cost per print and print speed, in particular applications.</AbstractNarration>
+<MinAmdLetterDate>05/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743948</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Kim</LastName>
+<EmailAddress>cjk019@bucknell.edu</EmailAddress>
+<StartDate>05/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bucknell University</Name>
+<CityName>LEWISBURG</CityName>
+<ZipCode>178372111</ZipCode>
+<PhoneNumber>5705773855</PhoneNumber>
+<StreetAddress>One Dent Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

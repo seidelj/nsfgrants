@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>AF:Medium:Collaborative:RUI:Structure in Motion:Algorithms for Kinematic Design</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>219476</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jack Snoeyink</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>New technologies and techniques in robotics (miniature fabrication), computational biology (DNA assembly), material science (nano-technology), and even origami give rise to new questions in kinematic design ? the design of moving assemblies.  This project addresses the theory and corresponding algorithms for a number of fundamental problems in kinematic design. The goal is to design the shape of a (deformable) geometric object, along with one or a family of its deformation trajectories. In robotics, for instance, one may want to build a robot arm capable of moving its end-effector from any point in a source domain to any point in a destination domain (geometric structure design), in a way that would avoid singularities and collisions (trajectory design). In manufacturing and CAD, one is interested in designing structures that can be assembled from standard smaller parts; for example, a polyhedral surface might be assembled from rigid triangular pieces whose sides are joined together. Another example is folding a 3D origami shape from a creased piece of (flat) paper: both the 3D shape and the folding trajectories have to be designed in advance. The results are anticipated to have an impact on several scientific fields where geometric modeling and geometric simulations are being used, including mechanics, robotics, computational biology and materials science (nano-technology).  The project will engage a diverse population of students, at all levels (post-doc, graduate and undergraduate). The PIs will develop new educational materials related to emerging multidisciplinary connections.&lt;br/&gt;&lt;br/&gt;New kinematic design principles rely on the mutual dependence of mobility and structure. Recent results of the PIs on robot-arm singularities and precise positional workspace determination provide insights and techniques for an integrated approach, which coordinates structural parameters and path-planning. For innovative patterns of metamaterials with auxetic capabilities, a rigorous geometric theory of periodic frameworks will be combined with efficient algorithms  for framework generation and visualization. Advancing these methods will throw new light on conformational changes in crystals and biological self-assembly problems.</AbstractNarration>
+<MinAmdLetterDate>05/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1703765</AwardID>
+<Investigator>
+<FirstName>Ileana</FirstName>
+<LastName>Streinu</LastName>
+<EmailAddress>istreinu@smith.edu</EmailAddress>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Smith College</Name>
+<CityName>Northampton</CityName>
+<ZipCode>010636304</ZipCode>
+<PhoneNumber>4135842700</PhoneNumber>
+<StreetAddress>10 ELM STREET</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7929</Code>
+<Text>COMPUTATIONAL GEOMETRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

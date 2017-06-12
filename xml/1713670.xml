@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Surface Stress Relaxation: Science and Effects on Glass Properties</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>317994</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lynnette D. Madsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical Description: A trace amount of water vapor in the atmosphere can have large effects on mechanical strength of oxide glasses. One important step of this effect is the fast  elimination of the surface stress. This surface stress removal can cause weakening of strengthened glasses. At the same time, the phenomenon can be used to make glass mechanically stronger. The present research can clarify how a trace amount of water can cause these seemingly contradictory phenomena. Research results are discussed in the formal Glass Science course during the academic year, as well as in a "pop-up' short course that includes a broader audience beyond science and engineering during summer sessions. Students - both women and men, and both undergraduates and graduates -trained in this research become valued employees for US high technology companies. &lt;br/&gt; &lt;br/&gt;Technical Details: In comparison to bulk glass, oxide glass surfaces (of the same composition) exhibit faster stress relaxation realized by moisture in air. This phenomenon is used to make mechanically stronger glass fibers by building the surface compressive stress caused by the fast surface stress relaxation. The phenomena can also explain long-standing mysteries related to mechanical strength of glasses such as the strength degradation of ion-exchange strengthened glasses, and static fatigue limit. The phenomenon of the fast surface stress relaxation is expected to be important in all amorphous oxides with large surface areas such as thin films, nano-particles and curved surfaces, which readily interact with a trace amount of water vapor. One main objective of the present research is to clarify the scientific origin of the fast surface stress relaxation. The second objective is to optimize the fiber strengthening process and clarify various anomalous features such as anomalous oxidation kinetics of Si with small radius of curvature. During this proposed research, two graduate students and four undergraduate students per year are trained in the glass science field.</AbstractNarration>
+<MinAmdLetterDate>05/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713670</AwardID>
+<Investigator>
+<FirstName>Minoru</FirstName>
+<LastName>Tomozawa</LastName>
+<EmailAddress>tomozm@rpi.edu</EmailAddress>
+<StartDate>05/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thierry</FirstName>
+<LastName>Blanchet</LastName>
+<EmailAddress>blanct@rpi.edu</EmailAddress>
+<StartDate>05/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rensselaer Polytechnic Institute</Name>
+<CityName>Troy</CityName>
+<ZipCode>121803522</ZipCode>
+<PhoneNumber>5182766000</PhoneNumber>
+<StreetAddress>110 8TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1774</Code>
+<Text>CERAMICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

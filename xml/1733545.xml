@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: Innovation, Cities, and the Future of Work</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>24750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kwabena Gyimah-Brempong</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Artificial intelligence (AI) is expected to significantly change labor markets nationwide, with specific implications for job availability and productivity in urban areas. Urbanization, largely driven by job migration, produces cities which act as innovation centers and economic engines for society. Technological improvements increase efficiency of production, but the rate of changing labor demands resulting from technology may be too fast to maintain urbanization trends. As an example, existing work highlights the prominent role education can play in advancing or broadening career opportunities, but it is not obvious which occupations will remain or be redefined as a result of changing labor demands with the introduction of new technology. Understanding these dynamics will lead to informed policy that promotes preparedness for future labor demands.  Evidence based urban policy can maximize the efficiency gains from AI, while minimizing the detrimental effects on the well-being of the residents of cities, such as net employment loss and increased occupational polarization. &lt;br/&gt;&lt;br/&gt;This workshop, which connects researchers specializing in urban innovation, labor economics, the impacts of automation, and urban policy aims to identify new policies targeted at mitigating the detrimental labor market effects from imminent automation technology and identify prudent unanswered questions as future work that may further inform urban policy.  Answering these questions requires understanding systemic trends as identified by the urban physics literature and linking to the causal mechanisms related to automation identified by labor economists. This understanding will inform urban policy that maximizes efficiency gains from new technology while minimizing detrimental labor effects and provide a new understanding of occupational removal or redefinition resulting from technological change. This workshop aims to inform policy aimed at retraining existing workers and preparing new workers for the labor demands in the age of AI.</AbstractNarration>
+<MinAmdLetterDate>06/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1733545</AwardID>
+<Investigator>
+<FirstName>Iyad</FirstName>
+<LastName>Rahwan</LastName>
+<EmailAddress>irahwan@MIT.EDU</EmailAddress>
+<StartDate>06/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7626</Code>
+<Text>SCIENCE OF SCIENCE POLICY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7626</Code>
+<Text>SCIENCE OF SCIENCE POLICY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

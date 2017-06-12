@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Medium: Scalable Holistic Autotuning for Software Analytics</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>204307</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Software analytics distills large quantities of low-value data down to smaller sets of higher value data that shed important insights for software quality enhancement. It is essential for software effort estimation, risk management, defect prediction, project resource management and many other tasks.   Software analytics is a  complex, time-consuming process.  Recent research has tried to alleviate the issue through intelligent optimizers  that make better use of existing computational resources. The space of possible options for optimization is very large, and spans over multiple layers: all possible settings for algorithms, compilers, and execution time options. To complicate matters, there are many competing goals that could be used to guide that tuning; e.g. reducing CPU usage while increasing the predictive power of the learned model. Existing research has mainly focused on limited optimizers that explore just a few options at mostly one level while trying to improve on just one or two goals, leaving the large potential of optimizations untapped.&lt;br/&gt;&lt;br/&gt;This research proposes to advance the state of the art to holistic scalable intelligent optimization for software analytics (SHASA). SHASA tunes all levels of options for multiple optimization objectives at the same time. It achieves this ambitious goal through the development of a set of novel techniques that efficiently handle the tremendous tuning space. These techniques take advantage of the synergies between all those options and goals by exploiting relevancy filtering (to quickly dispose of unhelpful options), locality of inference (that enables faster updates to outdated tunings) and redundancy reduction (that reduces the search space for better tunings).  This research will produce algorithms and tools that are demonstrably more useful and efficient for software analytics research. Those techniques are generalizable beyond software analytics for use in computational science and engineering at large.  An important broader impact is minimizing CPU and memory usage, ultimately reducing energy consumption in data centers, as data analytics computations grown significantly in scale and become computationally more demanding.</AbstractNarration>
+<MinAmdLetterDate>05/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1703487</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Menzies</LastName>
+<EmailAddress>tim.menzies@gmail.com</EmailAddress>
+<StartDate>05/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xipeng</FirstName>
+<LastName>Shen</LastName>
+<EmailAddress>xshen5@ncsu.edu</EmailAddress>
+<StartDate>05/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

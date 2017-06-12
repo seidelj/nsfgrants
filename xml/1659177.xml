@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Accelerator and Nuclear Physics</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>86350</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03010000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Physics</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kathleen V. McCloud</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This awards supports the renewal of the Research Experiences for Undergraduates (REU) site at Old Dominion University. The site provides opportunities to eight undergraduate students each summer for ten weeks of research on topics in accelerator and nuclear physics. There are continued opportunities for two students during the academic year. The REU site is a partnership between Old Dominion University and Jefferson Laboratory; students are housed at Jefferson Lab and their research projects are located there. Both accelerator and nuclear physics are research areas with applications with important societal impact, including in the areas of medicine, homeland security, and energy production. By exposing these undergraduates to these exciting fields, the program will increase the flow of talented students into these areas, whether that be a graduate program in accelerator science, or jobs in industry.&lt;br/&gt;&lt;br/&gt;Students can choose from experimental and theoretical projects. They develop their communication skills by presenting a progress report talk in the 7th week,&lt;br/&gt;and then writing a final paper on their work and presenting a poster on the last day. There are two scientific/technical/professional development talks scheduled each week for the undergraduates, in addition to the many other regular activities at the lab. The students receive training on technical writing, and each student will be mentored to present his/her results at a conference during the academic year following their summer research.</AbstractNarration>
+    <MinAmdLetterDate>03/09/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/09/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659177</AwardID>
+    <Investigator>
+      <FirstName>Gail</FirstName>
+      <LastName>Dodge</LastName>
+      <EmailAddress>gdodge@odu.edu</EmailAddress>
+      <StartDate>03/09/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>Bueltmann</LastName>
+      <EmailAddress>sbueltma@odu.edu</EmailAddress>
+      <StartDate>03/09/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Hari</FirstName>
+      <LastName>Areti</LastName>
+      <EmailAddress>areti@jlab.org</EmailAddress>
+      <StartDate>03/09/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Old Dominion University Research Foundation</Name>
+      <CityName>Norfolk</CityName>
+      <ZipCode>235082561</ZipCode>
+      <PhoneNumber>7576834293</PhoneNumber>
+      <StreetAddress>4111 Monarch Way</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9134</Code>
+      <Text>Integrative Activities in Phys</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

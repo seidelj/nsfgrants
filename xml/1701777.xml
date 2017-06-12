@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>DISSERTATION RESEARCH: Forecasting potential effects of climate on tick-borne disease dynamics in Central Panama</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2018</AwardExpirationDate>
+    <AwardAmount>20542</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010208</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Douglas Levey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Ticks can pass on diseases to all animals they bite, including humans. These "tick-borne" diseases can be very harmful, causing illnesses, deaths, and economic losses. To prevent and reduce tick-borne diseases, it is important to understand how risk of passing on these diseases may differ among geographic regions and times of year. Because ticks live outside, their ability to survive and reproduce is likely affected by rainfall and temperature. In climates where ticks survive well, there may be a higher chance of them carrying and passing on diseases. This research will help determine how climate affects the risk of tick-borne disease by examining tick activity and survival across different climates and times of year. The study sites are close to each other yet have very different climates, providing a rare opportunity to examine the effects of climate on ticks and tick-borne diseases. Results of this project can be used to develop public health programs aimed at preventing or reducing the spread of tick-borne disease.&lt;br/&gt;&lt;br/&gt;This research will evaluate how abiotic and biotic variables affect spatial and temporal variation in the abundance of ticks and prevalence of tick-borne pathogens across central Panama. To fully characterize the effects of climate on tick-borne disease risk, researchers will integrate field sampling of ticks and wildlife hosts with pathogen analysis and climate modeling. They will then construct a comprehensive model to quantify the abiotic and biotic pathways by which climate variables determine the frequency of tick-borne diseases across the region. The model will inform regional policy and public health decisions and will provide a broad framework upon which other climate and tick-borne disease studies may be built.</AbstractNarration>
+    <MinAmdLetterDate>03/30/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/30/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1701777</AwardID>
+    <Investigator>
+      <FirstName>Brian</FirstName>
+      <LastName>Allan</LastName>
+      <EmailAddress>ballan@illinois.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Erin</FirstName>
+      <LastName>Welsh</LastName>
+      <EmailAddress>ewelsh2@illinois.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Urbana-Champaign</Name>
+      <CityName>CHAMPAIGN</CityName>
+      <ZipCode>618207473</ZipCode>
+      <PhoneNumber>2173332187</PhoneNumber>
+      <StreetAddress>SUITE A</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1182</Code>
+      <Text>POP &amp; COMMUNITY ECOL PROG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

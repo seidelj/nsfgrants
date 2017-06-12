@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>IRES: Expanding the Reach of the International Pulsar Timing Array</AwardTitle>
+    <AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2020</AwardExpirationDate>
+    <AwardAmount>249450</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01090000</Code>
+      <Directorate>
+        <LongName>Office Of The Director</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office Of Internatl Science &amp;Engineering</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mangala Sharma</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The International Pulsar Timing Array (IPTA) is a collaboration of astronomers who will use radio telescopes to detect and study gravitational waves, a fundamental prediction of Einstein's theory of general relativity. Gravitational waves (GW) from the merger of two stellar-mass black holes were recently detected by the Laser Interferometer Gravitational Wave Observatory (LIGO). The IPTA collaboration will detect GW from vastly larger and heavier black holes at the cores of merging galaxies, via the precise timing of cosmic clocks called radio pulsars. The astronomers anticipate that low-frequency GW will be detected within the next five years, ushering in a revolution in our understanding of the growth and structure of our Universe. U.S. undergraduate and graduate students will be fully involved in all aspects of the project. They will collaborate with prominent scientists in different countries, play a critical role in one of the potentially transformative scientific discoveries of the century, and develop global competencies to succeed in today's interconnected world.&lt;br/&gt;&lt;br/&gt;The project will monitor a number of radio pulsars using a network of large radio telescopes distributed across the globe, and search for small perturbations in the arrival times of pulsar pulses due to low-frequency gravitational waves. The IPTA currently consists of consortia from Australia, Europe, and North America, using a total of seven telescopes. In order to further increase the sensitivity of the IPTA so that it can detect and, ultimately, characterize the GW universe, the collaboration will be expanded to include researchers and telescopes in China, India, and South Africa. This expansion offers the opportunity for U.S. students to gain experience in the development of pulsar timing programs in these varied countries. The IRES award will fund two undergraduate students and one graduate student to travel to all three countries for 10-week international research experiences. The undergraduate students will be drawn from a range of U.S. institutions, including minority serving institutions and those in rural areas. They will work closely with both a U.S. graduate student also trained in IPTA research and their foreign mentor and students in the host country. The students will be trained in astrophysics, big data analysis, and radio instrumentation, preparing them for a range of careers.</AbstractNarration>
+    <MinAmdLetterDate>04/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658632</AwardID>
+    <Investigator>
+      <FirstName>Dan</FirstName>
+      <LastName>Stinebring</LastName>
+      <EmailAddress>Dan.Stinebring@oberlin.edu</EmailAddress>
+      <StartDate>04/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Fredrick</FirstName>
+      <LastName>Jenet</LastName>
+      <EmailAddress>merlyn@phys.utb.edu</EmailAddress>
+      <StartDate>04/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Maura</FirstName>
+      <LastName>McLaughlin</LastName>
+      <EmailAddress>Maura.McLaughlin@mail.wvu.edu</EmailAddress>
+      <StartDate>04/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Scott</FirstName>
+      <LastName>Ransom</LastName>
+      <EmailAddress>sransom@nrao.edu</EmailAddress>
+      <StartDate>04/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Shamibrata</FirstName>
+      <LastName>Chatterjee</LastName>
+      <EmailAddress>shami@astro.cornell.edu</EmailAddress>
+      <StartDate>04/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>West Virginia University Research Corporation</Name>
+      <CityName>Morgantown</CityName>
+      <ZipCode>265066845</ZipCode>
+      <PhoneNumber>3042933998</PhoneNumber>
+      <StreetAddress>P.O. Box 6845</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>West Virginia</StateName>
+      <StateCode>WV</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7727</Code>
+      <Text>IRES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1066</Code>
+      <Text>SOUTH AFRICA</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>6194</Code>
+      <Text>INDIA</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7727</Code>
+      <Text>IRES/DDEP</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9200</Code>
+      <Text>US CHINA COOP IN BASIC SCIENCE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

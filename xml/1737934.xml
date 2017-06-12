@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER:SC2: Collaborative Intelligent Radio Network Design For Cooperative Spectrum Sharing</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>100000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The proliferation of wireless devices and services presents an acute demand on the radio frequency spectrum. The so-called spectrum scarcity has led to numerous initiatives spearheaded by the Federal Communications Commission to advance how frequency spectrum should be allocated and utilized. This project is a complex, inter-disciplinary effort to address effective sharing of spectrum. The effort involves both graduate and undergraduate students from a diverse background; participation in this project will provide the students a unique and invaluable experience and will help cultivate their long term interest in STEM related areas.&lt;br/&gt;&lt;br/&gt;The project will develop a robust and run-time adaptive radio network with built-in machine intelligence that is able to co-exist with other unknown radio networks in the absence of any spectrum pre-planning. A thoroughly tested software radio network will be developed to ensure that various high level learning and networking functions will be integrated seamlessly to attain the design objectives. Three computing platforms (CPU Server, FPGA, and GPU) will be utilized in an optimal manner by taking into account various computing bandwidth and latency constraints to accommodate the various computing/learning functions. The collective development of the collaboration protocol will help identify the most critical information necessary in facilitating efficient spectrum usage among independent users.</AbstractNarration>
+    <MinAmdLetterDate>03/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1737934</AwardID>
+    <Investigator>
+      <FirstName>Biao</FirstName>
+      <LastName>Chen</LastName>
+      <EmailAddress>bichen@syr.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Syracuse University</Name>
+      <CityName>SYRACUSE</CityName>
+      <ZipCode>132441200</ZipCode>
+      <PhoneNumber>3154432807</PhoneNumber>
+      <StreetAddress>OFFICE OF SPONSORED PROGRAMS</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1640</Code>
+      <Text>INFORMATION TECHNOLOGY RESEARC</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

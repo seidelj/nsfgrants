@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps Sites - Type I: Texas A&amp;M University I-Corps Site (TAMU-iSite)</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2022</AwardExpirationDate>
+    <AwardAmount>100000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Anita J. LaSalle</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This is a project from Texas A &amp; M University (TAMU) to create TAMU-iSite, an I-Corps program that immerses engineering student teams in commercialization training from development of ideas to startups.&lt;br/&gt;&lt;br/&gt;NSF Innovation Corps (I-Corps) Sites are NSF-funded entities established at universities whose purpose is to nurture and support multiple, local teams to transition their technology concepts into the marketplace. Sites provide infrastructure, advice, resources, networking opportunities, training and modest funding to enable groups to transition their work into the marketplace or into becoming I-Corps Team applicants. &lt;br/&gt;&lt;br/&gt;The proposal describes an institution and I-Corps Site implementation plan that are likely to result in a successful Site. There appears to be good outreach to the community and a likelihood that a Site will contribute to a change of culture at this institution. The personnel are strong and experienced with the Lean Launch Pad curriculum. There are specific plans for recruiting women and minorities. A plan for sustainability was also included and the assessment plan was detailed. The proposal presented a strong implementation plan, a solid management team, excellent external partners, significant innovation resources and facilities on campus, and a student body, comprised mostly of engineers, that will contribute a pipeline of teams and projects to the Site.</AbstractNarration>
+    <MinAmdLetterDate>02/01/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/01/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1644743</AwardID>
+    <Investigator>
+      <FirstName>Rodney</FirstName>
+      <LastName>Boehm</LastName>
+      <EmailAddress>rodneyboehm@tamu.edu</EmailAddress>
+      <StartDate>02/01/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Magdalini</FirstName>
+      <LastName>Lagoudas</LastName>
+      <EmailAddress>m-lagoudas@tamu.edu</EmailAddress>
+      <StartDate>02/01/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas A&amp;M University Main Campus</Name>
+      <CityName>College Station</CityName>
+      <ZipCode>778454375</ZipCode>
+      <PhoneNumber>9798626777</PhoneNumber>
+      <StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8046</Code>
+      <Text>I-Corps - Sites</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

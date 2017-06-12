@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Nuclear Microphysics of Neutron Stars, Core-Collapse Supernovae, and Compact Object Mergers</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardAmount>80418</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The structure, phases, and dynamics of nuclear matter are key to answering fundamental questions at the interface of nuclear physics and astrophysics: How are the stable elements heavier than iron synthesized in extreme astrophysical environments? What is the composition and nature of the densest observable matter in the universe? What are the most promising astronomical sources of detectable gravitational waves? This project will integrate research and education while developing new theoretical models of the ultra-hot and ultra-dense matter encountered in core-collapse supernovae, proto-neutron stars, and binary neutron star mergers. The project will also provide theoretical support for the experimental program at rare-isotope beam facilities. As such, this project will also provide new opportunities to disseminate  exciting forefront research developments in nuclear physics and nuclear astrophysics to high school students in the Texas Brazos Valley through an integrated lecture and competition series. &lt;br/&gt;&lt;br/&gt;A major long-term goal is to understand how the strong nuclear force shapes the structure, evolution, and observable emissions of high-energy astrophysical systems, such as core-collapse supernovae, neutron stars, and binary neutron star mergers. To support this effort, this project aims to develop the first microscopic models of hot and dense neutron-rich matter based on the low-energy effective field theory of strong interactions. The nuclear thermodynamic equation of state, governing neutron star structure as well as the hydrodynamic evolution of supernovae and neutron star mergers, will be calculated across the range of conditions needed for numerical simulations. This will enable more reliable predictions for the electromagnetic, neutrino, and gravitational wave signals from supernovae and neutron star mergers. The nucleon single-particle potential in nuclear matter will be computed and parametrized in a form suitable for nucleosynthesis studies of neutrino-driven winds in supernovae and the tidally ejected matter in neutron star mergers. Finally, quantum Monte Carlo simulations of dilute neutron matter at finite temperature will be carried out in order to investigate the effect of neutron pairing on transport and cooling phenomena in proto-neutron stars.</AbstractNarration>
+<MinAmdLetterDate>05/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1652199</AwardID>
+<Investigator>
+<FirstName>Jeremy</FirstName>
+<LastName>Holt</LastName>
+<EmailAddress>holt@physics.tamu.edu</EmailAddress>
+<StartDate>05/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M University Main Campus</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1285</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

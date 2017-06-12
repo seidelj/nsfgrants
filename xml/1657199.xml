@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: SaTC: ExHume: An Empirical Approach to Program Analysis for Security</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2019</AwardExpirationDate>
+    <AwardAmount>174952</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sol J. Greenspan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>As software controls an ever-increasing number of devices that perform critical tasks, their security and robustness are of paramount importance to society. In addition, malicious software and "greyware" that violates the privacy of users causes billions in damage every year and erodes public confidence in computing systems. However, despite decades of work on techniques to analyze software with automated techniques, it remains a difficult and largely manual task. The ExHume project aims to address this issue by collecting detailed information about both normal and erroneous behaviors of a large corpus of real-world software. This behavioral information will then be used to inform a new generation of empirically guided program analysis techniques, with the goal of significantly improving software vulnerability discovery and reverse engineering techniques.&lt;br/&gt;&lt;br/&gt;The technical approach taken by ExHume is to capture in vivo traces of software using low-overhead record and replay techniques. This corpus, which will consist of normal and buggy executions of benign and malicious software, can then be mined to extract a wide variety of detailed, dynamic information about the runtime properties of the software under test. Specifically, the data gathered will be used to create (a) new heuristics for guiding program exploration, which can be used for symbolic execution and guided fuzz testing; (b) methods for identifying previously unseen implementations of known functionality and algorithms; and (c) a set of domain-specific dynamic taint analyses that can aid in explicating the features used by image processing and machine learning algorithms.</AbstractNarration>
+    <MinAmdLetterDate>01/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657199</AwardID>
+    <Investigator>
+      <FirstName>Brendan</FirstName>
+      <LastName>Dolan-Gavitt</LastName>
+      <EmailAddress>bd52@nyu.edu</EmailAddress>
+      <StartDate>01/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>New York University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100121019</ZipCode>
+      <PhoneNumber>2129982121</PhoneNumber>
+      <StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>025Z</Code>
+      <Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

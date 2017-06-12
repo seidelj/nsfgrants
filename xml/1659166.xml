@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Nanobioengineering</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>340042</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08080000</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Biological Infrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Amanda Simcox</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This REU Site award to Alabama State University (ASU), located in Montgomery, AL, will support the training of 10 students for 9 weeks during the summers of 2017- 2019. The focus of the program is to provide research experiences in the multidisciplinary field of Nanobioengineering. Faculty from the Departments of Biological Sciences, Biomedical Engineering, Chemistry, Physical Sciences and related disciplines will serve as mentors for the program. The student projects will be organized around the themes of nanobiotechnology and bioengineering, and some will involve analysis of microbial growth and immune responses. Students will participate in a full-time closely mentored lab research project together with seminars, field trips, and workshops on professional development, responsible conduct of research, career opportunities in academia and industry, and the graduate school application process. Students will present their findings as a poster at the research symposium during the final week of the program. Students will also submit a scientific report of their project in a manuscript format at the end of the program. Housing, a stipend, meal and travel allowances will be provided. Students from underrepresented minority groups and from colleges with limited research opportunities are especially encouraged to apply. Students will be selected based on their interest in research, academic record, recommendation letters from their home institutions and phone interviews with potential faculty mentors. &lt;br/&gt;&lt;br/&gt;It is anticipated that a total of 30 students, primarily from underrepresented minority groups and from schools with limited research opportunities, will be trained in the program. Students will learn how research is conducted, and many will present the results of their work at scientific conferences. The training is aimed for students to pursue a higher degree in STEM fields. The scientific advances made through the proposed projects will also significantly enhance knowledge in the proposed field.&lt;br/&gt;&lt;br/&gt;A common web-based assessment tool used by all REU Site programs funded by the Division of Biological Infrastructure will be used to determine the effectiveness of the training program. An internal evaluation tool will also be used for assessing the program success. Students will be tracked after the program in order to determine their career paths. Students will be asked to respond to an automatic email sent via the NSF reporting system. More information about the program is available by visiting http://www.alasu.edu/academics/research--centers/reu-program/index.aspx, or by contacting the PI (Dr. Komal Vig at komalvig@alasu.edu) or the co-PI (Dr. Shree R. Singh at ssingh@alasu.edu). This REU site is co-funded by the Division of Biological Infrastructure (Directorate for Biological Sciences), and the Division of Engineering Education &amp; Centers (Directorate for Engineering).</AbstractNarration>
+    <MinAmdLetterDate>03/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659166</AwardID>
+    <Investigator>
+      <FirstName>Shree</FirstName>
+      <LastName>Singh</LastName>
+      <EmailAddress>ssingh@alasu.edu</EmailAddress>
+      <StartDate>03/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Komal</FirstName>
+      <LastName>Vig</LastName>
+      <EmailAddress>komalvig@gmail.com</EmailAddress>
+      <StartDate>03/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Alabama State University</Name>
+      <CityName>Montgomery</CityName>
+      <ZipCode>361010271</ZipCode>
+      <PhoneNumber>3342294742</PhoneNumber>
+      <StreetAddress>915 South Jackson Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Alabama</StateName>
+      <StateCode>AL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1594</Code>
+      <Text>HIST BLACK COLLEGES AND UNIV</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1360</Code>
+      <Text>HUMAN RESOURCES DEVELOPMENT</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>116E</Code>
+      <Text>RESEARCH EXP FOR UNDERGRADS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

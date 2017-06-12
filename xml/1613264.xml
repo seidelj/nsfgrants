@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>Role of Fronto-Parietal Cortex in Delay Discounting</AwardTitle>
     <AwardEffectiveDate>08/24/2015</AwardEffectiveDate>
-    <AwardExpirationDate>05/31/2016</AwardExpirationDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
     <AwardAmount>205310</AwardAmount>
     <AwardInstrument>
       <Value>Continuing grant</Value>
@@ -44,5 +44,29 @@
       <StateName>Arizona</StateName>
       <StateCode>AZ</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1699</Code>
+      <Text>COGNEURO</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1321</Code>
+      <Text>DECISION RISK &amp; MANAGEMENT SCI</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1699</Code>
+      <Text>COGNEURO</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1321</Code>
+      <Text>DECISION RISK &amp; MANAGEMENT SCI</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7956</Code>
+      <Text>SBE Interdisciplinary Research</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8605</Code>
+      <Text>SBE 2020</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

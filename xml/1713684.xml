@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Mapping Proton Quark Structure using Petabytes of COMPASS Data</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>38892</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>More than 99% of the mass of visible matter in the universe is nuclear matter. Protons and neutrons are the building blocks of atomic nuclei. Nuclear fusion processes at the core of our sun are the source of the vast energy flow that sustains life on earth. Fission of nuclei provides about 20% of the electricity consumed in the United States and propels many naval vessels. The knowledge of nuclear forces and instrumentation developed for the atomic nuclei and its constituents have important applications, such as x-ray and magnetic resonance imaging (MRI), radiation therapies for cancer treatment, materials science, x-ray lithography, as well as propulsion and power generation.&lt;br/&gt;&lt;br/&gt;This project will use Blue Waters to understand the strong force governing the fundamental structure of nuclear matter in nature.  Specifically, the project will use Blue Waters to analyze data from the COMPASS experiment at CERN.  The COMPASS experiment at CERN uses high-energy particle beams to explore the quark substructure of the proton. The experiment constitutes a powerful microscope that can look deep inside the proton. A precise measurement of the dynamics and arrangement of quarks inside the proton will provide experimental input needed to improve the quantitative understanding of the strong nuclear force. COMPASS produces enormous amounts of experimental and Monte-Carlo simulation data.  With its massive data storage capabilities and petascale processing capabilities, Blue Waters will turn the COMPASS data into unique images of quark position and motion inside the proton and will thus refine the theory, Quantum Chromo Dynamics, describing the strong nuclear force.</AbstractNarration>
+<MinAmdLetterDate>04/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713684</AwardID>
+<Investigator>
+<FirstName>Matthias</FirstName>
+<LastName>Perdekamp</LastName>
+<EmailAddress>mgp@illinois.edu</EmailAddress>
+<StartDate>04/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Naomi</FirstName>
+<LastName>Makins</LastName>
+<EmailAddress>makins@uiuc.edu</EmailAddress>
+<StartDate>04/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Caroline</FirstName>
+<LastName>Riedl</LastName>
+<EmailAddress>criedl@illinois.edu</EmailAddress>
+<StartDate>04/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>PETASCALE - TRACK 1</Text>
+</ProgramElement>
+</Award>
+</rootTag>

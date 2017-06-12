@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RUI: Mechanisms That Link Conflict and Sleep Over Time</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2020</AwardExpirationDate>
+    <AwardAmount>350636</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Breckler</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Among adults who co-sleep with a partner, the quality of their sleep is strongly related to the amount of conflict in their relationships. People report worse sleep after conflict and more conflict after poor sleep. However, little is known about why poor sleep and interpersonal conflict are related or what factors might increase or decrease the connection. Both interpersonal conflict and poor sleep are associated with chronic stress, reduced immune function, shorter lifespan, and lower life satisfaction. They also impose staggering social and economic burdens, costing the nation hundreds of billions of dollars every year and negatively impacting the development of children exposed to parental conflict. Understanding what drives links between conflict and sleep is necessary to reduce these tolls. This research will examine behavioral, emotional, cognitive, and psychophysiological pathways through which sleep and conflict are related over time. It will also test whether poor self-regulation (difficulty adjusting behavior, emotions, and thoughts in response to environmental demands) renders some people more vulnerable to negative links between conflict and sleep. The discovery of how specific relationship processes can promote sleep quality and how aspects of sleep quality can reduce conflict severity and frequency could inform intervention strategies for therapists working with distressed couples. The discovery that self-regulation (a resource that can be strengthened through training and practice) can protect people from these negative effects would advance intervention and prevention, ultimately impacting public health, the economy, and child development.&lt;br/&gt;&lt;br/&gt;This multi-method longitudinal study of 200 couples will investigate how observed and self-reported features of conflict are associated with fluctuations in objective and subjective measures of sleep quality over time. The study has three objectives. The first is to determine how partners' behavioral, emotional, and physiological stress responses to a lab-based conflict are associated with their own and each other's typical sleep quality. The second is to determine the direction of links between specific features of conflict and sleep over time, using cross-lagged analysis of dyadic daily diary and sleep assessments collected at home over 14 days. The third objective is to determine whether developmentally organized markers of self-regulation (attachment, heart rate variability, rumination, and post-conflict recovery behavior) moderate links between conflict and sleep over time. This study will contribute to science by advancing a theoretically-derived model of individual differences in interpersonal stress reactivity and regulation that affect behavior in two critically important social contexts. Additionally, this project will provide training for the next generation of STEM scientists by engaging diverse undergraduate women in mentored research and discovery.</AbstractNarration>
+    <MinAmdLetterDate>01/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650694</AwardID>
+    <Investigator>
+      <FirstName>Katherine</FirstName>
+      <LastName>Haydon</LastName>
+      <EmailAddress>kchaydon@mtholyoke.edu</EmailAddress>
+      <StartDate>01/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Mount Holyoke College</Name>
+      <CityName>South Hadley</CityName>
+      <ZipCode>010756456</ZipCode>
+      <PhoneNumber>4135382000</PhoneNumber>
+      <StreetAddress>50 College Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1332</Code>
+      <Text>SOCIAL PSYCHOLOGY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1332</Code>
+      <Text>SOCIAL PSYCHOLOGY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9229</Code>
+      <Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

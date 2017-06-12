@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>High-dimensional Clustering: Theory and Methods</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>163733</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The past two decades have witnessed an explosion in the scale and complexity of data sets that arise in science and engineering. Broadly, clustering methods which discover latent structure in data are our primary tool for navigating, exploring and visualizing massive datasets. These methods have been widely and successfully applied in phylogeny, medicine, psychiatry, archaeology and anthropology, phytosociology, economics and several other fields. Despite its ubiquity, the widespread scientific adoption of clustering methods have been hindered by the lack of flexible clustering methods for high-dimensional datasets and by the dearth of meaningful inferential guarantees in clustering problems. Accordingly, the goal of this research is to develop new and effective methods for clustering complex data-sets, and to further develop an inferential grounding -- which will in turn lead to actionable conclusions -- for these methods. This research will lead to the development of new clustering methods, as well as to a deeper understanding of the fundamental limitations of methods aimed at uncovering latent structure in data. &lt;br/&gt;&lt;br/&gt;The research component of this project consists of four aims designed to address related aspects of this high-level goal: (a) analyze and develop new clustering methods for high-dimensional datasets, with a particular focus on practically useful methods like mixture-model based clustering, and minimum volume clustering; (b) develop novel methods for inference in the context of clustering, motivated by scientific applications where it is important not only to cluster the data but also to clearly characterize the sampling variability of the discovered clusters; (c) develop fundamental lower bounds for high-dimensional clustering (d) develop novel methods for clustering functional data with inferential guarantees. These research components are closely coupled with concrete educational initiatives, including the development and broad dissemination of publicly-available software for high-dimensional clustering; tutorials and workshops at Machine Learning conferences and fostering further interactions between the Departments of Statistics and Machine Learning at Carnegie Mellon.</AbstractNarration>
+<MinAmdLetterDate>05/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713003</AwardID>
+<Investigator>
+<FirstName>Larry</FirstName>
+<LastName>Wasserman</LastName>
+<EmailAddress>larry@stat.cmu.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alessandro</FirstName>
+<LastName>Rinaldo</LastName>
+<EmailAddress>arinaldo@cmu.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sivaraman</FirstName>
+<LastName>Balakrishnan</LastName>
+<EmailAddress>sbalakri@andrew.cmu.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122689527</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

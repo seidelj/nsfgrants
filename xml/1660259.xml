@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  A Novel Heat Dissipation Product for Chip Testing and Internet of Things</AwardTitle>
+<AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>746975</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project comes from addressing the thermal challenges brought about by the significant increase in transistor density that semiconductors have experienced over the past few decades. This trend has enabled many advancements ranging from high performance servers to Internet of Things devices. Still, with every advance in chip technology, the difficulty of chip cooling continues to increase. Three major thermal interface material (TIM) market segments exist: polymer composites, metallic materials and phase-change materials. Commercial carbon nanotubes (CNTs) will create a fourth market segment that will supplant existing TIMs, initially in the chip testing market and eventually extending into servers, high performance computing and Internet of Things devices. CNT researchers and small businesses have made little progress towards a commercial TIM product. Among other factors, this failure is driven by poor positioning in the crowded low-cost TIM space, which is currently dominated by thermal greases and pads. Progress towards a viable solution lies in the strategic alignment of product features with industry pain points. This Phase II SBIR aims to develop a means to scale the ability to produce CNT based TIMs as well as to further improve their performance.&lt;br/&gt;&lt;br/&gt;The technical objectives of this SBIR Phase II project are to: 1) scale up of the CNT TIM manufacturing process to achieve a production capacity of 200,000 sq. in of product annually and to 2) enhance the conductivity of the CNT array by a factor of 3x or more to facilitate entry into the TIM1 and TIM2 market. This project will ultimately develop processes that will translate into achieving production scale CNT based thermal interface materials for the first time in the world. Scale up will be achieved through a combination of physical vapor deposition and chemical vapor deposition processes developed on tools designed specifically for CNT production. In Phase I of this research effort, two commercial products aimed at the semiconductor chip testing market were developed and validated through collaboration with leading chip manufacturers. In addition to the chip testing market segment, in Phase II products will be developed for entry into the TIM1 and Internet of Things markets.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>04/06/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/06/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1660259</AwardID>
+<Investigator>
+<FirstName>Craig</FirstName>
+<LastName>Green</LastName>
+<EmailAddress>craig@carbice.com</EmailAddress>
+<StartDate>04/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CARBICE CORPORATION</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320001</ZipCode>
+<PhoneNumber>4048071861</PhoneNumber>
+<StreetAddress>311 Ferst Drive NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>093E</Code>
+<Text>System fab/packaging &amp; assembly</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1084</Code>
+<Text>NANOTECHNOLOGY INITIATIVE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+</Award>
+</rootTag>

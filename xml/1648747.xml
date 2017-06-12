@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>STTR Phase I: A Low Cost Robotics kit for Elementary Education</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Glenn H. Larsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project intends to design and develop a programmable electronics and robotics kit that catalyzes the learning of computational thinking, engineering design, and making at a price point that will be affordable for large numbers of elementary school classrooms throughout the nation. Such an educational robotics kit benefits society by positively influencing science, technology, engineering, and math (STEM) education and, thereby, encouraging students from diverse backgrounds to enter the technology innovation workplace, spurring innovation and entrepreneurism in the nation. This project aims to create an authentic, affordable STEM curricular tool by combining low-cost technologies already in the marketplace, but in a novel manner. These technologies include wireless communications systems now available on low-cost touch tablets, as well as powerful, inexpensive microprocessors that enable small, custom hardware kits to communicate with such tablets. By combining the sensing of environmental values such as light and sound levels with motors, lights and other output expressions, this kit will provide a chance for students to think at the systems level. They will create interactive sculptural robots and connect systems thinking to programming, engineering, and design, all of which are lifelong skills for the STEM-focused future. &lt;br/&gt;&lt;br/&gt;This project combines wireless communication, tablets, and embedded microcontroller technologies to converge on an interactive system for specifying the behavior of a responsive, environmental-sensing robot and to then lock the resulting behavior onboard the microcontroller, creating a programmable, responsive robot system for education at the lowest cost possible. Robot-to-robot communication is effected using mesh networking, enabling sensor sharing and synchronization of action across robots in a classroom. A newly designed drag-and-drop programming interface on the tablet screen demonstrates the basic concepts of feedback control systems and directly programs the embedded microprocessor. Uploading of the feedback control system specification directly to the microprocessor, in turn, enables autonomous operation of the robot without the need for a dedicated programming tablet at all times. This project makes use of participatory design, interaction design, hardware architecture, firmware programming, and supply chain analysis to arrive at a usable system that can be produced in large quantities as appropriate for national and international demand. The participatory design portion of this work will include direct, collaborative pilots deployed in local schools; professional development opportunities for participating teachers; and formative evaluations of hands-on robotic activities, with prototypes, in classrooms. This project will lead directly to the commercialization of a bridge product that combines features of the final educational robotics kit with a working tablet app suitable for immediate use in elementary school classrooms.</AbstractNarration>
+    <MinAmdLetterDate>12/08/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/08/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648747</AwardID>
+    <Investigator>
+      <FirstName>Tom</FirstName>
+      <LastName>Lauwers</LastName>
+      <EmailAddress>tlauwers@birdbraintechnologies.com</EmailAddress>
+      <StartDate>12/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Illah Reza</FirstName>
+      <LastName>Nourbakhsh</LastName>
+      <EmailAddress>illah@cs.cmu.edu</EmailAddress>
+      <StartDate>12/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>BirdBrain Technologies</Name>
+      <CityName>Pittsburgh</CityName>
+      <ZipCode>152195971</ZipCode>
+      <PhoneNumber>8883716161</PhoneNumber>
+      <StreetAddress>544 Miltenberger St</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1505</Code>
+      <Text>STTR PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8031</Code>
+      <Text>Education Products</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8039</Code>
+      <Text>Information, Communication &amp; Computing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9180</Code>
+      <Text>PUBLIC SCIENCE LITERACY EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

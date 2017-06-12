@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Remotely Operated Vehicles for Engaging and Retaining STEM Students</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2020</AwardExpirationDate>
+    <AwardAmount>103433</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>R. Corby Hovis</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This is a collaborative project involving Brevard College (Award DUE-1607952) and the Pisgah Astronomical Research Institute (PARI) (Award DUE-1607926). The investigators will redesign "gateway" STEM courses at a small liberal arts college around active-learning exercises and laboratories using technology, and will examine the effects on the engagement and retention of students in STEM. Specifically, over 400 students per year in introductory science classes at Brevard College will control remote rovers with sensors in the exploration of a 200-acre plot in the Pisgah National Forest in western North Carolina. Using an array of sensors, such as cameras, thermometers, soil moisture detectors, and a drill for geology studies, the remote-controlled robots will probe the forested environment. A submersible to study the water quality of stream-fed ponds is also part of the robot group. Students will experience the excitement of becoming researchers and guiding the rovers to explore. They will learn about flora and fauna and develop 21st-century technology skills needed in the STEM workforce. By using broadly applicable, state-of-the-art technology, the project will engage and inspire undergraduate students and faculty, while creating a set of institutional tools to share with peer institutions and informal science education centers.&lt;br/&gt;&lt;br/&gt;The integration of engaging, experiential approaches using the rovers will create a rich learning environment in which students will see the connection between scientific theory and practice. Freshmen-level courses that will be affected include chemistry, biology, environmental science, geology, and physics. All students graduating from the college take at least one of the science courses plus one mathematics course. Instructors will incorporate the robotic manipulation, collection, and interpretation of data into these courses, especially the laboratory portions. By examining the rates of engagement and retention of students in STEM before and after the robotic technology has been implemented, the investigators will advance knowledge about the impact of innovative technology on undergraduate STEM education. The forest habitat data that will be gathered will also be valuable. A habitat map of a section of a national forest, which can be a longitudinal study, is important for environmental scientists and ecologists. Components of the project will be replicated and used at other colleges and science education centers, beginning with PARI, where educators plan to expand the project to summer and after-school programs, especially SciGirls and the North Carolina Girls STEM Collaborative.</AbstractNarration>
+    <MinAmdLetterDate>04/05/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/05/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1607926</AwardID>
+    <Investigator>
+      <FirstName>Christi</FirstName>
+      <LastName>Whitworth</LastName>
+      <EmailAddress>cwhitworth@pari.edu</EmailAddress>
+      <StartDate>04/05/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Pisgah Astronomical Research Institute</Name>
+      <CityName>Rosman</CityName>
+      <ZipCode>287729614</ZipCode>
+      <PhoneNumber>8288625554</PhoneNumber>
+      <StreetAddress>One PARI Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1998</Code>
+      <Text>IUSE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8209</Code>
+      <Text>Improv Undergrad STEM Ed(IUSE)</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8244</Code>
+      <Text>EHR CL Opportunities (NSF 14-302)</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

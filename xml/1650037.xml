@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Coupled Model Biases in the Sea Surface Temperature (SST) Distribution of the Global Tropics and their Influence on Climate Change Projections</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>231888</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ming Cai</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Through their influence on the distribution of tropical rainfall and the atmospheric teleconnections, spatial variations in tropical sea surface temperatures play a major role in shaping regional climates both within, and outside, the tropics. How current sea surface temperature patterns may change under increasing greenhouse gas warming has therefore important implications for regional climate projections around the globe. A fundamental challenge in making such projections, however, is that the latest generation of coupled climate struggles to capture important aspects of the observed distribution of sea surface temperatures, confounding the interpretation of regional climate projections made by such models. The overall goal of the project is to evaluate the influence of coupled model tropical SST biases on regional climate and climate change projections around the globe. Through the use of atmosphere-only model simulations with specified sea surface temperatures, this project will first investigate how systematic biases in coupled model simulations of tropical sea surface temperatures in the current climate impact regional climates around the globe. The PIs will compare the regional climate response to the biases in tropical sea surface temperatures with the regional climate projections made by various coupled climate models to assess to what extent the regional climate projection uncertainties can be directly attributed to the regional climate responses to these biases. To further substantiate the attribution by the atmosphere-only model, they will build a hybrid coupled model with prescribed oceanic fluxes in order to minimize the coupled model biases. The hybrid model will then be used to produce future climate scenarios under increasing greenhouse gas concentrations. The future regional climate projections made by the hybrid model will be evaluated against their counterparts produced by fully coupled models. These two sets of innovative numerical experiments would help to narrow down the regional climate projection uncertainties.&lt;br/&gt;&lt;br/&gt;In addition to building on our physical understanding of the climate system, key findings from this project will be highly relevant to organizations working on climate change impacts and adaptation. Several of the project collaborators are already engaged with organizations focused on climate change impacts on agriculture and food security. Elements of this project will also be used in the professional development of both current and pre-service high school science teachers across Maine through an established partnership with the University of Maine. Summer workshops run by project collaborators will be held with current earth science teachers to foster the use of project-related climate data in their classrooms. The PIs will do periodic follow-up meetings with these teachers to evaluate the overall effectiveness of the effort.</AbstractNarration>
+    <MinAmdLetterDate>03/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650037</AwardID>
+    <Investigator>
+      <FirstName>Richard</FirstName>
+      <LastName>Seager</LastName>
+      <EmailAddress>seager@ldeo.columbia.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Alessandra</FirstName>
+      <LastName>Giannini</LastName>
+      <EmailAddress>alesall@iri.columbia.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Bradfield</FirstName>
+      <LastName>Lyon</LastName>
+      <EmailAddress>bradfield.lyon@maine.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Nicolas</FirstName>
+      <LastName>Vigaud</LastName>
+      <EmailAddress>vigaud@iri.columbia.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Maine</Name>
+      <CityName>ORONO</CityName>
+      <ZipCode>044695717</ZipCode>
+      <PhoneNumber>2075811484</PhoneNumber>
+      <StreetAddress>5717 Corbett Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maine</StateName>
+      <StateCode>ME</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5740</Code>
+      <Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>4444</Code>
+      <Text>INTERDISCIPLINARY PROPOSALS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

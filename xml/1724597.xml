@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>NSF INSTRUMENTATION CY17 DEERING</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>39680</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>James S. Holik</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The principal impact of the present proposal is under Merit Review Criterion 2 of the Proposal Guidelines (NSF 13-589). It provides infrastructure support for scientists to use the vessel and its shared-use instrumentation in support of their NSF-funded oceanographic research projects (which individually undergo separate review by the relevant research program of NSF). The acquisition, maintenance and operation of shared-use instrumentation allows NSF-funded researchers from any US university or lab access to working, calibrated instruments for their research, reducing the cost of that research, and expanding the base of potential researchers.&lt;br/&gt;&lt;br/&gt;The Program recommends an award of for the purchase of the following: &lt;br/&gt;&lt;br/&gt;1) Network Server Upgrade/Replacement $6,500 &lt;br/&gt;2) NI VB-8034 (2 ea) $16,000 &lt;br/&gt;3) Fiber Optic Training, Supplies and Tester $12,000 &lt;br/&gt; Indirect Costs $5,180 &lt;br/&gt; Total $39,680</AbstractNarration>
+    <MinAmdLetterDate>04/05/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/05/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1724597</AwardID>
+    <Investigator>
+      <FirstName>Timothy</FirstName>
+      <LastName>Deering</LastName>
+      <EmailAddress>deering@udel.edu</EmailAddress>
+      <StartDate>04/05/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Delaware</Name>
+      <CityName>Newark</CityName>
+      <ZipCode>197162553</ZipCode>
+      <PhoneNumber>3028312136</PhoneNumber>
+      <StreetAddress>210 Hullihen Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Delaware</StateName>
+      <StateCode>DE</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5413</Code>
+      <Text>OCEANOGRAPHIC INSTRUMENTATION</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A Model Study of the Impact of Volcanic Eruptions on Polar Ozone Depletion.</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>456881</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter J. Milne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Gases and aerosols from volcanic eruptions cause changes in the ozone chemistry and energy balance of the upper atmosphere. This study will investigate the how past volcanic eruptions have influenced polar stratospheric clouds and stratospheric ozone.  The project will also compare the effect of smaller, sustained volcanic emissions to the effect of large eruptions.  A computer model of atmospheric chemistry, dynamics, and radiation will be used to examine the impact of past eruptions and how they may slow down the recovery of the ozone hole. This study will also improve the models by including more realistic polar stratospheric clouds, which will improve our ability to model atmospheric chemistry, and ultimately, climate.&lt;br/&gt;&lt;br/&gt;This study will investigate the evolution of polar stratospheric clouds (PSCs) influenced by volcanic eruptions and the resulting effect on ozone and related chemicals. Volcanic aerosols are observed to change stratospheric radiative flux and chemistry. Ozonesonde and satellite observations show enhanced ozone loss in the mid-latitudes and over Antarctica following the Mr. Pinaubo, Cerro Hudson, and El Chichon erruptions. An unanswered question is how small erruptions which occur every year but only inject a small fraction of the sulfur as a large eruption impact the ozone loss in polar regions and slow down the recovery of the ozone hole. This study will use the NSF/NCAR Whole Atmosphere Community Climate Model (WACCM) with detailed ozone chemistry and the Community Aerosol and Radiation Model for Atmospheres (CARMA) with an interactive sulfate and PSCs model. The model experiments will inject SO2 into the atmosphere in different amounts, times, and locations to simulate the volcanic eruptions observed during the past few decades. The results will be compared to satellite and in-situ observations from microphysical scales to global scales. Another goal of the project is to improve the NSF/NCAR WACCM model by treating PSCs more realistically. The project is relevant to understanding how the deposition of sulfates and dust in ice cores relates to the locations and strength of eruptions, to understanding year-to-year variations in Antarctic ozone loss driven by small eruptions, and to understanding the effect of PSCs and volcanic aerosols on the Antarctic energy balance.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>05/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1643701</AwardID>
+<Investigator>
+<FirstName>Owen</FirstName>
+<LastName>Toon</LastName>
+<EmailAddress>toon@lasp.colorado.edu</EmailAddress>
+<StartDate>05/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yunqian</FirstName>
+<LastName>Zhu</LastName>
+<EmailAddress>yunqian.zhu@colorado.edu</EmailAddress>
+<StartDate>05/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5113</Code>
+<Text>ANTARCTIC OCEAN &amp; ATMOSPH SCI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5113</Code>
+<Text>ANTARCTIC OCEAN &amp; ATMOSPH SCI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

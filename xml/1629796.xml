@@ -27,12 +27,12 @@
     <ARRAAmount/>
     <AwardID>1629796</AwardID>
     <Investigator>
-      <FirstName>Sean</FirstName>
-      <LastName>Higgins</LastName>
-      <EmailAddress>sean@ldeo.columbia.edu</EmailAddress>
+      <FirstName>David</FirstName>
+      <LastName>Goldberg</LastName>
+      <EmailAddress>goldberg@ldeo.columbia.edu</EmailAddress>
       <StartDate>03/09/2016</StartDate>
       <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
       <FirstName>Paul</FirstName>
@@ -43,12 +43,12 @@
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>David</FirstName>
-      <LastName>Goldberg</LastName>
-      <EmailAddress>goldberg@ldeo.columbia.edu</EmailAddress>
+      <FirstName>Sean</FirstName>
+      <LastName>Higgins</LastName>
+      <EmailAddress>sean@ldeo.columbia.edu</EmailAddress>
       <StartDate>03/09/2016</StartDate>
       <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
+      <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Columbia University</Name>

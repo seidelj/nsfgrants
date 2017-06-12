@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Petascale Simulations of Merging Black Holes and Neutron Stars</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>5016</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The primary scientific objective of the research is to use Blue Waters to theoretically underpin and improve the ability of NSF's LIGO experiment to extract from observed gravitational waves the rich information that the waves carry.  More general objectives are to contribute to our understanding of relativistic astrophysical systems, and contribute to the development of numerical methods and computer codes capable of carrying out robust and accurate simulations of highly dynamical curved space-time.  This program will also serve as a training ground for young physicists and astrophysicists. It will teach them a wide variety of computational techniques. The research will include developing a next-generation supercomputer code called SpECTRE that will use radically new techniques. SpECTRE will be released as open source and simulation outputs will be made publicly available. This will enable other research to benefit from the work. Group members will vigorously pursue a wide range of activities that reach out to the broader scientific community and the general public.&lt;br/&gt;&lt;br/&gt;The research will consist of two components. In the first, the researchers will run numerical simulations on Blue Waters using the Spectral Einstein Code (SpEC) to produce gravitational waveforms for binary black holes. These waveforms, which take weeks to months to produce, will then be used to develop a numerical surrogate model that can evaluate a single waveform in milliseconds while retaining the accuracy of full numerical simulations; this surrogate model will be suitable for direct use in LIGO data analysis.  The second component will develop, and run on Blue Waters, the new code SpECTRE for numerical relativity simulations with matter and radiation.  SpECTRE uses Discontinuous Galerkin finite element methods. It is designed for high accuracy and high scalability on current and future supercomputers by following a novel task-based parallelization paradigm.  SpECTRE's initial version already implements general-relativistic magnetohydrodynamics.  It will be upgraded to handle the dynamical spacetimes of neutron star-neutron star and black hole-neutron star mergers and stellar collapse, including nuclear-theory based hot equations of state and neutrinos.  SpECTRE will be applied to compute high-accuracy ultra-long neutron star inspiral simulations on Blue Waters to predict gravitational wave signals and help LIGO constrain the nuclear equation of state.</AbstractNarration>
+<MinAmdLetterDate>04/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713694</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Scheel</LastName>
+<EmailAddress>scheel@tapir.caltech.edu</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250600</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E California Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>PETASCALE - TRACK 1</Text>
+</ProgramElement>
+</Award>
+</rootTag>

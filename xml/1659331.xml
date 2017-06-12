@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CC*Networking Infrastructure: Scalable Secure Science DMZ for Academic and Clinical Research at the University of Virginia</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2018</AwardExpirationDate>
+    <AwardAmount>432383</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Advanced Cyberinfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kevin L. Thompson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Performance of campus networking infrastructure at the University of Virginia (UVA) is encumbered by conventional security approaches such as multi-layered firewalls. Recognizing that the research community needs increasingly higher performance yet more secure-data storage and transfer capabilities, UVA is implementing an ambitious upgrade to its research computing infrastructure. The scalable secure science DMZ project enables more efficient, flexible and secure data transfer between multiple end nodes across campus through two primary activities. First, a multi-stage network infrastructure is built to enable rapid data transfer and efficient data sharing for both secure data as well as for conventional non-secure data. Second, the existing data transport infrastructure is enhanced through a combination of network upgrades, network configuration changes, and the implementation of Science DMZ functionality. &lt;br/&gt;&lt;br/&gt;The new research network infrastructure leverages Virtual Local Area Networks (VLANS) to isolate data paths as needed for security and/or other purposes. Demands for especially high bandwidth are accommodated through a network of Distributed Data Transfer Nodes (DDTNs) that are positioned near the data sources. As a result, researchers are able to quickly and efficiently transfer and share data from instrument to central storage; from workstation to central computing facilities; from central facilities to external computing centers; and from one institution to another, with assurance of appropriate security based on the sensitivity classification of the data. The new research-oriented network configuration significantly enhances research capacity by eliminating bottlenecks at high-throughput laboratories and centers, the health-sciences sites, and conventional academic research units located throughout campus.</AbstractNarration>
+    <MinAmdLetterDate>12/21/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/21/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659331</AwardID>
+    <Investigator>
+      <FirstName>Ronald</FirstName>
+      <LastName>Hutchins</LastName>
+      <EmailAddress>rrh8z@virginia.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Virginia Main Campus</Name>
+      <CityName>CHARLOTTESVILLE</CityName>
+      <ZipCode>229044195</ZipCode>
+      <PhoneNumber>4349244270</PhoneNumber>
+      <StreetAddress>P.O. BOX 400195</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8080</Code>
+      <Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Lineage-driven Fault Injection</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>190000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Yan Solihin</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>With each passing day, Americans become more dependent on large-scale, cloud-based distributed systems for everything from commerce (e.g., shopping for groceries) to transportation (e.g. booking a cab) to communication (e.g., making plans via a chat app) to storage (e.g., archiving baby photos). These systems operate at a scale where machine crashes and network interruptions are the rule rather than the exception. Unfortunately, writing fault tolerant software -- programs that attempt to detect and mitigate such failures, in order to prevent data loss or system unavailability -- remains an art form. Application programmers, data analysts and mobile developers have few tools to help them implement, maintain and debug fault-tolerant systems. To address these needs, we introduce lineage-driven fault injection (LDFI), a novel bug-finding methodology that uses data lineage to reason backwards (from effects to causes) about combinations of faults could prevented desired system outcomes. If the project succeeds, it will improve the overall availability and resiliency of these increasingly critical systems. It will also provide a new class of tools for the distributed programmers who must build and maintain cloud systems, identifying and explaining bugs at all stages of the development process, from specification to post-production. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;LDFI combines ideas from database theory, distributed systems, formal methods, optimization, reliability and data visualization. By exercising only the faults that it can prove could have affected a known good outcome, LDFI can identify invariant violations and user-visible failures using orders of magnitude fewer executions than conventional techniques such as random or heuristic fault injection. LDFI generalizes the notion of data lineage beyond data management , using it to explain large-scale system outcomes and to identify redundant computations that can mask faults. Given a model of a system's built-in redundancy, LDFI can use state-of-the-art solvers to generate hypotheses to exercise via fault injection infrastructures. This project engenders new research in areas such as query explanations, low-overhead system tracing, and how-to analysis.</AbstractNarration>
+    <MinAmdLetterDate>01/25/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/25/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652368</AwardID>
+    <Investigator>
+      <FirstName>Peter</FirstName>
+      <LastName>Alvaro</LastName>
+      <EmailAddress>palvaro@ucsc.edu</EmailAddress>
+      <StartDate>01/25/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Santa Cruz</Name>
+      <CityName>Santa Cruz</CityName>
+      <ZipCode>950641077</ZipCode>
+      <PhoneNumber>8314595278</PhoneNumber>
+      <StreetAddress>1156 High Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7354</Code>
+      <Text>COMPUTER SYSTEMS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

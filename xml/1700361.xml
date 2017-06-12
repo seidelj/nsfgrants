@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Computability on Cones</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>208585</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Computability theory is an area within mathematical logic that studies the complexity of countable mathematical objects. Some mathematical objects, constructions, and proofs are more complicated than others. Logicians have developed various ways of measuring this complexity. When one is in interested in countable objects -- with which a large portion of mathematics is concerned -- the tools to measure these complexities come from computability theory. The objective of this project is to draw connections between complexity issues and structural issues to improve understanding of what shapes and forms complexity can take. &lt;br/&gt;&lt;br/&gt;This project is part of an ongoing study of the structure that emerges when considering computability theoretic properties on a cone, that is, properties that hold relative to almost every oracle with respect to Martin's measure. In particular, the project will explore the connections between Vaught's conjecture and computability theory, and the generalizations of the uniform Martin's conjecture. A few years ago, connections between computable structure theory and Vaught's conjecture emerged unexpectedly. While it may take many years to see Vaught's conjecture settled, this project pursues a particular aspect: its connections to computability theory.</AbstractNarration>
+<MinAmdLetterDate>05/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700361</AwardID>
+<Investigator>
+<FirstName>Antonio</FirstName>
+<LastName>Montalban</LastName>
+<EmailAddress>antonio@math.berkeley.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1268</Code>
+<Text>FOUNDATIONS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

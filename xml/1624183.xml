@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1624183</AwardID>
     <Investigator>
-      <FirstName>Brandon</FirstName>
-      <LastName>Boor</LastName>
-      <EmailAddress>bboor@purdue.edu</EmailAddress>
-      <StartDate>03/15/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Andrew</FirstName>
       <LastName>Whelton</LastName>
       <EmailAddress>awhelton@purdue.edu</EmailAddress>
       <StartDate>03/15/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Brandon</FirstName>
+      <LastName>Boor</LastName>
+      <EmailAddress>bboor@purdue.edu</EmailAddress>
+      <StartDate>03/15/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Purdue University</Name>

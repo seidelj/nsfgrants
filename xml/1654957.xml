@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>IRES: Water-Soil-Vegetation Dynamic Interrelationships in a Typical Eurasian Steppe Watershed in China</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>250000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01090000</Code>
+      <Directorate>
+        <LongName>Office Of The Director</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office Of Internatl Science &amp;Engineering</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maija M Kukla</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Through this International Research Experiences for Students (IRES) project, U.S. students will conduct research needed to develop solutions to sustainable grassland agriculture. Students will experience life in the Inner Mongolian steppe of China. U.S. students will work with counterparts and mentors from the Inner Mongolia Agricultural University to study how hydrology, topsoil erosion, and vegetation degradation are interrelated in typical steppe grasslands. This project will prepare students for future STEM careers. &lt;br/&gt;&lt;br/&gt;The aim of the project is to give U.S. students an interdisciplinary and international research opportunity focused on the physical mechanisms affecting grasslands. Three cohorts will spend twelve weeks working with their Chinese peers and mentors. The teams of undergraduate, master's, and doctoral students will develop new algorithms and enhance an existing model. Students will do field and laboratory work to develop new modules on topsoil and primary production. The research activities will include simulating a range of scenarios to identify threshold conditions that trigger grassland degradation. The U.S. students will build peer-mentoring skills and learn about the unique culture and traditions of Inner Mongolia.</AbstractNarration>
+    <MinAmdLetterDate>03/16/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/16/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1654957</AwardID>
+    <Investigator>
+      <FirstName>Xixi</FirstName>
+      <LastName>Wang</LastName>
+      <EmailAddress>x4wang@odu.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Old Dominion University Research Foundation</Name>
+      <CityName>Norfolk</CityName>
+      <ZipCode>235082561</ZipCode>
+      <PhoneNumber>7576834293</PhoneNumber>
+      <StreetAddress>4111 Monarch Way</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7727</Code>
+      <Text>IRES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5978</Code>
+      <Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7727</Code>
+      <Text>IRES/DDEP</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9200</Code>
+      <Text>US CHINA COOP IN BASIC SCIENCE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Controls on Deep Water Ventilation and Red Sea Overflow Water Formation in the Red Sea</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>284786</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040200</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Candace O. Major</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Deep ocean circulation is a fundamental component of the global climate system, controlling the distribution of heat and rainfall around the world. However, little is known about the long-term variability of deepwater formation, or whether it has changed as a function of regional climate patterns. This project will generate new records of deep ocean ventilation and surface climate conditions in the northen Red Sea, where modern deepwater formation can serve as a model for larger-scale global processes. These records will provide insight into the temporal variability and mechanisms controlling Red Sea deepwater formation over the past few centuries. A better understanding of long-term variability in ocean circulation is critical to understanding how the climate system operates, especially for identifying patterns of natural background variability and quantifying the contribution of anthropogenic forcing to recent global changes. Increasing our knowledge of how such ocean variability may be linked to large-scale climate oscillations may enable us to predict future changes and potentially mitigate their impacts on society. This project will provide training and mentorship for one Ph.D. student as well as undergraduate and high school guest students, and will support outreach through multimedia presentations of coral reef science to K-12 classrooms and the general public several times each year.&lt;br/&gt;&lt;br/&gt;This research will reconstruct variability in deep ocean mixing and Red Sea Outflow Water (RSOW) formation in the northern Red Sea using surface ocean radiocarbon (14C) measurements. Massive corals preserve records of ocean chemistry in their skeletons, and long coral drill cores from the far northern Red Sea are ideally situated to monitor surface 14C in this important location. 14C will be measured on homogenized samples from individual growth layers in an existing annually-banded Porites lobata/lutea coral drill core extending back nearly 230 years. Low 14C values will reflect the strength of the cyclonic gyre circulation in the northern Red Sea, and provide a record of deep ventilation and the mixing of 14C-depleted deep water into the surface layer. The time series will be analyzed to identify patterns of temporal variability and will be compared to indices of large-scale regional or hemispheric climate (such as the Arctic Oscillation) to test the hypothesis that such climate patterns control the formation of RSOW, through the influence on cyclonic gyre circulation and deep mixing, which "preconditions" surface waters for densification and sinking prior to extreme winter atmospheric cooling.</AbstractNarration>
+    <MinAmdLetterDate>04/05/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/05/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657191</AwardID>
+    <Investigator>
+      <FirstName>Konrad</FirstName>
+      <LastName>Hughen</LastName>
+      <EmailAddress>khughen@whoi.edu</EmailAddress>
+      <StartDate>04/05/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Woods Hole Oceanographic Institution</Name>
+      <CityName>WOODS HOLE</CityName>
+      <ZipCode>025431041</ZipCode>
+      <PhoneNumber>5082893542</PhoneNumber>
+      <StreetAddress>183 OYSTER POND ROAD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1620</Code>
+      <Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1304</Code>
+      <Text>EARTH SYSTEM HISTORY</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

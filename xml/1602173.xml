@@ -52,5 +52,13 @@
       <StateName>New York</StateName>
       <StateCode>NY</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

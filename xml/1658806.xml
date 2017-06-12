@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Imaging in the Physical Sciences</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>267467</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03010000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Physics</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kathleen V. McCloud</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award supports the Research Experience for Undergraduates (REU) site in Imaging Science at the Rochester Institute of Technology. "To see with a keener eye" has been a human obsession for centuries. This science seeks to see more clearly what was far away or what was very small or even hidden - to magnify and sharpen. The reliance of modern scientific and engineering research on imaging techniques has created the need for a new generation of scientists who not only design and develop the optical systems, electronics, sensors, image processing algorithms, and integrated imaging systems of the future, but who apply those systems to answer fundamental questions about ourselves and our universe, monitor and protect our environment, help keep our nation secure, and improve our health. This site will support eight undergraduates per summer in research projects that address some of these important questions.&lt;br/&gt;&lt;br/&gt;The REU students will spend ten weeks during the summer participating in research in one of a variety of topics that comprise the field of imaging science, including physics, optics, radiation sources, mathematics of statistics and topology, chemistry of materials, sensor engineering, computer science, data mining, brain science of vision, and the psychophysics of perception. By the end of the program, every student will have: practiced a one minute "elevator pitch"; given a formal presentation about their work; and prepared and presented a conference style poster and a four page paper.</AbstractNarration>
+    <MinAmdLetterDate>03/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658806</AwardID>
+    <Investigator>
+      <FirstName>Roger</FirstName>
+      <LastName>Dube</LastName>
+      <EmailAddress>dube@cis.rit.edu</EmailAddress>
+      <StartDate>03/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Gabriel</FirstName>
+      <LastName>Diaz</LastName>
+      <EmailAddress>gabriel.diaz@rit.edu</EmailAddress>
+      <StartDate>03/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Rochester Institute of Tech</Name>
+      <CityName>ROCHESTER</CityName>
+      <ZipCode>146235603</ZipCode>
+      <PhoneNumber>5854757987</PhoneNumber>
+      <StreetAddress>1 LOMB MEMORIAL DR</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1253</Code>
+      <Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>9134</Code>
+      <Text>Integrative Activities in Phys</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

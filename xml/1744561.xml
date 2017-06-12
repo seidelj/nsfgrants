@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2017  Aspiring CPS PIs Meeting</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>88158</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ralph Wachter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Cyber-physical systems (CPS) are engineered systems that are built from, and depend upon, the seamless integration of computational algorithms and physical components.  The CPS program seeks to develop the core system science needed to design and build complex CPS that people can use and with which they can interact, including some that must exhibit high-confidence or provably safe behaviors. The program also aims to foster a research community committed to advancing research and education in CPS and to transitioning applicable CPS science and technology into engineering practice.  &lt;br/&gt;&lt;br/&gt;This, the second Workshop for Aspiring PIs in Cyber-Physical Systems, is an invitation-only event, to be held 3-4 August 2017 at the National Science Foundation (NSF). The workshop will offer early-career researchers with interests in the NSF cyber-physical systems program an opportunity to engage program directors from NSF and participating agencies about the NSF CPS program, and to discuss with recent NSF CPS principal investigators about their experience in writing CPS proposals and serving on NSF CPS proposal review panels.  Anticipated benefits to CPS community include the introduction of more diverse ideas and more members. The talks and panel discussions will be captured via video, in order to disseminate the information from the workshop to a larger audience.</AbstractNarration>
+<MinAmdLetterDate>06/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744561</AwardID>
+<Investigator>
+<FirstName>Frankie</FirstName>
+<LastName>King</LastName>
+<EmailAddress>frankie.king@isis.vanderbilt.edu</EmailAddress>
+<StartDate>06/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>Nashville</CityName>
+<ZipCode>372350002</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>Sponsored Programs Administratio</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

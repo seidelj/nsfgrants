@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Importance of bacterial phenotypic plasticity relative to changes in community composition as responses to disturbance.</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susanna Remold</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Bacteria are responsible for some of the most basic and essential of ecosystem functions, from providing nutrients to crop plants, to generating oxygen in the air we breathe. Bacterial species form complex communities composed of many different functional types, and which types are present and how they behave and interact affects the overall functions produced by the ecosystem. Disturbances in ecosystems caused by things like antibiotic treatments, fertilizer runoff, or invasion by non-native species, can change the species composition of bacterial communities. Even if many of the same bacterial species remain after a disturbance, the functions they provide can be altered by the disturbance, and result in a large impact on the entire ecosystem. This project will examine how lake bacterial communities respond to a widespread disturbance impacting many waterbodies in North American - invasion by zebra and quagga mussels. These non-native mussel species have spread to lakes and rivers in over 30 US states and have had major impacts on the food webs and fisheries. Results from this project will help us understand how the ecosystem effects of these mussels is manifest through their impact on the bacterial communities. The results will help us predict how other types of disturbance will change the ecosystem services provided by the bacteria. The project will also integrate incoming undergraduate students interested in science and technology fields through an intensive summer program focused on increasing retention and diversity in science and technology majors.&lt;br/&gt;&lt;br/&gt;The objective of this project is to study the responses of bacterial communities to short and medium term biological disturbance, in order to separate the roles of bacterial physiological responses caused by phenotypic plasticity from ecological responses mediated by shifts in bacterial community composition. This work will explore effects of dreissenid mussel invasion in freshwater lakes on resident bacterial communities, and will employ a combination of laboratory and field experiments. The project relies on a recently developed method based on flow cytometric analysis of bacterial diversity that, when combined with sequencing based analyses, will allow the researchers to distinguish phenotypic from genotypic responses of bacterial communities. It holds promise to establish direct connections between high-throughput measurements of in situ plasticity of microbial phenotypic traits and the underlying molecular mechanism (changes in gene expression). This will not only allow the researchers to address the project's central biological question, but will also establish a new approach to tackling the importance of phenotypic plasticity more broadly in the field of microbial ecology, which currently is primarily focused on community composition shifts.</AbstractNarration>
+<MinAmdLetterDate>04/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737680</AwardID>
+<Investigator>
+<FirstName>Vincent</FirstName>
+<LastName>Denef</LastName>
+<EmailAddress>vdenef@umich.edu</EmailAddress>
+<StartDate>04/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

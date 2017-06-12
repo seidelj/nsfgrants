@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>AGS-PRF: Inferring Predictability and Dynamics of Atlantic Multidecadal Climate Variability from Marine and Terrestrial Paleoclimate Records</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>86000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020108</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David J. Verardo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Under the aegis of the AGS-PRF (post-doctoral research fellowship) solicitation, the researcher aims to leverage recent compilations of proxy records to characterize North Atlantic multidecadal variability (AMV) in sea surface temperatures (SSTs). The research explores the potential of publicly available paleoclimate records in combination with a proven modeling technique to address fundamental hypotheses about the time scales, stationarity, anthropogenic influence, and coupled atmosphere-ocean dynamics of Atlantic multidecadal variability (AMV).  The project is guided by three specific science questions and one far-reaching and overarching question.  &lt;br/&gt;&lt;br/&gt;Specifically, the research seeks to address: &lt;br/&gt;&lt;br/&gt;Question 1) What is the predictability of AMV as evidenced by proxy records? Do proxy records suggest mechanisms of coupled atmosphere-ocean AMV?&lt;br/&gt;&lt;br/&gt;Strategy: To diagnose AMV predictability from proxy records, linear inverse models (LIMs) will be derived from marine and terrestrial proxy records. Eigenvalue analyses will be used to show dominant dynamical patterns and time scales, and marine and terrestrial records will be used to identify coupled climate variability. Forecast skill of models derived from proxies, modern observations, and output from the Last Millennium Reanalysis Project will be compared.&lt;br/&gt;&lt;br/&gt;Question 2) Is AMV changing through time, and can we attribute changes to anthropogenic forcing? &lt;br/&gt;&lt;br/&gt;Strategy: Non-stationarities in AMV, including possible responses to anthropogenic influences, will be explored using statistical tests, wavelet analyses, and eigenvector analyses of LIMs constructed over temporal subsets of the data.&lt;br/&gt;&lt;br/&gt;Question 3) How do AMV dynamics in general circulation models and proxy-derived models differ? &lt;br/&gt;&lt;br/&gt;Strategy: Dynamics responsible for AMV in proxy-derived LIMs will be compared to mechanisms for AMV in controls runs from the CMIP5 (Coupled Model Intercomparison Project, Phase 5) archives.&lt;br/&gt;&lt;br/&gt;The research is guided by the far-reaching and overarching question: &lt;br/&gt;&lt;br/&gt;Question: Do paleoclimate proxy data have power to constrain AMV dynamics and predictability? &lt;br/&gt;&lt;br/&gt;Strategy: If "yes," then proxy records can be directly useful in making and evaluating modern climate forecasts, and the techniques can be expanded to other regions and time scales. If "no," then the research will help quantify the limits of proxy records to assess predictability of modern climate, and identify new record types and sites to improve dynamical understanding and predictive power.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The broader impacts involve supporting an early career scientist, helping reduce the uncertainty in North Atlantic multidecadal variability (AMV) in sea surface temperatures (SSTs), and providing materials to local STEM high school teachers and students through projects already in existence at the university.</AbstractNarration>
+<MinAmdLetterDate>04/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1624777</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Amrhein</LastName>
+<EmailAddress/>
+<StartDate>04/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Amrhein                 Daniel         E</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1530</Code>
+<Text>PALEOCLIMATE PROGRAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1530</Code>
+<Text>PALEOCLIMATE PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

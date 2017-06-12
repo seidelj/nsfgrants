@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Investigating the Fundamental Relationship Between Conductivity and Molecular Motion of Polymerized Ionic Liquids</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Today's energy demands have led to an increased need for improved electrolytic materials in applications such as lithium ion batteries and dye-sensitized solar cells. Traditionally, liquid electrolytes have been used in these applications due to their high ionic conductivity, but because they are prone to flammability and leakage, it is crucial to find a safer alternative. This study will investigate the structure and conductive properties of polymeric ionic liquids (PILs) as mechanically robust alternatives to liquid electrolytes. This research will be conducted at Osaka University in Japan with Dr. Tadashi Inoue, a world-leading expert in polymer dynamics. &lt;br/&gt;&lt;br/&gt;Polymerized ionic liquids (PILs) are defined as single ion conducting ionomers, in which one of the ionic species is incorporated in the polymer chain while the other is nominally free to transport. Although they are a safer, mechanically stable alternative to traditional liquid electrolytes, the challenge that remains is increasing the low ion transport rates inherent to polymeric materials. Utilizing smaller ionic charge carriers should increase the conductivity of the material and by varying the size of the charge carrier, greater insight on the relationship between conductivity and structure can be obtained. Because changing the material architecture will change the segmental motion of the polymer chain, Dr. Tadashi Inoue's expertise in polymer dynamics will greatly aid in understanding the fundamental relationship between structure, mobility, and polymer chain relaxation. The results of this study will make a positive contribution to the current understanding of polymer conductivity for the design of safer and more efficient electrolytic materials. &lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and Japan Society for the Promotion of Science.</AbstractNarration>
+<MinAmdLetterDate>05/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713929</AwardID>
+<Investigator>
+<FirstName>Preeya</FirstName>
+<LastName>Kuray</LastName>
+<EmailAddress/>
+<StartDate>05/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kuray                   Preeya</Name>
+<CityName>State College</CityName>
+<ZipCode>168032664</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5921</Code>
+<Text>JAPAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

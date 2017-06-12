@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: EAGER: Measuring the Kinetics of Gas-Generating Electrolysis through the Collective Modes of Bubble Evolution</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert McCabe</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project will involve technique development and exploratory research to examine the mechanism and dynamics of gas bubble formation at electrode interfaces and their effects on aqueous-phase electrolysis and photoelectrochemical reactions related to solar fuel production.  State-of-the-art x-ray and optical scattering techniques will be combined with data analytic methods and novel catalyst synthesis techniques to relate modes of bubble evolution to catalytic activity at unprecedented temporal and spatial resolution. The resulting understanding will aid in optimizing the design of hierarchically structured photocatalytic devices for efficient conversion of abundant resources such as water and carbon dioxide to solar fuels needed for a sustainable energy future. &lt;br/&gt; &lt;br/&gt;The research will utilize high speed microscopy and scattering experiments to develop a statistical understanding of electrolytic and photolytic bubble evolution. X-ray microscopy data will be used to develop a model for bubble growth, coalescence, and detachment from continuous and patterned electrocatalytic interfaces. This model will inform the understanding of measurements of correlations between gas bubbles evolving from electrodes using image analysis from microscopy measurements and light scattering measurements. This research aims to develop a methodological approach for studying catalysis via reciprocal space measurements on heuristic systems such as TiO2 photocatalysts and Pt electrocatalysts on Si. The ultimate goal is to utilize bubble correlation spectroscopy as a general technique in combination with precision synthesis of catalyst structures to minimize the impact of bubble interference on solar fuels catalysis.  In addition to advancing critical sustainable fuels technology, the project will provide undergraduate and graduate students with cross-disciplinary training in advanced spectroscopic methods, data analysis techniques, and catalyst synthesis, as well as providing a highly interdisciplinary environment for high school and undergraduate students to learn how to work in a team to advance scientific knowledge.</AbstractNarration>
+<MinAmdLetterDate>05/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1732096</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Coridan</LastName>
+<EmailAddress>rcoridan@uark.edu</EmailAddress>
+<StartDate>05/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arkansas</Name>
+<CityName>FAYETTEVILLE</CityName>
+<ZipCode>727011201</ZipCode>
+<PhoneNumber>4795753845</PhoneNumber>
+<StreetAddress>210 Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<StateCode>AR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1401</Code>
+<Text>Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

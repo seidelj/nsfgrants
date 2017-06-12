@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Moduli Space of Canonical Metrics on Four-Manifolds</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>169974</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas Ivey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>For more than a century, mathematicians specializing in the subject of differential geometry have worked on the question of what is the best geometry (i.e., shape) that a given space can have: Just as a beachball can be shaped into a perfect sphere, with the same amount of curvature at all points and in all directions, all 2-dimensional spaces can be shaped into highly symmetric and uniform geometries, and similarly all 3-dimensional spaces can be cut into pieces that carry such geometries. But the corresponding question is completely open for 4-dimensional spaces.  Moreover, this dimension stands out among others, since certain 4-dimensional spaces can support infinitely many different smooth structures, which may admit geometries with radically different properties. These facts make 4-dimensional geometry in many ways unpredictable, and a fertile field for interdisciplinary research, as the subject has grown in many directions and branched into other areas of mathematics and physics.  This research project is based on interactions between fields including geometry, topology, and analysis.  The investigator will undertake an in-depth analysis of a class of unbounded 4-dimensional spaces that are important from the perspective of general relativity, that carry a geometry modeled on the complex numbers, and whose geometry is mildly uniform. In another direction, the investigator will examine closed 4-dimensional spaces whose curvature is similarly uniform. &lt;br/&gt; &lt;br/&gt;In more detail, the investigator will undertake a comprehensive analysis of the asymptotically locally Euclidean Kähler manifolds. This is a special class of non-compact 4-dimensional manifolds that generalizes the gravitational instantons from theoretical physics. The project has far-reaching applications in understanding the global structure of closed constant scalar curvature Kähler or almost-Kähler manifolds. A second group of projects focuses on the study of the Riemannian properties of 4-manifolds in conjunction with techniques coming from Seiberg-Witten theory. In particular, the investigator will analyze the moduli space of Einstein metrics or constant scalar curvature metrics and their compactifications in Gromov-Hausdorff topology. The techniques employed come from gauge theory, global analysis, algebraic geometry, and differential topology.</AbstractNarration>
+<MinAmdLetterDate>06/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1710970</AwardID>
+<Investigator>
+<FirstName>Ioana</FirstName>
+<LastName>Suvaina</LastName>
+<EmailAddress>ioana.suvaina@vanderbilt.edu</EmailAddress>
+<StartDate>06/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>Nashville</CityName>
+<ZipCode>372350002</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>Sponsored Programs Administratio</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

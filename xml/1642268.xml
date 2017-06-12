@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Facility Support: Institute for Rock Magnetism</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2022</AwardExpirationDate>
+    <AwardAmount>345985</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06030000</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Earth Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Herbert Wang</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Institute for Rock Magnetism (IRM) at the University of Minnesota will conduct research on rock magnetism as a multi-user facility for the next five years. They will operate a full suite of sensitive instrumentation for detailed study of magnetic properties of natural materials, provide for training of graduate and postgraduate students in state-of-the-art paleomagnetic analysis techniques and facilitate international collaborations through the Visiting Fellows program and a biennial conference series. Paleomagnetic and geomagnetic research crosscuts many of the disciplinary areas of the Earth Sciences Division.&lt;br/&gt;&lt;br/&gt;Research facilitated by the analytical and technical capabilities of the IRM includes high resolution studies of variability in the intensity of the Earth's magnetic field in order to elucidate fundamental questions surrounding the origin of the geodynamo, characterization of the properties of microbial nanophase magnetic minerals, and the origin of magnetization in minerals and the behavior of magnetic minerals in response to environmental perturbations in temperature and applied magnetic fields. The scale of investigations extends from bacterial magnetic particles and environmental reconstructions to plate tectonic reconstructions and magnetic mapping of other planets.</AbstractNarration>
+    <MinAmdLetterDate>02/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1642268</AwardID>
+    <Investigator>
+      <FirstName>Dario</FirstName>
+      <LastName>Bilardello</LastName>
+      <EmailAddress>dario@umn.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Jackson</LastName>
+      <EmailAddress>jacks057@tc.umn.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Joshua</FirstName>
+      <LastName>Feinberg</LastName>
+      <EmailAddress>feinberg@umn.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Subir</FirstName>
+      <LastName>Banerjee</LastName>
+      <EmailAddress>banerjee@umn.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Bruce</FirstName>
+      <LastName>Moskowitz</LastName>
+      <EmailAddress>bmosk@umn.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Minnesota-Twin Cities</Name>
+      <CityName>Minneapolis</CityName>
+      <ZipCode>554552070</ZipCode>
+      <PhoneNumber>6126245599</PhoneNumber>
+      <StreetAddress>200 OAK ST SE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Minnesota</StateName>
+      <StateCode>MN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1580</Code>
+      <Text>INSTRUMENTATION &amp; FACILITIES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

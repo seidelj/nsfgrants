@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SG: Linking climate to global biogeographical patterns and diversification rates in ice-crawlers</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2019</AwardExpirationDate>
+    <AwardAmount>149963</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010206</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Katharina Dittmar</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Ice-crawlers are flightless insects that specialize in living in cold environments. They occur in high mountain areas in North America, and little is known about their biology and evolution. Because of their unique habit of living in areas near alpine glaciers, which constantly expand and retract, ice-crawlers are a natural model to study the long-term consequences of climate variation. This research will explore two major, and so far largely unanswered questions: How does climate influence the diversity and diversification of species? And: How do species change their physiological tolerance in response to climate over time? Results from this research will greatly increase our general understanding of adaptive responses of species to changing environments. This research will be complemented by outreach efforts to the public at U.S. National Parks, the training of high school and university students, as well as the development of inquiry-based science curricula involving insects that may be implemented in middle schools.&lt;br/&gt;&lt;br/&gt;The scientific aim of this proposal is to test the importance of geographical isolation and climatic niche evolution in the generation of montane biodiversity, thus advancing knowledge of the mechanisms that generate high levels of endemism in montane ecosystems. Montane lineage diversity increased in response to Pliocene-Pleistocene glaciations, but it is not clear whether climatic niche evolution played a role in the persistence and diversification of montane taxa. Indeed, geographical isolation and niche conservatism are considered the primary mechanisms of climate-driven lineage diversification in montane regions. This proposed research would collect genomic data and provide a comprehensive phylogeny for the entire insect order Grylloblattodea, an understudied lineage in the insect tree of life. Additionally, biogeographic and diversification rate analyses would test the role of climate fluctuations in generating ice-crawler diversity. Ecophysiological data, including thermal tolerance, thermal preference, and water loss rates, will be compared in taxon pairs occurring in sympatry, across environmental gradients, and in allopatry. Collectively, these analyses will test whether niche evolution, as opposed to phylogenetic conservatism, contribute to montane diversity. This research would make progress on a major goal of evolutionary and ecological research, that is to understand how rates of ecological divergence vary across regions and taxonomic groups, as well as the conditions under which lineages undergo adaptive radiations. The results will be published in peer-reviewed journals and presented at scientific meetings.</AbstractNarration>
+    <MinAmdLetterDate>01/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655615</AwardID>
+    <Investigator>
+      <FirstName>Sean</FirstName>
+      <LastName>Schoville</LastName>
+      <EmailAddress>schoville2@wisc.edu</EmailAddress>
+      <StartDate>01/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Wisconsin-Madison</Name>
+      <CityName>MADISON</CityName>
+      <ZipCode>537151218</ZipCode>
+      <PhoneNumber>6082623822</PhoneNumber>
+      <StreetAddress>21 North Park Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Wisconsin</StateName>
+      <StateCode>WI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1171</Code>
+      <Text>PHYLOGENETIC SYSTEMATICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7744</Code>
+      <Text>RAHSS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9261</Code>
+      <Text>RESRCH ASSIST-MINORITY H.S. ST</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

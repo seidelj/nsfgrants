@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Low Cost Copper Contacts with Built in Barriers for Crystalline Silicon Solar Cells</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>749998</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Richard Schwerdtfeger</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research Phase II project aims to develop copper based pastes for the metallization of silicon solar cells. Photovoltaics (PV) offer an opportunity for clean and affordable energy and over the past decade the PV industry has seen annual compound growth rates of over 50%. Although revenues are high, the profit margins for many manufacturers have substantially diminished, necessitating the need for cutbacks throughout the value chain. One area marked for cost reduction, is in the metallization of the solar cells, which now commands nearly 10 percent of the world's supply. Having the cost of photovoltaic panels tied to a precious metal with price volatility can lead to higher prices for renewable energy; thus replacing silver with copper is a significant opportunity for the industry. Thus the outcomes of this project would be a product for making solar energy more affordable. The project also includes creating two new full time positions in Kentucky in Advanced Research and Manufacturing. This proposal will enhance scientific understanding of the copper-silicon contact formation and durability of the material during operation. &lt;br/&gt;&lt;br/&gt;The technological feasibility of the copper pastes with an inherent diffusion barrier was demonstrated on standard and bifacial solar cells in Phase I. Phase II will further improve the screen printable pastes to industry standards. To achieve the high electrical performance required in this market, the project will investigate the copper-silicon interface to investigate the mechanisms involved during contact formation, and the chemical nature of the copper-silicon interface. This information will be used to optimize the chemical composition and thermal treatment of the pastes to improve electrical performance and cell lifetime. The pastes will be optimized for industrial operating equipment to provide the manufacturer with a product that can be dropped in, with minimal changes to the production line. Phase II will also involve scale up of the core materials in the pastes to be able to engage customers in further printing trials. Through the assembly and testing of prototype solar cell modules, the durability of the copper contacts will be demonstrated. The outcomes of this proposal will be screen printable copper pastes that can be direct drop in replacement for the silver pastes; thereby enhancing the profit margins of the solar cell manufacturer.</AbstractNarration>
+    <MinAmdLetterDate>04/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660161</AwardID>
+    <Investigator>
+      <FirstName>Ruvini</FirstName>
+      <LastName>Dharmadasa</LastName>
+      <EmailAddress>ruvinid8@googlemail.com</EmailAddress>
+      <StartDate>04/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Bert Thin Films, LLC</Name>
+      <CityName>Louisville</CityName>
+      <ZipCode>402051108</ZipCode>
+      <PhoneNumber>5024797493</PhoneNumber>
+      <StreetAddress>2306 Alta Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Kentucky</StateName>
+      <StateCode>KY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>123E</Code>
+      <Text>CENTERS: ADVANCED MATERIALS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7423</Code>
+      <Text>Energy collection &amp; storage</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

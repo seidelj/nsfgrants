@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Smart Speech Perception Feedback for Training and Diagnostics</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is to provide technologies and services based on models of speech signals and human speech perception. These models incorporate a deep understanding of the physical speech stimulus and the perceptual representations that drive speech perception. Technology applications to be explored can break new ground in areas such as: (1) Improving the efficacy of audiological testing; (2) Improving the realism of computer-synthesized voices (3) Providing speech perception training for better understanding of non-native speakers or speakers with neurological disorders; (4) Enhancing multisensory speech perception through training of individuals with audiovisual speech processing deficits such as individuals on the autism spectrum; (5) Developing sensory substitution or augmentation through vibrotactile stimuli; and (6) Improving the quality of older adults? lives through visual speech perception training to ameliorate their declines in perceiving auditory speech in noisy backgrounds.&lt;br/&gt;&lt;br/&gt;This I-Corps project will investigate commercial applications of technologies and services based on models of multisensory speech signals and human speech perception. Human speech perception can be highly errorful in the presence of noise and/or distortions that originate in the talker, the physical communication channel, and/or the perceiver (e.g., hearing loss). The technology to be explored models how speech perception degrades, and how multisensory stimuli compensate for perceptual errors. For example, this technology supports the characterization of speech perception difficulties using a simple talk-back task in which the perceiver repeats what was just said. In formal laboratory experiments, this technology has been used to improve speech perception training outcomes through improvements in the contingencies between perceptual errors and training feedback. This technology can be used in developing media that are designed to reduce the potential for perceptual errors.</AbstractNarration>
+    <MinAmdLetterDate>03/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1738164</AwardID>
+    <Investigator>
+      <FirstName>Silvio</FirstName>
+      <LastName>Eberhardt</LastName>
+      <EmailAddress>silvio@gwu.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Lynne</FirstName>
+      <LastName>Bernstein</LastName>
+      <EmailAddress>lbernste@gwu.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>George Washington University</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200522000</ZipCode>
+      <PhoneNumber>2029946255</PhoneNumber>
+      <StreetAddress>2121 Eye Street NW</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Technology-Rich Units for Future Secondary Teachers: Forging Dynamic Connections Between Geometry and Functions</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>299989</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandra Richardson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will address the documented need for undergraduate prospective secondary mathematics teachers to possess strong content knowledge in order to develop in their future students the rich mathematical understandings necessary to pursue STEM careers. While preservice teachers often take twelve or more undergraduate mathematics courses, they typically fail to see the deep mathematical interrelationships between the courses and their relevance to the mathematics they will teach. Prospective teachers need experiences in thinking about and knitting together these big mathematical ideas as well as making clear their applicability to school mathematics. This project will create and test five web-based units for preservice teachers that address these goals by promoting an interactive, geometry-based approach to middle school and high school mathematics through the use of web-based technology.  &lt;br/&gt;&lt;br/&gt;The project will build on the foundations of cognitive science, technology, and pedagogy to advance the goal of strengthening the mathematical background of future mathematics teachers. It will employ a geometric approach to functions as an overarching framework for technology-rich investigations of geometric transformations, analytic geometry, trigonometry, complex numbers, and relative rates of change with connections to calculus. Additionally, the project will capitalize on the ability of Web Sketchpad, a new web-based software, to design mathematical tools tailored to the needs of each particular activity. The project will construct measures aligned with each unit to assess what preservice teachers learn, pilot test each unit and make revisions based on data collection, and design teacher support materials for implementation. Project curriculum materials and project findings from the research will be shared with mathematics teacher educators to inform their preparation of secondary mathematics teachers. The Robert Noyce Teacher Scholarship program will provide co-funding for this project in recognition of its alignment with the broader teacher preparation goals of the Noyce effort.</AbstractNarration>
+<MinAmdLetterDate>05/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712280</AwardID>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Hollebrands</LastName>
+<EmailAddress>karen_hollebrands@ncsu.edu</EmailAddress>
+<StartDate>05/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Allison</FirstName>
+<LastName>McCulloch</LastName>
+<EmailAddress>allison_mcculloch@ncsu.edu</EmailAddress>
+<StartDate>05/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Steketee</LastName>
+<EmailAddress>ssteketee@21pstem.org</EmailAddress>
+<StartDate>05/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Scher</LastName>
+<EmailAddress>dscher@21pstem.org</EmailAddress>
+<StartDate>05/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1795</Code>
+<Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

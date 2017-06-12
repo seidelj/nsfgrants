@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: The role of thermoregulation in the obstetrical dilemma</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2019</AwardExpirationDate>
+    <AwardAmount>25128</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rebecca Ferrell</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In human childbirth, the baby fits very tightly in the birth canal, and anthropologists are interested in understanding what evolutionary pressures may have led to a female pelvic size and shape that can contribute to difficult childbirth. This project will test the thermoregulation hypothesis, which suggests that the width of the human pelvis is limited by the need to maintain a narrow body that is good at staying cool. Human ancestors evolved in warm climates and engaged in strenuous activities, and a narrow body aids in temperature regulation. Skeletal data on pelvic dimensions and temperature regulation data from living people will be collected to address the thermoregulation hypothesis. These data may also be informative for predicting women at risk of obstructed labor and for preventing overheating in recreational and professional athletes. Additionally, this project will support STEM training for two female undergraduate students from groups underrepresented in science. Project results will be shared in local high schools and with the general public at the American Museum of Natural History.&lt;br/&gt;&lt;br/&gt;The traditional explanation for the "obstetrical dilemma," which asks why the modern human female birth canal has not expanded to make birth easier, is that a narrow pelvis is more efficient during bipedal locomotion. However, the thermoregulation hypothesis, which suggests that a narrow pelvis aids in thermoregulation during physical activity, has been discussed as a competing hypothesis. This research will investigate the potential role of thermoregulation in constraining the evolution of the birth canal. The investigators hypothesize that a narrow pelvis aids in thermoregulation in modern humans during physical activity, that hip breadth is correlated with the area of the birth canal, and that Homo erectus was a narrow-bodied, heat-adapted taxon. The investigators will collect thermoregulation data from runners to determine if a narrow pelvis bestows thermoregulatory advantages during exercise; measure female pelvic dimensions using three-dimensional scans created from eco-geographically varied populations; and reconstruct the KNM-WT 15000 H. erectus pelvis, which is controversial because the original reconstruction provides the only evidence of a hominin with a narrow pelvis prior to the evolution of Homo sapiens. These data will contribute to a broader understanding of the evolutionary reasons behind obstructed labor.</AbstractNarration>
+    <MinAmdLetterDate>02/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650895</AwardID>
+    <Investigator>
+      <FirstName>Jennifer</FirstName>
+      <LastName>Eyre</LastName>
+      <EmailAddress>je988@nyu.edu</EmailAddress>
+      <StartDate>02/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Scott</FirstName>
+      <LastName>Williams</LastName>
+      <EmailAddress>sawilliams@nyu.edu</EmailAddress>
+      <StartDate>02/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>New York University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100121019</ZipCode>
+      <PhoneNumber>2129982121</PhoneNumber>
+      <StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7608</Code>
+      <Text>DDRI Bio Anthro</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1392</Code>
+      <Text>Biological Anthropology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

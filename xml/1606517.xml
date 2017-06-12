@@ -44,5 +44,13 @@
       <StateName>Wisconsin</StateName>
       <StateCode>WI</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1266</Code>
+      <Text>APPLIED MATHEMATICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1765</Code>
+      <Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+    </ProgramElement>
   </Award>
 </rootTag>

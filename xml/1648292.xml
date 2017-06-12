@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: A Clinical Decision Support System for Fluid Resuscitation for Patients with Sepsis</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jesus Soriano Molla</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project includes reliable and consistent fluid resuscitation (i.e., intravenous administration of fluids) for patients in the intensive care unit (ICU) requiring fluid management. The goal of fluid resuscitation in critically ill patients is to restore blood volume in the circulatory system to an acceptable level in order to ensure adequate tissue perfusion (i.e., blood delivery to tissue). However, large intrapatient and interpatient variability in physiological parameters as well as the effect of different illnesses and medications can result in under- and over-resuscitation of ICU patients by the clinical staff. Optimal fluid resuscitation is especially critical for the recovery of patients with severe sepsis (i.e., patients with sepsis and acute organ dysfunction) or septic shock (i.e., patients with sepsis and persistent or refractory hypotension or tissue hypoperfusion despite adequate fluid resuscitation). In these patients, ineffective arterial circulation due to vasodilation (i.e., dilation of blood vessels) and capillary leakage (i.e., increased distribution of fluids into the interstitial space) needs to be compensated by fluid management.&lt;br/&gt;&lt;br/&gt;The proposed project involves developing a clinical decision support system for fluid resuscitation for patients with severe sepsis or septic shock in the ICU. Specifically, a cloud-based clinical decision support system will be developed, which will use continuous measurements from hemodynamic monitoring devices to provide actionable feedback for clinicians to optimize fluid management. In this project, a clinical decision support algorithm that will guide the clinician in fluid management will be developed and a clinical study at our partner hospital will be performed. A critical drawback with using a model-based approach to compute the patient's fluid requirement is that accurate parameter values are needed for the model. However, high-fidelity models do not exist and current models cannot fully account for the physiology and response of the patient to fluids. The proposed framework does not need any patient-specific information (e.g., age, gender, weight, diagnosis, concomitant medication, etc.). Furthermore, the framework does not require an accurate model of the patient dynamics and the patient specific physiological parameters.</AbstractNarration>
+    <MinAmdLetterDate>11/30/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/30/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648292</AwardID>
+    <Investigator>
+      <FirstName>Behnood</FirstName>
+      <LastName>Gholami</LastName>
+      <EmailAddress>bgholami@aretexeng.com</EmailAddress>
+      <StartDate>11/30/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>AreteX Systems, Inc.</Name>
+      <CityName>Hoboken</CityName>
+      <ZipCode>070305891</ZipCode>
+      <PhoneNumber>6788866400</PhoneNumber>
+      <StreetAddress>221 River St.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8018</Code>
+      <Text>Smart and Connected Health</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8023</Code>
+      <Text>Health Care Enterprise Systems</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8042</Code>
+      <Text>Health and Safety</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

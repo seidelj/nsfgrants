@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2017 Conference on Knowledge Discovery and Data Mining (KDD 2017)</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant provides domestic and international travel support for about 24 U.S. based graduate student participants to attend the 23rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2017), to be held in Halifax, Nova Scotia, Canada on August 13-17, 2017. KDD is the world's premier conference in data science. It is a prestigious interdisciplinary conference that brings together researchers and practitioners every year, over 2,000 in recent years, from all aspects of big data, data mining, and knowledge discovery. A strong representation of U.S. researchers at the conference, particularly students, is essential in maintaining U.S. competitiveness in this important area today and into the future. Since 2013, the conference also includes a Broadening Participation in Data Mining workshop. As in various STEM fields, increasing the diversity of participants at KDD is a primary goal. This grant will provide travel support for approximately 24 students based on merit and need. The selection committee will put particular emphasis on diversity for the selection of awardees.&lt;br/&gt;&lt;br/&gt;The KDD technical program includes oral and poster presentations of refereed papers, panel discussions, and invited talks by the world's leading experts. It provides an international forum for presentation of original research results as well as exchange and dissemination of innovative and practical development experiences, which are particularly valuable for student participants. Besides the technical program, the conference features workshops, tutorials, demonstrations, exhibits, and a data mining contest (KDD Cup). Information on KDD 2017 can be accessed at http://www.kdd.org/kdd2017/. Proceedings will be made available through the ACM Digital Library.</AbstractNarration>
+<MinAmdLetterDate>05/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1742808</AwardID>
+<Investigator>
+<FirstName>Qiaozhu</FirstName>
+<LastName>Mei</LastName>
+<EmailAddress>qmei@umich.edu</EmailAddress>
+<StartDate>05/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

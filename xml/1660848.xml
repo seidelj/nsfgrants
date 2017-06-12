@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative for Capacity Building-Preparing STEM Teachers for Alaska</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>39620</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Teri Murphy</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>With Capacity Building funds from the NSF Robert Noyce Teacher Scholarship Program, partners from the University of Alaska Southeast School of Education (UAS-SOE), the University of Alaska Fairbanks School of Education (UAF-SOE), the University of Alaska Anchorage College of Education (UAA-COE), the University of Alaska Fairbanks College of Natural Science &amp; Mathematics (CNSM), in collaboration with the Yukon Koyukuk School District (YKSD) and Nenana School District (high- need local Education Agency) will establish the infrastructure and collaborations that will lead to increasing the number and diversity of highly-qualified mathematics and science teachers in high-need and rural schools across Alaska. The State of Alaska has a particularly large number of very small rural schools that often have only one teacher who is responsible for all STEM subjects and across grade levels. In addition, Alaska has one of the lowest high school graduation rates and one of the lowest college-going rates. This project will serve as a catalyst and opening doors to new, sustainable partnerships and ideas in the collaborative pursuit of increasing the number and diversity of effective mathematics and science teachers who are prepared to teach in rural villages and Alaska Native communities.&lt;br/&gt;&lt;br/&gt;Project partners will develop a long-term plan for increasing the number of mathematics and science teachers who are prepared to integrate crosscutting STEM concepts in the curriculum to engage student learning. Specifically, project partners will (1) develop relationships for a collaborative approach to recruiting and preparing secondary STEM teacher candidates; (2) collect baseline data to determine interest, need, and capacity, as well as study successful practices from current Noyce projects; (3) explore effective program structures and timelines for future pre-service teachers while utilizing mathematics and science major university programs for the development of a modern, flexible, and effective pathway toward math/science teacher licensure; (4) design a framework for a multilayered, sustainable recruitment program focusing on diversity participation (Alaska Natives) in teaching of STEM; and (5) establish collaborative structures with Alaska high-need local educational agencies (LEAs) to facilitate teaching experiences, employment, and mentor training. The project will develop a model that can be adapted for other rural contexts, while reflecting the needs of stakeholders in Alaska.</AbstractNarration>
+    <MinAmdLetterDate>04/05/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/05/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660848</AwardID>
+    <Investigator>
+      <FirstName>Deborah</FirstName>
+      <LastName>Lo</LastName>
+      <EmailAddress>delo@alaska.edu</EmailAddress>
+      <StartDate>04/05/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Virgil</FirstName>
+      <LastName>Fredenberg</LastName>
+      <EmailAddress>virgil.fredenburg@uas.alaska.edu</EmailAddress>
+      <StartDate>04/05/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Alaska Southeast Juneau Campus</Name>
+      <CityName>Juneau</CityName>
+      <ZipCode>998018625</ZipCode>
+      <PhoneNumber>9077966494</PhoneNumber>
+      <StreetAddress>11120 Glacier Highway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Alaska</StateName>
+      <StateCode>AK</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1795</Code>
+      <Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Synergistic Cross-IoT N-Way Sensing using Wireless Traffic in the Edge</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2022</AwardExpirationDate>
+    <AwardAmount>93548</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Wenjing Lou</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Internet-of-Things (IoT) devices have been increasingly used in people's daily life for applications such as personal health monitoring, global positioning, power grids management, supply chain control, and smart home automation. These IoT devices are expected to be widely deployed in environments ranging from residential houses to highly dynamic urban surroundings. With the increasing number of IoT devices, this CAREER project aims at improving the existing sensing performance by leveraging various sensing capabilities from different IoT devices. The success of this research can fully unleash the potential of increasing number of IoT devices and significantly improve people's daily life. The research results are likely to inspire novel theoretical and systematic studies that open up new areas of research in Internet-of-Things. The broader impact of this CAREER project is amplified by (i) improving curriculum development with enhanced course projects; (ii) raising interest in technology among K-12 students and under-represented minority groups through open houses; (iii) supporting talented female and minority PhD students to successfully accomplish their doctoral studies; and (iv) disseminating research results through high-profile tutorials and open-source sites.&lt;br/&gt;&lt;br/&gt;The main goal of this CAREER project is to enable IoT devices to conduct accurate, efficient, and scalable N-way sensing. This project will deliver a networked system with modularized structure that accommodates various solutions for cross-IoT sensing, wireless communication, machine learning, and data processing in the edge. New designs will be implemented with a combination of different IoT hardware platforms and this project will deliver reusable system designs, algorithms, and protocol libraries to the research community. In addition to academic papers and technical reports, this CAREER project is expected to contribute to the system development in broader application communities across multiple disciplines, such as human behavior study, sleep monitoring, and augmented reality.</AbstractNarration>
+    <MinAmdLetterDate>02/08/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/08/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652669</AwardID>
+    <Investigator>
+      <FirstName>Ting</FirstName>
+      <LastName>Zhu</LastName>
+      <EmailAddress>zt@umbc.edu</EmailAddress>
+      <StartDate>02/08/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Maryland Baltimore County</Name>
+      <CityName>Baltimore</CityName>
+      <ZipCode>212500002</ZipCode>
+      <PhoneNumber>4104553140</PhoneNumber>
+      <StreetAddress>1000 Hilltop Circle</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

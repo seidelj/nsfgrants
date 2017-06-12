@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Quantifying How Bioenergetics and Foraging Determine Population Dynamics in Threatened Antarctic Albatrosses</AwardTitle>
+<AwardEffectiveDate>09/01/2016</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>185669</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christian Fritsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Albatrosses (family Diomedeidae) are among the most threatened of bird species. Of the 22 species that are currently recognized, all are considered at least Threatened or Near-Threatened, and 9 are listed as Endangered or Critically Endangered. Because of the decline in albatross populations and the birds' role as a top predator in the pelagic ecosystem, it is vitally important to understand the factors affecting the population dynamics of these birds to better inform strategies for conservation and mitigating environmental change. The goal of this project is to answer the question: What are the population consequences of albatross bioenergetics and foraging strategies? The investigators will take a two pronged approach: 1) constructing, parameterizing, and validating an Individual Based Model (IBM) that rests on Dynamic Energy Budget theory and state dependent foraging theory; and 2) undertaking an in-depth meta-analysis of existing individual tracking and life history data from multiple albatross species across successive life stages. This theoretical work will be grounded with a unique and extensive data set on albatrosses provided by collaborator Richard Phillips from the British Antarctic Survey. The IBM approach will incorporate details such as adult energetic state, chick needs and energetics, reproductive stage, and spatial and temporal variation in prey availability within a single framework. This facilitates exploration of emergent patterns, allowing the investigators to explicitly link behavior, energetic, and population dynamics.&lt;br/&gt;&lt;br/&gt;Bioenergetics constrain a variety of behaviors. A more complete understanding of how individuals use energy can give insight into how behaviors from foraging to breeding and survival, and resulting population attributes, might change with environmental factors, due to anthropogenic and other drivers. This work will further a general understanding of how bioenergetics shapes behavior and drives population level processes, while providing an approach that can be used to guide conservation strategies for endangered populations. The research findings and activities will be made accessible to public audiences through websites and on a blog maintained for the project by a postdoctoral researcher. The project will involve undergraduate and high school researchers in the project, within formal laboratory groups and also through in-classroom presentations and activities. This project also involves outreach to local elementary schools, as the albatross-Antarctic bioenergetics system provides a charismatic and tangible teaching tool, for exploring a complex conservation issue, and demonstrating the utility of quantitative biological research approaches. All project publications will be open access, the resulting open source software will be released to the public, and metadata and analyses will be fully documented and made available through the Knowledge Network for Biodiversity, to promote further collaborative exploration of this system.</AbstractNarration>
+<MinAmdLetterDate>04/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740239</AwardID>
+<Investigator>
+<FirstName>Leah</FirstName>
+<LastName>Johnson</LastName>
+<EmailAddress>lrjohnson0@gmail.com</EmailAddress>
+<StartDate>04/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5111</Code>
+<Text>ANTARCTIC ORGANISMS &amp; ECOSYST</Text>
+</ProgramElement>
+</Award>
+</rootTag>

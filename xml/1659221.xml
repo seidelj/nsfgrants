@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Graph Theory, Combinatorics, and Abstract Algebra</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>254443</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Kitchens</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant funds the Research Experience for Undergraduates (REU) site in mathematics at the University of Texas at Tyler.  The eight-week program will take place in the summers of 2017, 2018, and 2019.  Each summer, nine students will work in groups of three with one faculty mentor leading each group.  The program focuses on building confidence of student participants and preparing them to pursue careers in mathematics.  The REU will have a greater effect by recruiting students from underrepresented groups. In particular, African Americans, Hispanics, women, and first-generation college students will be recruited. &lt;br/&gt;&lt;br/&gt;The mentors for the REU site will provide research questions that are accessible to undergraduates, yet interesting to working mathematicians.  The goal is to provide participants the opportunity to conduct original research leading to publication in professional journals.  The research projects are in the areas of graph theory, combinatorics, and abstract algebra.  All topics will be accessible to students who have taken early proof-based mathematics courses.  By the end of the eight weeks, REU students will write their results in a professional format and prepare a final talk and a poster suitable for presentation at the Joint Mathematics Meetings in January.</AbstractNarration>
+<MinAmdLetterDate>04/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1659221</AwardID>
+<Investigator>
+<FirstName>Christina</FirstName>
+<LastName>Graves</LastName>
+<EmailAddress>cgraves@uttyler.edu</EmailAddress>
+<StartDate>04/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Milan</LastName>
+<EmailAddress>dmilan@uttyler.edu</EmailAddress>
+<StartDate>04/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Tyler</Name>
+<CityName>Tyler</CityName>
+<ZipCode>757990001</ZipCode>
+<PhoneNumber>9035667132</PhoneNumber>
+<StreetAddress>3900 University Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7335</Code>
+<Text>WORKFORCE IN THE MATHEMAT SCI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

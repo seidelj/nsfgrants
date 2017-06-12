@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Undergraduate Biology Education Research</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>259170</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Dawn Rickey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>To enhance learning in science, technology, engineering, and mathematics (STEM), we need to better understand how students acquire and use STEM knowledge, and how instructors can facilitate learning in STEM. Biology education researchers contribute to this understanding by applying their expertise in biology to the study of undergraduate teaching and learning in the discipline. Biology education research (BER) is a relatively young field, emerging after physics and chemistry education research. Thus there are many research questions to answer in BER, and this work will require more biology education researchers. The Undergraduate Biology Education Research Version 2 (UBERV2) Research Experiences for Undergraduates (REU) program at University of Georgia will address this need by contributing to the BER talent pool.&lt;br/&gt;&lt;br/&gt;The UBERV2 REU program will select and train 24 diverse undergraduate students in biology education research over the next three years. UBERV2 fellows will develop their BER understanding and skills while adding to theory and knowledge about biology teaching and learning. UBERV2 fellows will collaborate with faculty mentors on individual research projects. They will also engage in program offerings organized around three areas: a research strand, a career strand, and a professionalism strand. After participating in UBERV2 students will be able to 1) use appropriate methods to analyze data associated with biology teaching and learning, 2) evaluate peer-reviewed papers in BER and science education research, 3) identify sound educational research questions and appropriate research designs, 4) communicate their research findings in scientific formats, and 5) outline career pathways in or related to education research. This experience will prepare UBERV2 fellows to pursue graduate work in BER. Overall, the project will contribute enhanced understandings of biology teaching and learning, and build the biology education research talent pool, which is expected to lead to improvements in undergraduate STEM education.</AbstractNarration>
+    <MinAmdLetterDate>03/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659423</AwardID>
+    <Investigator>
+      <FirstName>Julie</FirstName>
+      <LastName>Luft</LastName>
+      <EmailAddress>jaluft@uga.edu</EmailAddress>
+      <StartDate>03/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Julie</FirstName>
+      <LastName>Stanton</LastName>
+      <EmailAddress>stantonj@uga.edu</EmailAddress>
+      <StartDate>03/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Georgia Research Foundation Inc</Name>
+      <CityName>ATHENS</CityName>
+      <ZipCode>306021589</ZipCode>
+      <PhoneNumber>7065425939</PhoneNumber>
+      <StreetAddress>310 East Campus Rd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7980</Code>
+      <Text>Core R&amp;D Programs</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1998</Code>
+      <Text>IUSE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8209</Code>
+      <Text>Improv Undergrad STEM Ed(IUSE)</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

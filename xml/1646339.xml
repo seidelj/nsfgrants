@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RTG: Research Training Group in Mathematical Modeling and Simulation</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2022</AwardExpirationDate>
+    <AwardAmount>304343</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Victor Roytburd</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Research Training Group (RTG) project is devoted to training through research of undergraduates, graduate students, and postdoctoral fellows in several salient aspects of modern applied mathematics. The activities that this project is based upon recognize the fundamental importance of the interplay between modeling and simulation for most real-life applications. Modeling involves identifying the fundamental components of a problem and posing them in mathematical terms. Simulation solves the mathematical problems thus posed using computers to make quantitative predictions. &lt;br/&gt;Both modeling and simulation will be used to investigate a wide variety of phenomena in physics, chemistry, engineering, and biology, such as how microorganisms swim, how blood flows in the heart, the unusual properties of suspensions of bacteria or active particles, and how to efficiently design new materials. A unique element of the project is an experimental laboratory (Applied Mathematics Laboratory at the Courant Institute) that will provide raw data and motivation for mathematical models and simulations as well as measurements for quantitative validation. The Courant Institute is particularly well-positioned for this enterprise. Since early on, the Institute had a strong emphasis in applied mathematics, with modeling and simulation at its core. This research and training project will increase the number of U.S. citizens, nationals, and permanent residents who are well prepared to undertake careers that require a thorough understanding of applied and computational mathematics, not only in academics, as is the case with many educational mathematics programs, but also in business, industry, and government.&lt;br/&gt;&lt;br/&gt;This RTG program will emphasize the connections among modeling, simulation and experimental observation. The project, coordinated by five Co-PIs, will provide academic-year and summer funding for a growing number of Ph.D. students, starting from three and increasing to six by the end of the project, two postdoctoral scholars per year, as well as a number of undergraduate summer internships, for a duration of five years. The project will support the formation of a vertically-integrated activity which integrates a new research course, a seminar on oral and written presentation, a collaborative research seminar, visitor seminars and undergraduate summer research activities. A unifying theme of the study of passive and active particle suspensions will be used to build collaborations among computational scientists at Courant, the Applied Mathematics Laboratory, and the Soft Condensed Matter physics group at NYU's Physics Department. This research theme and the associated collaborations will serve as a framework for investigating other themes. For all themes, the research activities in this project will train students and postdocs to work in a multidisciplinary environment in which they have access to world leading experts in several disciplines. Furthermore, this research is expected to have substantial scientific impacts and to lead to new discoveries and potential applications. The five-year project will create new activities that will become a permanent part of mathematics teaching, research and training efforts at the Courant Institute, and will provide valuable experience that can be exported to other institutions.</AbstractNarration>
+    <MinAmdLetterDate>03/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1646339</AwardID>
+    <Investigator>
+      <FirstName>Charles</FirstName>
+      <LastName>Peskin</LastName>
+      <EmailAddress>peskin@cims.nyu.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Esteban</FirstName>
+      <LastName>Tabak</LastName>
+      <EmailAddress>tabak@cims.nyu.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Aleksandar</FirstName>
+      <LastName>Donev</LastName>
+      <EmailAddress>ad139@nyu.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Leif</FirstName>
+      <LastName>Ristroph</LastName>
+      <EmailAddress>ristroph@cims.nyu.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Miranda</FirstName>
+      <LastName>Holmes-Cerfon</LastName>
+      <EmailAddress>mch328@nyu.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>New York University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100121019</ZipCode>
+      <PhoneNumber>2129982121</PhoneNumber>
+      <StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7334</Code>
+      <Text>MATHEMATICAL BIOLOGY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7335</Code>
+      <Text>WORKFORCE IN THE MATHEMAT SCI</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1271</Code>
+      <Text>COMPUTATIONAL MATHEMATICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1266</Code>
+      <Text>APPLIED MATHEMATICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7301</Code>
+      <Text>RES TRAINING GROUPS IN THE MATH SCIENCES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

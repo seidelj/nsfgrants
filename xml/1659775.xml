@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Undergraduate Research in Chemistry at Syracuse University</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>297000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Michelle Bushey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Professors Sponsler, Hudson, and colleagues at Syracuse University host an REU Site. This project is funded by the REU Site Program of the Division of Chemistry. The site supports eleven undergraduate students in chemistry research through ten weeks in each of three summers. The intensive research experience helps students in many ways. Students supplement their education with valuable practical experience and skills. The become better informed with respect to important career and education decisions. Students practice communication of scientific results, and broaden their perspectives of chemistry and science in general. Students are motivated to succeed in their studies and to do more research. Participants experience the entire scientific process: planning and conducting experiments, interpreting results, drawing conclusions, and presenting their results in written and oral form. The program exposes participants to the full breadth of chemical research, including the vast array of chemistry subfields and related interdisciplinary topics. &lt;br/&gt;&lt;br/&gt;The REU program combines structured learning with maximum hands-on time in the laboratory. At weekly luncheon sessions, faculty members present various chemistry research topics, followed by student research presentations in the last two weeks. Additional activities include a career program, an ethics seminar, a three-hour glassblowing for scientific utilization workshop, and a multi-university poster session. Recruitment and admission of students to the program emphasize those for whom the impact will be greatest, including students with limited access to research, minority students, and veteran students. The program includes a specific partnership with Le Moyne College, involving both students and faculty with year-round collaborative research opportunities. Austrian students in the program, supported by the Technical University of Graz, provide international exposure to all participants. Many participants achieve authorship of published research and present their work at conferences.</AbstractNarration>
+    <MinAmdLetterDate>03/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659775</AwardID>
+    <Investigator>
+      <FirstName>Bruce</FirstName>
+      <LastName>Hudson</LastName>
+      <EmailAddress>bshudson@syr.edu</EmailAddress>
+      <StartDate>03/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Sponsler</LastName>
+      <EmailAddress>Sponsler@syr.edu</EmailAddress>
+      <StartDate>03/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Syracuse University</Name>
+      <CityName>SYRACUSE</CityName>
+      <ZipCode>132441200</ZipCode>
+      <PhoneNumber>3154432807</PhoneNumber>
+      <StreetAddress>OFFICE OF SPONSORED PROGRAMS</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1986</Code>
+      <Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7234</Code>
+      <Text>SENSORS NON-SOLICITATION RESEA</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8396</Code>
+      <Text>Clean Energy Technology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8397</Code>
+      <Text>Hydrogen Storage or Generation</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9263</Code>
+      <Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

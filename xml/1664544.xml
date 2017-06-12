@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Research Data Centers: Dallas-Fort Worth</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2020</AwardExpirationDate>
+    <AwardAmount>300000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Nancy A. Lutz</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award establishes the Dallas-Fort Worth Federal Statistical Research Data Center. This Center joins the national network of over two dozen Federal Statistical Research Data Centers (FSRDCs). These Centers make important data gathered by federal statistical agencies available to leading researchers throughout the United States. The Dallas-Fort Worth FSRDC will be available to members of the sponsoring research consortium: the University of Texas at Dallas, the University of Texas at Arlington, the Federal Reserve Bank of Dallas, the University of Texas Southwest Medical Center, Southern Methodist University, Texas Tech University, the University of North Texas, Texas Christian University, and the Dallas-Fort Worth Hospital Council Foundation. Research projects at this FSRDC include work in engineering, economics, urban planning, sociology, health, and demography. The Center will encourage greater use of federal statistical data among faculty, researchers, and graduate students in this region. In addition, the Center will make valuable new data on health outcomes collected by Dallas hospitals available to researchers through the FSRDC network nationwide. The research made possible by this FSRDC will improve the economic competitiveness of the US and regional economies by helping policymakers at all levels understand how government decisions affect market outcomes.&lt;br/&gt;&lt;br/&gt;Each FSRDC is a secure facility that provides leading researchers with authorized access to restricted-use data from federal statistical agencies. As a result, qualified researchers can conduct projects that are important for both science and policy while protecting respondent confidentiality. The research conducted at this FSRDC will improve statistical efforts by the federal government (including Census and other statistical agencies that make data available through FSRDCs). The projects will utilize datasets supported by the Bureau of the Census, the National Center for Health Statistics, the Agency for Healthcare Research and Quality, the Bureau of Justice Statistics, the Bureau of Labor Statistics, the Department of Housing and Urban Development, and the Department of Agriculture.</AbstractNarration>
+    <MinAmdLetterDate>04/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1664544</AwardID>
+    <Investigator>
+      <FirstName>Kurt</FirstName>
+      <LastName>Beron</LastName>
+      <EmailAddress>kberon@utdallas.edu</EmailAddress>
+      <StartDate>04/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Wenhua</FirstName>
+      <LastName>Di</LastName>
+      <EmailAddress>wenhua.di@dal.frb.org</EmailAddress>
+      <StartDate>04/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at Dallas</Name>
+      <CityName>Richardson</CityName>
+      <ZipCode>750803021</ZipCode>
+      <PhoneNumber>9728832313</PhoneNumber>
+      <StreetAddress>800 W. Campbell Rd., AD15</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1352</Code>
+      <Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1320</Code>
+      <Text>ECONOMICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1333</Code>
+      <Text>METHOD, MEASURE &amp; STATS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1331</Code>
+      <Text>SOCIOLOGY</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

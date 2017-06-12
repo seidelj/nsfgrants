@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Quantum Random Walking for Ultra-High Speed, Parallel and Truly-random Number Generation</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2017</AwardExpirationDate>
+    <AwardAmount>224825</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Peter Atherton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project includes: 1) development of novel encryption and authentication technology to improve cybersecurity and 2) the reduction of economic loss due to data breaches. The larger societal need for new technologies in the cyber arena has been well documented over the past 10 years. With the growing dependence on computers in practically every aspect of modern life, use of social media, large industries moving towards high performance (faster) computing networks and the coming era of the Internet of Things (IoT), the market for cyber technology is expected to grow at a steady rate of as much as 15% annually. This project will create a high speed, parallel and Truly-Random Number Generator (TRNG) with signal embedding capabilities. With an optical core, the device will have advantages over many of the currently available, pseudo-RNG devices based on silicon chip technologies that have been shown vulnerable to hackers. Additionally, this device will provide a framework for continuous development and possible online authentication features to compliment the hardware.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will result in development of a prototype device to assess the feasibility of a commercial product. The basis of the innovation is the use of quantum phenomena in optics to create randomness, also known as noise. Quantum mechanics has proven to be the underlying mechanism for noise processes used the world over in encryption of data. In this case, the process of creating noise can be adjusted, oscillated at some frequency, to produce embedded signals overlaid with the random output. This gives the final design applications well beyond encryption. With the rise of high performance computing networks in scientific simulations, health care patient tracking, financial institution accessibility, education, etc., the ability to use the embedding feature to track authentication credentials and perform continuous monitoring of equipment accessing a network becomes paramount to securing networks as well as data. During this project the basic design will be refined with the aim of producing a rescaled, commercial product.</AbstractNarration>
+    <MinAmdLetterDate>12/12/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/12/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1646995</AwardID>
+    <Investigator>
+      <FirstName>Carol</FirstName>
+      <LastName>Scarlett</LastName>
+      <EmailAddress>cyscarlett@gmail.com</EmailAddress>
+      <StartDate>12/12/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Axion Technologies</Name>
+      <CityName>Tallahassee</CityName>
+      <ZipCode>323051712</ZipCode>
+      <PhoneNumber>6313988746</PhoneNumber>
+      <StreetAddress>10724 Sycamore Ridge Ln</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8033</Code>
+      <Text>Hardware Software Integration</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SI2-SSE: Enabling Chemical Accuracy in Computer Simulations: An Integrated Software Platform for Many-Body Molecular Dynamics</AwardTitle>
+<AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>499918</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajiv Ramnath</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is jointly funded by the Office of Advanced Cyberinfrastructure and and the Division of Chemistry within the Directorate of Mathematical and Physical Sciences. As attested by the 2013 Nobel Prize in Chemistry awarded to Martin Karplus, Michael Levitt, and Arieh Warshel, molecular-level computer simulations have become indispensable in many research areas, including chemistry, physics, materials science, and biochemistry, and often provide fundamental insights that are otherwise difficult to obtain. Nowadays, computer simulations are used to complement, guide, and sometimes replace experimental measurements, reducing the amount of time and money spent on research to bring ideas from the lab to practical applications. In the pharmaceutical industry computer simulations play a key role in structure-based drug design as demonstrated by the development of HIV protease inhibitors. In the chemical industry, computer modeling guides the design of new catalysts as well as novel materials for applications in more efficient batteries, and fuel and solar cells. More recently, there has been significant success in using of computer simulations to design more effective chemical processes as well as to provide information on safety issues. However, both the realism and the predictive power of a molecular-level computer simulation directly depend on the accuracy with which the interactions between molecules are described. To address the limitations of existing simulation approaches, the project group has recently developed a new theoretical/computational methodology that has been shown to display unprecedented accuracy when applied to a variety of molecular systems. The overarching goal of the proposed research is the implementation of this new methodology into an integrated and publicly available software platform that will allow the scientific community to address a broad range of problems through computer simulations. Potential applications include, but are not limited to, the rational design of new drugs as well as novel materials for water purification and the detection of toxic compounds and explosives, the virtual screening of catalysts for more efficient chemical processes, the development of new batteries, solar and fuel cells, and biomolecular structure prediction. A diverse group of high school, undergraduate, and graduate students will be directly involved in different aspects of the proposed research. The students will thus acquire critical knowledge about computer simulations and programming, which will significantly enhance their competitiveness in today's computer-driven job market. Given its multidisciplinary and multifaceted nature, the proposed research will promote scientific progress at different levels and contribute to the development of new technologies that will advance the national health, prosperity and welfare, as well as secure the national defense.&lt;br/&gt;&lt;br/&gt;The proposed research focuses on the development and implementation of unique software elements that will enable computer simulations on both CPU and GPU architectures using the so-called many-body molecular dynamics (MB-MD) methodology developed by the Paesani group. These software elements will be made publicly available to the scientific community through an integrated platform. MB-MD is a new simulation methodology that has already been shown to provide unprecedented accuracy in molecular simulations of a variety of molecular systems from the gas to the condensed phase. The new software elements comprise three components integrated in a unique software platform: a suite of publicly available computational tools for the automated generation of many-body potential energy functions from electronic structure data; a client-server architecture for the calculation of the required electronic structure data through volunteer computing; independent CPU and GPU plugins for the OpenMM toolkit which will enable MB-MD simulations of generic molecular systems across different phases. In parallel with the proposed research and software engineering projects, outreach and mentoring activities to promote STEM disciplines among students from underprivileged and underrepresented minorities through the PI and Co-PI direct involvement in several outreach programs at UC San Diego and the San Diego Supercomputer Center. These activities are specifically designed to increase the involvement and advancement of women, minorities, and economically disadvantaged groups across different education levels, from high school to undergraduate and graduate students.</AbstractNarration>
+<MinAmdLetterDate>03/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1642336</AwardID>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Goetz</LastName>
+<EmailAddress>agoetz@sdsc.edu</EmailAddress>
+<StartDate>03/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Zonca</LastName>
+<EmailAddress>zonca@sdsc.edu</EmailAddress>
+<StartDate>03/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Francesco</FirstName>
+<LastName>Paesani</LastName>
+<EmailAddress>fpaesani@ucsd.edu</EmailAddress>
+<StartDate>03/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8005</Code>
+<Text>Scientific Software Elements</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

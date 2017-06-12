@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Targeted Infusion Project: The Impact of Infusing Soft Matter Into Undergraduate General and Physical Chemistry Courses</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2019</AwardExpirationDate>
+    <AwardAmount>245445</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Andrea Johnson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP) through Targeted Infusion Projects supports the development, implementation, and study of evidence-based innovative models and approaches for improving the preparation and success of HBCU undergraduate students so that they may pursue STEM graduate programs and/or careers. The project at North Carolina Central University (NCCU) seeks to develop an integrated undergraduate education, training, and research initiative in polymer science by infusing topics on soft matter into two gatekeeper chemistry courses. NCCU is one of four partners within the Triangle Materials Research Science and Engineering Center (MRSEC), but the association is limited since there is little polymer research and training and no formal polymer course offerings at NCCU. The infusion of polymer science in foundational chemistry courses, the provision of research experiences to undergraduates, and the strengthening of the existing relationship with the NSF Triangle MRSEC will have a direct effect on students and faculty at NCCU. The proposed project will help improve student retention and thereby inspire these students to pursue graduate studies and/or careers in STEM disciplines.&lt;br/&gt;&lt;br/&gt;The overall goal of the project is to infuse polymer content into the General Chemistry and Physical Chemistry courses. The specific goals are to: 1) develop online video content focused on polymers as an engaging topic to supplement ACS core content for undergraduates enrolled in general chemistry and physical chemistry courses; and 2) engage undergraduates in polymer research through the laboratory components of their general and physical chemistry courses. The long-term goal is to create an integrated polymer education, training, and research initiative at NCCU with strong connections to soft matter expertise partners. This will help improve student performance in gatekeeper courses, and expose students to polymer research through their general and physical chemistry laboratories.</AbstractNarration>
+    <MinAmdLetterDate>10/17/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/17/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1623056</AwardID>
+    <Investigator>
+      <FirstName>Darlene</FirstName>
+      <LastName>Taylor</LastName>
+      <EmailAddress>dtaylor@nccu.edu</EmailAddress>
+      <StartDate>10/17/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ayesha</FirstName>
+      <LastName>Boyce</LastName>
+      <EmailAddress>ayesha.boyce@uncg.edu</EmailAddress>
+      <StartDate>10/17/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>North Carolina Central University</Name>
+      <CityName>Durham</CityName>
+      <ZipCode>277073129</ZipCode>
+      <PhoneNumber>9195307333</PhoneNumber>
+      <StreetAddress>1801 Fayetteville Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1594</Code>
+      <Text>HIST BLACK COLLEGES AND UNIV</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>AF: Medium: New Frontiers in Equilibrium Computation</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2021</AwardExpirationDate>
+    <AwardAmount>311616</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computing and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tracy J. Kimbrel</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Concepts and methodologies from economics and social sciences have found numerous applications in the study of the Internet and e-commerce. At the core of many such applications lies the notion of equilibria, which has been widely studied by game theorists and economists to model and predict the strategic behavior of selfish yet rational agents. During the past decade, the computation of equilibria in both games and markets has been studied intensively and many of the exciting developments have brought new insights towards a much better understanding of equilibria. At the same time, they opened up a window to many new research challenges. The goal of the project is to explore some of the important directions and problems that have emerged in the new frontiers of equilibrium computation. Research along directions pursued in the project will complement the already extensive literature in economics and social sciences on equilibria, by offering new perspectives through the lens of algorithms, approximation, and computational complexity. In addition to curriculum development, mentoring PhD students, and involving undergraduate students in accessible projects, the PIs will actively pursue outreach activities and broadly disseminate results obtained in the project.&lt;br/&gt;&lt;br/&gt;Some of the research directions that the PIs plan to explore include the following: 1) Deepen our understanding of the new exponential-time hypothesis for fixed-point computation employed by Rubinstein in his recent breakthrough, by exploring its connections with other natural conjectures on the exact complexity of fundamental equilibrium computation problems. 2) Explore connections between two problems that have been studied intensively in the literature, the problem of finding an approximate Nash equilibrium in an anonymous game with a polynomial precision and that in a two-player game with a constant precision. 3) Study the computation of equilibria in games and markets with a unique equilibrium. Equilibrium as a prediction tool is more meaningful when a unique equilibrium exists. 4) Work towards a dichotomy theorem for Arrow-Debreu market equilibria that aims to classify every family of utilities into those that are easy to solve and those that are intractable.</AbstractNarration>
+    <MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1703925</AwardID>
+    <Investigator>
+      <FirstName>Mihalis</FirstName>
+      <LastName>Yannakakis</LastName>
+      <EmailAddress>mihalis@cs.columbia.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Xi</FirstName>
+      <LastName>Chen</LastName>
+      <EmailAddress>xc2198@columbia.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Columbia University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100276902</ZipCode>
+      <PhoneNumber>2128546851</PhoneNumber>
+      <StreetAddress>2960 Broadway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7796</Code>
+      <Text>ALGORITHMIC FOUNDATIONS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7924</Code>
+      <Text>MEDIUM PROJECT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7932</Code>
+      <Text>COMPUT GAME THEORY &amp; ECON</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7927</Code>
+      <Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

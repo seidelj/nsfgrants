@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Developing Metallacrown Scaffolds for Luminescence, Magnetism and Supramolecular Chemistry</AwardTitle>
+    <AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2020</AwardExpirationDate>
+    <AwardAmount>181535</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tingyu Li</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In this project funded by the Chemical Structure, Dynamic &amp; Mechanism B Program of the Chemistry Division, Professor Vincent Pecoraro of the Department of Chemistry at the University of Michigan, Ann Arbor is developing new classes of metallamacrocylic complexes called metallacrowns. These classes of complexes exhibit technologically important properties in magnetism and imaging. They have potential applications in near-infrared luminescent sensors, inorganic light emitting diodes and bar code labels, and quantum computing. The imaging agents are patentable and discussions are underway for licensing for cell fixation and necrosis assays. The project lies at the interface of organic, inorganic, and biological chemistry. It is well suited to the education of scientists at all levels and across international boundaries. It also serves as the basis for a Marie Curie International Research Staff Exchange Scheme program that brings junior scientists across Europe to the US for training and students from Professor Vincent Pecoraro's group to Europe. Outreach activities involving K-12 students and for students underrepresented in science are also part of the funded project. &lt;br/&gt;&lt;br/&gt;Metallacrowns display a rich array of photophysical properties, including the highest reported quantum yields and brightness for molecular Lanthanide complexes emitting in the near infrared spectral region. In addition, binuclear lanthanides encapsulated within diamagnetic metallacrowns show energy gaps that are appropriate for exploitation as qubits for the development of quantum computers. The proposed work exploits these properties to generate luminescent dendrimers and Janus dendrimers for imaging applications. The simple metallacrown motif will also be used as nodes to develop luminescent metal organic frameworks that may be used for sensing applications. These studies broaden the range of synthetic possibilities for both dendrimers and metal organic frameworks by leading to new structure types with either magnetic or luminescent properties.</AbstractNarration>
+    <MinAmdLetterDate>04/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1664964</AwardID>
+    <Investigator>
+      <FirstName>Vincent</FirstName>
+      <LastName>Pecoraro</LastName>
+      <EmailAddress>vlpec@umich.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Michigan Ann Arbor</Name>
+      <CityName>Ann Arbor</CityName>
+      <ZipCode>481091274</ZipCode>
+      <PhoneNumber>7347636438</PhoneNumber>
+      <StreetAddress>3003 South State St. Room 1062</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9102</Code>
+      <Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>057Z</Code>
+      <Text>(QL) Quantum Leap</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7203</Code>
+      <Text>QUANTUM INFORMATION SCIENCE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7234</Code>
+      <Text>SENSORS NON-SOLICITATION RESEA</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8990</Code>
+      <Text>Optics and Photonics</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

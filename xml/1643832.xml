@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Science Scholars Program</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardAmount>647009</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Crosby</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This National Science Foundation (NSF) Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM) project at Saint Joseph's College in Standish, Maine will provide scholarships and other support for talented low-income students pursuing degrees in biology, environmental science, biochemistry, chemistry, or marine science. Support services will include a cohort model, a week-long freshman STEM field research experience, faculty/student workshops to discuss potential research projects, faculty and peer mentors, STEM seminar series, a multi-year capstone research project, career development, e-portfolio, and early-alert retention support. The program will increase the number of STEM graduates entering the workforce to address the labor needs of the New England region and ultimately improve the economic competitiveness of the United States.&lt;br/&gt;&lt;br/&gt;The Science Scholars program will enroll two cohorts of low-income, academically talented students. Student support activities created though the program will help to increase first-year retention rates among all students in STEM disciplines and lead to an increase in four-year graduation rates. The project will also conduct a research study on how progressive engagement with STEM research, guided by a faculty mentor throughout the students' four years in the program, impacts self-efficacy, and how this correlates to retention, graduation, and post-graduation placement in STEM-related employment or graduate work. Student self-efficacy will be evaluated using the Academic Milestones Scale, The College Self-Efficacy Inventory, Patterns of Adaptive Learning Scale, and The Group Environment Questionnaire.  Surveys will be combined with pre- and post-focus groups and written reflections to connect student self-efficacy to academic outcomes. The findings from the program will be disseminated widely to the science education community.</AbstractNarration>
+<MinAmdLetterDate>05/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1643832</AwardID>
+<Investigator>
+<FirstName>Marion</FirstName>
+<LastName>Young</LastName>
+<EmailAddress>myoung@sjcme.edu</EmailAddress>
+<StartDate>05/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Jury</LastName>
+<EmailAddress>sjury@sjcme.edu</EmailAddress>
+<StartDate>05/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Johan</FirstName>
+<LastName>Erikson</LastName>
+<EmailAddress>jerikson@sjcme.edu</EmailAddress>
+<StartDate>05/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Saint Joseph's College</Name>
+<CityName>Standish</CityName>
+<ZipCode>040845263</ZipCode>
+<PhoneNumber>2078937892</PhoneNumber>
+<StreetAddress>278 Whites Bridge Rd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Using Natural Hydrology as a Benchmark for Urban Stormwater Management</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hydrology is the study of water movement through land surfaces and the atmosphere. Hydrology in cities is very different from natural landscapes. Impervious surfaces, such as road and buildings, do not allow water to soak into the ground, resulting in higher amounts of surface runoff. Surface runoff from impervious surfaces, called stormwater, can cause flooding, pollute streams, and degrade downstream ecosystems. The goal of this project is to determine the flows of water in natural landscapes, then use these values as "benchmarks" for managing urban hydrology. If urban hydrology is able to replicate natural hydrology, the environmental problems associated with stormwater will be minimized. Prof. Tim Fletcher and Dr. Matthew Burns from the University of Melbourne will be hosting this research project. Prof. Fletcher and Dr. Burns are both experts in urban hydrology and stormwater management, and their research is well cited across the globe.&lt;br/&gt;&lt;br/&gt;Hydrologists categorizes water movement into four general pathways: precipitation (P), evapotranspiration (ET), infiltration (I), and surface runoff (R). The water balance equation is defined as P = ET + I + R. The first objective of this project is to determine the annual volumes of P, ET, I, and R for multiple watersheds in southeast Australia. Then, these values will be assigned as urban hydrologic benchmarks. For instance, the volume of water that infiltrates in natural watersheds should be matched in urban watersheds. The benefit of this project being conducted in southeast Australia is the semi-arid climate, which contrasts similar studies that are being conducted in humid regions. Understanding the different hydrologic patterns as a function of climate will inform stormwater engineers, city planners, and environmental regulators on how to set appropriate urban stormwater management goals for their respective locations. &lt;br/&gt;  &lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by the NSF and the Australian Academy of Science.</AbstractNarration>
+<MinAmdLetterDate>05/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714000</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Stillwell</LastName>
+<EmailAddress/>
+<StartDate>05/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stillwell               Charles        C</Name>
+<CityName>Raleigh</CityName>
+<ZipCode>276063290</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5912</Code>
+<Text>AUSTRALIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Dissertation Research: Revealing the spatial distribution of risk in animal groups</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>13190</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090500</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jodie Jawor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Non-technical Abstract&lt;br/&gt;Animal groups are remarkable for their ability to interact with the environment in a way that individuals are unable to, such as through migration, collective intelligence, or predator avoidance. For example, predators attacking highly coordinated fish schools have little success due to how efficient information transmission is in the group. The technological challenges of filming and tracking large groups of animals have limited our understanding of how they are so effective at predator avoidance, but recent advances in computer vision and high-speed filming now allow us to accurately recreate these information transmission networks and show how information moves through animal groups. Insights into these networks have put forth predictions that are at odds with long-established hypotheses on where in the group animals are safest: classic behavioral ecology theory suggests the center, while new network data suggests the edge of the group. The research carried out here will for the first time test these competing hypotheses. Live interactions between a northern pike predator and schools of golden shiners will be filmed in the laboratory and then recreated from a sensory network perspective using sophisticated computer vision software to better understand how information is transferred and the ramifications of individual location in the group. The experiment will provide insights into the fields of behavioral ecology, sensory ecology, game theory, and network science. It will provide scientific and statistical training to graduate and undergraduate students, and findings will be disseminated at scientific conferences, through blogging, and through science outreach to local high schools.&lt;br/&gt;&lt;br/&gt;Technical Abstract&lt;br/&gt;For decades, Hamilton's Selfish Herd theory has served as the expectation for the spatial distribution of predation risk in animal groups. In this model, cohesive grouping emerges as animals move to position other individuals between themselves and a potential hidden predator, hence minimizing their "domain of danger". Support for this theory has been mixed for mobile animal groups such as fish schools, however, because the Selfish Herd theory does not allow for prey to respond to the predator. Real predator-prey interactions, on the other hand, are dynamic. Until very recently, directly testing Hamilton's Selfish Herd theory in fish schools has been impossible due to technological limitations on the quality and quantity of behavior data. Recent advances in computer vision and high-speed cameras, however, now allow for accurate measures of the fine-scale movements of all members of fish schools, as well as estimations of the visual information available to them. Networks constructed from this visual information are an accurate predictor of how movement decisions transfer through schools of fish. Here research will directly test the non-exclusive hypotheses of whether spatial positioning or network structure is a more accurate predictor of mortality risk by filming predator-prey interactions between golden shiners and a northern pike predator in the laboratory.</AbstractNarration>
+    <MinAmdLetterDate>03/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1701289</AwardID>
+    <Investigator>
+      <FirstName>Daniel</FirstName>
+      <LastName>Rubenstein</LastName>
+      <EmailAddress>dir@princeton.edu</EmailAddress>
+      <StartDate>03/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Grobis</LastName>
+      <EmailAddress>mgrobis@princeton.edu</EmailAddress>
+      <StartDate>03/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Princeton University</Name>
+      <CityName>Princeton</CityName>
+      <ZipCode>085442020</ZipCode>
+      <PhoneNumber>6092583090</PhoneNumber>
+      <StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7659</Code>
+      <Text>ANIMAL BEHAVIOR</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: System Theoretic Methods for Understanding the Dynamics of Cognition</AwardTitle>
+    <AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2022</AwardExpirationDate>
+    <AwardAmount>500000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Atul G. Kelkar</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Faculty Early Career Award (CAREER) project is aimed at understanding cognitive functions in the human brain by investigating neural mechanisms of cognition using tools from systems and control theory. The research will develop mathematical models that will help understand internal brain dynamics. The study will focus on establishing connections between properties of neural circuits and their information processing functionality. The research will use brain activity data from human subjects to validate the newly developed mathematical models to establish connections between brain dynamics and cognitive functions. The outcomes of this project can provide insights into developing treatments for neurological conditions associated with altered cognitive functions such as loss of cognitive ability due to severe brain injuries. The project will also help to educate scientists working in the cross-cutting discipline of systems theory and neuroscience and will improve interpretability and accessibility of neurological diagnostics. The PI has well integrated educational outreach program for students from a St. Louis magnet school that includes use of neurotechnology kits for exploring and visualizing brain dynamics. This research will foster sustained excitement for scientific inquiry in mathematics and brain science. &lt;br/&gt;&lt;br/&gt;This CAREER project will develop tools and techniques to understand certain cognitive states using methods of dynamics and control theory to analyze the dynamic behavior of neurons and the networks they form. The research will shed light on the role of dynamics and control within micro-scale neuronal networks as they relate to information processing. It will help understand how the dynamics of brain networks enable cognitively salient operations such as multi-modal integration and information retention. Along with these control-theoretic developments, this work will explore new methods for model- and data-driven characterization of neuronal dynamics at multiple spatial scales. The three specific objectives of this work are: (i) analyzing the relationship between macro-scale brain dynamics and cognitive function through new developments in dynamics and control; (ii) studying how neural dynamics may emerge in ways that support information processing; (iii) ensuring the long-term success of the program through numerous pedagogical and curricular endeavors.</AbstractNarration>
+    <MinAmdLetterDate>02/05/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/05/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653589</AwardID>
+    <Investigator>
+      <FirstName>ShiNung</FirstName>
+      <LastName>Ching</LastName>
+      <EmailAddress>shinung@ese.wustl.edu</EmailAddress>
+      <StartDate>02/05/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Washington University</Name>
+      <CityName>Saint Louis</CityName>
+      <ZipCode>631304862</ZipCode>
+      <PhoneNumber>3147474134</PhoneNumber>
+      <StreetAddress>CAMPUS BOX 1054</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7569</Code>
+      <Text>Dynamics, Control and System D</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>030E</Code>
+      <Text>CONTROL SYSTEMS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>034E</Code>
+      <Text>Dynamical systems</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8024</Code>
+      <Text>Complex Systems</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Project: Addressing the Need for Innovative Education of Audio Visual Specialists</AwardTitle>
+    <AwardEffectiveDate>01/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2019</AwardExpirationDate>
+    <AwardAmount>212425</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>R. Corby Hovis</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This is a collaborative project involving Carroll Community College (Award DUE-1600748) and Howard Community College (Award DUE-1600754) in Maryland, and it builds on a previous Advanced Technological Education (ATE) project (Award DUE-0802311) at Lone Star College-Montgomery in Texas. Audio Visual Systems (AVS) specialists are needed to support the specialized communication and presentation needs of businesses and other organizations. AVS specialists are employed in universities, K-12 schools, scientific research centers, conference centers, hotels, theaters, and other venues that have integrated, high-tech communication systems. These technicians require advanced training in industry-specific technologies that support a multitude of presentation venues, which in turn support educational, conference, corporate, entertainment, and other events. The two collaborating colleges will jointly create an innovative AVS program to prepare students for this growing, interdisciplinary field, in which the technology continues to advance and to require deeper knowledge of concepts in science, mathematics, and engineering. The new program will provide a pathway for students, offering certificates, an associate degree, and the option of transferring to a four-year program.&lt;br/&gt;&lt;br/&gt;The AAS degree program in Audio Visual Technology Systems (AVTS) will partner with local businesses and other organizations to offer on-the-job training, as well as potential post-graduation employment. Students will receive hands-on instruction in the application of electrical, lighting, and acoustical theories and designs. The program will be led by faculty who have substantial industry experience. Specific objectives of the project are to develop courses and curricula; recruit students into certificate and degree programs; develop and strengthen industry relationships; ensure smooth transitions for students from high schools to the two-year program, and from the two-year program to four-year programs; and disseminate the curriculum and other resources to other community colleges.</AbstractNarration>
+    <MinAmdLetterDate>01/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1600748</AwardID>
+    <Investigator>
+      <FirstName>Seth</FirstName>
+      <LastName>Schwartz</LastName>
+      <EmailAddress>sschwartz@carrollcc.edu</EmailAddress>
+      <StartDate>01/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Carroll Community College</Name>
+      <CityName>Westminster</CityName>
+      <ZipCode>211576944</ZipCode>
+      <PhoneNumber>4103868495</PhoneNumber>
+      <StreetAddress>1601 Washington Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7412</Code>
+      <Text>ADVANCED TECH EDUCATION PROG</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1032</Code>
+      <Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

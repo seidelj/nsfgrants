@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Hardness Strength and Ductility Tester for Field Assessment of Structures</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>749996</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Debasis Majumdar</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project will support the technological refinement and concomitant commercialization of the first accurate and portable instrument that can perform in the field nondestructive test for hardness, strength and ductility of existing infrastructure. The material properties measured include yield strength, work hardening exponent and ultimate tensile strength of metals, specifically steel. The on-shore oil and gas pipeline transmission industry has pressing needs for non-destructive tests because of the aging infrastructure, national need for energy, and recent explosions and leaks that have cost lives and billions in remediation. Although transmission pipelines have low failure rate per mile of assets, pipeline operators are asked to proactively enhance pipeline integrity where they do not have all the necessary strength data. Therefore, there is an immediate need to verify strength during the 80,000 excavations done each year so that the life of these costly assets can be extended by identifying and remediating the few sections that are vulnerable within the extended network of 300,000 miles of pipelines. Pipe cut-outs and hydrostatic pressure tests are alternatives to nondestructive testing, but both damage the asset and require expensive and complex service interruption. &lt;br/&gt;&lt;br/&gt;The overall technical objective of the Phase II work is to perform the necessary research and development to enable the development of engineering specifications, system integration, and validation of the instrument to successfully perform valuable nondestructive testing to provide precise and accurate material property data. The research and development program includes three milestones, each enabling the implementation of the research into design and manufacturing of beta test units. Milestone 1 is to enable full instrument functionality under adverse field environments such as vibration, moisture, and extreme temperatures. Milestone 2 is to perform the necessary work for designing ruggedized field units. Completion of this milestone will enhance the capability for initial field testing services. Milestone 3 is to develop the knowledge to fully and reliably integrate the system, validate the sub-systems, and package it for manufacturing. The overall goal is to enable the company to have the necessary knowledge and experience to enter the instrument market with a leasing program for use in pipeline inspections.</AbstractNarration>
+    <MinAmdLetterDate>02/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660214</AwardID>
+    <Investigator>
+      <FirstName>Simon</FirstName>
+      <LastName>Bellemare</LastName>
+      <EmailAddress>s.bellemare@bymmt.com</EmailAddress>
+      <StartDate>02/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Massachusetts Materials Technologies LLC</Name>
+      <CityName>Cambridge</CityName>
+      <ZipCode>021394662</ZipCode>
+      <PhoneNumber>6175025636</PhoneNumber>
+      <StreetAddress>810 Memorial Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>123E</Code>
+      <Text>CENTERS: ADVANCED MATERIALS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8025</Code>
+      <Text>Advanced Materials Processing</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

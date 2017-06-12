@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Degradable magnesium/polymer barrier membranes</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2018</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial application of this I-Corps project is faster and less painful bone grafting experiences for patients world-wide. Patients undergo millions of bone grafting procedures every year prior to dental implant placement, to fuse spinal vertebrae and following traumatic injuries such as combat blasts and motor vehicle accidents. Currently used bone grafting materials provide unreliable outcomes requiring repeat bone grafting procedures at substantial added costs to patients and the healthcare system. Development of improved bone grafting materials represents a significant commercial differentiation by enhancing the bone grafting patient experience.&lt;br/&gt;&lt;br/&gt;This I-Corps project is focused on better defining the commercial opportunity for a degradable magnesium-based barrier membrane for primary use in dental bone grafting procedures. Previously conducted NSF-funded research demonstrated that degradable magnesium devices enhanced bone regeneration following injury. This finding led to the assessment of a degradable magnesium-based barrier membrane in a dental defect which regenerated more bone than currently used materials. The current focus of the research is defining the economics surrounding the use of barrier membranes in dental bone grafting procedures and the key design criteria for developing such devices.</AbstractNarration>
+    <MinAmdLetterDate>11/01/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/01/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651930</AwardID>
+    <Investigator>
+      <FirstName>Charles</FirstName>
+      <LastName>Sfeir</LastName>
+      <EmailAddress>csfeir@pitt.edu</EmailAddress>
+      <StartDate>11/01/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Pittsburgh</Name>
+      <CityName>Pittsburgh</CityName>
+      <ZipCode>152132303</ZipCode>
+      <PhoneNumber>4126247400</PhoneNumber>
+      <StreetAddress>University Club</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

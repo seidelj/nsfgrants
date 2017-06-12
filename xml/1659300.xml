@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CC*Data: National Cyberinfrastructure for Scientific Data Analysis at Scale (SciDAS)</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2020</AwardExpirationDate>
+    <AwardAmount>2952217</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Amy Walton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Scientific discovery is increasingly dependent on huge datasets that require computing at unprecedented scale. Laboratory computers and spreadsheets simply cannot handle the data flowing from modern measurement devices, such as DNA sequencers. Scientific experiments now require understanding of both the underlying science and the cyberinfrastructure (CI) ecosystem to design and execute necessary computations. Fortunately, significant and strategic support from the public and private sectors is creating a distributed computational ecosystem at the national level to help meet the computational demands of large datasets. This project, the Scientific Data Analysis at Scale (SciDAS) is designed to improve flexibility and accessibility to national resources, helping researchers more effectively use a broader array of these resources. SciDAS is developed using large-scale systems biology and hydrology datasets, but is extensible to many other domains.&lt;br/&gt;&lt;br/&gt;On a technical level, SciDAS federates access to multiple national CI resources including NSF Cloud, Open Science Grid, the Extreme Science and Engineering Discovery Environment (XSEDE v2.0), petascale supercomputers such as COMET, and campus resources. Central to SciDAS is the use of ExoGENI dynamic networked infrastructure to enable Layer-2 connectivity and data movement between these resources and data repositories. SciDAS relies on the integrated-Rule-Oriented-Data-System (iRODS), enhanced with software-defined-networking (SDN) capabilities, to support network-aware data management decisions and efficient use of network resources. The distributed and scalable nature of both the data-sharing and the compute infrastructure are exploited to optimize for computer and data locality, boosting the performance of workflows and scientific productivity. Scientific discovery use cases in systems biology and hydrology will drive cyberinfrastructure development at the petascale level while simultaneously generating useful results for domain scientists.</AbstractNarration>
+    <MinAmdLetterDate>02/07/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/07/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659300</AwardID>
+    <Investigator>
+      <FirstName>Claris</FirstName>
+      <LastName>Castillo</LastName>
+      <EmailAddress>claris@renci.org</EmailAddress>
+      <StartDate>02/07/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ray</FirstName>
+      <LastName>Idaszak</LastName>
+      <EmailAddress>rayi@email.unc.edu</EmailAddress>
+      <StartDate>02/07/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Frank</FirstName>
+      <LastName>Feltus</LastName>
+      <EmailAddress>ffeltus@clemson.edu</EmailAddress>
+      <StartDate>02/07/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Melissa</FirstName>
+      <LastName>Smith</LastName>
+      <EmailAddress>smithmc@clemson.edu</EmailAddress>
+      <StartDate>02/07/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>Ficklin</LastName>
+      <EmailAddress>stephen.ficklin@wsu.edu</EmailAddress>
+      <StartDate>02/07/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Clemson University</Name>
+      <CityName>CLEMSON</CityName>
+      <ZipCode>296340001</ZipCode>
+      <PhoneNumber>8646562424</PhoneNumber>
+      <StreetAddress>230 Kappa Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>South Carolina</StateName>
+      <StateCode>SC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7726</Code>
+      <Text>DATANET</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7433</Code>
+      <Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Innovative High Throughput Automated System for Individualized Poultry Vaccination and Recognition and Removal of Unhealthy Chicks</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ruth M. Shuman</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) will be to help enhance disease resistance in poultry and increase yields due to the delivery of only healthy, fully vaccinated chicks to farms. These healthier chicks will reduce the need for antibiotics in poultry, helping in the movement to combat antimicrobial resistance. This technology has immediate applications in other food animal industries and fisheries and allows for data capture on numbers of animals and types of treatments given. Broader applications would include any image capture and analysis that relies on analytics to identify target areas and deliver substances to live animals or humans. In addition, the proposed system will lead to increased productivity, allowing the poultry industry to meet the world's growing nutritional needs.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes the development of technologies for screening and vaccinating live animals. This proposal brings innovation to the care of food animals allowing producers to move away from flock health, focusing instead on the care of individual animals. Individualized care is not practiced due to the high throughput needed to keep pace with large-scale commercial hatchery operation. The overarching objective of this proposal is to develop a system that safely and effectively processes 100,000 chicks per hour, preform health checks and target recognition, and delivers a vaccine to individual chicks. This specific SBIR project will focus on two main goals: 1) Development of an automated system to determine the health status of a day-of-age chick. The system will recognize unhealthy chicks and target them for removal. 2) Development of a targeting system to determine the position of a chick using key features and provide the system?s master controller with the coordinates for proper delivery of vaccines and/or biologicals to the correct location on the chick. Achieving these objectives will allow for further development of the product, adding in multiple lines for processing, leading to a fully commercial product.</AbstractNarration>
+    <MinAmdLetterDate>12/10/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/10/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647492</AwardID>
+    <Investigator>
+      <FirstName>Ramin</FirstName>
+      <LastName>Karimpour</LastName>
+      <EmailAddress>ramin.karimpour@als-s.com</EmailAddress>
+      <StartDate>12/10/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>APPLIED LIFESCIENCES &amp; SYSTEMS, LLC</Name>
+      <CityName>Raleigh</CityName>
+      <ZipCode>276073009</ZipCode>
+      <PhoneNumber>9194516628</PhoneNumber>
+      <StreetAddress>2804 GLEN BURNIE DR</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8038</Code>
+      <Text>Biotechnology</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

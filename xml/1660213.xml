@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Fiber Optic Based Nitrogen Oxides Sensor</AwardTitle>
+<AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this SBIR Phase II project will be the enhanced ability to monitor NOx optically using a unique approach that is fundamentally different from voltage biased solid electrolyte diffusion technology deployed commercially today. NSF Phase I activities brought to light the shortcomings of existing sensor technology, including slow response time and up to 90% "garbage data" that OEMs and regulatory authorities have to work around. Phase II efforts include improvement of Phase I prototypes where near instantaneous NOx detection to ~200 ppm was observed. NOx are a major pollutant and precursor to acid rain, surface ozone and smog formation. Worldwide regulatory bodies are driving NOx regulations to increasingly stringent levels, thus presenting even greater challenges for real-world emissions. Addressing these regulations, industry must deploy after-treatment technologies including selective catalyst reduction systems and lean NOx traps. Both of these technologies will benefit from a less expensive, more robust, and faster responding NOx sensor. With continued success, the new NOx sensor has the potential to significantly reduce emissions levels through a more accurate and much faster detection than current NOx detection techniques thus allowing the internal combustion engine to directly employ detection feedback to enhance emission controls.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project will continue the prototyping and characterization of an optical based Nitrogen Oxides (NOx) sensor technology not based on oxygen sensor derivatives found in the market today. We will further optimize the design and materials needed for a novel thermo-catalytic NOx sensing mechanism through continued experimentation and testing. Increasing the number and type of catalytic sensing elements and integrating them into existing OEM packaging will allow us to measure NOx as well as other gases including ammonia (NH3). Sensor calibration equations and response lookup-tables will help validate our new method for NOx detection with successful results creating the foundation of a new category of sensors based on this differential detection architecture. Current automotive NOx sensors do not meet response time, accuracy and price requirements as used in the industry where such parameters are critical. The Phase II will optimize the optical sensing mechanism, and planned designs of experiment will help refine this technology into a reliable and robust device. Besides NOx and NH3, our "inorganic taste buds" also derive carbon monoxide and unburned hydrocarbon concentration as a byproduct of the measurement process, thus providing additional utility for any combustion emissions control application.</AbstractNarration>
+<MinAmdLetterDate>04/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1660213</AwardID>
+<Investigator>
+<FirstName>Christian</FirstName>
+<LastName>Adams</LastName>
+<EmailAddress>chris.adams@multicore-photonics.com</EmailAddress>
+<StartDate>04/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Multicore Photonics, Inc.</Name>
+<CityName>Orlando</CityName>
+<ZipCode>328173249</ZipCode>
+<PhoneNumber>4077331485</PhoneNumber>
+<StreetAddress>5832 N. Dean Rd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>091E</Code>
+<Text>Light generation &amp; detection</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

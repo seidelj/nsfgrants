@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Data Assimilation for Massive Spatio-Temporal Systems Using Multi-Resolution Filters</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>84585</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gabor J. Szekely</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The research supported by this award will produce powerful and scalable open-source software for data assimilation in large spatio-temporal systems with varying degrees of nonlinearity. It will lead to improved inference, forecasts, diagnostics, downscaling, and calibration using data assimilation in many fields of science with direct impact on society, including weather forecasting, climate studies, renewable energy, and pollution monitoring. Despite the great importance and highly statistical nature of data assimilation, there is a lack of statisticians involved in this research area. Thus, the educational component of this project revolves around bridging the gap between the statistics and data-assimilation communities, and getting more statisticians involved in the latter.&lt;br/&gt;&lt;br/&gt;The principal investigator will develop approaches for filtering inference on high-dimensional states that can outperform existing methods in linear and nonlinear settings. The novel approaches are based on the multi-resolution approximation, a state-of-the-art method for spatial covariance approximations that employs many adaptive, compactly supported basis functions at multiple resolutions. Algorithmic implementations of the methods are highly scalable and can take full advantage of massively parallel high-performance computing systems. Validation, testing, and comparison of the methods will be carried out using realistic observations simulated from models of varying complexity.</AbstractNarration>
+    <MinAmdLetterDate>02/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1654083</AwardID>
+    <Investigator>
+      <FirstName>Matthias</FirstName>
+      <LastName>Katzfuss</LastName>
+      <EmailAddress>katzfuss@gmail.com</EmailAddress>
+      <StartDate>02/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas A&amp;M University Main Campus</Name>
+      <CityName>College Station</CityName>
+      <ZipCode>778454375</ZipCode>
+      <PhoneNumber>9798626777</PhoneNumber>
+      <StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1269</Code>
+      <Text>STATISTICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8048</Code>
+      <Text>Division Co-Funding: CAREER</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8012</Code>
+      <Text>CR, Earth System Models</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

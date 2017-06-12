@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>Collaborative Research: Arctic Horizons: Social Science and the High North</AwardTitle>
     <AwardEffectiveDate>12/15/2015</AwardEffectiveDate>
-    <AwardExpirationDate>11/30/2016</AwardExpirationDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
     <AwardAmount>170378</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -15,7 +15,7 @@
         <LongName>Directorate For Geosciences</LongName>
       </Directorate>
       <Division>
-        <LongName>Division Of Polar Programs</LongName>
+        <LongName>Office of Polar Programs (OPP)</LongName>
       </Division>
     </Organization>
     <ProgramOfficer>
@@ -35,9 +35,9 @@
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>Igor</FirstName>
-      <LastName>Pasternak</LastName>
-      <EmailAddress>gipasternak@alaska.edu</EmailAddress>
+      <FirstName>William</FirstName>
+      <LastName>Schnabel</LastName>
+      <EmailAddress>weschnabel@alaska.edu</EmailAddress>
       <StartDate>12/16/2015</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
@@ -51,9 +51,9 @@
       <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>William</FirstName>
-      <LastName>Schnabel</LastName>
-      <EmailAddress>weschnabel@alaska.edu</EmailAddress>
+      <FirstName>Igor</FirstName>
+      <LastName>Pasternak</LastName>
+      <EmailAddress>gipasternak@alaska.edu</EmailAddress>
       <StartDate>12/16/2015</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>

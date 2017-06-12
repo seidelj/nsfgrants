@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Data Analysis Techniques for the Epoch of Reionization and Beyond</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harshal Gupta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Joshua Dillon is awarded an NSF Astronomy and Astrophysics Postdoctoral Fellowship to conduct a program of research and education at the University of California, Berkeley.  Dillon will develop analysis techniques to enhance the sensitivity of large radio telescope arrays.  This will allow astronomers to detect gas from a time when the first stars formed in the Universe and influenced the formation of objects such as galaxies and black holes.  Alongside this research, Dillon will develop a course in data science for undergraduate astronomy research students.&lt;br/&gt;&lt;br/&gt;Dillon will create new foreground subtraction and baseline calibration techniques for the Hydrogen Epoch of Reionization Array experiment (HERA), which aims to detect hydrogen from the Epoch of Reionization (EoR).  He will also develop and assess designs for future radio telescope arrays to capitalize on these techniques.   For the educational component of his work, Dillon will develop a course in data science for undergraduate students participating in HERA's summer research program.</AbstractNarration>
+<MinAmdLetterDate>05/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701536</AwardID>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Dillon</LastName>
+<EmailAddress/>
+<StartDate>05/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dillon                  Joshua         S</Name>
+<CityName>Berkeley</CityName>
+<ZipCode>94709</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1609</Code>
+<Text>NSF ASTRON &amp; ASTROPHY PSTDC FE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

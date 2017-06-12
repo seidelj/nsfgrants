@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Research Data Management Implementations: Impact on Science</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>69859</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Chadduck</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The pace and scale of modern research requires researchers to navigate a large number of complex data management activities to collect, organize, analyze, share, store, and preserve their data, while also working to make their data more open, discoverable, and reproducible. &lt;br/&gt;&lt;br/&gt;These data management activities are critical for modern research and collaborative science initiatives and maximize the utility of government funded research. Unfortunately, researchers often lack the time, resources, and expertise to perfectly execute all of these activities. While requirements for data management have been in place for six years, many researchers are still not entirely clear on what a good implementation strategy should look like or what their specific responsibilities are with respect to data management. There are few good Research Data Implementations (RDMI) exemplars and a lack of common standards and practices. Data remains difficult to manage and reproduce throughout its lifecycle, and solutions are still carried out and implemented in a piecemeal fashion.&lt;br/&gt;&lt;br/&gt;In March of 2013, an NSF-funded workshop on RDMI brought together 109 data management experts, with an additional 73 experts attending online, to discuss RDMI implementations as they relate to domain specific workflows and deployments. These discussions were very helpful to the scientific community. There is a broad community of researchers that would benefit from RDMI, but RDMI availability is currently limited to institutions and domains with the resources and specialized personnel to develop them. After 4 years, the scientific community would greatly benefit from an opportunity to come together again to reflect on what has been accomplished to date related to Data Management, share achievements and assess gaps and opportunities for further contributions, and contribute with suggestions for a future roadmap. We propose to organize a second RDMI workshop to be held in 2017. This new workshop will focus on:(a)the impact that RDMI have on science, (b) developing RDMI in partnership with research communities, and (c) increasing access to RDMI for the broader research community. Workshop organizers will invite submission of position and experience papers and encourage dialogue on these focus areas through talks, panel discussions, and breakout sessions. Individual case studies will be discussed and workshop participants, through breakout sessions, will offer feedback and suggestions that will aid in refining future RDMI implementations.</AbstractNarration>
+<MinAmdLetterDate>04/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1661523</AwardID>
+<Investigator>
+<FirstName>Hakizumwami B.</FirstName>
+<LastName>Runesha</LastName>
+<EmailAddress>runesha@uchicago.edu</EmailAddress>
+<StartDate>04/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>5801 South Ellis Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7726</Code>
+<Text>DATANET</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8048</Code>
+<Text>Data Infrstr Bldg Blocks-DIBBs</Text>
+</ProgramReference>
+</Award>
+</rootTag>

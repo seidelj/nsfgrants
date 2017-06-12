@@ -44,5 +44,17 @@
       <StateName>Indiana</StateName>
       <StateCode>IN</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1266</Code>
+      <Text>APPLIED MATHEMATICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

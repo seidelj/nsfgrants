@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:   Resilient Control Systems with respect to Instrumentation Attacks: Theory and Testbed Verification</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>134922</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Corman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In a cyber-physical system, the operation of the physical plant is typically maintained by closed-loop control, which is intended to keep the plant process variables in a desired range. A major part of any control system is its instrumentation, i.e., sensors and actuators. Due to information exchange between the controller and the instrumentation, the control system performance may be compromised by attacks on its sensors and actuators. Indeed, the sensors may project erroneous information to the controller and the actuators may receive undesirable commands, possibly leading to a catastrophe. In this research, the control system is referred to as resilient, if it identifies attacks on the sensors and actuators involved in the feedback loops and mitigates undesirable effects. The goal of the proposed research is to develop a theory for analysis and design of resilient control systems with respect to attacks on the instrumentation and to demonstrate its efficacy using the High Performance Building Testbed at the United Technologies Research Center. The broader impact of the project is in its effect on cyber-security of critical infrastructure systems, such as power, telecommunications, transportation, high performance buildings, gas, oil, and water.&lt;br/&gt;&lt;br/&gt;    In this project, we consider control systems, in which the sensors and actuators may be under various types of instrumentation attacks through transfer function modification and/or external deception signal injection. This project include developing the following techniques: A method for system vulnerability evaluation with respect to various instrumentation attacks; a method for optimal controller design to minimize performance degradation under attacks, while meeting desired performance specifications under non-attacked condition; a method for actuator/sensor health assessment in control systems using the synchronous detection approach; a method for design of resilient feedback controllers, driven by the actuator and sensor health to detect, identify, and mitigate instrumentation attacks; a method for knowledge fusion for process variable estimation based on multiple sensors and control signal calculation based on the knowledge fusion results. The project will significantly enhance the field of CPS from the point of view of resiliency. &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>05/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723341</AwardID>
+<Investigator>
+<FirstName>Liang</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>liang.zhang@uconn.edu</EmailAddress>
+<StartDate>05/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>Storrs</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 Whitney Road Ext.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

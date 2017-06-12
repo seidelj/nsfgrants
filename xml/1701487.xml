@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Bringing Galaxy Evolution into Focus by Pushing SED Models to the Limit</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harshal Gupta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Joel Leja is awarded an NSF Astronomy and Astrophysics Postdoctoral Fellowship to conduct a program of research and education at Harvard University.  Leja will build an accurate theoretical model to infer the physical properties of galaxies from astronomical observations.  Understanding these properties will allow astronomers to gain a better understanding of how galaxies form and evolve.  Alongside this research, Leja will provide science enrichment to middle school students through "reverse" science fairs, and he will serve as a mentor to minority undergraduate students to help prepare them for graduate studies in astronomy.&lt;br/&gt;&lt;br/&gt;Leja will develop a realistic model to fit the spectral energy distribution of galaxies to better than about 50%.  He will include the effects of active galactic nuclei in the model and calibrate it against well-studied photometric and spectroscopic galaxy catalogs.  After full calibration, he will fit the model to nearly 10,000 galaxies spanning redshifts from 0.2 to 3.0 available in photometric catalogs.  The fitting will yield the deepest, largest sample of self-consistent stellar masses and star formation rates to date and provide key constraints on feedback models of galaxy formation.   For the educational component of his work, Leja will organize reverse science fairs where professional scientists will present their research to middle school students, and he will mentor minority undergraduate students in a summer program that prepares them for astronomy graduate programs through research and study experiences.</AbstractNarration>
+<MinAmdLetterDate>05/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701487</AwardID>
+<Investigator>
+<FirstName>Joel</FirstName>
+<LastName>Leja</LastName>
+<EmailAddress/>
+<StartDate>05/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Leja                    Joel</Name>
+<CityName>Somerville</CityName>
+<ZipCode>021432217</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1609</Code>
+<Text>NSF ASTRON &amp; ASTROPHY PSTDC FE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7480</Code>
+<Text>ARCHIVAL DATA ANALYSIS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

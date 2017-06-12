@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CIF: Small: Student Travel Grants for IEEE Wireless Communications and Networking Conference 2017</AwardTitle>
+    <AwardEffectiveDate>11/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>20000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computing and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Richard Brown</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The IEEE Wireless Communications and Networking Conference (WCNC) is a major conference of the IEEE Communications Society. It has been held continuously since 1999. It covers a broad range of topics in wireless communications and networking including advanced cellular systems, device-to-device communication, multi-antenna communication schemes, channel modeling, interference management, and wireless energy transfer. The conference brings together industry, academia, and government and regulatory bodies. The technical program for WCNC 2017 will feature numerous technical sessions including physical layer fundamentals, medium access control, cross-layer design, wireless networks, emerging technologies, architectures, and services, as well as tutorials, workshops, and technology/business panels.&lt;br/&gt;&lt;br/&gt;WCNC 2017 will be hosted by the city of San Francisco and Silicon Valley from March 19th to 22nd. Historically, the conference has had approximately 10% student participation. A goal of the organizing committee this year is to increase student participation to 15%. To do this, the organizing committee created two Student Outreach Chairs positions and has planned four specific student outreach activities. This grant provides travel assistance to approximately 50 deserving US-based students to allow for increased student participation and engagement at WCNC 2017. The Student Outreach chairs will support applications from a diverse mix of students and will make efforts to draw applications from female students and students from underrepresented minorities. After the 2017 WCNC event is complete, the Student Outreach Chairs will email student attendees a short online survey to assess the effectiveness of the outreach events as well as the travel grant application and award process.</AbstractNarration>
+    <MinAmdLetterDate>11/21/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/21/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1664700</AwardID>
+    <Investigator>
+      <FirstName>Shalinee</FirstName>
+      <LastName>Kishore</LastName>
+      <EmailAddress>skishore@lehigh.edu</EmailAddress>
+      <StartDate>11/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Lehigh University</Name>
+      <CityName>Bethlehem</CityName>
+      <ZipCode>180153005</ZipCode>
+      <PhoneNumber>6107583021</PhoneNumber>
+      <StreetAddress>Alumni Building 27</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7797</Code>
+      <Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7935</Code>
+      <Text>COMM &amp; INFORMATION THEORY</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

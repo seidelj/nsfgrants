@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Redefining STEM Teacher Preparation by Teaching, Learning ,and Leading with Schools and Communities</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2022</AwardExpirationDate>
+    <AwardAmount>642292</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Teri Murphy</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>With funding from the NSF Robert Noyce Teacher Scholarship Program, the Loyola University of Chicago (LUC) School of Education, College of Arts &amp; Sciences, Center for Science and Math Education will partner with Chicago Public Schools (CPS) to recruit and prepare mathematics and science majors for careers in teaching secondary mathematics or science. Specifically, this project will recruit two to four undergraduate and up to three graduate LUC-Noyce Scholars per year, with each Scholar receiving one to two years of support, for a total of at least 24 new teachers prepared. The project will leverage and expand substantial existing school, community, and informal education partnerships in order to prepare teachers to support students' learning, development, and achievement within the complex realities of urban schools and communities. Further, by studying the implemented teacher preparation model, the project will advance knowledge about preparing STEM teachers in close collaboration with urban schools and communities.&lt;br/&gt;&lt;br/&gt;The LUC-Noyce Scholars will be prepared through a program built on four key research-based cornerstones: (1) mutually-beneficial partnerships with schools and communities, (2) teacher preparation for diverse classrooms, (3) authentic teaching practices, and (4) participation in professional learning communities. The project will embed teacher education in Chicago schools and communities from the start to provide candidates with extensive opportunities to work alongside experts in high-need, high-performing educational settings, with an emphasis on fostering reflective teaching, learning and leadership skills. As part of the preparation to work with culturally and linguistically diverse students, all LUC-Noyce scholars will fulfill requirements for the Illinois State Board of Education's English as a second language (ESL) endorsement as well as the International Baccalaureate (IB) certification. LUC is the first undergraduate institution in the U.S. approved to prepare pre-service teachers in all three IB programmes: the Primary Years Programme (Grades K-5), the Middle Years Programme (Grades 5-10), and the Diploma Programme (Grades 11-12). Thus, this project will fill an important need to develop mathematics and science teachers who have the background, experience, and certification necessary to fill positions in the CPS high schools where all ninth and tenth grade students are enrolled in IB programs.</AbstractNarration>
+    <MinAmdLetterDate>03/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660794</AwardID>
+    <Investigator>
+      <FirstName>Linda</FirstName>
+      <LastName>Brazdil</LastName>
+      <EmailAddress>lbrazdil@luc.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Lara</FirstName>
+      <LastName>Smetana</LastName>
+      <EmailAddress>lsmetana@luc.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Karin</FirstName>
+      <LastName>Lange</LastName>
+      <EmailAddress>klange2@luc.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Loyola University of Chicago</Name>
+      <CityName>CHICAGO</CityName>
+      <ZipCode>606601537</ZipCode>
+      <PhoneNumber>7735082471</PhoneNumber>
+      <StreetAddress>1032 W. Sheridan Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1795</Code>
+      <Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

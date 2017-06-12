@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Modular Manufacturing - Democratizing Functional Materials Printing</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rajesh Mehta</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This SBIR Phase I project will research and develop new functional materials for advanced additive manufacturing. The goal of this project is to develop high performance materials for light activated 3D printers. If successful, this will enable new tools for manufacturing and research. Applications of this project would enable affordable, waste-free, and energy-efficient manufacturing with the goal of lowering the barriers to innovation.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;polySpectra has developed a new class of modular 3D printing resins, capable of manufacturing production quality parts with tailored geometry and chemical functionality in a single step. This process is called functional lithography - it unlocks the ability to simultaneously define the form and function of advanced materials. The application of functional lithography to additive manufacturing enables production-ready parts to be directly 3D-printed, whereas existing materials can only make prototypes, mock-ups or toys. The goal of this project is to discover and develop new materials using functional lithography, to push the limits of the materials that are available in additive manufacturing.</AbstractNarration>
+    <MinAmdLetterDate>11/30/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/30/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647467</AwardID>
+    <Investigator>
+      <FirstName>Raymond</FirstName>
+      <LastName>Weitekamp</LastName>
+      <EmailAddress>raw@polyspectra.com</EmailAddress>
+      <StartDate>11/30/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>PolySpectra, Inc</Name>
+      <CityName>Berkeley,</CityName>
+      <ZipCode>947041517</ZipCode>
+      <PhoneNumber>5108597338</PhoneNumber>
+      <StreetAddress>2342 Shattuck Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8029</Code>
+      <Text>Manufacturing</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

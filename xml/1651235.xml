@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Investigating dynamic friction using earthquake ruptures produced in the laboratory</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2020</AwardExpirationDate>
+    <AwardAmount>153479</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06030000</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Earth Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Eva E. Zanzerkia</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This research that will advances fundamental understanding of dynamic friction laws by performing mini-earthquakes in the laboratory. Dynamic friction plays a pivotal role in how earthquake ruptures propagate along pre-existing faults in the Earth's crust, such as the San Andreas Fault in California, and release waves that cause destructive shaking. Yet, the fundamental structure and evolution of dynamic friction is still one of the main uncertainties in earthquake science. The proposed study will enhance our understanding of dynamic friction and hence of earthquake source physics. By improving friction formulations for earthquake-producing faults, this study strives to produce a key ingredient for dynamic rupture simulations and physics-based assessment of seismic hazard.&lt;br/&gt;&lt;br/&gt;The study will investigate dynamic friction using laboratory experiments, featuring dynamic ruptures spontaneously propagating along a frictional interface. The researchers will employ a digital image correlation technique in combination with high-speed photography to characterize in real time the full-field evolution of displacements, velocities, and stresses, and of friction along rupturing interfaces. The addition of rock gouge&amp;#8232;to the interface of the samples in some experiments will further increase the relevance of the setup to earthquake problems. Furthermore, plans to study friction evolution at locations where a fault meets a free surface and where fault-normal stresses vary rapidly and significantly, will allow tests for recent ideas of shear resistance not being directly proportional to rapid variations in normal stress but rather evolving to such proportionality with slip. The work will also explore the effect of fluids in faulting by conducting&amp;#8232;experiments with fluid injection and studying the regime in which the injection triggers dynamic events. The obtained friction data will help to evaluate and improve the existing dynamic friction formulations by introducing the appropriate new physics in to existing formalisms and by even suggesting new and improved dynamic frictional laws. The inferred friction formulations will be verified by forward simulations of our experimental setup.</AbstractNarration>
+    <MinAmdLetterDate>01/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651235</AwardID>
+    <Investigator>
+      <FirstName>Vito</FirstName>
+      <LastName>Rubino</LastName>
+      <EmailAddress>vito.rubino@caltech.edu</EmailAddress>
+      <StartDate>01/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ares</FirstName>
+      <LastName>Rosakis</LastName>
+      <EmailAddress>rosakis@aero.caltech.edu</EmailAddress>
+      <StartDate>01/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Nadia</FirstName>
+      <LastName>Lapusta</LastName>
+      <EmailAddress>lapusta@caltech.edu</EmailAddress>
+      <StartDate>01/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>California Institute of Technology</Name>
+      <CityName>PASADENA</CityName>
+      <ZipCode>911250600</ZipCode>
+      <PhoneNumber>6263956219</PhoneNumber>
+      <StreetAddress>1200 E California Blvd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1574</Code>
+      <Text>GEOPHYSICS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

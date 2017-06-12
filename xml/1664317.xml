@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Geometry and representation theory</AwardTitle>
+<AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2017</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew  Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The conference Geometry and Representation Theory will be held January 16-27, 2017 at the Erwin Schroedinger Institute at the University of Vienna. This project is to support the participation of U.S.-based researchers in the conference. The first week of the conference will consist of a series of seven mini-courses and the second week of the conference will be a research workshop. The conference will foster a high level of interaction and collaboration among a large, international group of mathematicians at different career stages and with different backgrounds.  The scientific program will address the newest and most exciting achievements in the field of geometric representation theory and will engage some of the most outstanding and active researchers working in the area. The participation of U.S.-based researchers in this event will contribute to the current strength of domestic mathematical research and support the development of the next generation of researchers in the U.S..&lt;br/&gt;&lt;br/&gt;The conference will bring together researchers in representation theory with different backgrounds and present recent developments in representation theory with connections to other areas of mathematics that exploit various branches of Lie theory, such as mathematical physics and algebraic geometry. The mini-courses will be on affine Grassmanians, the geometric Satake correspondence, spherical varieties, arc spaces, D-modules, and quantum groups. The workshop will focus on D-modules and intersection cohomology, vertex algebras, affine Grassmanians, and spherical varieties. In recent years, there has been an explosion of activity centered around these themes. Scientists who have played a crucial role in this fast-moving field will be among the invited speakers. The program will advance the dissemination of the newest results in the field and catalyze and strengthen a broad spectrum of scientific exchanges and collaborations between mathematicians from around the world working in representation theory, geometry, and related topics. More information is available on the conference website at http://imsc.uni-graz.at/baur/ESI2017/index.html.</AbstractNarration>
+<MinAmdLetterDate>01/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1664317</AwardID>
+<Investigator>
+<FirstName>Victor</FirstName>
+<LastName>Kac</LastName>
+<EmailAddress>kac@math.mit.edu</EmailAddress>
+<StartDate>01/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

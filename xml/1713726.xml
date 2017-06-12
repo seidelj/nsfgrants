@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Demystifying the Observed Gamma Ray Burst Tracking Between the Peak Energy and Luminosity</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Gamma Ray Bursts (GRBs) are some of the most energetic events in the universe. However, much is unknown about these objects such as critical information about the structure of their collimated outflow or jet. This information is hard to deduce due to the fact that GRB observatories are unable to provide information related to the orientation of the GRB in relation to the detector. This project will investigate a means to determining the elusive information of GRB geometrical orientation by exploring the origin of the observed tracking between the time resolved spectral peak energy and the light curve of a GRB detection. Running simulations of GRB radiation will allow us to identify a correlation between the tracking relation and the viewing angle for a  given GRB. This project will be conducted at RIKEN with Dr. Shigehiro Nagataki. This collaboration will build upon previous studies conducted by the group on jet structure as well as allow for the use of magnetohydrodynamic simulations of GRBs which will allow us to fully explore the relation between the  peak energy and the luminosity. &lt;br/&gt;&lt;br/&gt;The simulations of GRB radiation transfer will be conducted with post-processing Monte Carlo Radiation Transfer codes. These codes individually scatter each photon in an outflow until it freely escapes. This allows for light curves and spectra to be calculated at various viewing angles of the simulated GRB with minimal assumptions being made. A quantitative way to measure the tracking between the peak energy and the light curve intensity will be developed. This will aid in determining how the characteristics of tracking behavior changes as a function of viewing angle.&lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the Japan Society for the Promotion of Science.</AbstractNarration>
+<MinAmdLetterDate>05/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713726</AwardID>
+<Investigator>
+<FirstName>Tyler</FirstName>
+<LastName>Parsotan</LastName>
+<EmailAddress/>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Parsotan                Tyler          M</Name>
+<CityName>Corvallis</CityName>
+<ZipCode>973318689</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5921</Code>
+<Text>JAPAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

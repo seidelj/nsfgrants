@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Self-Assembly of Multinuclear Catalysts for the Direct Synthesis of Functionalized Polyolefins</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Suk-Wah Tam-Chang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Polyethylene, a plastic that is ubiquitous in everyday life, is used in innumerable applications ranging from packaging films and milk jugs to machine parts and artificial joints. Polyethylene is made by linking small 2-carbon-unit gas molecules (ethylene) together into long chains with the aid of metal catalysts in a process known as polymerization. The research group of Professor Richard Jordan is developing a new generation of metal catalysts that can incorporate other kinds of small molecules into the polyethylene chains, to produce plastics with improved properties, including increased toughness, superior resistance to penetration by gases and chemicals, and enhanced biodegradability. This project is contributing to the development of human resources in science, technology, engineering and mathematics through the education of postdoctoral fellows, graduate students, undergraduates and high school students. This project is also providing summer research opportunities to high school students from the Chicago Public Schools (CPS) system through the University of Chicago Collegiate Scholars Program and mentoring and other support to CPS high school students through the Neighborhood Schools Program.&lt;br/&gt;&lt;br/&gt;This project is focused on the chemistry of palladium alkyl complexes with phosphine-bis-arenesulfonate ligands (OPO2-) that self-assemble into tetrameric structures in which four (OPO-Li)PdR units are arranged around the periphery of a cubic Li-sulfonate cage. "Pd cage" catalysts polymerize ethylene to ultra-high-molecular-weight linear polyethylene (MW &gt; 10^6 Da) and copolymerize ethylene with vinyl fluoride with tenfold-higher comonomer incorporation than can be achieved with mononuclear catalysts. This research is harnessing the power of programmed molecular self-assembly to synthesize exceptionally robust Pd cage structures that maintain their integrity at high temperature and function as single-site polymerization catalysts. The targets include assemblies based on OPO2- ligands that contain sulfonate groups with enhanced basicity to strengthen the Li&amp;#9472;O interactions in the cage, "expanded" cages that incorporate additional ions to provide supplementary bonding interactions, "strapped" cages in which covalent links between OPO2- ligands provide high stability, and catalysts based on Zn-phosphonate cages that are inherently more robust than Li-sulfonate cages. The research team is establishing the factors that control the self-assembly of cage catalysts and the key mechanistic features of ethylene polymerization by these catalysts, and is exploiting this knowledge to develop high-performance catalysts for ethylene/vinyl-fluoride copolymerization.</AbstractNarration>
+<MinAmdLetterDate>05/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709159</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Jordan</LastName>
+<EmailAddress>rfjordan@uchicago.edu</EmailAddress>
+<StartDate>05/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>5801 South Ellis Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

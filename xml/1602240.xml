@@ -36,7 +36,7 @@
     </Investigator>
     <Institution>
       <Name>University of New Mexico</Name>
-      <CityName>ALBUQUERQUE</CityName>
+      <CityName>Albuquerque</CityName>
       <ZipCode>871310001</ZipCode>
       <PhoneNumber>5052774186</PhoneNumber>
       <StreetAddress>1700 Lomas Blvd. NE, Suite 2200</StreetAddress>
@@ -44,5 +44,13 @@
       <StateName>New Mexico</StateName>
       <StateCode>NM</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>9102</Code>
+      <Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8990</Code>
+      <Text>Optics and Photonics</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

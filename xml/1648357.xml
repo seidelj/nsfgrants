@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Case-Based Home Improvement Market Enabler (CHIME)</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Peter Atherton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to Uber-ize and disrupt the home improvement market. This project will increase market efficiency among homeowners and home improvement contractors. The knowledge harvesting and case-based estimation technologies from this project can be applied to a variety of industries in today's knowledge economy, particularly those benefiting from socially cultivated knowledge repositories. This project will promote undergraduate student research and research collaboration at several universities in Virginia.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project explores the technical feasibility of delivering accurate project estimates for the home improvement market by combining a case-based reasoning approach with crowd intelligence. The project will advance the research in computer science and social sciences. First, the project develops and validates a cost estimation methodology that applies case-based reasoning to a knowledge repository built and evolved by social efforts, through a cycle of knowledge harvesting, organization, augmentation and calibration. Second, the project will develop techniques in focused crawling, multi-document summarization, cased-based reasoning, and advance the research in these fields. Third, the project will develop and evaluate novel, mobile interfaces for knowledge elicitation, augmentation and calibration. These exploratory results will contribute to both computer and social sciences.</AbstractNarration>
+    <MinAmdLetterDate>12/14/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/14/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648357</AwardID>
+    <Investigator>
+      <FirstName>Charles</FirstName>
+      <LastName>Kirkpatrick</LastName>
+      <EmailAddress>charlie.kirkpatrick@hotmail.com</EmailAddress>
+      <StartDate>12/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Wise Case Technologies, LLC</Name>
+      <CityName>Virginia Beach</CityName>
+      <ZipCode>234526282</ZipCode>
+      <PhoneNumber>7576469080</PhoneNumber>
+      <StreetAddress>3369 Litchfield Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

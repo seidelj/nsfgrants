@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: An Interdisciplinary Program at Old Dominion University for the Study of Metropolitan Coastal Environments and Communities</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>117967</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Elizabeth Rom</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Renewed funding for a Research Experience for Undergraduates (REU) program at Old Dominion University (ODU) will support research training and professional development for ten undergraduates each summer for three years. ODU is the located in the Hampton Roads region of Virginia, a metropolitan region of 1.6 million inhabitants. The region includes the largest naval complex in the world, and is situated at the conjunction of the Elizabeth and Lafayette Rivers, tidal tributaries flowing into southern Chesapeake Bay. Coastal flooding during spring tides and storms is increasing as a result of the high rates of sea level rise in the Hampton Roads region, currently 4 to 10 cm per decade. Research opportunities at this REU will focus on coastal resilience, sea level rise and the impact of the changing environment on urban communities. Students receive a stipend for the summer research internship, housing and travel expenses. The ten-week program will provide students an opportunity for independent research and will include professional development activities that include field trips to show the students first-hand evidence of sea level rise in Hampton Roads on short and long-term timescales and weekly workshops on topics such as scientific ethics, scientific writing and communication. This REU program will help train thirty undergraduates in research related to coastal resilience and promotes the Division of Ocean Sciences goals related to development a scientific workforce.&lt;br/&gt;&lt;br/&gt;The ODU REU program will focus on sea level rise and extreme events, such as recurrent flooding in the urban coastal environment, and will incorporate these topics into a global perspective. Students will explore a suite of issues related to the relative rate of sea-level rise, addressing topics including true global mean sea level, the effects of high frequency storm events, inundation of coastal lands, antibiotic resistance of human pathogens, geodynamical contributions to regional sea level change, nutrient delivery and cycling in waters affected by changing sea levels, local, regional and global processes contributing to sea level rise, and ocean acidification and temperature effects on Chesapeake Bay sea grasses.</AbstractNarration>
+    <MinAmdLetterDate>03/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659543</AwardID>
+    <Investigator>
+      <FirstName>H. Rodger</FirstName>
+      <LastName>Harvey</LastName>
+      <EmailAddress>rharvey@odu.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Katherine</FirstName>
+      <LastName>Filippino</LastName>
+      <EmailAddress>KCFilipp@odu.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Old Dominion University Research Foundation</Name>
+      <CityName>Norfolk</CityName>
+      <ZipCode>235082561</ZipCode>
+      <PhoneNumber>7576834293</PhoneNumber>
+      <StreetAddress>4111 Monarch Way</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1690</Code>
+      <Text>EDUCATION/HUMAN RESOURCES,OCE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

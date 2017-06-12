@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CC* Networking Infrastructure: Expanding STEM Research on Chicago's South Side</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2019</AwardExpirationDate>
+    <AwardAmount>342798</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Advanced Cyberinfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kevin L. Thompson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>To drive innovation, improve research capabilities and productivity, enhance faculty competiveness, and foster remote collaborations of resources and people, the Illinois Institute of Technology (IIT or Illinois Tech) is building a Science DMZ (Demilitarized Zone) ecosystem to provide access to a secured, high-throughput infrastructure for the IIT research community. The proposed Science DMZ bridges the needs of many diverse data-intensive research projects and address common issues and limitations with real-time data analysis that results from the current campus network. The overall goal for the Science DMZ is to deploy a scalable research network infrastructure with a minimum bandwidth of 10Gbps that can isolate and secure research network traffic from other segments of the campus network without impacting performance. This goal is buttressed by several broad objectives including increasing the bandwidth between the research data center and Internet2 exchange node; and connecting with other world-class universities and research center at throughput speeds sufficient for practical end-to-end research collaborations.&lt;br/&gt;&lt;br/&gt;The deployment of the Science DMZ has far-reaching broader impacts. For example, the Science DMZ makes it feasible for IIT researchers analyzing urban metropolitan transportation congestion relief, safety and capital investment to improve the efficiency of intersection utilization across the United States. The Institute of Food Safety and Health (IFSH) is working on a whole genome sequencing project that aims to create a global catalogue of bacteria-causing food poisoning. This advanced high performance infrastructure provides greater collaboration opportunities with Tier-1 research universities and by default, introduces greater opportunities for IIT students to get hands-on experience working with faculty on various research projects, thereby improving the quality of their STEM education. Collaborative activities are also planned with several of IIT's K-12 outreach initiatives including the Global Leaders Program, which seeks to increase access to STEM fields.</AbstractNarration>
+    <MinAmdLetterDate>12/21/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/21/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659421</AwardID>
+    <Investigator>
+      <FirstName>Ophir</FirstName>
+      <LastName>Trigalo</LastName>
+      <EmailAddress>trigalo@iit.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ibukun</FirstName>
+      <LastName>Oyewole</LastName>
+      <EmailAddress>oyewole@iit.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Petre</FirstName>
+      <LastName>Bucurica</LastName>
+      <EmailAddress>bucurica@iit.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Illinois Institute of Technology</Name>
+      <CityName>Chicago</CityName>
+      <ZipCode>606163717</ZipCode>
+      <PhoneNumber>3125673035</PhoneNumber>
+      <StreetAddress>10 West 35th Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8080</Code>
+      <Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

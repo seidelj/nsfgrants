@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Infrared spectroscopy and nano-imaging of iron arsenide superconductors</AwardTitle>
+    <AwardEffectiveDate>01/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2019</AwardExpirationDate>
+    <AwardAmount>450000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03070000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Materials Research</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tomasz Durakiewicz</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Nontechnical abstract:&lt;br/&gt;This project is aimed at advancing the understanding of unconventional superconductivity: a remarkable phenomenon pertaining to complete loss of resistance at relatively high temperature. This activity capitalizes on novel experimental capabilities for optical nano-imaging developed by the PI. The integration of research and education within this project aids the preparation of highly skilled personnel with expertise spanning condensed matter physics, optics, scanning probe microscopy, and materials science. The PI is committed to broaden participation of groups currently underrepresented in graduate education by engaging undergraduates from institutions with a large fraction of students belonging to these groups. This project contributes to the enhancement of infrastructure for research and education at Columbia. Nano-optical instrumentation developed by the PI supports multidisciplinary activities at Materials Research Science and Engineering Center at Columbia and The City College of New York.&lt;br/&gt;&lt;br/&gt;Technical abstract:&lt;br/&gt;The discovery of high-Tc superconductivity in iron-based materials demonstrates that this phenomenon is not restricted to the copper oxides, as once thought, and is likely to be much more generic. This breakthrough calls for an exploration of the optical properties of iron-based superconductors. Infrared spectroscopy, the principal experimental method employed by the PI, allows one to probe fundamental characteristics of superconductivity including the energy gap and the superfluid density. Another goal of the project is to investigate the normal state, from which superconductivity emerges. This project is focused on the exploration of prototypical BaFe2As2 and NaFeAs compounds with various dopants. Systematic studies of NaFe1-xCuxAs are needed to elucidate the origin of the elusive insulating state in these materials and of the enigmatic superconductor-insulator transition. Nano-optical methods are utilized to verify the uniformity of the studied specimens. A combination of nano-IR imaging with simultaneously performed scanning magnetic force microscopy measurements probing local superconductivity is well suited to uncover previously unexplored real-space aspects of the interplay between superconducting and density wave states.</AbstractNarration>
+    <MinAmdLetterDate>01/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1608096</AwardID>
+    <Investigator>
+      <FirstName>Dimitri</FirstName>
+      <LastName>Basov</LastName>
+      <EmailAddress>dbasov@physics.ucsd.edu</EmailAddress>
+      <StartDate>01/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Columbia University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100276902</ZipCode>
+      <PhoneNumber>2128546851</PhoneNumber>
+      <StreetAddress>2960 Broadway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1710</Code>
+      <Text>CONDENSED MATTER PHYSICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8396</Code>
+      <Text>Clean Energy Technology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8399</Code>
+      <Text>Energy Storage or Transmission</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

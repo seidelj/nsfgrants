@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Partial Differential Equations in Several Complex Variables</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2020</AwardExpirationDate>
+    <AwardAmount>128822</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Edward Taylor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Complex analysis in one and several variables plays a special role in mathematics and mathematical physics. The use of complex numbers has been essential in the development of mathematics. Partial differential equations and several complex variables are employed in string theory and twistor theory, physical theories that try to unify different physical force fields. The existence and regularity of solutions to such partial differential equations are still not fully understood, and they form some of the most challenging problems in mathematical analysis. The current study is not only important for the development of mathematics, but it may lead to new understanding of physical phenomena as well, with potential applications in other sciences and technology. &lt;br/&gt;&lt;br/&gt;This research focuses on some of the most important equations in several complex variables, the Cauchy-Riemann equations and the induced tangential Cauchy-Riemann equations. The topics investigated in this research project include function theory on complex manifolds, Hausdorff property of Dolbeault cohomology groups, Levi-flat hypersurfaces and complex foliation, and the Cauchy-Riemann operators on complex projective spaces and negatively curved manifolds. Understanding the geometric aspects of these equations under the curvature conditions and their relations with function theory in complex manifolds is a challenging and important problem. New approaches have been introduced to study these problems which connect the topology of domains in complex manifolds with the topology of Dolbeault cohomology groups. The study of several complex variables in a geometric setting has provided interesting new questions with fresh insight to problems in topology, foliation theory, complex dynamics, algebraic and complex geometry. This project aims to deepen understanding in this area.</AbstractNarration>
+    <MinAmdLetterDate>04/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1700003</AwardID>
+    <Investigator>
+      <FirstName>Mei-Chi</FirstName>
+      <LastName>Shaw</LastName>
+      <EmailAddress>mei-chi.shaw.1@nd.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Notre Dame</Name>
+      <CityName>NOTRE DAME</CityName>
+      <ZipCode>465565708</ZipCode>
+      <PhoneNumber>5746317432</PhoneNumber>
+      <StreetAddress>940 Grace Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Indiana</StateName>
+      <StateCode>IN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

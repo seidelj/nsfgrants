@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Increasing the Student Biotech Pipeline</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>199980</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas Higgins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Los Angeles Mission College (LAMC) will prepare community college and high school students for jobs in biotechnology. The new programs developed will explicitly address skill development and offer students counseling, tutoring, industry field trips, external speakers, and internship opportunities. Combined with excellent instruction in the classroom, these activities will prepare students for entry-level, middle-skill technician positions. LAMC serves a large underrepresented student body and will provide these students with employment opportunities in a high growth sector that needs a skilled workforce. Project evaluation will focus on measuring student progression, success, retention, and degree attainment.&lt;br/&gt;&lt;br/&gt;LAMC will develop new academic pathways and curricula in biotechnology leading to stackable certificates and an Associate of Science degree. Stackable credentials will prepare students to enter the workforce in a short period of time while retaining the opportunity to pursue higher degrees at a later date. It will also allow for flexibility that will contribute to student retention and success. The project will provide high school students an opportunity to earn college credit and credentials that will ultimately assist them in obtaining employment.</AbstractNarration>
+<MinAmdLetterDate>05/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700152</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Brown</LastName>
+<EmailAddress>brownst@lamission.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Parvaneh</FirstName>
+<LastName>Mohammadian</LastName>
+<EmailAddress>mohammp@lamission.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Los Angeles Mission College</Name>
+<CityName>Sylmar</CityName>
+<ZipCode>913423244</ZipCode>
+<PhoneNumber>8183647600</PhoneNumber>
+<StreetAddress>13356 Eldridge Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7412</Code>
+<Text>ADVANCED TECH EDUCATION PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>The Topology of Real Algebraic Varieties: Deterministic and Random Aspects</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>12000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Shanks workshop on "The Topology of Real Algebraic Varieties: Deterministic and Random Aspects" will take place on March 10-11, 2017, at Vanderbilt University, Nashville, TN. The workshop brings together leading researchers with different backgrounds, but common research interests in the area of real algebraic geometry. The emphasis is on enumerative and random aspects in the topology of real algebraic varieties. The main goal of the meeting is to facilitate discussions and collaborations in a focused setting, between researchers mostly in Northern America but also in France. The small size of the workshop provides an ideal environment for graduate students and young researchers to interact with experts in the field. &lt;br/&gt;&lt;br/&gt;The field of real algebraic geometry, and in particular the study of the topology of real algebraic varieties, employs a wide variety of techniques, ranging from symplectic geometry, tropical geometry, as well as more traditional tools such as complex algebraic geometry, topology of manifolds and transformation groups. In the recent years we have witnessed spectacular developments stemming from symplectic geometry, complex analysis and probability. This workshop brings together researchers from many of these areas, assuring that the vast amount of techniques available in the field are shared among its participants. In particular, the presentations will be devoted to the recent progress in the enumerative geometry of real algebraic varieties (Georgieva, Niu, Tukachinsky), a probabilistic approach to real enumerative geometry (Basu, Lundberg) and to new directions in the study of real algebraic manifolds (Gabrielov, Sottile).&lt;br/&gt;&lt;br/&gt;For more details, see the webpage of the workshop: https://my.vanderbilt.edu/ragworkshop/ .</AbstractNarration>
+    <MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1711567</AwardID>
+    <Investigator>
+      <FirstName>Ioana</FirstName>
+      <LastName>Suvaina</LastName>
+      <EmailAddress>ioana.suvaina@vanderbilt.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Rares</FirstName>
+      <LastName>Rasdeaconu</LastName>
+      <EmailAddress>rares.rasdeaconu@vanderbilt.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Vanderbilt University</Name>
+      <CityName>Nashville</CityName>
+      <ZipCode>372350002</ZipCode>
+      <PhoneNumber>6153222631</PhoneNumber>
+      <StreetAddress>Sponsored Programs Administratio</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Tennessee</StateName>
+      <StateCode>TN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1264</Code>
+      <Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1267</Code>
+      <Text>TOPOLOGY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

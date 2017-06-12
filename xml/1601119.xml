@@ -27,6 +27,14 @@
     <ARRAAmount/>
     <AwardID>1601119</AwardID>
     <Investigator>
+      <FirstName>Robert</FirstName>
+      <LastName>Richmond</LastName>
+      <EmailAddress>richmond@hawaii.edu</EmailAddress>
+      <StartDate>03/17/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
       <FirstName>Patrick</FirstName>
       <LastName>Tellei</LastName>
       <EmailAddress>tellei@palau.edu</EmailAddress>
@@ -49,14 +57,6 @@
       <StartDate>03/17/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
-      <FirstName>Robert</FirstName>
-      <LastName>Richmond</LastName>
-      <EmailAddress>richmond@hawaii.edu</EmailAddress>
-      <StartDate>03/17/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>University of Hawaii</Name>

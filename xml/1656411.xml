@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Using genomics to detect pathogens</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is to bridge the gap between genomics and medicine by bringing a technology used in research laboratories to the forefront of diagnostics at an affordable cost. There is a vital need for a more accurate and faster diagnosis of dangerous and infectious microbes such as bacteria, viruses and fungi. Treatment for infections and viruses are two of the top ten reasons people visit hospitals, and infectious diseases are a leading cause of death in children worldwide. Additionally, the numbers of these illnesses continue to grow as bacteria and other microbes become more resistant to current medications. Fortunately, the next-generation sequencing revolution has provided a flood of genomic sequence data from a variety of organisms, including pathogens. This data has remained untapped in the medical field, which can benefit from the ability to quickly and accurately identify genetic markers of dangerous pathogens. The potential market for this project extends beyond research hospitals and includes smaller clinics in remote locations, or military field hospitals situated near global conflicts.&lt;br/&gt;&lt;br/&gt;This I-Corps project optimizes the well-established qPCR (quantitative Polymerase Chain Reaction) technology to amplify pathogen specific DNA sequences. The technology leverages publically available genomic resources to design unique and specialized primers to be supplied in a simple kit for PCR that will identify specific classes of pathogens. The equipment for quantitative DNA amplification is standard, and the resultant amplification results are visualized in-hospital also on standard equipment. The kits could enable medical specialists and other healthcare providers to give patients more accurate and rapid diagnoses at a fraction of the cost while accelerating treatment, reducing the number of repeat visits, decreasing antibiotic usage, and shortening hospital stays.</AbstractNarration>
+    <MinAmdLetterDate>11/22/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/22/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656411</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Bracht</LastName>
+      <EmailAddress>jbracht@american.edu</EmailAddress>
+      <StartDate>11/22/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>American University</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200168001</ZipCode>
+      <PhoneNumber>2028853440</PhoneNumber>
+      <StreetAddress>4400 Massachusetts Avenue, NW</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

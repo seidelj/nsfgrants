@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Oregon State University/Marine Sediment Sampling Group Ocean Instrumentation: Acquisition of a replacement shipboard multisensor track for at-sea sediment physical properties scans</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>230714</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>James S. Holik</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The principal impact of the present proposal is under Merit Review Criterion 2 of the Proposal Guidelines (NSF 13-589). It provides infrastructure support for scientists to use the vessel and its shared-use instrumentation in support of their NSF-funded oceanographic research projects (which individually undergo separate review by the relevant research program of NSF). The acquisition, maintenance and operation of shared-use instrumentation allows NSF-funded researchers from any US university or lab access to working, calibrated instruments for their research, reducing the cost of that research, and expanding the base of potential researchers.&lt;br/&gt;&lt;br/&gt;Program Recommendation&lt;br/&gt;&lt;br/&gt;The Program recommends an award of $230,714 for the purchase of the Multisensor Track System.</AbstractNarration>
+    <MinAmdLetterDate>04/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652959</AwardID>
+    <Investigator>
+      <FirstName>Mitchell</FirstName>
+      <LastName>Lyle</LastName>
+      <EmailAddress>mlyle@coas.oregonstate.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Joseph</FirstName>
+      <LastName>Stoner</LastName>
+      <EmailAddress>jstoner@coas.oregonstate.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Oregon State University</Name>
+      <CityName>Corvallis</CityName>
+      <ZipCode>973318507</ZipCode>
+      <PhoneNumber>5417374933</PhoneNumber>
+      <StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Oregon</StateName>
+      <StateCode>OR</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5413</Code>
+      <Text>OCEANOGRAPHIC INSTRUMENTATION</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

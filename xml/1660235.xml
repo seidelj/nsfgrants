@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Quasi-Active Prosthetic Ankle System: Dynamic Angle and Stiffness Optimizations for Multiple Gait Activities</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>749986</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Muralidharan S. Nair</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this project is that the proposed system will enhance the ability of the 1.3 million people currently living in the United States with a lower limb amputation to walk in unconstrained environments. The proposed Quasi-Active Prosthetic Ankle System (QPAS) addresses the RH6: Human Assistive Technologies area. QPAS will be lightweight, have a long battery life, and optimize the passive dynamics of amputee gait in unconstrained environments by using battery energy to tune its physical system properties, ankle equilibrium angle and torsional stiffness. The device provides a unique set of features that do not currently exist in the market, strengthening its value proposition. The amputee population is growing; 2,000 new lower limb amputation are performed each week. Therefore, QPAS will have strong market potential and the significant societal impact of improving health by supporting a more active lifestyle for lower limb amputees. This will also lead to more community and family involvement. Additionally, because of the many possibilities to control QPAS, gait researchers will be able to study amputee compensation preferences. A better understanding of the kinematic and kinetic preferences could lead to improvements in the design of purely passive ankle prostheses. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase 2 project addresses the needs of lower limb amputees. Lower limb amputees suffer from reduced self-selected walking speed, increased metabolic cost, increased reaction loads on the sound limb, poor gait symmetry, and reduced stability with increased risk of falling. Passive prosthetic feet are only tuned for level ground walking at one speed. QPAS will utilize a patented compliant actuator to achieve a unique set of features: passive energy storage with an articulating ankle joint, adaptable ankle angle for slope gait, low electrical energy usage, a large range of ankle motion, adaptable stiffness to optimize variable cadence level ground and slope gait, and controlled energy delivery to ensure energy builds naturally and smoothly. In this phase 2 SBIR, an intuitive and autonomous controller will be built for the QPAS and human subject evaluations will assist in refining the device towards commercialization. QPAS will become a successful product by focusing on improved amputee gait performance in unconstrained environments, and being simple to fit and adjust, reliable and affordable.</AbstractNarration>
+    <MinAmdLetterDate>02/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660235</AwardID>
+    <Investigator>
+      <FirstName>Jeffrey</FirstName>
+      <LastName>Ward</LastName>
+      <EmailAddress>jeff.ward@springactive.com</EmailAddress>
+      <StartDate>02/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>SpringActive, Inc.</Name>
+      <CityName>Tempe</CityName>
+      <ZipCode>852816955</ZipCode>
+      <PhoneNumber>4807043592</PhoneNumber>
+      <StreetAddress>2414 W 12th Street, Ste. 4</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>6840</Code>
+      <Text>ROBOTICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8035</Code>
+      <Text>Hardware Devices</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9139</Code>
+      <Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>HPCC</Code>
+      <Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

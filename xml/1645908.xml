@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Roles of auxin during Pseudomonas syringae pathogenesis</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>220125</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090300</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Michael L. Mishkind</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Non-Technical Paragraph&lt;br/&gt;The plant hormone auxin controls many aspects of plant growth and development. However, the impact of auxin on bacterial plant interactions is not well understood. This project seeks to better understand the mechanisms through which auxin promotes disease caused by two plant pathogens: Pseudomonas syringae, the causal agent of bacterial speck disease of a variety of plants, and Dickeya spp., the causal agent of bacterial soft rot, an important pathogen of potato. Previous research has found that auxin plays multiple roles during P. syringae pathogenesis of Arabidopsis thaliana, including suppression of host defenses and regulating pathogen gene expression. The current project will focus on three questions: i) How does auxin produced by P. syringae impact host biology to promote disease susceptibility? ii) How does auxin impact expression of P. syringae virulence factors?, and iii) Does auxin production by Dickeya contribute to disease on potato? The results of this project will be an improved understanding of the roles of auxin during pathogenesis of P. syringae and Dickeya spp. As both pathogens infect a large number of crops, knowledge gained through this work will serve as a foundation for understanding other important plant-pathogen interactions to facilitate the design of more effective disease control strategies. In addition, since these studies include the investigation of a pathogen, Dickeya, that is of immediate concern to U.S. potato farmers, results will provide pertinent information that can be used to enhance disease management practices and provide new targets for broad range disease control.&lt;br/&gt;&lt;br/&gt;Technical Paragraph:&lt;br/&gt; Indole-3-acetic acid (IAA), a naturally occurring form of auxin, promotes growth of P. syringae pv. tomato strain DC3000 (PstDC3000) on A. thaliana. IAA, in addition to being a plant hormone, is also a microbial signaling molecule that many plant-associated microbes synthesize and/or respond to. Thus, IAA can potentially act through several different mechanisms to promote pathogenesis, including suppressing host defenses, altering host physiology, and directly impacting pathogen biology. The primary goal of this project is to elucidate the mechanisms through which auxin promotes the virulence of PstDC3000 during infection of A. thaliana and other hosts. The multidisciplinary collaboration between the two research groups engages the complimentary expertise in the two labs and will utilize bacterial genetics, state of the art global transcriptional analysis and metabolic profiling to further understanding of the roles auxin plays in regulating plant-pathogen interactions. The results of this study will be transformative, as they will be instrumental in the discovery of determinants involved in plant-microbe interactions. The project will provide valuable new insight into the signaling molecules and events regulating pathogen and host gene expression during infection. Specifically, the project has the following objectives: 1) Investigating the direct effects of auxin on PstDC3000, 2) Identification and characterization of PstDC3000 mutants with altered sensitivity to auxin, 3) Investigate the roles of P. syringae-derived auxin during pathogenesis, and 4) Investigating the contribution of pathogen-derived auxin to virulence in agriculturally relevant plant-pathogen interactions.</AbstractNarration>
+    <MinAmdLetterDate>04/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1645908</AwardID>
+    <Investigator>
+      <FirstName>Barbara</FirstName>
+      <LastName>Kunkel</LastName>
+      <EmailAddress>kunkel@wustl.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Melanie</FirstName>
+      <LastName>Filiatrault</LastName>
+      <EmailAddress>mjf66@cornell.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Washington University</Name>
+      <CityName>Saint Louis</CityName>
+      <ZipCode>631304862</ZipCode>
+      <PhoneNumber>3147474134</PhoneNumber>
+      <StreetAddress>CAMPUS BOX 1054</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>047Y</Code>
+      <Text>Plant-Biotic Interactions</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Targeted Infusion Project: Enhancement of Jarvis Christian College Course-based Undergraduate Research Experiences (J-CURE) Program in the Biological Sciences</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2020</AwardExpirationDate>
+    <AwardAmount>399810</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Andrea Johnson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP) through Targeted Infusion Projects supports the development, implementation, and study of evidence-based innovative models and approaches for improving the preparation and success of HBCU undergraduate students so that they may pursue STEM graduate programs and/or careers. The project at Jarvis Christian College (JCC) seeks to develop and implement course-based undergraduate research experiences (CURE) in the biology curriculum, provide access to scientific research experiences for undergraduate students and increase the research capacity of faculty in the biological sciences. The benefits of the proposed activity to society will be measured by the ability to attract, retain and inspire more students to the bioscience disciplines and their eventual migration to graduate school and the STEM workforce.&lt;br/&gt;&lt;br/&gt;The overall goal of the program is to introduce, train and support a diverse group of underrepresented students and expose them to the cutting edge educational and research activities in the biological sciences. The specific goals are to: 1) enhance the biology curriculum with the integration of course-based undergraduate research experiences (CUREs) into the biological sciences; 2) increase students' exposure to and research competency in biological sciences through academic and summer internships and peer-mentored research; and 3) upgrade teaching and research infrastructure to support the curriculum redesign for hands-on research experience for students. It is anticipated that this program will enhance the quality of STEM education at JCC, leading to the formation of a new research-intensive academic curriculum. The proposed program is a strategy for increasing the capacity of JCC to produce more STEM graduates who are competitive for graduate school and STEM careers.</AbstractNarration>
+    <MinAmdLetterDate>04/12/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/12/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1719607</AwardID>
+    <Investigator>
+      <FirstName>Shakhawat</FirstName>
+      <LastName>Bhuiyan</LastName>
+      <EmailAddress>sbhuiyan@jarvis.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Glendora</FirstName>
+      <LastName>Carter</LastName>
+      <EmailAddress>gcarter@jarvis.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Lisa</FirstName>
+      <LastName>Lang</LastName>
+      <EmailAddress>llang@jarvis.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Jarvis Christian College</Name>
+      <CityName>Hawkins</CityName>
+      <ZipCode>757651470</ZipCode>
+      <PhoneNumber>9037304890</PhoneNumber>
+      <StreetAddress>P.O. Box 1470</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1594</Code>
+      <Text>HIST BLACK COLLEGES AND UNIV</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

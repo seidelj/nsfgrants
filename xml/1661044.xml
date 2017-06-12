@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative research: Development of sliding laws for glacier-flow and landscape-evolution models</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2020</AwardExpirationDate>
+    <AwardAmount>199058</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06030000</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Earth Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Justin Lawrence</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>With this project, mathematical relationships needed to predict the sliding speeds of glaciers and ice sheets (that is, sliding laws) are developed. Variability of the forms of existing sliding laws adds major uncertainty to the results of computer models of glacier flow. These computer models are the principal tools used to both assess glacier wastage and resultant sea-level rise over the next century and to study rock erosion by glaciers. This work improves sliding laws by deriving them from the actual topography of glacier beds and incorporating the frictional resistance of debris within and underneath glaciers. Thus, this study has the potential to improve predictions of glacier-flow models and assessments of their uncertainty.&lt;br/&gt;&lt;br/&gt;Field and laboratory measurements are combined with 3D flow modeling, with the goal of fully bracketing the range of sliding behavior possible. The topography of glacier beds exposed by receding glaciers in Canada and Switzerland is measured at high resolution and statistically described. Also, frictional resistance to slip is measured in laboratory experiments in which ice containing debris is slid over a rock bed. These two sets of measurements are used in numerical simulations of glacier sliding that yield relationships among sliding speed, stresses at the bed, bed topography, debris concentration in ice, and areal extent of water-saturated sediment dividing ice from rock.</AbstractNarration>
+    <MinAmdLetterDate>01/09/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/09/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1661044</AwardID>
+    <Investigator>
+      <FirstName>Lucas</FirstName>
+      <LastName>Zoet</LastName>
+      <EmailAddress>lzoet@wisc.edu</EmailAddress>
+      <StartDate>01/09/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Wisconsin-Madison</Name>
+      <CityName>MADISON</CityName>
+      <ZipCode>537151218</ZipCode>
+      <PhoneNumber>6082623822</PhoneNumber>
+      <StreetAddress>21 North Park Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Wisconsin</StateName>
+      <StateCode>WI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7458</Code>
+      <Text>GEOMORPHOLOGY &amp; LAND USE DYNAM</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

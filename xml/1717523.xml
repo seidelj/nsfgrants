@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>AF: CQIS: Small: Theoretical Problems in Quantum Information</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>451640</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Maslov</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project addresses the following four sets of fundamental questions in quantum information.&lt;br/&gt;(1) Randomness extraction in the presence of quantum side information.&lt;br/&gt;To secure communication security, it is necessary to generate cryptographic keys that cannot be predicted by an adversary. Such keys are usually obtained through a randomness extraction process, which converts a weakly random input to a (almost) perfectly random output.&lt;br/&gt;The team is researching the most efficient methods for this task, with the focus on the setting that the adversary?s knowledge about the input is quantum.&lt;br/&gt;(2) Quantum cryptographic hash functions (qchash). Hash functions are powerful tools that can be used to verify the authenticity and the integrity of a message. Quantum hash functions extend (classical) hash functions by using a quantum state to ?tag? a classical message. The team is working to identify the advantages of such functions, especially in the scenario where classical side information is leaked to the adversary.&lt;br/&gt;(3) Quantum homomorphic encryption (QHE). Homomorphic encryption allows encrypted data to be processed by multiple parties without the need for decryption or for interactions with the owner of the data.&lt;br/&gt;The team is looking for the most efficient methods for achieving this task, when the data are quantum and the adversary is assumed to be all-powerful.&lt;br/&gt;(4) Quantum algorithms for combinatorial optimization. Many optimization problems from practice are extremely difficult to solve, even if one is content with an approximate answer. The team is examining to what extent quantum algorithms can speed up the computation or increase quality of approximation. A focus is on the recently proposed algorithmic framework of quantum approximate optimization algorithms (QAOA).&lt;br/&gt;&lt;br/&gt;Positive solutions to the above questions may lead to new and powerful quantum information applications for safeguarding information security and for solving optimization problems. The project also trains multiple students to become experts on quantum information science.</AbstractNarration>
+<MinAmdLetterDate>05/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717523</AwardID>
+<Investigator>
+<FirstName>Yaoyun</FirstName>
+<LastName>Shi</LastName>
+<EmailAddress>shiyy@eecs.umich.edu</EmailAddress>
+<StartDate>05/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7928</Code>
+<Text>QUANTUM COMPUTING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7928</Code>
+<Text>QUANTUM COMPUTING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

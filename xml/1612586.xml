@@ -60,5 +60,13 @@
       <StateName>New York</StateName>
       <StateCode>NY</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1268</Code>
+      <Text>FOUNDATIONS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

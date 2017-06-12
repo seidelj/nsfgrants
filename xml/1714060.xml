@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Multimodal Interaction Algorithm for Human-Robot Interaction with Biologically-Inspired Robots</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In order for robots to engage in physical interactions with humans, their behavior needs to be intrinsically safe. Current state-of-the-art algorithms do so by maintaining an awareness of humans with single-modality data models, for example limb positions derived from a camera. However, approaches using only a single input modality typically neglect other potentially critical sources of information. In addition, they are prone to noise, failures, or line-sight problems, since no redundant data sources are available. This project will address this issue with the development of a machine learning algorithm which performs human intention inference and determines an appropriate robot response for human-robot interaction using multi-modal data sources, such as camera, accelerometer, shoe-based pressure sensor, and electromyography data. This research will be conducted in collaboration with Dr. Shuhei Ikemoto and Dr. Koh Hosoda at Osaka University, who specialize in biologically-inspired robotics and human-robot interaction. This project benefits from Dr. Ikemoto's and Dr. Hosoda's invaluable expertise, as well as access to a human-inspired, pneumatically-actuated robot located at Osaka University which will enable unique human-robot interaction scenarios that are not currently possible at the researcher's institution.&lt;br/&gt;&lt;br/&gt;Interaction Primitives are a state-of-the-art framework for modeling the interaction that takes place between a robot and a human during collaborative, physical activities. However, this existing framework is designed to work in low dimensional space with a single data modality for each agent. When introducing additional modalities in this project, the dimensionality of the input data will increase rapidly. At the same time, the number of training samples will remain constant, since that is physically constrained by the number of demonstrations that can be performed. To resolve this issue, this project will develop an extension of Interaction Primitives capable of performing density estimation with high dimension, low sample size data sets with the goal of producing safer, and more accurate interactions.&lt;br/&gt;&lt;br/&gt;This award under the East Asia and Pacific Summer Institutes program supports summer research by a U.S. graduate student and is jointly funded by NSF and the Japan Society for the Promotion of Science.</AbstractNarration>
+<MinAmdLetterDate>05/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714060</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Campbell</LastName>
+<EmailAddress/>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Campbell                Joseph</Name>
+<CityName>Chandler</CityName>
+<ZipCode>852266097</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5921</Code>
+<Text>JAPAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Student Support for the 10th US National Combustion Meeting; College Park, MD; April 23-26, 2017</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>15000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Song-Charng Kong</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>1657846 Gollner&lt;br/&gt;&lt;br/&gt;This proposal is to support the travel and registration of students attending 2017 U.S. National Combustion Meeting. Experiences in attending technical conferences are extremely beneficial to students. These experiences will not only help with the professional development, but also stimulate their critical thinking in formulating future research directions. This award is to partially support the expenses of graduate students in attending the 2017 U.S. National Combustion Meeting, held in University of Maryland - College Park, April 23 - 26, 2017. This conference is a very important national conference on combustion science and engineering. Presentations in this conference represent the most updated research outcome in combustion in the U.S. The conference facilitates the exchange of combustion research results through plenary lectures and oral presentations. &lt;br/&gt;&lt;br/&gt;Due to its effect on energy conversion, environmental quality, and climate effects, understanding of combustion processes and practical combustion systems is of paramount importance to society. Exchange of information at conferences increases the rate at which research breakthroughs can be made to make combustion more efficient and cleaner with fuel-flexibility. This meeting is the ideal venue for student combustion researchers to exchange ideas and network with their peers and with leaders in the field. It is estimated that 30-50 US-based students will benefit from this NSF support. Numerous workshops will also be held in conjunction with the conference to increase the professional skills of the students. This award will be used to offset the travel expenses of non-local students in an effort to increase student participation at the meeting, particularly students from underrepresented institutions that may not have the financial means to fully support student travel to conferences.</AbstractNarration>
+    <MinAmdLetterDate>12/08/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/08/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657846</AwardID>
+    <Investigator>
+      <FirstName>Johan</FirstName>
+      <LastName>Larsson</LastName>
+      <EmailAddress>jola@umd.edu</EmailAddress>
+      <StartDate>12/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Gollner</LastName>
+      <EmailAddress>mgollner@umd.edu</EmailAddress>
+      <StartDate>12/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Maryland College Park</Name>
+      <CityName>COLLEGE PARK</CityName>
+      <ZipCode>207425141</ZipCode>
+      <PhoneNumber>3014056269</PhoneNumber>
+      <StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1407</Code>
+      <Text>Combustion &amp; Fire Systems</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

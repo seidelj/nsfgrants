@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Data-Driven User Interface Designs for Culturally Diverse Groups</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>155289</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>William Bainbridge</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This research will systematically investigate how to make information technology more accessible to users from varied cultural backgrounds. Research shows that user interfaces designed for undifferentiated markets are less usable, less intuitive, and less appealing than are locally designed interfaces, making users less efficient and less satisfied. The results will inform novel user interface design guidelines and help build both models and tools for interface designers and end users that support the automated adaption of web interfaces to specific cultural groups. Guidelines and tools to be produced in this project will assist businesses in making decisions about, reducing costs associated with, and increasing total revenue and net income derived from preparing products for international markets. Educational goals of this project are to (1) involve high school and undergraduate students from varied cultural and demographic backgrounds in this research, (2) create and disseminate open-source educational materials that immediately affect designers' understanding and creation of inclusive website designs, and (3) use citizen scientists to participate in and promote research results to the public.&lt;br/&gt;&lt;br/&gt;To foster information inclusiveness, this research aims to translate seminal lab-based studies on visual perception into large-scale online experiments that will be administered globally on our experiment platform, LabintheWild. The research will systematically investigate the influence of human diversity on visual perception and on user interface design. Traditional academic studies conducted with small, locally recruited convenience samples are not always generalizable given their skew toward unrepresentative test subjects. This research will vastly extend conventional study populations using a proven crowdsourced experiment platform and thereby more generalizably contribute to the knowledge domains of visual perception, cultural psychology, human-computer interaction, and adaptive user interfaces by providing: (1) scientific findings on human perception that compare people from at least 30 countries and varied demographic backgrounds (2) best practice, data-driven user interface design guidelines for these groups, (3) predictive models and tools that support the automated adaption of web interfaces to varied user backgrounds, and (4) evaluations of whether these tools successfully improve work efficiency and user satisfaction.</AbstractNarration>
+    <MinAmdLetterDate>03/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651487</AwardID>
+    <Investigator>
+      <FirstName>Katharina</FirstName>
+      <LastName>Reinecke</LastName>
+      <EmailAddress>reinecke@cs.washington.edu</EmailAddress>
+      <StartDate>03/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Washington</Name>
+      <CityName>Seattle</CityName>
+      <ZipCode>981950001</ZipCode>
+      <PhoneNumber>2065434043</PhoneNumber>
+      <StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Washington</StateName>
+      <StateCode>WA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7367</Code>
+      <Text>Cyber-Human Systems (CHS)</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7367</Code>
+      <Text>Cyber-Human Systems</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

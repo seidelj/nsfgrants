@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Spectroscopy and imaging of irregular surfaces using confocal microscopy</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>210370</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ben Schrag</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research Phase I project will support the development of a confocal optical microscope with two-dimensional topographical profiling and multiple spectroscopic modes in a single, affordable precision instrument. The system will make a major impact in the $6.2 billion microscope market, with a near-term market penetration potential of over 5%, and significant growth potential. This technology will span the needs of materials science research laboratories through quality control in manufacturing to supply chain monitoring. Integration of topographic mapping with a diverse set of spectroscopic tools enables comprehensive materials analysis at the micron and submicron scale. Users will be able to identify features and defects in electronic, optoelectronic, and structural devices, as well as coatings, tubing, devices, disks, and specialty mirrors. Combinatorial materials and chemical research will also be furthered by the ability to acquire several spectroscopic maps with a single instrument. Societal impacts include practical improvements in the design and manufacture of components and systems. Because of its compact size and low cost, the microscope can be used in schools at all levels, providing students with experience in measuring properties of complex objects and helping prepare them for careers in various research, development, and production settings.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this project centers on the advancement of optical microscopy into the realm of spectroscopic and surface analysis of topographically complex structures. Micro-electromechanical systems (MEMS), for example, have micron-to-millimeter features that can be analyzed by the developed instrument. The key innovation is the development of precision profiling and its integration with multiple spectroscopic interrogation methods. This profiling innovation centers on the capture of two-dimensional optical images with an array detector from each point on a sample and the conversion of the image properties to a vertical focus error, which is then corrected in a subsequent spectroscopic scan. The instrument can then provide Raman, photoluminescence (PL), and topographic surface (morphology) mapping of a sample, with diffraction-limited resolution. Research objectives include integration of optical profiling with spectroscopic scanning to produce accurate two-dimensional spectra from topographically rough samples, and automation of the image capture and analysis software. The instrument is designed to capture the surface topography and spectrum of a sample with tens of thousands of sample points in a few minutes and with 10-50 nanometer vertical accuracy.</AbstractNarration>
+    <MinAmdLetterDate>12/14/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/14/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1646677</AwardID>
+    <Investigator>
+      <FirstName>Richard</FirstName>
+      <LastName>Lytel</LastName>
+      <EmailAddress>rlytel@klarscientific.com</EmailAddress>
+      <StartDate>12/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Klar Scientific</Name>
+      <CityName>Pullman</CityName>
+      <ZipCode>991632400</ZipCode>
+      <PhoneNumber>5093302103</PhoneNumber>
+      <StreetAddress>790 SE Sherwood Ct</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Washington</StateName>
+      <StateCode>WA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>090E</Code>
+      <Text>Chem/Bio and Physical Diagnostics</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8035</Code>
+      <Text>Hardware Devices</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

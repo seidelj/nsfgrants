@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CBMS Conference: Nonlocal Dynamics--Theory, Computation and Applications</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>34999</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This CBMS Conference "Nonlocal Dynamics--Theory, Computation and Applications" is to be held at Illinois Institute of Technology, Chicago, during June 4-9, 2017. Various complex systems in engineering and science are under long range or nonlocal interactions. There is a growing recognition of a role for including nonlocal effects in better modeling these systems. As a result, nonlocal partial differential equations are appropriate mathematical models for certain optimal control systems, dislocation dynamics in crystals, porous media flows, anomalous dffusion of particles in fluids, and many other systems. Nonlocal effects and long range diffusion also occur in the cell density evolution in certain biological processes, such as embryological development. In order to better understand nonlocal engineering and scientific systems, we must understand the properties of nonlocal equations. This conference brings a top mathematician as the principal lecturer, together with experts and newcomers from relevant mathematical and scientific communities, to learn, examine and investigate theoretical and computational issues in this subject. &lt;br/&gt;&lt;br/&gt;Nonlocal partial differential equations are macroscopic models for complex systems under long range interactions. They have led to many mathematically challenging questions at the interface of analysis, computation, stochastic analysis and partial differential equations. To realize the full power of nonlocal equations as mathematical models for complex systems, analysis and numerical approximations are crucial. This conference aims to summarize the past achievements in this subject, and discuss future research directions. It further stimulates research in the development of analytical, dynamical and computational tools for nonlocal models and their applications. The Principal Lecturer for this conference is Professor Qiang Du at Columbia University. The conference consists of ten lectures by Qiang Du, together with supplemental presentations by a few experts, round table discussions, and a session on open problems. The participants include graduate students, postdocs, junior researchers and experts from regional and other institutions. &lt;br/&gt;&lt;br/&gt;For more information, please refer to the conference webpage: www.math.iit.edu/nonlocaldynamics.html.</AbstractNarration>
+    <MinAmdLetterDate>11/03/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/03/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1642545</AwardID>
+    <Investigator>
+      <FirstName>Xiaofan</FirstName>
+      <LastName>Li</LastName>
+      <EmailAddress>lix@iit.edu</EmailAddress>
+      <StartDate>11/03/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jinqiao</FirstName>
+      <LastName>Duan</LastName>
+      <EmailAddress>duan@iit.edu</EmailAddress>
+      <StartDate>11/03/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Illinois Institute of Technology</Name>
+      <CityName>Chicago</CityName>
+      <ZipCode>606163717</ZipCode>
+      <PhoneNumber>3125673035</PhoneNumber>
+      <StreetAddress>10 West 35th Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1260</Code>
+      <Text>INFRASTRUCTURE PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

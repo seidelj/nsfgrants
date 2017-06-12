@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: CIF: Learning with Memory Constraints: Efficient Algorithms and Information Theoretic Lower Bounds</AwardTitle>
+<AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>175000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Brown</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The trade-offs between resources such as the amount of data, the amount of storage, computation time for statistical estimation tasks are at the core of modern data science. Depending on the setting, some of the resources might be more valuable than others. For example, in credit analysis and population genetics, the amount of data is vital. For applications involving mobile devices, sensor networks, or biomedical implants, the storage available is limited and is a precious resource. This project aims to advance our understanding of the trade-offs between the amount of storage and the amount of data required for statistical tasks by (i) designing efficient algorithms that require small space and (ii) establishing fundamental limits on the storage required for these tasks. The research is at the intersection of streaming algorithms, which is primarily concerned with storage requirements of algorithmic problems, and statistical learning, which studies data requirements for statistical tasks. &lt;br/&gt;&lt;br/&gt;The investigators formulate basic statistical problems under storage constraints. The specific questions include entropy estimation of discrete distributions, a canonical problem that researchers from various fields including statistics, information theory, and computer science have studied. The paradigm of interest is the following: while the known sample-efficient entropy estimation algorithms require a lot of storage, it might be possible to reduce the storage requirements drastically by taking a little more than the optimal number of samples. The complementary side of the problem is purely information theoretic. In it, the researchers expect to develop general lower bounds that can be used to prove fundamental limits on the storage-sample trade-offs.</AbstractNarration>
+<MinAmdLetterDate>02/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>02/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1657471</AwardID>
+<Investigator>
+<FirstName>Jayadev</FirstName>
+<LastName>Acharya</LastName>
+<EmailAddress>acharya@cornell.edu</EmailAddress>
+<StartDate>02/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>026Y</Code>
+<Text>CRII CISE Research Initiation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

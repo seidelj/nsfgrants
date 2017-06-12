@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Individual differences in endogenous oxytocin govern social cognition</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2020</AwardExpirationDate>
+    <AwardAmount>499773</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Alumit Ishai</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Oxytocin is a hormone that plays a critical role in many social behaviors. Prior research suggests that natural variability in the oxytocin system affects neural systems involved in social cognition. This proposal examines whether more efficient oxytocin utilization increases sensitivity to social information. Increased sensitivity may confer an advantage when social information is relevant but may be disadvantageous in other contexts. Findings from this project are expected to provide new information about how people who differ in the way their neural systems are sensitized by this hormone respond to social information. The results will be broadly applicable to multiple disciplines spanning molecular, neural, and behavioral investigations, and may inspire new research in these disciplines. The experiments conducted are expected to provide valuable research opportunities and unique training combining molecular genetics and functional neuroimaging for students interested in psychology, cognitive science, and neurosciences. &lt;br/&gt;&lt;br/&gt;Oxytocin receptors (OXTR) allow the body to respond to oxytocin, but its expression differs between people. These receptors are under epigenetic control, specifically through DNA methylation, which is at least in part responsible for these individual differences. OXTR methylation has been associated with brain activity supporting social cognition and with various social phenotypes in both healthy and disordered populations. Combing this reliable, endogenous epigenetic marker with functional magnetic imaging and behavioral testing, this proposal tests the hypothesis that the endogenous oxytocin system influences the degree to which an individual is sensitive to social information. Its main aims are (1) to test whether variability in OXTR methylation is associated with differential engagement of perceptual and attentional systems during social information processing; (2) to evaluate whether individuals low in OXTR methylation depend on prefrontal brain systems to suppress irrelevant social information; and (3) to assess whether the relationship between OXTR methylation and neural systems supporting attention to social information predicts self-reported sociality and independently rated social skill.</AbstractNarration>
+    <MinAmdLetterDate>02/06/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/06/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657726</AwardID>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Morris</LastName>
+      <EmailAddress>jpmorris@virginia.edu</EmailAddress>
+      <StartDate>02/06/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jessica</FirstName>
+      <LastName>Connelly</LastName>
+      <EmailAddress>jessica.connelly@virginia.edu</EmailAddress>
+      <StartDate>02/06/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Virginia Main Campus</Name>
+      <CityName>CHARLOTTESVILLE</CityName>
+      <ZipCode>229044195</ZipCode>
+      <PhoneNumber>4349244270</PhoneNumber>
+      <StreetAddress>P.O. BOX 400195</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1332</Code>
+      <Text>SOCIAL PSYCHOLOGY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1699</Code>
+      <Text>COGNEURO</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1332</Code>
+      <Text>SOCIAL PSYCHOLOGY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1699</Code>
+      <Text>COGNEURO</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

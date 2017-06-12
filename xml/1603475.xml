@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>CAREER: An Integrative and Scalable Approach to Embedded Hardware Protection</AwardTitle>
     <AwardEffectiveDate>09/01/2015</AwardEffectiveDate>
-    <AwardExpirationDate>06/30/2016</AwardExpirationDate>
+    <AwardExpirationDate>06/30/2017</AwardExpirationDate>
     <AwardAmount>168635</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -44,5 +44,29 @@
       <StateName>Florida</StateName>
       <StateCode>FL</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1640</Code>
+      <Text>INFORMATION TECHNOLOGY RESEARC</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1714</Code>
+      <Text>SPECIAL PROJECTS - CISE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7795</Code>
+      <Text>TRUSTWORTHY COMPUTING</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9251</Code>
+      <Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Sensing and Smart Systems</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2019</AwardExpirationDate>
+    <AwardAmount>339984</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Harriet G. Taylor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award establishes a new Research Experiences for Undergraduates (REU) Site at Florida Atlantic University. Faculty in the Institute for Sensing and Embedded Network Systems Engineering will host cohorts of undergraduate students for summer research in the area of sensing and smart systems. Smart systems represent an emerging class of distributed systems that provide real-time awareness of conditions, trends, and patterns to support improved decision-making and automated control. Smart systems offer a significant application potential that should be appealing to undergraduate researchers. The recruitment and selection procedures will ensure that the program engages a diverse demographic, including a significant number of women and veterans as well as members of underrepresented minorities. Many of the participants will be recruited from institutions where there are limited research opportunities for undergraduates. In addition to conducting research the students will participate in other professional development activities such as industry field trips, professional seminars, speakers, career guidance, and graduate school preparation. An external evaluator will measure the success of the site and the impact on the students. The culminating event of the summer will be a mini-conference where the students present their research results in a professional setting.&lt;br/&gt;&lt;br/&gt;The REU site is led by faculty mentors from the Institute for Sensing and Embedded Network Systems Engineering. The faculty of the Institute have significant research expertise and offer state-of-the-art facilities that should provide a compelling research experience to undergraduates. The undergraduates will be woven into existing research groups and projects that are working on current and emerging applications that have real-world connections. The research will focus on three main areas of application expertise including infrastructure systems, marine and environment, and health and behavior. The projects span diverse contexts of exploration and application unified in their focus on sensing and smart systems. The resulting exploration space presents a myriad of challenges at the confluence of computing and data-intensive science and engineering. The site focus and associated research projects present and outstanding opportunity for catalyzing interdisciplinary exploration and discovery that will excite students and demonstrate scientific discovery and exploration at a high level.</AbstractNarration>
+    <MinAmdLetterDate>12/28/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/28/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659484</AwardID>
+    <Investigator>
+      <FirstName>Jason</FirstName>
+      <LastName>Hallstrom</LastName>
+      <EmailAddress>jhallstrom@fau.edu</EmailAddress>
+      <StartDate>12/28/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Florida Atlantic University</Name>
+      <CityName>BOCA RATON</CityName>
+      <ZipCode>334316424</ZipCode>
+      <PhoneNumber>5612970777</PhoneNumber>
+      <StreetAddress>777 GLADES RD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

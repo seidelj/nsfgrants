@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSR: SHF: Medium: Collaborative Research: New Horizons in Deterministic Execution</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>217577</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yan Solihin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>If you have ever thought to yourself "huh, my computer didn't do that last time", you may have experienced what computer scientists call non-determinism. Today, most computer hardware executes programs in a non-deterministic fashion: a program may yield different output or behavior in different runs, given the exact same input, sometimes with disastrous consequences. Recent research enforces deterministic execution in inherently non-deterministic systems. Unfortunately, this often comes at a steep performance price. Also, until now determinism is only available for non-interactive programs. The goal of this project is to improve the efficiency of deterministic execution of concurrent programs, and to include a large class of interactive programs in the scope of deterministic execution. Longer term, the goal is to make deterministic computing a viable choice, where nondeterminism is the only option today. This would likely improve both the safety and quality of the vast number of multithreaded programs running on today's and tomorrow's multicore devices.&lt;br/&gt;&lt;br/&gt;To bring the benefits of deterministic execution to real-world programs, this project investigates algorithms, runtime systems, operating systems and hardware support to improve the performance and applicability of determinism. The project is organized along three major thrusts: combating the clock skew in deterministic logical clocks that imposes unnecessary waiting on threads, using speculation to break the serial bottleneck that current systems impose on synchronization operations, and extending the scope of determinism to encompass interactive applications. The researchers plan to openly distribute the systems built for this project to facilitate examination by other researchers and integration with computer systems education.</AbstractNarration>
+<MinAmdLetterDate>05/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1703425</AwardID>
+<Investigator>
+<FirstName>Jakob</FirstName>
+<LastName>Eriksson</LastName>
+<EmailAddress>jakob@uic.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress>809 S MARSHFIELD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>COMPUTER SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

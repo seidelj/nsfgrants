@@ -45,12 +45,24 @@
     <Institution>
       <Name>Vanderbilt University</Name>
       <CityName>Nashville</CityName>
-      <ZipCode>372122809</ZipCode>
-      <PhoneNumber>6158756070</PhoneNumber>
-      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <ZipCode>372350002</ZipCode>
+      <PhoneNumber>6153222631</PhoneNumber>
+      <StreetAddress>Sponsored Programs Administratio</StreetAddress>
       <CountryName>United States</CountryName>
       <StateName>Tennessee</StateName>
       <StateCode>TN</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

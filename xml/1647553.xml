@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: An Innovative and Open Satellite-Based Internet of Things (IoT) Network</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>220463</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Richard Schwerdtfeger</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is the creation of a low-cost satellite network for Internet of Things (IoT) connected devices.   The proposed global communications network is orders of magnitude lower cost relative to existing options, and provides coverage at any location on the Earth.   Scientific, shipping, tracking, automotive, agriculture, energy, medical, educational, and other commercial entities will have the ability to return their data from anywhere on the planet to support tracking, safe operations, and optimal and timely decision making.  This innovative network is also expected to enable new market segments due to its unprecedented capability and cost. Further impact with the introduction of very small satellite design for swarm networking includes making space more accessible and promotes the use of smaller spacecraft resources for more complex missions. This enables the development of new products and services for data collection and return for scientific, societal, or commercial benefit.  Educational and research and development projects will also benefit with reduced barriers of entry to test new concepts and business models, making additional professional development opportunities available.&lt;br/&gt;&lt;br/&gt;The proposed project addresses the problem that there are no existing low-cost options for sensing, transmitting, and connecting devices from remote locations with no cell or Wifi coverage.  Existing solutions like Iridium are expensive and not utilized by the majority of markets requiring connectivity.  Swarm Technologies has developed smart, low-mass, low-power, low-cost (&lt;1/10,000 the mass and power, and 1/400th the cost) integrated sensor and data relay platforms.  This creates the unique opportunity to develop low-cost space and ground based communication networks for global sensing, connectivity, and data return.  The long-term goal of this R&amp;D project is to become a unique and true IoT enabler by creating an open access global space telecommunications network capable of relaying data from any space or ground IoT sensor anywhere on the planet. The research objectives of this proposal are to design and test the operational performance of the ground BEEs (the ground-relay nodes), including developing and characterizing the networking, communication, software, energy management systems.  We will utilize design, simulation techniques, and lab and environmental testing in representative environments (e.g. vacuum chamber and high altitude balloons).</AbstractNarration>
+    <MinAmdLetterDate>12/04/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/04/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647553</AwardID>
+    <Investigator>
+      <FirstName>Sara</FirstName>
+      <LastName>Spangelo</LastName>
+      <EmailAddress>sara@swarm-technologies.com</EmailAddress>
+      <StartDate>12/04/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Swarm Technologies, LLC</Name>
+      <CityName>San Ramon</CityName>
+      <ZipCode>945839116</ZipCode>
+      <PhoneNumber>6082253173</PhoneNumber>
+      <StreetAddress>3236 Ashbourne Cir</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>153E</Code>
+      <Text>Wireless comm &amp; sig processing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8034</Code>
+      <Text>Hardware Components</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

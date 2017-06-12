@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Postdoctoral Fellowship: The Changing Interface between Data, Theories and Communities in Neuroimaging Research</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>188400</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Frederick M Kronz</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>General Audience Summary &lt;br/&gt;&lt;br/&gt;This Postdoctoral Fellowship supports a research project focused on philosophical questions associated with neuroimaging technologies. The specific questions to be addressed include the following. How are new technologies for sharing, organizing, and analyzing data and theories changing the norms of evidence in neuroimaging research? How are these technologies bringing research communities, theories, data, and analysis techniques together in novel ways? What role do different data analysis techniques play in using data as evidence for claims about phenomena it was not produced to investigate? How does the use of new technologies change the way cognitive scientists interpret their data? The postdoctoral fellow will engage in participatory experience in the practice of neuroscience to obtain valuable insight into the use and structure of these technologies, which will then be used to address these philosophical questions. More specifically, the fellow will be situated in a neuroscience lab that uses and develops tools such as the Cognitive Atlas, a community driven-knowledge base, and OpenfMRI, a database of minimally processed neuroimaging data. The postdoc will contribute to ongoing research using these tools. He will gain participatory experience regarding their use and development, and while doing so engage in philosophical analysis to addresses his questions. The analysis will in turn serve to enhance the use and development of these technologies, as well as the practice of neuroscience. By situating the fellow, a philosopher of science, within the active community of cognitive neuroscientists, the project will provide members of that community with cross-disciplinary expertise. More broadly, the project will demonstrate the value of engaged philosophy of neuroscience for both advancing the practice of neuroscience, and improving the richness and quality of philosophical analyses that take neuroscience to be its subject.&lt;br/&gt;&lt;br/&gt;Technical Summary &lt;br/&gt;&lt;br/&gt;The proposed research project is focused on addressing philosophical issues in the epistemology of science, by approaching them from the perspective of the practices that give rise these issues. Over the last decade, neuroimaging research has involved new technologies and tools for sharing, organizing, and analyzing data and theories. This has gone hand in hand with two movements in cognitive neuroscience. The first is the growing pressure to make research practices reproducible and transparent, with the aim of improving the standards of evidence and quality of research. The second is the realization that newly developed analysis techniques that could be used to investigate hypotheses and theories previously beyond the scope of available evidence require large collections of organized and annotated data to produce meaningful results. The proposed project involves simultaneously engaging in the practice of using these technologies and studying how they are changing the evidential and theoretical landscape of cognitive neuroscience. The research fellow will use philosophical concepts to evaluate the strength of scientific inferences and to identify assumptions implicit in aspects of the technology. For example, he will explore the relations between concepts allowed by the Cognitive Atlas or its use, such as the decisions that are made during the analysis of data. This application of philosophical frameworks will also provide feedback on their descriptive and normative adequacy. In this way, this project will contribute to philosophical discussions about the epistemology of data-intensive science and neuroscience, and bring insight from those contributions to bear on the use and development of technologies (such as the Cognitive Atlas).</AbstractNarration>
+    <MinAmdLetterDate>01/26/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/26/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655839</AwardID>
+    <Investigator>
+      <FirstName>Helen</FirstName>
+      <LastName>Longino</LastName>
+      <EmailAddress>hlongino@stanford.edu</EmailAddress>
+      <StartDate>01/26/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jessey</FirstName>
+      <LastName>Wright</LastName>
+      <EmailAddress>jesseywright@gmail.com</EmailAddress>
+      <StartDate>01/26/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Russell</FirstName>
+      <LastName>Poldrack</LastName>
+      <EmailAddress>poldrack@stanford.edu</EmailAddress>
+      <StartDate>01/26/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Stanford University</Name>
+      <CityName>Palo Alto</CityName>
+      <ZipCode>943041212</ZipCode>
+      <PhoneNumber>6507232300</PhoneNumber>
+      <StreetAddress>3160 Porter Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7603</Code>
+      <Text>SCIENCE, TECH &amp; SOCIETY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7137</Code>
+      <Text>POSTDOCTORAL FELLOWSHIPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1353</Code>
+      <Text>Hist &amp; Philosophy of SET</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

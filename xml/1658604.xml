@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>IRES: Multidisciplinary Water Engineering Research and Education to Protect and Enhance Ecosystems in Complex Environments</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>249743</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01090000</Code>
+      <Directorate>
+        <LongName>Office Of The Director</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office Of Internatl Science &amp;Engineering</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joseph Miller</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This IRES program will offer water engineering research experiences to civil and environmental engineering students who are making the transition from undergraduate-to-graduate study. Participants will conduct research within one of the leading water engineering units in the world, in some of the finest labs globally, and within extremely complex environments. They will tackle one of three environmental fluid mechanics project areas using field measurements, physical modeling, and numerical methods: 1) Coastal hazard mitigation ecosystem services; 2) Contaminant remediation; and 3) River bed destruction. Each of these areas connect to ongoing research at the University of Queensland sponsored by major government, nonprofit, and industry agencies. &lt;br/&gt;&lt;br/&gt;As the strain on water resources and ecosystems intensifies, it is becoming increasingly important to educate engineers to be ready to face complex issues related to water monitoring and management that stretch across national boundaries. The field of water engineering requires a broader educational approach beyond traditional curricula, as today's water engineers face challenging and interdisciplinary issues that combine concepts and methods beyond existing theories and data and instead require a research focus. In addition to the water engineering research component, this IRES program will make important contributions to water engineering education more broadly, as it will produce research focused on how to enhance the education of water engineers and how and why students develop in these kinds of international research experiences.</AbstractNarration>
+    <MinAmdLetterDate>03/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658604</AwardID>
+    <Investigator>
+      <FirstName>Vinod</FirstName>
+      <LastName>Lohani</LastName>
+      <EmailAddress>vlohani@vt.edu</EmailAddress>
+      <StartDate>03/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>David</FirstName>
+      <LastName>Knight</LastName>
+      <EmailAddress>dbknight@vt.edu</EmailAddress>
+      <StartDate>03/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Virginia Polytechnic Institute and State University</Name>
+      <CityName>BLACKSBURG</CityName>
+      <ZipCode>240610001</ZipCode>
+      <PhoneNumber>5402315281</PhoneNumber>
+      <StreetAddress>Sponsored Programs 0170</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7727</Code>
+      <Text>IRES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5912</Code>
+      <Text>AUSTRALIA</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7639</Code>
+      <Text>IRES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

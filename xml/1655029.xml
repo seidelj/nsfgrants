@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Workshop: Industry-Academe research partnerships to enable the human-technology frontier for next generation smarter service systems</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>49930</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Barbara H. Kenny</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award provides support to conduct a 2-day workshop organized by the International Society of Service Innovation Professionals, ISSIP, to take place in the winter of 2017 in Silicon Valley, California. The workshop will bring together industry and academic researchers from around the country and the world. Industrial and academic participants who are considered thought leaders from a variety of academic fields and areas of application will discuss a long-term human-technology research agenda that will enable the smart service systems of the future. &lt;br/&gt;&lt;br/&gt;Service systems contribute to more than 75% of the U.S. GDP and provide close to 80% of employment. It has been demonstrated that the integration of technology as an aid to the human worker can result in dramatic improvements in productivity by augmenting human capabilities in the workplace. Hence, in the next few decades technology-based innovations in service systems can have enormous economic importance for the United States. Smart service systems also have the potential to become the conduit for social innovations addressing major societal problems. &lt;br/&gt;&lt;br/&gt;The agenda of the workshop can have transformative impact on the US economy and beyond by identifying the grand challenges that industry faces, not for today's service systems, but for the service systems envisioned in 20-30 years. The ultimate objective is to bring attention of academic research on technologies that neither industry nor academia are working on at the moment but that are necessary to enable this next generation of service systems. &lt;br/&gt;&lt;br/&gt;These futuristic services are likely to be enabled by the automation of the built environment capable of providing innovative services by teaming with humans for the benefit of individuals and society. Examples are those enabled by ambient intelligence, cognitive environments, virtual assistants, service robots, intelligent vehicles, smart infrastructure, and autonomous systems or intelligent devices of all sorts, all networked by the internet of things and other communication paradigms. The departments from where academic researchers will be drawn to work on these challenges will be diverse. Participants have been selected based on a broad range of expertise across a variety of research fields, including engineering, information technology, computer science, operations, optimization, and social and behavioral sciences. In particular, researchers who are already interested in trans-disciplinary collaborations will be invited. Industry researchers from Fortune 500 companies in the smart services space will be summoned. With more than a 1000 members with diverse backgrounds representing industry, academia, and government, ISSIP is uniquely positioned to convene this distinct group. &lt;br/&gt;&lt;br/&gt;The collaborating institutions organizing the workshop are the International Society of Service Innovation Professionals, San Jose State University (San Jose, CA) and IBM Research, IBM (San Jose, CA)</AbstractNarration>
+    <MinAmdLetterDate>12/29/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/29/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655029</AwardID>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Spohrer</LastName>
+      <EmailAddress>spohrer@us.ibm.com</EmailAddress>
+      <StartDate>12/29/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Yasaman</FirstName>
+      <LastName>Moghaddam</LastName>
+      <EmailAddress>yassi@issip.org</EmailAddress>
+      <StartDate>12/29/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>Kwan</LastName>
+      <EmailAddress>stephen.kwan@sjsu.edu</EmailAddress>
+      <StartDate>12/29/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>International Society of Service Innovation Profes</Name>
+      <CityName>Santa Clara</CityName>
+      <ZipCode>950515161</ZipCode>
+      <PhoneNumber>4083544941</PhoneNumber>
+      <StreetAddress>3561 Homestead Rd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1662</Code>
+      <Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

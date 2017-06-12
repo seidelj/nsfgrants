@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: DC voltage driven cold plasma technology</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project lies in the broad field of electrically-safe, cold plasma technology. The specific application are quite broad in scope.  One potential commercial application area involves sterilization of medical instruments, food, and pharmaceutical products.  The system developed here is electrically safe for personnel and sensitive equipment used in manufacturing environments. Another potential application involves utilization of the cold plasma technology for medical treatment subject to strict electromagnetic interference requirements of other medical equipment in same surgical procedure. This project will explore the commercial potential of the core technology and will inform further technical developments and possible commercialization paths.&lt;br/&gt;&lt;br/&gt;This I-Corps project further develops a novel cold plasma technology, namely DC voltage driven cold plasma technology. Recent work has demonstrated that cold plasmas can be generated in self-oscillatory regime, when sequence of streamer-type breakdowns in gas flow is driven by purely DC high voltage. This approach differs from the traditional AC and pulsed-DC, where breakdown repetition rate is governed by the frequency of discharge driving voltage. The repetition frequency of the breakdowns in this innovative approach can be controlled by the geometry of discharge electrodes and surroundings. DC voltage driven cold plasma technology has tremendous fundamental advantages over the traditional AC and pulsed-DC systems including very effective mitigation of unwanted breakdowns and corona, elimination of electromagnetic interference, significant improvement of breakdown and electric shock safety, and overall simplicity of the system and enables multiple commercial applications.</AbstractNarration>
+<MinAmdLetterDate>05/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743322</AwardID>
+<Investigator>
+<FirstName>Alexey</FirstName>
+<LastName>Shashurin</LastName>
+<EmailAddress>ashashur@purdue.edu</EmailAddress>
+<StartDate>05/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

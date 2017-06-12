@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>LTER: Long-term research on the dynamics of high-elevation ecosystems -- a framework for understanding ecological responsiveness to climate change</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2022</AwardExpirationDate>
+    <AwardAmount>1127000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010000</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Louis Kaplan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Niwot Ridge/Green Lakes Valley (NWT) Long Term Ecological Research (LTER) is an interdisciplinary research program with the long-term goals of better understanding ecosystems within high mountain ranges and contributing to a general advance of knowledge in ecology. While twenty percent of the world population lives in river basins fed by melt waters from snow or glaciers, we know very little about how changes in snowpack and temperature in high mountain areas will affect biodiversity conservation or the management of water resources. Ecosystem responses to increasing temperature occur over many years to many decades, so long-term observations and long-term experiments are required to detect and understand those responses. The NWT LTER research provides an important reference point for regional, national, and global networks to measure changes in the water cycle and life at high elevations. The mountainous lands associated with NWT provides a natural laboratory in which to explore why some habitats may be very sensitive to changes in the environment while other areas may not be sensitive. The natural setting of NWT also provides many features that can help promote and develop an interest in science and nature, and inspire schoolchildren and the public to learn about the ecology of mountains and the tundra.&lt;br/&gt;&lt;br/&gt;The NWT LTER program builds on over 35 years of long-term measurements and experiments to better understand where and when climate change results in ecological change, and to elucidate the mechanisms that lead to responsiveness or stability in ecological systems. Specific objectives include (a) using long-term observations to characterize how high-mountain environments are responding to climate, (b) using long-term experiments to test hypotheses about the underlying drivers and integration among these responses, and (c) integrating this information in modeling frameworks to both refine understanding and forecast responses to future change. The research is conceptually organized around how climate change translates to ecological response across a spatially complex landscape and across ecological levels of organization. Proposed questions derive from theory on climate exposure in complex terrain and compensatory dynamics, and the long-term observations and interdisciplinary expertise at NWT allow comprehensive tests of these theories. Specific investigations are framed by substantial variation in ecological responses to long-term trends in climate at NWT involving warmer spring and summer temperatures, earlier snowmelt and lake ice-off, and longer growing seasons. Research will focus on treeline and subalpine forest, and alpine and subalpine lakes, and alpine tundra ecosystems. Outreach and training addresses a broad range of audiences, including K-12 students, the general public, and citizen scientists, while emphasizing training of graduate students in science communication and engaged scholarship.</AbstractNarration>
+    <MinAmdLetterDate>12/08/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/08/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1637686</AwardID>
+    <Investigator>
+      <FirstName>William</FirstName>
+      <LastName>Bowman</LastName>
+      <EmailAddress>william.bowman@colorado.edu</EmailAddress>
+      <StartDate>12/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jason</FirstName>
+      <LastName>Neff</LastName>
+      <EmailAddress>neffjc@colorado.edu</EmailAddress>
+      <StartDate>12/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Katharine</FirstName>
+      <LastName>Suding</LastName>
+      <EmailAddress>suding@colorado.edu</EmailAddress>
+      <StartDate>12/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Pieter</FirstName>
+      <LastName>Johnson</LastName>
+      <EmailAddress>pieter.johnson@colorado.edu</EmailAddress>
+      <StartDate>12/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Noah</FirstName>
+      <LastName>Molotch</LastName>
+      <EmailAddress>noah.molotch@colorado.edu</EmailAddress>
+      <StartDate>12/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Colorado at Boulder</Name>
+      <CityName>Boulder</CityName>
+      <ZipCode>803031058</ZipCode>
+      <PhoneNumber>3034926221</PhoneNumber>
+      <StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1195</Code>
+      <Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9251</Code>
+      <Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1195</Code>
+      <Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

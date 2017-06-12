@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Directing Charge and Energy Flow in Discrete Nanocrystal-Dendrimer Hybrids and in Their Assemblies</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>109750</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Lisy</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this collaborative project funded by the Macromolecular, Supramolecular and Nanochemistry program of the Chemistry Division, Professor Jason Baxter of Drexel University and Professor Christopher Murray of the University of Pennsylvania are developing new particles comprised of two components. The core is a nanoparticle made from a semiconductor, and attached to the core are branched organic molecules called dendrimers. These nanocrystal-dendrimer (NCD) hybrid particles offer promising and superior optical and electronic properties that can be tailored through chemical design of the constituent organic and semiconductor components to manipulate the flow of charge and energy on nanometer length scales.  The NCD platform has potential for broad impact across many fields and applications, including solar cells, solid state lighting and display technology, biological imaging, and photocatalytic fuel production and chemical synthesis.&lt;br/&gt;&lt;br/&gt;In this project, inorganic NC donors are functionalized with tailored dendrimer ligands that incorporate molecular acceptors, precisely controlling the acceptor location and orientation to enable fundamental investigations of charge and energy transfer. Studies of these NCD hybrids are greatly advancing understanding of photophysical processes at organic / inorganic interfaces and are establishing new design rules to optimize the coupling between the quantum states of the NCs and the molecular energy levels of the functionalized dendrons. The NCD hybrids harness advances in both organic and inorganic synthesis to offer a new class of solution-processable building blocks to engineer the flow of energy and the separation and transport of charge.  Objectives of this project include synthesizing and characterizing a library of NCD hybrid nanostructures as well as measuring dynamics and understanding mechanisms of ultrafast charge and energy transfer in NCDs.  The broader technical impacts of this work include potential societal benefits from the design and discovery of next-generation particles that offer superior performance in optoelectronic and photocatalytic devices.  Broader non-technical impacts include education and training of graduate and undergraduate students, as well as outreach to underrepresented groups within the West Philadelphia Promise Zone.</AbstractNarration>
+<MinAmdLetterDate>05/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1708991</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Baxter</LastName>
+<EmailAddress>jbaxter@drexel.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Drexel University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191021119</ZipCode>
+<PhoneNumber>2158955849</PhoneNumber>
+<StreetAddress>1505 Race St, 8th Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8398</Code>
+<Text>Hydrocarbon Conversion</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+</Award>
+</rootTag>

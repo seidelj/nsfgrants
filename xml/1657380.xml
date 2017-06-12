@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: III: RUI: Computational Approaches for Inferring the Evolutionary Histories of Cancer Genomes</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>142783</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sylvia J. Spengler</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Cancer results from the accumulation of genomic alterations that occur during the individual's lifetime and cause the uncontrolled growth of a collection of cells into a tumor. These mutations occur as part of an evolutionary process that may have begun decades before a patient?s diagnosis. Better understanding of the history of a tumor's evolution over time may yield important insight into how and why tumors develop, as well as which mutations drive their growth. Recent advances in DNA sequencing technologies have revolutionized how all aspects of the human genome are measured and have the potential to shed light on the molecular underpinnings of cancer and many other human diseases. However, realizing the full potential of these technological advances will require novel algorithmic methods specifically designed to analyze this data. For example, DNA sequencing data only captures information about the tumor at the time of sequencing, rather than how it evolved to its current state. While many algorithms have been developed in recent years to infer information about tumor evolution from DNA sequence data, this area of computational development is relatively young and many unsolved challenges remain. This project will focus on the development of computational approaches that enable improved inference of the evolutionary histories of cancer genomes, while simultaneously expanding undergraduate research participation in the field of computational biology. &lt;br/&gt;&lt;br/&gt;The evolutionary history of a tumor can be described as a rooted tree whose vertices represent different tumor populations that existed during the history of the tumor. While many computational methods aim to infer this history from sequencing data, there is much room for improvement. For instance, the incorporation of multiple data signals (e.g., single nucleotide variants and copy number aberrations) has proven difficult and different methods may produce different results when run on the same dataset. This project will develop computational approaches that directly address this and other limitations. Rather than proposing the advent of another method to directly infer the evolutionary history of a tumor, this project will develop consensus methods that, given a collection of potential tumor history trees, infer a single consensus tree. Furthermore, this project will investigate both theoretical and practical limitations to inferring the evolutionary history of tumors. This will include analysis of when large-scale events such as whole-genome duplications are theoretically detectable as well as simulation studies to investigate how practical considerations, such as: (i) sequencing coverage, (ii) number and distribution of sequenced samples, and (iii) noise in the sequenced data, limit or alter the ability to infer the evolutionary history of a tumor. This project will be completed with the help of undergraduate student researchers from a wide array of backgrounds, thus broadening student participation in computational biology and computer science. Additionally, the PI will coordinate a cross-institutional undergraduate workshop on computational biology that will provide a venue for both students and faculty at baccalaureate institutions to interact and collaborate.</AbstractNarration>
+    <MinAmdLetterDate>02/22/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/22/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657380</AwardID>
+    <Investigator>
+      <FirstName>Layla</FirstName>
+      <LastName>Oesper</LastName>
+      <EmailAddress>loesper@carleton.edu</EmailAddress>
+      <StartDate>02/22/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Carleton College</Name>
+      <CityName>Northfield</CityName>
+      <ZipCode>550574001</ZipCode>
+      <PhoneNumber>5072224303</PhoneNumber>
+      <StreetAddress>One North College Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Minnesota</StateName>
+      <StateCode>MN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7364</Code>
+      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9102</Code>
+      <Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9229</Code>
+      <Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

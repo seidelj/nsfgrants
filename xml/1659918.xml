@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: A novel mechanism regulating leaf water transport: Reversible collapse of xylem conduits</AwardTitle>
+    <AwardEffectiveDate>01/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2018</AwardExpirationDate>
+    <AwardAmount>300000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090300</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Irwin Forseth</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project investigates how plants protect their vascular system from damage due to excessive evaporative loads. The significance of the work arises from the fact that photosynthesis is dependent upon a plant's capacity to transport water from the soil. Thus, understanding how plants protect their water transport system will illuminate constraints on the productivity of agricultural and natural ecosystems. A new finding shows that the terminal water transporting vessels, which are located in leaves and consist of non-living cells, function like a mechanical valve: closing off as the stresses in the system increase and re-opening as the system relaxes. The principle goal of this research is to determine if the valve-like behavior of terminal conduits prevents the stresses in the system from reaching levels that could cause lasting damage to upstream conduits. A second objective is to explore linkages between the rapid stress-induced closure of terminal conduits and the slower closure of stomatal pores in the leaf epidermis. The findings of this research will contribute to the development of crop varieties that are resilient to drought. The project will enhance research mentoring and training of students, as well as provide fundamental insights in plant biology that will be incorporated into teaching and disseminated to the general public.&lt;br/&gt;&lt;br/&gt;A fundamental issue in plant ecophysiology is how plants protect themselves from cavitation. Challenges to the plant vascular system associated with soil drying occur slowly, such that stomatal closure, root shrinkage, and leaf shedding are effective means of regulating xylem potentials. In contrast, excursions in transpiration rate have the potential to be fast relative to the ability of stomata to close, and thus to expose leaves to potentially damaging water potentials. This is especially the case for angiosperms in which stomatal aperture does not passively track leaf water potential and increases in transpiration lead initially to opening, rather than closing. A recent discovery shows that in the smallest leaf veins, which are the ones in closest contact to the sites of evaporation and thus experience the most negative pressures, the conduits deform (collapse) rather than cavitate and the change in shape is completely (and rapidly) reversible. The goals of this project are to investigate (1) whether the reduction in hydraulic conductivity due to terminal conduit collapse protects upstream xylem from experiencing water potentials that cause cavitation and (2) how collapse contributes to stomatal regulation of transpiration. The study provides a new perspective on the coordination of liquid and vapor phase transport, with implications for both plant productivity and drought response. Greater understanding of the role of xylem mechanical properties may provide new targets for phenotyping crop varieties and understanding plant diversity.</AbstractNarration>
+    <MinAmdLetterDate>12/13/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/13/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659918</AwardID>
+    <Investigator>
+      <FirstName>Noel</FirstName>
+      <LastName>Holbrook</LastName>
+      <EmailAddress>holbrook@oeb.harvard.edu</EmailAddress>
+      <StartDate>12/13/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Harvard University</Name>
+      <CityName>Cambridge</CityName>
+      <ZipCode>021385366</ZipCode>
+      <PhoneNumber>6174955501</PhoneNumber>
+      <StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7657</Code>
+      <Text>Integrative Ecologi Physiology</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

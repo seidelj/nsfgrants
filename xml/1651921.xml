@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: A CURE for Signaling Networks in Multicellular Bacteria</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2022</AwardExpirationDate>
+    <AwardAmount>128946</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090100</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Philip Becraft</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>It is widely recognized that, in nature, bacteria primarily live in multicellular communities (biofilms) that can lead to biofouling or chronic disease. These bacterial communities are difficult to eradicate, in part because some cells within the community segregate into distinct dormant states (such as persister cells or spores) that are resistant to antibiotics or cleaning agents. To develop better therapeutics, it is crucial to understand the molecular mechanisms that bacteria use to induce community formation and to trigger segregation into distinct cell fates. This research project takes advantage of the easily observed multicellular lifestyle of Myxococcus xanthus to investigate the molecular mechanisms controlling dormant cell differentiation and community formation in bacteria. With this award, the researchers will focus on understanding the network of signaling systems that coordinate differentiation within the community. This project encompasses an inquiry based research platform which will allow diverse undergraduate students from an urban university to perform real-life experiments to identify and characterize components of the signaling network that controls M. xanthus behavior.&lt;br/&gt;&lt;br/&gt;The lifecycle of Myxococcus xanthus is one of the most complex of the bacteria with a multicellular developmental program in which cells segregate into distinct cell fates, including sporulation inside fruiting bodies and production of a persister-like state outside fruiting bodies. Several of the most complex signaling systems described in bacteria have been shown to regulate aspects of the developmental program, but connection to the core regulatory mechanisms are not clear. This study identifies and characterizes a signal transduction network consisting of both Ser/Thr kinases and His-Asp phosphorelay proteins that converges on posttranslational regulation of a core transcription factor, MrpC. This network provides evidence for eukaryotic-like hierarchical and integrated signal transduction networks which evolved to coordinate a multicellular developmental program in bacteria. This project will contribute to our understanding of the evolution of signal transduction networks and will increase our understanding of how primitive organisms took on specialized functions that require differentiated states. Specifically, this proposal addresses three aims: 1) identification of the factors necessary for regulated proteolysis of MrpC and production of a persister-like cell state, 2) characterization of the MrpC phosphorylation pathway and its role in sporulation, and 3) generation of a sustainable course-based undergraduate research experience (CURE) to enhance exposure of students in an urban university to inquiry-based research. These aims will be addressed using a combination of specialized genetic screens to identify core components of the regulatory pathway, bioinformatic analysis of genes identified in the genetic screen, mutant analysis of components to discern the effect on cell fate segregation, and protein biochemistry to identify phosphoryl flow in the signaling systems. The genetic screens will be performed as the CURE, exposing undergraduate students to the entire process of gene identification to protein characterization.</AbstractNarration>
+    <MinAmdLetterDate>01/19/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/19/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651921</AwardID>
+    <Investigator>
+      <FirstName>Penelope</FirstName>
+      <LastName>Higgs</LastName>
+      <EmailAddress>pihiggs@wayne.edu</EmailAddress>
+      <StartDate>01/19/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Wayne State University</Name>
+      <CityName>Detroit</CityName>
+      <ZipCode>482023622</ZipCode>
+      <PhoneNumber>3135772424</PhoneNumber>
+      <StreetAddress>5057 Woodward</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1118</Code>
+      <Text>PLANT FUNGAL &amp; MICROB DEV MECH</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: Developing functional gene based biomarker for DAMO and exploring the potential application of DAMO in wastewater treatment</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2018</AwardExpirationDate>
+    <AwardAmount>93137</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>William Cooper</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>1657725&lt;br/&gt;Goel&lt;br/&gt;&lt;br/&gt;Anaerobic processes are useful and enable wastewater treatment plants to become energy neutral or, possibly, energy positive. One of the useful byproducts of anaerobic processes is methane gas, which can be utilized as a fuel. This research combines two important biogeochemical cycles - the nitrogen and carbon cycles - and two important contaminants - methane and nitrogen - in surface waters. This project will contribute to solving one of the National Academy of Engineering Grand Challenges of the 21st century, managing the nitrogen cycle.&lt;br/&gt;&lt;br/&gt;Recent findings suggest that methane oxidation is possible in oxygen-free conditions with nitrite and nitrate as the electron acceptors, referred to as denitrifying anoxic methane oxidation. Denitrifying anoxic methane oxidation is ecologically significant because it connects two important ecosystem cycles - the nitrogen and carbon cycles. The role of denitrifying anoxic methane oxidation organisms cannot be ignored; these organisms contribute to the sink of methane in ecosystems as well as to the nitrogen dynamics in nitrogen-contaminated ecosystems. Recent findings related to denitrifying anoxic methane oxidation involve an addition to the biochemistry of prokaryotes-mediated methane oxidation and have generated further possibilities for research, such as an evaluation of their role on a global scale, their ecological diversity, and their actual role in methane sinks. The enzyme nitric oxide dismutase is involved in the splitting of nitric oxide (2NO=N2+O2) to generate oxygen for the particulate methane monooxygenase to oxidize methane gas. Based on the metagenome construction of M. oxyfera and preliminary stable isotope labeled experiments, it was hypothesized that M. oxyfera is capable of dismutating NO to N2 and O2. Absolutely no information is available on nitric oxide dismutase. On a broader scale, the ecological significance of denitrifying anoxic methane oxidation organisms, the actual scale of methane sinks due to denitrifying anoxic methane oxidation, and the in-situ factors affecting denitrifying anoxic methane oxidation are not fully understood. The potential of using denitrifying anoxic methane oxidation organisms for nitrogen management in wastewater treatment plants has been explored fully with well-planned operational strategies. In this EAGER award, the PI will study the role of the nitric oxide dismutase gene and determine whether studies of this gene could provide a breakthrough in understanding the ecology of denitrifying anoxic methane oxidation organisms. The PI will study the nitrogen removal potential of denitrifying anoxic methane oxidation organisms while working synergistically with other N-cycling bacteria in wastewater treatment. The intellectual merit of this research includes: (1) elucidating whether denitrification-coupled anoxic methane oxidation (denitrifying anoxic methane oxidation) is a key sink of methane in nitrogen-contaminated ecosystems, (2) revealing the identity of denitrifying anoxic methane oxidation organisms using metagenomics and metatranscriptomics, and, (3) developing a new tool to study the presence and diversity of denitrifying anoxic methane oxidation organisms. This project will lay the foundation for further investigation and incorporation of denitrifying anoxic methane oxidation in ecological models aimed at estimating methane emissions. The fundamental knowledge gained in this research will be applicable in other natural (contaminated subsurface and river sediments) and engineered (engineered bioreactors) systems. The project will directly contribute to graduate and undergraduate education. The PI has developed computer animations to demonstrate, for example, how viruses infect bacteria. In this project, the PI will further expand this outreach to include well-illustrated short films to demonstrate laboratory protocols, the significance of the nitrogen cycle, and greenhouse gas emissions. Results will be disseminated through peer-reviewed publications and community workshops for local wetland managers.</AbstractNarration>
+    <MinAmdLetterDate>01/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657725</AwardID>
+    <Investigator>
+      <FirstName>Ramesh</FirstName>
+      <LastName>Goel</LastName>
+      <EmailAddress>rgoel@civil.utah.edu</EmailAddress>
+      <StartDate>01/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Utah</Name>
+      <CityName>SALT LAKE CITY</CityName>
+      <ZipCode>841128930</ZipCode>
+      <PhoneNumber>8015816903</PhoneNumber>
+      <StreetAddress>75 S 2000 E</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Utah</StateName>
+      <StateCode>UT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1440</Code>
+      <Text>ENVIRONMENTAL ENGINEERING</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>004Z</Code>
+      <Text>Innovations at the Nexus of Food-Energy-</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

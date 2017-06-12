@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Experimental Evolution of Insect Nuptial Food Gifts and Female Responses</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardAmount>90000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090500</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Emilia Martins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Insects have an enormous economic impact on society, negatively through their roles as agricultural pests and transmitters of disease, and positively as critical pollinators of a wide range of agricultural products. Their influence is amplified by their ability to reproduce rapidly and in great numbers, which is determined by the number of offspring each female can produce. Differences between females in their reproduction is partially controlled by males, who can manipulate females by transferring chemicals that influence their physiology and receptivity during mating. This project involves fundamental research to identify the chemicals transferred by males that influence female mating behavior, the underlying genes, and the mechanisms by which females protect themselves from these substances. These studies may lead to products that inhibit female reproduction, and which can be used for safe and effective biological control of insects. The project will also contribute to the training of the next generation of scientists by supporting undergraduate, graduate, and post-doctoral students. These students will disseminate their work through scientific scholarship, and will participate in community outreach programs centered on the public's fascination with insects. These include activities that foster an interest in science in elementary-school children and that enhance scientific literacy by providing resources for the study of insects to high school teachers. &lt;br/&gt;&lt;br/&gt;Nuptial food gifts are food items given by males to females and are an integral feature of various insect mating systems. In decorated crickets, nuptial food gifts take the form of a spermatophylax, a gelatinous mass forming part of the male's spermatophore and consumed by the female. Although nuptial gifts advance the fitness interests of males by maximizing sperm transfer, their effect on the fitness of females remains unclear. The researchers will employ experimental evolution to explore the role of conflicting male and female goals in driving the evolution of the chemical composition of male nuptial gifts and female responses to them in decorated crickets. Specifically, they will vary the intensity of selection and conflict by manipulating the ratio of males and females in replicate populations, and then monitor, simultaneously, the evolutionary responses of males and females. They will use gas chromatography and mass spectrometry to track evolutionary modifications in the free amino acid profile of the spermatophylax, and targeted gene expression to assess changes in key genes. Female evolutionary responses will be assessed using behavioral assays to assess the gustatory appeal of gifts, and a comparative transcriptomics approach will be used to characterize differential gene expression in brain and gut tissue of females from different selection lines. By coupling a powerful experimental evolution design with state-of-the art functional genomics, they aim to provide one of the most comprehensive examinations of how selection and conflict contribute to the evolution of a widespread reproductive adaptation in insects.</AbstractNarration>
+<MinAmdLetterDate>03/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1654028</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Sakaluk</LastName>
+<EmailAddress>sksakal@ilstu.edu</EmailAddress>
+<StartDate>03/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Hunt</LastName>
+<EmailAddress>J.Hunt@exeter.ac.uk</EmailAddress>
+<StartDate>03/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Sadd</LastName>
+<EmailAddress>bmsadd@IllinoisState.edu</EmailAddress>
+<StartDate>03/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Illinois State University</Name>
+<CityName>Normal</CityName>
+<ZipCode>617901000</ZipCode>
+<PhoneNumber>3094382528</PhoneNumber>
+<StreetAddress>100 S Fell Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7659</Code>
+<Text>ANIMAL BEHAVIOR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

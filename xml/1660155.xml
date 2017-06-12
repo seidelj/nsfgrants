@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Semantic Link Association Prediction for Phenotypic Drug Discovery</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>750000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ruth M. Shuman</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is the development of an informatics-based software platform that will help pharmaceutical companies create more new, effective, and safe drugs earlier in the R&amp;D pipeline. This software platform will address a need for data integration and analysis tools to aid pharmaceutical researchers in 1) phenotypic screening, 2) toxicology analysis, and 3) drug repurposing. It will help these researchers quickly gather and interpret complex molecular and phenotypic data, making the drug discovery process more efficient and creating value for pharmaceutical companies. The economic impact of reducing the preclinical drug discovery process by just two weeks is estimated to be a $252 million cost savings for the industry. By using data more effectively earlier in the R&amp;D process, this software platform also promises to enhance the quality of drugs that enter clinical trials. Thus, it provides an opportunity to reduce overall R&amp;D spending and increase the number of drugs that enter the market - resulting in more economically priced medicines available to the population.&lt;br/&gt;&lt;br/&gt;This SBIR Phase II project proposes to build an informatics-based software platform that solves cross-domain data integration, analysis, and user application challenges in order to effectively use data to draw insights earlier in the R&amp;D process and compress the development pipeline for new or repurposed drugs. Using highly scalable semantic graph technologies, a flexible three-layer architecture is being developed that includes the 1) Biomedical Data Layer, 2) Computational Layer, and 3) Application Layer. This architecture allows the system be fully scalable and extensible to other datasets and biomedical applications. The system will be beta-tested by pharmaceutical researchers and evaluated though the creation of scientifically relevant use-cases. This development will result in a commercial software system that makes important biomedical data and insights available to all researchers within a pharmaceutical organization by addressing high need data integration, analysis, and application challenges.</AbstractNarration>
+    <MinAmdLetterDate>03/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660155</AwardID>
+    <Investigator>
+      <FirstName>Randy</FirstName>
+      <LastName>Kerber</LastName>
+      <EmailAddress>randy@d2discovery.com</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Data2Discovery Inc</Name>
+      <CityName>Bloomington</CityName>
+      <ZipCode>474083912</ZipCode>
+      <PhoneNumber>6364482934</PhoneNumber>
+      <StreetAddress>901 E 10th St</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Indiana</StateName>
+      <StateCode>IN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8038</Code>
+      <Text>Biotechnology</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

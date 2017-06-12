@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Merging lab and field data: seismic indicators of earthquake nucleation</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>103208</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Herbert Wang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Earthquakes begin deep within the earth in a poorly understood process known as earthquake nucleation. Much of our understanding of earthquake nucleation is the result of laboratory rock mechanics experiments, but the laboratory-based models are difficult to apply to observations of natural earthquakes. This project brings together field recordings of earthquakes in Oklahoma and large scale laboratory experiments with the goal of linking both sets of data to identify a physical model of earthquake nucleation that can be tested with seismic observations. Larger than most laboratory experiments, the meter-sized samples are instrumented with a laboratory version of a seismic network, so a more direct comparison can be made to seismic recordings made in the field. A better understanding of the earthquake nucleation process will help us understand why earthquakes occur, how to avoid them, and how to better interpret seismic clues such as foreshocks.&lt;br/&gt;&lt;br/&gt;The most commonly cited model of earthquake nucleation proposes that earthquakes do not begin instantaneously but are preceded by slow slip. However, the model's seismic implications are unclear, and its applicability to crustal conditions is debated. The proposed laboratory experiments allow the direct observation of the nucleation of magnitude negative three earthquakes under controlled conditions. The meter-sized sample is instrumented with arrays of sensors that can record both slow slip and any seismic signatures of the nucleation process including magnitude negative seven foreshocks and initial P-wave seismograms. This project will then rigorously interpret seismic data collected in north-central Oklahoma within the context of physical models of earthquake initiation and seismic/aseismic interactions developed in the laboratory.</AbstractNarration>
+<MinAmdLetterDate>04/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1645163</AwardID>
+<Investigator>
+<FirstName>Kathleen</FirstName>
+<LastName>Keranen</LastName>
+<EmailAddress>keranen@cornell.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>McLaskey</LastName>
+<EmailAddress>gcm8@cornell.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1574</Code>
+<Text>GEOPHYSICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

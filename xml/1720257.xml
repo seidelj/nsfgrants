@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Algorithms for Large-Scale Nonlinear Eigenvalue Problems: Interpolation, Stability, Transient Dynamics</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>349999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rosemary Renaut</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Dynamical systems are mathematical models of the changing world.  To understand such a model, one must describe how the system will evolve in time. Of interest is whether the solution grows with time, and whether the short-term behavior of the system is different from the behavior over a large-time window.  This project aims to develop tools to help scientists and engineers better analyze a challenging class of models in which the system's current rate-of-change is dictated by its configuration at some time in the recent past, models known as "delay systems."  Compelling examples come from biology, where this delay could correspond to gestation in a population, the incubation of a disease, or the time for a pill to dissolve.  In many important scenarios, highly accurate models require thousands or millions of variables.  This project will design high-performance computing algorithms to efficiently assess the behavior of such systems.&lt;br/&gt;&lt;br/&gt;The research team will develop a new class of algorithms that are derived from interpolation techniques for model reduction of large-scale dynamical systems, for solving important large-scale nonlinear eigenvalue problems.  Nonlinear eigenvalue problems play an increasingly important role in many applications, including the stability analysis of delay differential equations.  Such problems pose a great challenge to computation: the number of eigenvalues is often infinite, even when the dimension of the problem is finite.   This project's interpolation-based techniques hold the promise of accurately modeling nonlinear operators over a broad region of the complex plane, resulting in algorithms that are both more efficient and more robust than existing methods.  Combining interpolation with structure-preserving subspace projection has the potential to approximate a much larger number of eigenvalues than possible with traditional methods.  To understand the performance of these new algorithms and to improve their speed, the project will also address convergence theory; for greater efficiency the project will explore inexact solution methods. Improved solvers for the nonlinear eigenvalue problem will inform development of the other two main aspects of this project: determination of critical stability transitions as a function of parameters (such as the time delays) in differential equations, and an enhanced understanding of the transient behavior of dynamical systems associated with nonlinear eigenvalue problems.  This project is expected to lead to substantial improvements in algorithms and analysis for the nonlinear eigenvalue problem and related stability questions.</AbstractNarration>
+<MinAmdLetterDate>05/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1720257</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Embree</LastName>
+<EmailAddress>embree@vt.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Serkan</FirstName>
+<LastName>Gugercin</LastName>
+<EmailAddress>gugercin@math.vt.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

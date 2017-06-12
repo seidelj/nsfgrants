@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>UNC Charlotte Planning Grant: IUCRC for Center for Visual and Decision Informatics</AwardTitle>
+    <AwardEffectiveDate>01/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>15000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This planning grant will lay the foundation for establishing a successful IUCRC site at University of North Carolina - Charlotte, affiliated with the existing IUCRC center - the Center for Visual and Decision Informatics (CVDI). The UNC Charlotte site will focus on establishing, promoting, and disseminating best practices for research, development, and application of big data-driven analysis of risk management and mitigation in sustainable societies (social good) and regional industries, including financial services, healthcare, energy, and retail. The site will use the existing UNC Charlotte big data repository and analytics tools framework, called SOPHI, to establish a computational platform for corporations, governments, and universities to jointly address the issue of risk management and mitigation through the use of data, analytics, actionable policies, and verifiable outcomes. &lt;br/&gt;&lt;br/&gt;The diversity of businesses around the Charlotte region has proven to be of interest to a diverse group&lt;br/&gt;of students. With the existing graduate programs in analytics already more diverse than other UNC Charlotte&lt;br/&gt;STEM graduate programs achieving 40% women enrollment, the PIs aim to attract underrepresented groups into the IUCRC activities and analytics programs on campus, both to augment those programs and to offer these students enhanced career opportunities in sought-after disciplines. As part of the award activities, the PIs will create a strategy and assign responsibilities for all aspects of this process.</AbstractNarration>
+    <MinAmdLetterDate>01/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650439</AwardID>
+    <Investigator>
+      <FirstName>Joshua</FirstName>
+      <LastName>Hertel</LastName>
+      <EmailAddress>jhertel@uncc.edu</EmailAddress>
+      <StartDate>01/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Shannon</FirstName>
+      <LastName>Schlueter</LastName>
+      <EmailAddress>sschluet@uncc.edu</EmailAddress>
+      <StartDate>01/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Mirsad</FirstName>
+      <LastName>Hadzikadic</LastName>
+      <EmailAddress>mirsad@uncc.edu</EmailAddress>
+      <StartDate>01/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Mark</FirstName>
+      <LastName>Armstrong</LastName>
+      <EmailAddress>Mark.Armstrong@IntePoint.com</EmailAddress>
+      <StartDate>01/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of North Carolina at Charlotte</Name>
+      <CityName>CHARLOTTE</CityName>
+      <ZipCode>282230001</ZipCode>
+      <PhoneNumber>7046871888</PhoneNumber>
+      <StreetAddress>9201 University City Boulevard</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

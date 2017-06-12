@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2017 Oceanographic Instrumentation</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>91780</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James S. Holik</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Broader Impacts&lt;br/&gt;The principal impact of the present proposal is under Merit Review Criterion 2 of the Proposal Guidelines (NSF 13-589). It provides infrastructure support for scientists to use the vessel and its shared-use instrumentation in support of their NSF-funded oceanographic research projects (which individually undergo separate review by the relevant research program of NSF).  The acquisition,  maintenance and operation of shared-use instrumentation allows NSF-funded researchers from any US university or lab access to working, calibrated instruments for their research, reducing the cost of that research, and expanding the base of potential researchers.&lt;br/&gt;&lt;br/&gt;The Program recommends an award of  $91,780 for the purchase of the following:&lt;br/&gt;      &lt;br/&gt;1) SEAL 408 accessory equipment $60,218 &lt;br/&gt;2) Science system IT upgrades $31,562 &lt;br/&gt;     $91,780</AbstractNarration>
+<MinAmdLetterDate>04/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1733592</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Goldberg</LastName>
+<EmailAddress>goldberg@ldeo.columbia.edu</EmailAddress>
+<StartDate>04/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sean</FirstName>
+<LastName>Higgins</LastName>
+<EmailAddress>sean@ldeo.columbia.edu</EmailAddress>
+<StartDate>04/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Rupert</LastName>
+<EmailAddress>rupert@ldeo.columbia.edu</EmailAddress>
+<StartDate>04/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5413</Code>
+<Text>OCEANOGRAPHIC INSTRUMENTATION</Text>
+</ProgramElement>
+</Award>
+</rootTag>

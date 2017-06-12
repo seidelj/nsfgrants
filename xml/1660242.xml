@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Closing the Digital Divide: Real-Time Multisensory Learning for Special Education Students</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>742148</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Glenn H. Larsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project creates an educational, touchscreen-based software that translates visual educational content into accessible, multisensory content for students with special needs, and particularly those with blindness and visual impairments. Consider the challenge in the educational landscape today: schools are increasingly adopting digital tools oriented toward creating a more interactive, personalized experience for mainstream students, but at the same time, are struggling to accommodate their diverse student population, particularly, the 6 million students in special education in the U.S. This problem is exaggerated in Science, Technology, Engineering, and Math (STEM), where content is often complex and visual. This project addresses these challenges, building on what we already know about human information processing and haptic interfaces to create software that will automatically convert highly visual content into content that can be seen, heard, and felt in real-time in class. This project supports NSF?s mission ensuring that inclusion of all students is at the forefront of the digital transformation of U.S. classrooms. The societal impacts of this work overcome several barriers impeding students with special needs from being independent and active contributors in the STEM educational experience and ultimately, many STEM professions. ViTAL projects a direct, financial return on investment for taxpayers within three years of operations, generating both revenue and new jobs, with plans to multiply this growth year over year. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The innovation in this project is the creation of methods and algorithms for effective translation of visual content into multimodal content, appropriately down sampled for the nonvisual sensory channels yet effective in conveying the most meaningful information. Such a conversion currently does not exist, which results in high overhead costs to create accessible graphics and is a major pain point in special education, particularly for individuals with visual impairments or blindness. Further, translating graphical content from the visual to the multimodal (visual, auditory, and haptic) space is not a straightforward conversion due to the limited bandwidth of human touch compared to vision and the complexity of features presented in graphical information. This challenge is exaggerated when accounting for the varying types of haptic feedback that can be provided from varying platforms (Android and iOS). This project addresses these challenges, creating a streamlined solution for generating accessible, multisensory content, in real-time, on commercial platforms for K-12 classrooms. The outcomes of this project will (1) create the algorithms needed to provide an automated conversion from the visual to multimodal space, (2) establish a teacher "dashboard" to streamline the proposed software?s integration in the classroom, and (3) expand the software to the iOS market while simultaneously uncovering novel haptic effects that leverage Apple?s unique Taptic feedback. Upon completion of the development, the software will be beta tested with partnering schools, and then released on both Android and iOS markets.</AbstractNarration>
+    <MinAmdLetterDate>03/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660242</AwardID>
+    <Investigator>
+      <FirstName>Corrine</FirstName>
+      <LastName>Mueller</LastName>
+      <EmailAddress>corrine@vital-ed.com</EmailAddress>
+      <StartDate>03/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>JLG Innovations, LLC</Name>
+      <CityName>Edwardsville</CityName>
+      <ZipCode>620254298</ZipCode>
+      <PhoneNumber>6183632323</PhoneNumber>
+      <StreetAddress>308 Shea Ct</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8031</Code>
+      <Text>Education Products</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8039</Code>
+      <Text>Information, Communication &amp; Computing</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

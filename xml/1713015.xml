@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Summer Research Conference in Statistics and Biostatistics</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2018</AwardExpirationDate>
+    <AwardAmount>21315</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robert Lund</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Summer Research Conference in Statistics and Biostatistics will be held in Jekyll Island, Georgia on June 4-7, 2017. This meeting is the 53rd in a sequence of annual conferences. Its purpose is to encourage the interchange and mutual understanding of current research ideas in statistics and biostatistics, and to give motivation and direction to further research progress. The conference focuses on young researchers, placing them in close proximity to leaders in the field for person-to-person interactions in a manner not possible at most other meetings. Speakers will present formal research talks with adequate time allowed for clarification, amplification, and further informal discussions in small groups. With the travel support provided by this award, students will attend and present their research in posters to be reviewed by more experienced researchers.&lt;br/&gt;&lt;br/&gt;The Southern Regional Council on Statistics (SRCOS) is a consortium of statistics and biostatistics programs in the South, with member programs at 45 universities in 16 states in the region. This project will fund student participation in the 2017 Summer Research Conference (SRC) sponsored by SRCOS. The meeting is particularly valuable for students and faculty from smaller schools in the region, affording them the opportunity to participate and interact closely with internationally-known leaders in the field without the cost of travel to distant venues. It will strengthen the research of the statistics and biostatistics community as a whole, and particularly in the relatively underdeveloped southern region. The conference's five session topics are Complex Spatial Environmental Problems, Statistical Education, Functional Data Analysis, Causal Inference, and Integrative Omics. More details can be found at the conference web site http://web1.sph.emory.edu/srcos/.</AbstractNarration>
+    <MinAmdLetterDate>04/18/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/18/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1713015</AwardID>
+    <Investigator>
+      <FirstName>Arnold</FirstName>
+      <LastName>Stromberg</LastName>
+      <EmailAddress>astro@ms.uky.edu</EmailAddress>
+      <StartDate>04/18/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Kentucky Research Foundation</Name>
+      <CityName>Lexington</CityName>
+      <ZipCode>405260001</ZipCode>
+      <PhoneNumber>8592579420</PhoneNumber>
+      <StreetAddress>109 Kinkead Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Kentucky</StateName>
+      <StateCode>KY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1269</Code>
+      <Text>STATISTICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

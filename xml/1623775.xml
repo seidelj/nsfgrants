@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>RAPID: The effect of an extreme El Nino event on tropical forest seedling regeneration</AwardTitle>
     <AwardEffectiveDate>03/15/2016</AwardEffectiveDate>
-    <AwardExpirationDate>02/28/2017</AwardExpirationDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
     <AwardAmount>165000</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -43,20 +43,20 @@
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>Liza</FirstName>
-      <LastName>Comita</LastName>
-      <EmailAddress>liza.comita@yale.edu</EmailAddress>
-      <StartDate>03/14/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Frank</FirstName>
       <LastName>Jones</LastName>
       <EmailAddress>jonesfr@science.oregonstate.edu</EmailAddress>
       <StartDate>03/14/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Liza</FirstName>
+      <LastName>Comita</LastName>
+      <EmailAddress>liza.comita@yale.edu</EmailAddress>
+      <StartDate>03/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Oregon State University</Name>

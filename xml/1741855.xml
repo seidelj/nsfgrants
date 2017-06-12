@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2017 ACM International Conference on Nanoscale Computing and Communication (ACM NanoCom)</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2017</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wenjing Lou</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The ACM NanoCom conference series aims at creating a trans-disciplinary forum to foster and develop new communications and computing paradigms for nanoscale machines. The conference has been held annually since 2014, and has become the reference venue for fundamental advances in nanoscale computing and communication networks. ACM NanoCom highlights research potentials, stimulates novel and breakthrough ideas, and identifies their short- and medium-term exploitation goals. The conference features an open call for papers as well as keynote and plenary talks, tutorials on state-of-the-art topics, and poster sessions. Both novel research results and implementation-based solutions are welcome. &lt;br/&gt;&lt;br/&gt;This award will support 10 students in the United States to attend ACM NanoCom 2017, which will be held in Washington DC, USA on September 27-29, 2017. Attending such high-caliber technical venue is extremely valuable for future researchers. This is a truly inter-disciplinary field, which requires close interaction and frequent discussions with experts that span different areas. ACM NanoCom 2017 is aimed at becoming the forum for such discussions to occur. Students will not only be exposed to the state-of the-art in the field, but they will also have the opportunity to interact with peers from institutions worldwide, meet with leading researchers, and take part in discussions that are likely to shape the future of the field. The travel grants will target graduate students who will substantially benefit from attending this conference but have limited travel funds. Priority will be given to underrepresented student groups in STEM.</AbstractNarration>
+<MinAmdLetterDate>05/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741855</AwardID>
+<Investigator>
+<FirstName>Josep</FirstName>
+<LastName>Jornet</LastName>
+<EmailAddress>jmjornet@buffalo.edu</EmailAddress>
+<StartDate>05/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Buffalo</Name>
+<CityName>Amherst</CityName>
+<ZipCode>142282567</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress>520 Lee Entrance</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>RES IN NETWORKING TECH &amp; SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7363</Code>
+<Text>RES IN NETWORKING TECH &amp; SYS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

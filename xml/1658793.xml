@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>The Kansas-Missouri-Nebraska (KUMUNU) Conference in PDE, Dynamical Systems and Applications</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>19350</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Victor Roytburd</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award will provide support for participants, especially graduate students, junior researchers, women and mathematicians from under-represented groups in the sciences, to attend the third regional conference "KUMUNU Conference in Partial Differential Equations, Dynamical Systems and Applications" (KUMUNU Lincoln 2017) to be held from April 22-23, 2017, at the University of Nebraska-Lincoln. The abbreviation KUMUNU signifies the collaboration of faculty from the Universities of Kansas, Missouri, and Nebraska. The Conference webpage is http://www.math.unl.edu/events/special/kumunu2017. &lt;br/&gt;Similarly to the two previous KUMUNU Conferences, the KUMUNU Lincoln 2017 Meeting is being organized with a view toward featuring eminent mathematicians who will deliver lectures on their respective research programs to a diverse audience of mathematicians. KUMUNU Lincoln 2017 will serve as a forum for interaction of established scientist with graduate students and early career faculty, as well as with members of smaller regional academic institutions. One of the objectives of the conference is the initiation of collaborations among Partial Differential Equations (PDE) specialists who, but for their respective participation in KUMUNU Lincoln 2017, might not otherwise have occasion to collectively meet in a scientific setting. It is anticipated that these nascent collaborations will involve recent PhDs and facilitate development of their academic careers. &lt;br/&gt;&lt;br/&gt;The invited talks will be devoted to the following areas of research: (i) long time behavior of solutions to nonlinear PDE; and (ii) analysis of those PDE systems that describe certain fluid-structure interactions. In particular, the Conference Speakers will address qualitative issues concerning the existence of global attracting sets for corresponding "trajectories" (solutions) of given nonlinear evolutionary PDE. Some speakers will address the rigorous and numerical analysis of certain fluid-structure PDE dynamics, and present their latest findings in these research directions. In addition, it is expected that the collaboration between researchers in long time behavior of nonlinear evolutionary PDE and fluid-structure PDE specialists will serve as a departure point from which new inroads will be made towards understanding the asymptotic behavior of solutions to nonlinear fluid-structure PDE dynamics. The projected collaborations arising from KUMUNU Lincoln 2017 could provide new mathematical insights into experimentally and numerically observed fluid-structure phenomena.</AbstractNarration>
+    <MinAmdLetterDate>01/04/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/04/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658793</AwardID>
+    <Investigator>
+      <FirstName>Daniel</FirstName>
+      <LastName>Toundykov</LastName>
+      <EmailAddress>dtoundykov@unl.edu</EmailAddress>
+      <StartDate>01/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>George</FirstName>
+      <LastName>Avalos</LastName>
+      <EmailAddress>gavalos@math.unl.edu</EmailAddress>
+      <StartDate>01/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Nebraska-Lincoln</Name>
+      <CityName>Lincoln</CityName>
+      <ZipCode>685031435</ZipCode>
+      <PhoneNumber>4024723171</PhoneNumber>
+      <StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Nebraska</StateName>
+      <StateCode>NE</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1266</Code>
+      <Text>APPLIED MATHEMATICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

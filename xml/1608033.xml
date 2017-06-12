@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1608033</AwardID>
     <Investigator>
-      <FirstName>Peter</FirstName>
-      <LastName>Riseborough</LastName>
-      <EmailAddress>prisebor@astro.temple.edu</EmailAddress>
-      <StartDate>02/12/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Alexander</FirstName>
       <LastName>Gray</LastName>
       <EmailAddress>axgray@temple.edu</EmailAddress>
       <StartDate>02/12/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Peter</FirstName>
+      <LastName>Riseborough</LastName>
+      <EmailAddress>prisebor@astro.temple.edu</EmailAddress>
+      <StartDate>02/12/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Temple University</Name>

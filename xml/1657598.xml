@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: AF: Characterization and Complexity of Information Elicitation</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2019</AwardExpirationDate>
+    <AwardAmount>175000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computing and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tracy J. Kimbrel</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The way one judges the accuracy of predictions can greatly impact what predictions people or computers make. For example, Glenn Brier argued in 1950 that the way meteorologists were evaluated would actually give them an incentive to distort the true probability of rain. Brier's study inspired a growing body of work in statistics, economics, and now computer science, which studies evaluation metrics that incentivize accurate reports from people or machines. These evaluation metrics are also used in machine learning, a branch of artificial intelligence, where a designer implicitly tells the computer what statistic to predict by providing only the evaluation metric itself. This project seeks to mathematically characterize this link between statistics and evaluation metrics, and moreover, to understand the computational and statistical difficulty of evaluating different statistics. A precise understanding of this link would provide new evaluation metrics with the potential to increase predictive power across a vast array of applications such as climate simulations and smart cities. In particular, metrics for statistics that quantify uncertainty or risk could improve decision making in many fields, including healthcare, engineering, and finance.&lt;br/&gt;&lt;br/&gt;A dominant algorithmic paradigm in machine learning, encompassing most regression techniques and classification algorithms, is that of empirical risk minimization (ERM): choosing a model from some class that best fits the data, according to some evaluation metric called a loss function. A thread of research in theoretical machine learning called property elicitation gives a mathematical formalism to describe the link between loss functions and their corresponding statistics. In these terms, this project seeks to characterize the statistics which have calibrated loss functions, and determine how many regression parameters or data points are required for the calibration to hold. These questions are particularly relevant to machine learning when restricting attention to certain classes of loss functions which can be easily optimized or which have desirable statistical learning guarantees. The class of statistics from mathematical finance known as risk measures, which are used to regulate banks, form an important focus of the project.</AbstractNarration>
+    <MinAmdLetterDate>02/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657598</AwardID>
+    <Investigator>
+      <FirstName>Rafael</FirstName>
+      <LastName>Frongillo</LastName>
+      <EmailAddress>raf@colorado.edu</EmailAddress>
+      <StartDate>02/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Colorado at Boulder</Name>
+      <CityName>Boulder</CityName>
+      <ZipCode>803031058</ZipCode>
+      <PhoneNumber>3034926221</PhoneNumber>
+      <StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7796</Code>
+      <Text>ALGORITHMIC FOUNDATIONS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7932</Code>
+      <Text>COMPUT GAME THEORY &amp; ECON</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

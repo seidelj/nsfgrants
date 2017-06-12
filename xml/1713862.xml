@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Host Olfactory Percepts in Two Polyphagous Sibling Species of  Longhorned Beetles</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will identify the mixture of airborne compounds the East Asian hardwood pests Asian Longhorned Beetle and Citrus Longhorned Beetle use to detect their hosts. Asian Longhorned Beetle is one of the most costly invasive insects in the United States. Citrus Longhorned Beetle, due to its invasive presence in Europe, its similar biology, and broader host range, is one of the most threatening potential invasives. In addition to identifying compounds for much-needed attractive lures, this project will also explore host detection by two closely related insects with broad, overlapping host ranges. Currently, evidence supports the hypothesis that instead of detecting single, unique compounds, insects detect their hosts by sensing host characteristic mixtures of common compounds. It follows from this hypothesis that there is a mixture of compounds unique to Asian Longhorned Beetle hosts and a different mixture of compounds unique to Citrus Longhorned Beetle hosts. However, the wide range of hardwoods infested by both species makes these mixtures difficult to identify. In order to overcome this difficulty, leaf scent samples will be collected from a variety of host and non-host hardwood trees. The host characteristic mixture will then be derived by statistically comparing host and non-host samples. As Citrus Longhorned Beetle is not available to this researcher in the United States and work with Asian Longhorned Beetle is highly regulated, this project will be completed in the beetles native range at Nanjing Forestry University, China, in collaboration with Dr. Hao DeJun, an international longhorned beetle expert.&lt;br/&gt; Insects are hypothesized to orient towards their hosts by detecting ubiquitously produced volatiles in a host characteristic ratio. This project will take advantage of this principle in order to identify the host percepts of Asian Longhorned Beetle (Anoplophora glabripennis) and Citrus Longhorned Beetle (Anoplophora chinensis), two sympatric wood-boring pests with overlapping host ranges. Volatiles released by a variety of host and non-host hardwood species will be collected by head-space aerations with Porapak® adsorbant traps. Antennally-active volatiles indicated by GC-EAD will then be identified and quantified using GC-MS. Host percept mixtures will be identified through a discriminate analysis of antennally-active volatile quantities with host and non-host groups. Finally, positive chemotaxis towards these mixtures will be verified using laboratory y-tube bioassays and field trapping.&lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the Chinese Ministry of Science and Technology.</AbstractNarration>
+<MinAmdLetterDate>05/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713862</AwardID>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Hansen</LastName>
+<EmailAddress/>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Hansen                  Laura          E</Name>
+<CityName>Syracuse</CityName>
+<ZipCode>132103139</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9200</Code>
+<Text>US CHINA COOP IN BASIC SCIENCE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

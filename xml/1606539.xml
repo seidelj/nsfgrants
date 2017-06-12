@@ -5,7 +5,7 @@
     <AwardTitle>Travel Support for U.S. Participants in the VarSITI Symposia/Meetings during 2016-2018</AwardTitle>
     <AwardEffectiveDate>04/01/2016</AwardEffectiveDate>
     <AwardExpirationDate>03/31/2019</AwardExpirationDate>
-    <AwardAmount>17052</AwardAmount>
+    <AwardAmount>33702</AwardAmount>
     <AwardInstrument>
       <Value>Continuing grant</Value>
     </AwardInstrument>
@@ -23,7 +23,7 @@
     </ProgramOfficer>
     <AbstractNarration>This three-year project is to enable the participation of distinguished U.S. scientists at the VarSITI (Variability of the Sun and Its Terrestrial Impact) Meetings during 2016-2018. The VarSITI program is sponsored by the SCOSTEP (Scientific Committee on Solar-Terrestrial Physics) and it promotes international collaboration of solar-terrestrial researchers in data analysis, modeling, and theory to improve our understanding of how the solar variability affects the Earth. The related Meetings during 2016-2018 will serve as venues to discuss recent results on VarSITI-related projects, exchange ideas, and educate the next generation of solar-terrestrial researchers on integrated system's science. This three-year project supports the Strategic Goals of the AGS Division in discovery, learning, diversity, and interdisciplinary research.</AbstractNarration>
     <MinAmdLetterDate>03/23/2016</MinAmdLetterDate>
-    <MaxAmdLetterDate>03/23/2016</MaxAmdLetterDate>
+    <MaxAmdLetterDate>02/08/2017</MaxAmdLetterDate>
     <ARRAAmount/>
     <AwardID>1606539</AwardID>
     <Investigator>
@@ -47,6 +47,10 @@
     <ProgramElement>
       <Code>1523</Code>
       <Text>SOLAR-TERRESTRIAL</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5750</Code>
+      <Text>MAGNETOSPHERIC PHYSICS</Text>
     </ProgramElement>
     <ProgramReference>
       <Code>4444</Code>

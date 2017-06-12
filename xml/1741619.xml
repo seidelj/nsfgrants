@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Advanced Energy Data Analytics, Visualization, and Forecasting Platform for Energy Decision-Makers</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project includes developing an analytical platform is capable of empowering customers with big-data analytical capacity, allow them to design and test clean energy ideas on their own terms at a fast pace using evidence-based machine-learning-enabled algorithms, and to enhance their capability to communicate with stakeholders. By adopting the proposed technology, its users could reduce energy consumption, save financial and physical resources, and minimize environmental impact. The predictive feature of the technology could also allow its users to develop a long-term view about their individual purchasing behavior as well as collective planning actions, and make financially wise and environmentally friendly decisions regarding home appliance purchases, commercial technology deployment, as well as city and regional planning.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims to explore the commercial viability of an energy analytics platform that combines big-data management platforms, electricity financial models, machine-learning-enabled data-driven analytical tools, and a 3D visualization interface. The platform is pre-loaded with historical data that allows customers to benchmark their past electricity use patterns. The historical data will also serve as an input to customizable machine-learning algorithms that provide customers the power and flexibility to design evidence-driven actions that fit their electricity consumption needs and forecast the economic, environmental, and social impacts related to the actions in the mid- to long-term. Users of the technology will be able to track and assess their electricity use and expenditures, and any associated capital investments. The technology will also allow its users to see the social and macro-economic impact of their energy-related action by producing outputs on public health, job creation and local GDP growth.</AbstractNarration>
+<MinAmdLetterDate>05/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741619</AwardID>
+<Investigator>
+<FirstName>Marilyn</FirstName>
+<LastName>Brown</LastName>
+<EmailAddress>marilyn.brown@pubpolicy.gatech.edu</EmailAddress>
+<StartDate>05/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

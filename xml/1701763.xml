@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>DISSERTATION RESEARCH: How do saltwater intrusion and drought interact to change the soil carbon balance of a brackish water coastal marsh?</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2018</AwardExpirationDate>
+    <AwardAmount>19045</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010209</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>John Schade</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Coastal wetlands play an important role in the global carbon cycle and store large amounts of carbon in vegetation and sediments. Saltwater intrusion and drought represent serious threats to the stability of coastal wetlands, and may therefore cause substantial changes in their ability to store carbon. Coastal wetlands, including the Florida Everglades, persist under relatively low rates of sea level rise by accumulating soil carbon fast enough for wetland elevation to keep pace. In the Florida coastal Everglades, faster sea level rise, combined with increases in drought and freshwater diversion, have resulted in saltwater moving into coastal freshwater wetlands, changing processes that affect the rates of carbon storage, potentially altering the pace of wetland elevation increases. This Doctoral Dissertation Improvement Grant will provide funds to experimentally simulate saltwater intrusion and drought in a brackish Everglades marsh to determine how changes in productivity, soil carbon pools, and water chemistry affect losses in soil elevation and nutrient export to estuaries. Results from this research will provide information for conservation and restoration efforts not only in the Everglades but also for coastal wetlands globally. The project will also give research and lab experience to undergraduates at a major Hispanic-serving institution. Researchers will use this project to inform and engage the public on coastal environmental issues through a variety of outreach activities.&lt;br/&gt;&lt;br/&gt;In coastal wetlands, the rates of primary production often exceed decomposition, and can result in significant storage of soil carbon. Preliminary results have suggested a strong interaction between saltwater intrusion and drought on the rates of soil carbon storage in coastal wetlands, but questions remain about the magnitude and mechanisms behind these responses. This research uses a controlled experimental manipulation in which coastal wetland mesocosms are subjected to elevated salinity and simulated drought to disentangle the interactive effects of these two drivers. Changes in carbon storage will be measured through carbon dioxide gas exchange and organic carbon stocks (above and below ground), inputs (root productivity, sediment surface accretion), and outputs (organic carbon decomposition). This research will: (1) Identify changes in carbon and biogeochemical cycling in brackish water coastal peat marshes experiencing elevated salinity and prolonged drought; (2) Test the resilience of coastal marshes to drought through evaluation of a post-drought recovery phase; and (3) Assess the potential for elevated salinity and drought to cause the loss of peat elevation and conversion to open water wetlands.</AbstractNarration>
+    <MinAmdLetterDate>03/20/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/20/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1701763</AwardID>
+    <Investigator>
+      <FirstName>Jennifer</FirstName>
+      <LastName>Richards</LastName>
+      <EmailAddress>richards@fiu.edu</EmailAddress>
+      <StartDate>03/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Tiffany</FirstName>
+      <LastName>Troxler</LastName>
+      <EmailAddress>troxlert@fiu.edu</EmailAddress>
+      <StartDate>03/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Benjamin</FirstName>
+      <LastName>Wilson</LastName>
+      <EmailAddress>benwilso@fiu.edu</EmailAddress>
+      <StartDate>03/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Florida International University</Name>
+      <CityName>Miami</CityName>
+      <ZipCode>331990001</ZipCode>
+      <PhoneNumber>3053482494</PhoneNumber>
+      <StreetAddress>11200 SW 8TH ST</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1181</Code>
+      <Text>ECOSYSTEM STUDIES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

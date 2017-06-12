@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: An Investigation of Closed Surfaces in 3-manifolds via Character Varieties</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>To understand the structure of a 3-dimensional shape, or 3-manifold, it often helps to study certain surfaces in the 3-manifold that encode important information. Culler-Shalen theory provides the most general tools for constructing such surfaces and has been instrumental in the resolution of many well-known questions. These special surfaces split naturally into two classes: those with boundary and those without. Much of Culler-Shalen theory's power comes from a deep understanding of the surfaces with boundary that one can construct with these tools. On the other hand, very little is known about the associated surfaces without boundary. In this project, we will use a novel algebraic perspective on Culler-Shalen theory to study the associated surfaces without boundary. Our work will resolve numerous problems concerning Culler-Shalen theory itself and will also open the door to applying the theory to an even broader  class of questions about 3-manifolds. This research will be conducted in collaboration wth Dr. Stephan Tillman, a leading expert on Culler-Shalen theory and 3-manifolds, at the University of Sydney in Sydney, Australia.&lt;br/&gt;&lt;br/&gt;More specifically, Culler-Shalen theory uses the algebraic geometry of a 3-manifold's character variety and a construction, due to Stallings, to build essential surfaces in the manifold. The A-polynomial and the Culler-Shalen norm both determine precisely which boundary slopes arise in this fashion when the manifold's boundary consists of a single torus. However, not every boundary slope is detected by Culler-Shalen theory. We will address an analogous question concerning the detected closed essential surfaces using a module-theoretic perspective on character varieties developed by Chesebro. In particular, we hope to construct an in nite family of hyperbolic 3-manifolds with torus boundary containing closed essential surfaces that are not detected by the character variety. We will also explore the connection between the singular slopes of a closed surface and the bounded surfaces which are weakly detected by the character variety. &lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the Australian Academy of Science.</AbstractNarration>
+<MinAmdLetterDate>04/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713920</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Katerba</LastName>
+<EmailAddress/>
+<StartDate>04/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Katerba                 Charles        W</Name>
+<CityName>Missoula</CityName>
+<ZipCode>598023548</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5912</Code>
+<Text>AUSTRALIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

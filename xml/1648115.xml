@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: A Chemoselective Microreactor for Breath Analysis</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Henry Ahn</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This SBIR phase I project seeks to address the critical need for lung cancer diagnosis at an early stage. North America has the highest age-standardized incidence of lung cancer in the world. An estimated 224,390 new cases of lung cancer will be diagnosed this year and 158,080 deaths are predicted to occur due to lung cancer in 2016. The five-year survival rate for lung cancer patients is much lower when compared to other common cancers due to late-stage diagnosis of the disease in these patients. The survival rate for lung cancer patients significantly improves when the cancer is diagnosed at an early stage. Early detection of lung cancer by computed tomography scanning is disadvantageous to high false positive rates and the need for invasive and expensive follow-up procedures. The breath analysis technology described in this project can mitigate this health crisis by drastically reducing false positives, lowering the cost of diagnosis and reducing the need for repeated radiographic scans or invasive biopsies. Moreover, the cutting-edge breath analysis technology described in this project can be used for other applications, such as environmental monitoring or detecting other diseases including cancers elsewhere in the body.&lt;br/&gt;&lt;br/&gt;The central innovation proposed in this project is a silicon microreactor consisting of micropillars coated with a carbonyl-selective reagent that covalently captures volatile carbonyls of cancer metabolism exhaled in alveolar breath. The microreactor retains the adducts of these metabolic markers, concentrating them up to 10,000-fold, while allowing all other tidal breath components to pass through unaffected. The biomarker adducts of the chemoselective reagent are eluted from the microreactor using methanol and then quantified via mass spectrometry. Elevated concentrations of certain carbonyl biomarkers are indicative of cancer. The Phase I research objectives are to demonstrate the effectiveness of newly engineered, fast-flow microreactors coated with chemoselective reagents designed for enhanced reactions with unsaturated aldehydes. The microreactor design will be optimized so as to evacuate exhaled breath samples through the microreactors at 10-fold the current rate without compromising VOC capture efficiencies. Also, new hydrazine-based reagents will be synthesized to serve as microreactor coatings in combination with the current carbonyl-selective microreactor coating. These innovations will enable the microreactor approach to overcome the critical challenges faced by current breath analysis technologies for early detection of lung cancer.</AbstractNarration>
+    <MinAmdLetterDate>12/11/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/11/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648115</AwardID>
+    <Investigator>
+      <FirstName>Sadakatali</FirstName>
+      <LastName>Gori</LastName>
+      <EmailAddress>sadakatali.gori@breathdiagnosticsinc.com</EmailAddress>
+      <StartDate>12/11/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Breath Diagnostics, Inc.</Name>
+      <CityName>Prospect</CityName>
+      <ZipCode>400597654</ZipCode>
+      <PhoneNumber>5026457823</PhoneNumber>
+      <StreetAddress>9418 Norton Commons Blvd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Kentucky</StateName>
+      <StateCode>KY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8038</Code>
+      <Text>Biotechnology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

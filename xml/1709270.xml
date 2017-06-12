@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Nonlinear Stability of Black Holes and the Structure of Spacetime Singularities in General Relativity</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>150660</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Taylor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project strives to answer fundamental questions about black holes and the structure of spacetime.  The research is a mathematical investigation of properties of solutions to Einstein's equations of general relativity that focuses on spacetime singularities.  The project aims to advance rigorous mathematics to deepen understanding of the aspects of the physical world that are described by this remarkable theory of gravitation, which include the gravitational lensing of light from distant galaxies, the corrections to satellite clocks necessary for global positioning systems, and the gravitational waves observed from binary black hole collisions.&lt;br/&gt;&lt;br/&gt;This research aims to mathematically prove the nonlinear stability of black holes and answer fundamental questions concerning the nature of spacetime singularities in general relativity. The first major objective in this project is to provide a mathematical proof of the nonlinear stability conjecture for the Kerr metric. The other two major objectives of this research concern understanding the structure of various spacetimes with singularities. A series of projects will focus on showing that singularities do indeed exist in black holes, but they are not as "ferocious" as previously expected. Another class of spacetimes with singularities arise in analogy to a construction first done in the context of pure mathematics that has also attracted interest from theoretical physics. A second series of projects will concentrate on implementation of this construction in general relativity and analyze the precise nature of the resulting singularities.</AbstractNarration>
+<MinAmdLetterDate>05/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709270</AwardID>
+<Investigator>
+<FirstName>Igor</FirstName>
+<LastName>Rodnianski</LastName>
+<EmailAddress>irod@math.princeton.edu</EmailAddress>
+<StartDate>05/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mihalis</FirstName>
+<LastName>Dafermos</LastName>
+<EmailAddress>dafermos@math.princeton.edu</EmailAddress>
+<StartDate>05/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

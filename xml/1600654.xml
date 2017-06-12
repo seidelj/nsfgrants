@@ -60,5 +60,13 @@
       <StateName>Illinois</StateName>
       <StateCode>IL</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

@@ -27,6 +27,14 @@
     <ARRAAmount/>
     <AwardID>1614840</AwardID>
     <Investigator>
+      <FirstName>Vania</FirstName>
+      <LastName>Jordanova</LastName>
+      <EmailAddress>vania@lanl.gov</EmailAddress>
+      <StartDate>03/03/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
       <FirstName>Joseph</FirstName>
       <LastName>Borovsky</LastName>
       <EmailAddress>jborovsky@spacescience.org</EmailAddress>
@@ -38,14 +46,6 @@
       <FirstName>Michael</FirstName>
       <LastName>Denton</LastName>
       <EmailAddress>mdenton@spacescience.org</EmailAddress>
-      <StartDate>03/03/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
-      <FirstName>Vania</FirstName>
-      <LastName>Jordanova</LastName>
-      <EmailAddress>vania@lanl.gov</EmailAddress>
       <StartDate>03/03/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>

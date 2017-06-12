@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Advances in Crystal Growth: Experimental and Microscopic Study of Olivine Phosphorus Zoning</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2020</AwardExpirationDate>
+    <AwardAmount>133428</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06030000</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Earth Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jennifer Wade</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Olivine is one of Earth's most common minerals. It crystallizes directly from magma, and hence can be found in Earth's mantle, magma chambers, lava flows, explosively-erupted volcanic products, and meteorites. Recent studies have shown that olivine crystals from all of these settings contain a dendritic core enriched in phosphorus (P), an element typically not abundant in olivine. This finding challenges the conventional understanding of mantle and volcano dynamics, and meteorite formation. Because the shape and chemical composition of crystals are sensitive to the conditions of crystallization (e.g., temperature, pressure, chemical composition of the magma), the presence of a dendritic, P-rich core in olivine represents an important but not yet fully understood feature of the mineral. Through laboratory experiments, including real-time observations of crystal growth, and micro-to-nano-scale analyses of composition and structure of olivine, the work in this proposal strives to advance the scientific understanding of how magmas are cooled and crystallize, both in Earth's interior and in space.&lt;br/&gt;&lt;br/&gt;Previous dynamic crystallization experiments have shown that dendritic P-rich olivine can be obtained through rapid growth when a magma is cooled rapidly. In this project, the range of experiments is extended to magmatic processes operating at slow cooling rates, which are more realistic for environments at depth. The set up of these experiments will promote rapid olivine growth through (1) a thermal gradient (mimicking the cold margins of magma chambers and meteorites) and (2) magma superheating and nucleation delay (e.g. by adiabatic decompression or flash heating). Experiments will be carried on in 1-atm, gas-mixing furnace and heating stage microscope, and the experimental products will be analyzed using optical microscopy, field-emission gun electron microprobe and transmission electron microscope. X-ray distribution mapping of P in the experimental products will determine the minimal driving forces (smallest thermal gradient and smallest superheating) for the formation of P zoning as seen in olivine worldwide and in other planetary bodies. The TEM investigations will document the microstructure of olivine P zoning and bring new insights on the incorporation and accommodation of P and other incompatible elements in the lattice. Heating stage experiments will allow direct observation of the effect of thermal gradients and melt superheating on the growth of olivine. They will also enable new growth rate measurements in a mafic ocean island basalt melt. Measurements of the dendrite arm spacing in all the experimental products will allow construction of a reference growth chart to estimate the growth rates of natural crystals from their crystal morphology or the texture of their P-rich zones. These experiments will complete pre-existing datasets and will address topics fundamental to crystallization kinetics in melts and frontiers in olivine crystal growth. The results will be relevant to volcanic, plutonic and extraterrestrial systems. The project bridges the fields of mineralogy and petrology, requires advanced materials characterization, and is strongly relevant to igneous petrology.</AbstractNarration>
+    <MinAmdLetterDate>02/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650416</AwardID>
+    <Investigator>
+      <FirstName>Thomas</FirstName>
+      <LastName>Shea</LastName>
+      <EmailAddress>tshea@hawaii.edu</EmailAddress>
+      <StartDate>02/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Benoit</FirstName>
+      <LastName>Welsch</LastName>
+      <EmailAddress>bwelsch@hawaii.edu</EmailAddress>
+      <StartDate>02/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Julia</FirstName>
+      <LastName>Hammer</LastName>
+      <EmailAddress>jhammer@hawaii.edu</EmailAddress>
+      <StartDate>02/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Hawaii</Name>
+      <CityName>HONOLULU</CityName>
+      <ZipCode>968222234</ZipCode>
+      <PhoneNumber>8089567800</PhoneNumber>
+      <StreetAddress>2440 Campus Road, Box 368</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Hawaii</StateName>
+      <StateCode>HI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1573</Code>
+      <Text>PETROLOGY AND GEOCHEMISTRY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

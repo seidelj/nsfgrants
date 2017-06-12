@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>STTR Phase I: Smartphone-based Slide Scanner for Mobile Digital Pathology</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jesus Soriano Molla</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to provide an affordable mobile digital pathology solution to pathologists in order to facilitate their clinical practices in disease diagnosis, peer consultations, tumor board preparations, research and education. The low-cost smartphone based portable pathology slide scanner is a complementary solution to current high throughput expensive digital pathology equipment to allow whole slide imaging to penetrate across all tiers of market. Given the high owning rate of mobile devices, the increasing processing and transmission speed, and the versatility of mobile apps, this device brings whole slide imaging at fingertips of individual pathologists. This greatly simplifies intra- and inter- institutional consultations and tumor board preparations, which enhances our fundamental understanding of disease causes and in turn leads to possible cures with improved clinical outcomes. The device also reduces the needs for physical transport of glass slides or tissue blocks to centralized digital imaging equipment. It also provides strong support on timely and accurate diagnosis, especially for those remote to digital imaging equipment. Moreover, this study provides an effective approach for teaching foundational skills of whole slide imaging to the next-generation pathologists.&lt;br/&gt;&lt;br/&gt;The proposed project is to validate the technical feasibility of using smartphone based portable slide scanner for acquiring pathological slide images with the optical performance comparable or close to those by commercial high-end slide scanners. This device is based on an innovative zoom-microscope design, where elastomer-liquid lenses with low optical aberration are used for changing the zoom ratio. This portable device can reach the optical magnification of 10X-40X and nearly diffraction-limited resolution with small lens diameters (&lt;10mm), meeting the imaging requirement by pathologists. In this study, a prototype will be developed to demonstrate image acquisition, scanning, and transmission capabilities using representative mobile devices on the market. The minimal resolvable feature size under each magnification will be examined and compared with those of high-end commercial slide scanners. The minimal magnification increment based on the selected actuation mechanism will be experimentally determined. The images of pathological slides acquired under the same magnification or different magnifications will be stitched together to generate a large field-of-view while retaining the resolution. The stitched images will be sent to pathologists to solicit feedbacks for iterative design optimization.</AbstractNarration>
+    <MinAmdLetterDate>12/16/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/16/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648888</AwardID>
+    <Investigator>
+      <FirstName>Hanyang</FirstName>
+      <LastName>Huang</LastName>
+      <EmailAddress>hyhuang1990@gmail.com</EmailAddress>
+      <StartDate>12/16/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Yi</FirstName>
+      <LastName>Zhao</LastName>
+      <EmailAddress>zhao.178@osu.edu</EmailAddress>
+      <StartDate>12/16/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>LiveFocus LLC</Name>
+      <CityName>Columbus</CityName>
+      <ZipCode>432203437</ZipCode>
+      <PhoneNumber>8572341278</PhoneNumber>
+      <StreetAddress>1251 Bunker Hill Blvd, Apt B</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1505</Code>
+      <Text>STTR PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>124E</Code>
+      <Text>CENTERS: BIOENG &amp; HEALTH CARE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1505</Code>
+      <Text>STTR PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5345</Code>
+      <Text>BIOMEDICAL ENGINEERING</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7236</Code>
+      <Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8042</Code>
+      <Text>Health and Safety</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

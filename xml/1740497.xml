@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Solid-state Ceramic Battery</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is to enable widespread adoption of electric vehicle (EV) technologies. The project is line with the requirements for breakthrough battery technologies articulated by the US Department of Energy "EV Everywhere Grand Challenge" as well as the specific goals in the U.S. Advanced Battery Consortium's "EV 2020", 25% lower cost, 2x higher performance. Although Li-ion technology is currently used in relatively low volume production plug-in hybrid and niche high performance vehicles, the technological goals required to enable truly mass adoption of EV are likely beyond the capabilities of Li-ion. Several advanced battery technologies have been under development but there has been no successful example of commercialization directly into the large mobility space. As such, identification of a viable stepping stone market strategy is paramount for commercialization of a new battery technology.&lt;br/&gt;&lt;br/&gt;This I-Corps project will explore the commercialization potential for a Ceramic Solid-state Battery. This project furthers develops a scalable, low-cost, bulk-scale solid-state batteries using superionic conducting oxides. The work builds from research on a superionic conducting oxide membrane technology exhibiting unique breakthrough materials properties. Current progress demonstrates that bulk-scale ceramics processing of these materials is feasible. The solid-state construction and materials chemistry allows for compatibility with Li metal resulting in 2x energy density compared to Li-ion. A manufacturing scheme is being developed which utilizes conventional manufacturing tools and eliminates the need for dry room processing with a path forward to cost structures lower than competing Li-ion technologies. While these features can broadly add value in several industrial sectors, successful commercialization of a battery technology requires accurate identification of a viable beachhead market so a go-to market strategy can be developed.</AbstractNarration>
+    <MinAmdLetterDate>03/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1740497</AwardID>
+    <Investigator>
+      <FirstName>Travis</FirstName>
+      <LastName>Thompson</LastName>
+      <EmailAddress>tthom@umich.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Michigan Ann Arbor</Name>
+      <CityName>Ann Arbor</CityName>
+      <ZipCode>481091274</ZipCode>
+      <PhoneNumber>7347636438</PhoneNumber>
+      <StreetAddress>3003 South State St. Room 1062</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

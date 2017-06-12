@@ -27,14 +27,6 @@
     <ARRAAmount/>
     <AwardID>1600932</AwardID>
     <Investigator>
-      <FirstName>Michael</FirstName>
-      <LastName>Rose</LastName>
-      <EmailAddress>mrrose@uci.edu</EmailAddress>
-      <StartDate>03/17/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Mark</FirstName>
       <LastName>Phillips</LastName>
       <EmailAddress>phillim1@uci.edu</EmailAddress>
@@ -42,12 +34,20 @@
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Rose</LastName>
+      <EmailAddress>mrrose@uci.edu</EmailAddress>
+      <StartDate>03/17/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
     <Institution>
       <Name>University of California-Irvine</Name>
       <CityName>Irvine</CityName>
-      <ZipCode>926173067</ZipCode>
-      <PhoneNumber>9498244768</PhoneNumber>
-      <StreetAddress>5171 California Avenue, Ste 150</StreetAddress>
+      <ZipCode>926173213</ZipCode>
+      <PhoneNumber>9498247295</PhoneNumber>
+      <StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
       <CountryName>United States</CountryName>
       <StateName>California</StateName>
       <StateCode>CA</StateCode>

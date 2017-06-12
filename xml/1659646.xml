@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Mathematical Biology at the University of North Carolina at Greensboro</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>304959</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This National Science Foundation award provides support for a three-year REU site at the University of North Carolina Greenboro that will host eight students for ten weeks each summer. The summer program will involve students in meritorious, individual research projects and prepare them for the challenges of increasingly complex and information-driven scientific analyses in mathematics and biology. The faculty mentor team has a strong history and dedication to active undergraduate mentorship resulting in productive student research projects. Projects do not require extensive mathematical background but students will be introduced to some basic skills in an introductory short courses before forming teams with mentors to tackle problems at the interface between mathematics and biology. The aim of the project is to increase the number of well-prepared U.S. students who successfully pursue careers in mathematics, biology, or related disciplines. In particular, the project seeks to increase the diversity of such students and special recruitment efforts will ensure a high participation of underrepresented student populations, including female students from HBCUs. At least half of the participants will be recruited from institutions where research in STEM disciplines is limited and students of all undergraduate career stages will be considered.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Each year, this REU program will involve a set of specific research projects that are original, innovative, and will make critical advances in mathematical biology. The common theme of the projects is the mathematical modeling of territorial and/or social interactions and most projects will involve a computational component and simulations, as well as theoretical analysis. Teams of research mentors and students will develop the specific projects and two graduate students will serve as near-peer mentors for all undergraduate students. In addition to project-specific skills, students will be trained in critical research skills including literature review, team work, research ethics, using computer software such as LaTeX and Matlab, and oral and written communication. The REU will also target professional development and guide students to various career options (within and beyond academia). As a result, the students will be better prepared for both academic and nonacademic employment. Results and experiences of the program will be widely disseminated through conference presentations and peer-reviewed publications. This project is supported by the Divisions of Mathematical Sciences and Biological Infrastructure in the Directorates of Mathematics and Physical Sciences (MPS) and Biological Sciences (BIO), respectively.</AbstractNarration>
+<MinAmdLetterDate>03/06/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/06/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1659646</AwardID>
+<Investigator>
+<FirstName>Olav</FirstName>
+<LastName>Rueppell</LastName>
+<EmailAddress>olav_rueppell@uncg.edu</EmailAddress>
+<StartDate>03/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jan</FirstName>
+<LastName>Rychtar</LastName>
+<EmailAddress>j_rychta@uncg.edu</EmailAddress>
+<StartDate>03/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina Greensboro</Name>
+<CityName>GREENSBORO</CityName>
+<ZipCode>274125013</ZipCode>
+<PhoneNumber>3363345878</PhoneNumber>
+<StreetAddress>1111 Spring Garden Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7335</Code>
+<Text>WORKFORCE IN THE MATHEMAT SCI</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7454</Code>
+<Text>MSPA-INTERDISCIPLINARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8007</Code>
+<Text>BioMaPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

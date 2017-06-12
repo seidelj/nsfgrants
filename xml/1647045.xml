@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Improving Surface Properties of Stainless Steel for Li-ion Battery Current Collectors</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>220014</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Debasis Majumdar</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research Phase I project intends to improve upon the surface characteristics of stainless steel in demanding environments. Particularly, it may constitute a significant improvement in the field of Li-ion battery current collectors. Today, current collector metal corrodes during repeated cycling leading to diminished capacity and potential safety issues related to cell polarization and over-potentials. This project will incorporate recent advances in nanomaterials and surface metrology into an engineering material with significant improvement in performance. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this project lies in using a surface treatment to stainless steel that further modifies the oxide layer in terms of inertness, hydrophobicity, and corrosion resistance. This surface treatment is achieved by acid etching the steel surface after electropolishing in a manner similar to the industrially important pickling process. The resulting passive film will be characterized and prototype surface treated parts will be evaluated as current collectors for Li-ion batteries. These current collectors will not only improve corrosion resistance (and therefore cycling stability and cell safety), but will also allow use of a wider range of electrolytes than currently possible. Additionally, the project can lead to other applications where high performance stainless steel surfaces can be utilized.</AbstractNarration>
+    <MinAmdLetterDate>12/12/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/12/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647045</AwardID>
+    <Investigator>
+      <FirstName>Hector</FirstName>
+      <LastName>Macpherson</LastName>
+      <EmailAddress>alex.macpherson@fastceramics.com</EmailAddress>
+      <StartDate>12/12/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>FAST Ceramics LLC</Name>
+      <CityName>Boulder</CityName>
+      <ZipCode>803053322</ZipCode>
+      <PhoneNumber>4436231158</PhoneNumber>
+      <StreetAddress>390 30th Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>123E</Code>
+      <Text>CENTERS: ADVANCED MATERIALS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

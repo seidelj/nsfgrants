@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: Modeling developmental timing changes in human evolution</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2018</AwardExpirationDate>
+    <AwardAmount>31355</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rebecca Ferrell</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Many anatomical and physiological characteristics of modern humans are thought to have evolved through changes in the timing of early growth and development, and the mouse is a primary model organism for studying such changes. This dissertation project will develop more accurate methods for determining the developmental age of mice during embryogenesis and investigate changes in developmental timing that may have driven the evolution of anatomical features that separate modern humans from their closest relatives and ancestors. The age estimation methodology produced by this research will be integrated into a freely available, online staging tool. Research conducted within the scope of this project will also help to create opportunities for female undergraduate and high school students to gain valuable experience in data collection and analysis, and to present original research at local and national symposia.&lt;br/&gt;&lt;br/&gt;The purpose of this research is to address long-standing questions about how changes in the timing of development, either in the rate, the onset time, or the offset time of the development of specific anatomical features during embryogenesis, affect adult morphology. Experimental systems provide a potentially illuminating context to address these questions, but the inability to estimate the relative developmental age of an embryo with precise temporal resolution remains a significant problem. This project will establish a staging system that will precisely estimate the relative development of an embryo in hours, an order of magnitude more precise than existing developmental staging systems. The method, which will estimate developmental ages between embryonic day 9 and embryonic day 15 (E9-E15) using only a photograph of the mouse hindlimb, represents an easy-to-implement tool that mitigates interobserver error. The staging system will then be used to determine the extent to which human-specific anatomy, such as the reduced projection of the face, is produced by a shift in developmental timing, by studying the rate and timing of developmental events in mice carrying mutations that simulate changes in facial anatomy that occurred in human evolution. The results of this research will provide valuable and necessary clarification of the relationships among genotype, phenotype, and timing of developmental events, producing innovative solutions to questions about the nature of human development.</AbstractNarration>
+    <MinAmdLetterDate>02/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650824</AwardID>
+    <Investigator>
+      <FirstName>Joan</FirstName>
+      <LastName>Richtsmeier</LastName>
+      <EmailAddress>jta10@psu.edu</EmailAddress>
+      <StartDate>02/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Kevin</FirstName>
+      <LastName>Flaherty</LastName>
+      <EmailAddress>kvf105@psu.edu</EmailAddress>
+      <StartDate>02/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Pennsylvania State Univ University Park</Name>
+      <CityName>UNIVERSITY PARK</CityName>
+      <ZipCode>168027000</ZipCode>
+      <PhoneNumber>8148651372</PhoneNumber>
+      <StreetAddress>110 Technology Center Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7608</Code>
+      <Text>DDRI Bio Anthro</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1392</Code>
+      <Text>Biological Anthropology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Enhancing Undergraduate Research Experiences in Networked Cyber-Physical Systems</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2020</AwardExpirationDate>
+    <AwardAmount>324000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Harriet G. Taylor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award establishes a new Research Experiences for Undergraduates (REU) Site at Wichita State University. The REU Site will host undergraduate students from across the nation to conduct research during the summer with faculty mentors on networked cyber-physical systems. Cyber-physical systems are engineered systems that are built from and depend on the seamless integration of computational algorithms and physical components. Cyber-physical systems often present significant communications and networking challenges due to the complex, real-world environments in which the devices are expected to operate. The environments are diverse and range from operating underwater to flying in the air. They could involve use in manufacturing facilities or simple use as personal devices. The project plans to recruit a diverse cohort of undergraduate students each summer, including students from groups traditionally under-represented in computing. In addition to their research activities, the students will participate in other professional development activities that will prepare them for entering the computing workforce and for possible futures as researchers.&lt;br/&gt;&lt;br/&gt;The REU site is led by faculty mentors from the computer networking group within the Department of Electrical Engineering and Computer Science at Wichita State University. The affiliated research laboratories provide students with opportunities to use state-of-the-art equipment and facilities to explore topics that are current and timely with faculty mentors who have significant experience and expertise in the area of networked cyber-physical systems. Realizing networked cyber-physical systems presents a rich set of research problems in areas such as indoor and outdoor positioning and localization, wireless communications and networking, security and privacy, cloud computing, mobile and wearable computing, and data analytics. The goals of the project are to advance the technical field of networked cyber-physical systems while simultaneously preparing the next generation of graduate students and workforce participants. This project is jointly funded by the Directorate for Computer and Information Science and Engineering (CISE) and the Experimental Program to Stimulate Competitive Research (EPSCoR).</AbstractNarration>
+    <MinAmdLetterDate>01/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659396</AwardID>
+    <Investigator>
+      <FirstName>Vinod</FirstName>
+      <LastName>Namboodiri</LastName>
+      <EmailAddress>vinod.namboodiri@wichita.edu</EmailAddress>
+      <StartDate>01/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Wichita State University</Name>
+      <CityName>Wichita</CityName>
+      <ZipCode>672600007</ZipCode>
+      <PhoneNumber>3169783285</PhoneNumber>
+      <StreetAddress>1845 Fairmount</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Kansas</StateName>
+      <StateCode>KS</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Optical Excitations and Applications in Novel Organic Macromolecular Aggregates</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>290000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew J. Lovinger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY:&lt;br/&gt;&lt;br/&gt;The use of organic polymeric materials for optical and electronic applications has shown great progress in the last decade.  However, there are scientific questions which still remain regarding their fundamental optical properties.  There is a need for further scientific investigations which will allow scientists to tailor the structures of polymers in order to achieve better optical and electronic effects.  In this project the PI will carry out experiments with two types of organic polymeric materials.  In order to examine the optical properties of these two types of organic polymers advanced specialized laser spectroscopic measurements will be carried out.  These laser experiments will be conducted so as to determine how changes in the polymeric structure affect their optical properties.  Ultimately, the results of these optical experiments will be utilized to design new organic polymeric materials for enhanced optical applications.  This research project will also promote scientific education for high school students in the surrounding areas of southeast Michigan as well as facilitating the participation and training of undergraduate students from the University of Michigan and other undergraduate institutions with diverse backgrounds.  Among the goals and impacts of this research project will be the identification of specific properties leading to improved polymeric materials for potential optical applications, as well as an increase in the diversity of students trained in science or engineering related to polymer areas.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY :&lt;br/&gt;&lt;br/&gt;Organic conjugated polymers and macromolecular aggregates are now promising candidates for many electronic and optical applications.  In order to further understand the fundamental structure-function relationships in macromolecular materials one must probe the dynamics of excitations.  In the proposed studies the PI will investigate the optical excitations of new organic polymers and macromolecular ladder-type systems.  Measurements of time-resolved and nonlinear optical properties will be carried out in these materials in order to provide new structure-function relationships to further design superior materials.  Measurements in solution as well as in the solid state will be carried out on the new macromolecular materials.  The effects of energy transfer, charge transfer and exciton diffusion will be probed with time-resolved fluorescence and transient absorption experiments in solution and in solid thin films.  The results of the time-resolved measurements will be utilized to design new materials with better optical properties for nonlinear optical applications.  This investigation will facilitate the progress in scientific training of high school students as well as undergraduate and graduate students.  The investigation will also enhance the participation of women and minority scientists in the area of polymer physics and materials science with activities related to increasing the diversity of faculty in this area of research.</AbstractNarration>
+<MinAmdLetterDate>04/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709005</AwardID>
+<Investigator>
+<FirstName>Theodore Gore</FirstName>
+<LastName>Goodson</LastName>
+<EmailAddress>tgoodson@umich.edu</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1773</Code>
+<Text>POLYMERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+</Award>
+</rootTag>

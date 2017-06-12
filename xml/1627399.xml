@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1627399</AwardID>
     <Investigator>
-      <FirstName>Ming</FirstName>
-      <LastName>Leu</LastName>
-      <EmailAddress>mleu@mst.edu</EmailAddress>
-      <StartDate>02/12/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Bradley</FirstName>
       <LastName>Kramer</LastName>
       <EmailAddress>bradleyk@ksu.edu</EmailAddress>
       <StartDate>02/12/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ming</FirstName>
+      <LastName>Leu</LastName>
+      <EmailAddress>mleu@mst.edu</EmailAddress>
+      <StartDate>02/12/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Kansas State University</Name>

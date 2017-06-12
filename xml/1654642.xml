@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Sources and fate of inositol phosphates in soils</AwardTitle>
+    <AwardEffectiveDate>01/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2021</AwardExpirationDate>
+    <AwardAmount>79736</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06030000</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Earth Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Enriqueta Barrera</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Phosphorus, an essential element for plant life, gets into water through urban, suburban and agricultural sources, including lawn fertilizers, septic systems and livestock manure. As a pollutant, this nutrient has impacted streams, rivers, lakes, coastal waters and bays - including the Chesapeake Bay - for the past several decades. In particular, phosphorus loading may cause eutrophication--excessive algal growth as well as dead zone--a reduction in the amount oxygen dissolved in water. Negative economic impacts and serious environmental and human health issues result. This research will develop the methodological framework to study different sources of inositol phosphate compounds and their subsequent degradation products in soils and waters. Data and information on phosphorus pathways and processesing from this project will be provided to the Chesapeake Bay Program, U.S. Geological Survey and Environmental Protective Agency, who collectively develop Chesapeake Bay restoration plans. This research will also inform the development of an Environmental Forensics and Society course at UD and enhance curricula at the local community college and an environment forensics summer camp. &lt;br/&gt;&lt;br/&gt;Inositol phosphates (IPx where x = 1 to 6), an important type of organic phosphorus derived from leaf litter and animal feed and manure, are increasingly recognized for their multifunctional role from cellular signaling to environmental significance. This research project will address fundamental gaps in the knowledge regarding identity, lability, bioavailability, transformation, and degradation pathways of inositol phosphates by stable isotope tracking aided by 1D and 2D Nuclear Magnetic Resonance (NMR), High Performance Liquid Chromatography (HPLC) and HPLC-Mass Spectrometry (HPLC-MS) techniques both in controlled laboratory experiments and in field experiments in the Chesapeake Bay watershed. Synthesis, isotope labeling, and functional group derivatization of IPx compounds and application of a multi-isotope tool will be used to differentiate degradation products. Connecting sources and products of various IPx compounds through isotope signatures and particular isotope effects during degradation will identify accurate residence times in soils and waters and address longstanding question on accumulation versus degradation and their environmental impacts.</AbstractNarration>
+    <MinAmdLetterDate>01/12/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/12/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1654642</AwardID>
+    <Investigator>
+      <FirstName>Deb</FirstName>
+      <LastName>Jaisi</LastName>
+      <EmailAddress>jaisi@udel.edu</EmailAddress>
+      <StartDate>01/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Delaware</Name>
+      <CityName>Newark</CityName>
+      <ZipCode>197162553</ZipCode>
+      <PhoneNumber>3028312136</PhoneNumber>
+      <StreetAddress>210 Hullihen Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Delaware</StateName>
+      <StateCode>DE</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7295</Code>
+      <Text>GEOBIOLOGY &amp; LOW TEMP GEOCHEM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>2017 Seminar on Stochastic Processes</AwardTitle>
+    <AwardEffectiveDate>12/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2018</AwardExpirationDate>
+    <AwardAmount>46020</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tomek Bartoszynski</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The 2017 Seminar on Stochastic Processes (SSP) will be held at University of Virginia in Charlottesville, VA on March 8-11, 2017. These seminars have been held annually since 1981; they have become the most important regular conference series for probabilists in North America. They bring together a diverse group of accomplished and early career researchers in probability and stochastic processes. The primary goal is to provide a platform for the dissemination of the most recent significant progress in research in the theory of stochastic processes, and to enable participants to discuss their work in an informal atmosphere.&lt;br/&gt;&lt;br/&gt;Stochastic processes are basic building blocks of the way that randomness exhibits itself in the real world, and are used to model a wide range of physical, biological, ecological, and financial phenomena. The Seminar on Stochastic Processes is a fixture in probability, and many prominent probabilists attend every year. The format of this meeting is based on the success of recent Seminars on Stochastic Processes. There will be five one hour talks and a tutorial session consisting of two 90 minute lectures, all delivered by distinguished speakers on key recent themes and developments in stochastic process research and their important connections to other parts of mathematics and the sciences. This conference will also feature opportunities for early career researchers to present their own research and for the discussion of open problems.&lt;br/&gt;&lt;br/&gt;More details are available at the conference website&lt;br/&gt;&lt;br/&gt;http://faculty.virginia.edu/ssp17/</AbstractNarration>
+    <MinAmdLetterDate>11/22/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/01/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1663552</AwardID>
+    <Investigator>
+      <FirstName>Tai</FirstName>
+      <LastName>Melcher</LastName>
+      <EmailAddress>melcher@virginia.edu</EmailAddress>
+      <StartDate>11/22/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Leonid</FirstName>
+      <LastName>Petrov</LastName>
+      <EmailAddress>petrov@virginia.edu</EmailAddress>
+      <StartDate>11/22/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Hans</FirstName>
+      <LastName>Gromoll</LastName>
+      <EmailAddress>gromoll@virginia.edu</EmailAddress>
+      <StartDate>11/22/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Virginia Main Campus</Name>
+      <CityName>CHARLOTTESVILLE</CityName>
+      <ZipCode>229044195</ZipCode>
+      <PhoneNumber>4349244270</PhoneNumber>
+      <StreetAddress>P.O. BOX 400195</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1263</Code>
+      <Text>PROBABILITY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

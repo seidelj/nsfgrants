@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>Doctoral Dissertation Improvement Award: Formal Modeling Of Raw Material Procurement</AwardTitle>
     <AwardEffectiveDate>02/01/2016</AwardEffectiveDate>
-    <AwardExpirationDate>10/31/2016</AwardExpirationDate>
+    <AwardExpirationDate>10/31/2017</AwardExpirationDate>
     <AwardAmount>11640</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1602347</AwardID>
     <Investigator>
-      <FirstName>Curtis</FirstName>
-      <LastName>Marean</LastName>
-      <EmailAddress>curtis.marean@asu.edu</EmailAddress>
-      <StartDate>12/22/2015</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Simen</FirstName>
       <LastName>Oestmo</LastName>
       <EmailAddress>soestmo@asu.edu</EmailAddress>
       <StartDate>12/22/2015</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Curtis</FirstName>
+      <LastName>Marean</LastName>
+      <EmailAddress>curtis.marean@asu.edu</EmailAddress>
+      <StartDate>12/22/2015</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Arizona State University</Name>
@@ -52,5 +52,13 @@
       <StateName>Arizona</StateName>
       <StateCode>AZ</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>7606</Code>
+      <Text>DDRI Archaeology</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1391</Code>
+      <Text>ARCHAEOLOGY</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

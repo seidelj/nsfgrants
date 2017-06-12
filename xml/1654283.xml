@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Jamming in Flexible Geometries-from Shape Sculpting to Shapeshifting</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>186419</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03070000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Materials Research</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Daryl W. Hess</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>NONTECHNICAL SUMMARY&lt;br/&gt;This CAREER award supports theoretical research, education and outreach on jammed soft materials. Materials such as sand, glasses, foams and colloids can become rigid or jam as the density is increased. Jammed materials possess remarkable properties such as fragility and flowing readily if sufficient force is applied. These properties are due to their structure: particles in a jammed state have only the minimum number of neighbors required to hold them in place. &lt;br/&gt;&lt;br/&gt;The PI will investigate how the jamming process is altered when it occurs in a system that is changing shape, such as on a fluid droplet or an elastic body. A better understanding would enable the creation of materials and devices in applications that exploit shape, such as soft robotics, drug delivery systems, actuators, and artificial muscles. The PI will develop a computational model of jamming in flexible geometries and use it to determine how particles and initial shape affect the structure and how desired final shapes can be sculpted by carefully choosing the components of the system. By incorporating particles in the simulation that respond to external influences, such as in response to an applied field, or move under their own power, the research team will determine how these particles can be used to create shape-shifting materials that can change shape spontaneously. Computer software developed as part of this project will be made fully accessible to the community on public repositories.&lt;br/&gt;&lt;br/&gt;This award also supports outreach and education efforts that are closely integrated with the research. The educational component aims to integrate soft matter and computation by incorporating projects and activities based on the research into the PI's newly developed course in Computational Physics. The outreach component will create and disseminate a web game, together with classroom materials developed by teachers, that communicates jamming to high school students and the general public. This award will also support the participation of Deaf and Hard of Hearing students in summer research at Tufts who will conduct simulations and analysis in support of the research. &lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;This CAREER award supports theoretical research, education and outreach on jammed soft materials. Jamming is a transition to rigidity that occurs in granular media. The goal of the research is to understand by computer simulations how the jamming transition is modified when it occurs in a flexible geometry. The central hypothesis of the proposal is that jammed states in flexible geometries constitute a new jamming category called "metric jammed" where the system is stable both with respect to collective motions of the surface and deformations of the manifold. Understanding how physical effects such as jamming are modified when shape and order co-evolve provides fundamental insight into these processes and will enable the creation of new materials, devices and industrial techniques such as soft robotics, drug delivery systems, actuators and artificial muscles that exploit the results. &lt;br/&gt;&lt;br/&gt;To test the central hypothesis, the PI will create a computational model of the metric jamming process and use this to: i) determine how shape and particles control the properties of the metric jammed state; ii) identify how flexible geometries affect metric jamming and how this can be used to sculpt soft colloidal particles of a desired shape; iii) incorporate actuatable and active particles into the model to determine how such particles can be used to create shape-shifting materials that can change shape spontaneously. This work will help advance the field of soft matter by providing a detailed understanding of the physics of the new metric jammed state in both two and three dimensions, the connections between order and shape change, the shapes that can emerge from these processes, and how microstructural changes can induce shape evolution. To help others navigate the numerous and complex physical effects intrinsic to this class of materials, the research will also provide open-source computational tools to facilitate this design.&lt;br/&gt;&lt;br/&gt;This award also supports outreach and education efforts that are closely integrated with the research. The educational component aims to integrate soft matter and computation by incorporating projects and activities based on the research into the PI's newly developed course in Computational Physics. The outreach component will create and disseminate a web game, together with classroom materials developed by teachers, that communicates jamming to high school students and the general public. This award will also support the participation of Deaf and Hard of Hearing students in summer research at Tufts who will conduct simulations and analysis in support of the research.</AbstractNarration>
+    <MinAmdLetterDate>01/19/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/19/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1654283</AwardID>
+    <Investigator>
+      <FirstName>Timothy</FirstName>
+      <LastName>Atherton</LastName>
+      <EmailAddress>timothy.atherton@tufts.edu</EmailAddress>
+      <StartDate>01/19/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Tufts University</Name>
+      <CityName>Medford</CityName>
+      <ZipCode>021555807</ZipCode>
+      <PhoneNumber>6176273417</PhoneNumber>
+      <StreetAddress>20 Professors Row</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1765</Code>
+      <Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7433</Code>
+      <Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8084</Code>
+      <Text>CDS&amp;E</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

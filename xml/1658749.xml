@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research in Economics: Investigating the Economic Consequences of Atmospheric Nuclear Testing</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>14975</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Seung-Hyun Hong</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In the 1950s, the United States conducted scores of atmospheric nuclear tests at the Nevada Test Site just northwest of Las Vegas. Millions of people were exposed to harmful radioactive material as a result of these tests, but the full extent of the health and welfare effects are unknown. Using radiation deposition data for the United States, the investigator studies the effects fallout had on American agriculture and human health. Current work by the National Cancer Institute has not combined radiation exposure estimates with publicly available U.S. Vital Statistics and public health data. The project fills this research gap and provides important insights into the direct effect of these tests upon American health. Though only populations in a small number of counties in Nevada, Utah, and Arizona have been compensated for downwind fallout exposure through the Radiation Exposure Compensation Act (RECA), this project investigates whether the human health consequences of the Nevada tests extend far beyond the RECA region. The investigator also examines whether radiation deposition from atmospheric tests between 1951 and 1958 resulted in considerable damage to the agricultural sector. Studying adaptive responses to this damage provides insight into how agricultural policy shapes agricultural investment and responses to adverse events.&lt;br/&gt;&lt;br/&gt;The investigator uses reduced-form econometric methods to provide a rigorous empirical account of the external damage caused by domestic atmospheric testing. This research methodology uses exogenous within-county variation in fallout patterns across years to measure the causal relationship between radioactive pollution and outcomes of interest. Using annual data from the National Agricultural Statistics Service and U.S. Agricultural Censuses, the investigator measures the direct effects of fallout on agricultural productivity and the adjustments made in response to these productivity shocks. The previous studies on the health consequences of radiation exposure from tests have focused primarily on identifying cancer risks among downwind populations and extrapolating out to the general population. This project uses national variation in fallout patterns and mortality to identify the causal relationship between fallout and public health. Using this methodology, the investigator measures not only the geographic extent of the harm, but also the temporal effect of radiation exposure upon regional mortality patterns. Through U.S. Vital Statistics and the Multiple Cause of Death data, this project identifies the causal channels driving the increase in crude deaths more accurately.</AbstractNarration>
+    <MinAmdLetterDate>02/16/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/16/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658749</AwardID>
+    <Investigator>
+      <FirstName>Price</FirstName>
+      <LastName>Fishback</LastName>
+      <EmailAddress>pfishback@eller.arizona.edu</EmailAddress>
+      <StartDate>02/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Keith</FirstName>
+      <LastName>Meyers</LastName>
+      <EmailAddress>meyersk@email.arizona.edu</EmailAddress>
+      <StartDate>02/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Arizona</Name>
+      <CityName>Tucson</CityName>
+      <ZipCode>857194824</ZipCode>
+      <PhoneNumber>5206266000</PhoneNumber>
+      <StreetAddress>888 N Euclid Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1320</Code>
+      <Text>ECONOMICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1320</Code>
+      <Text>ECONOMICS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>High Resolution Solar Physics: Past, Present, Future</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Boboltz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Solar physics is a branch of physics/astronomy focused on the study of the Sun.  Magnetic fields are especially important to the physics of the Sun since they can drive phenomena such as the solar wind, solar flares and coronal mass ejections.  These phenomena, collectively referred to as space weather, directly influence the Earth and our technologically dependent society.  The goal of this project is to conduct a stand-alone workshop that will bring together scientists that use high-resolution telescopes and instrumentation to study magnetic fields in the various layers of the solar atmosphere.  These types of in-person meetings are essential to advancing the field of solar physics and provide important training opportunities for the next generation of scientists.  &lt;br/&gt;&lt;br/&gt;The workshop on high-resolution solar physics will be held August 6-11, 2017 at the Sacramento Peak Observatory in Sunspot, New Mexico.  The workshop entitled High Resolution Solar Physics: Past, Present, Future will bring together researchers from the solar community to discuss the current state of the art in high-resolution, ground-based observations of the Sun from the photosphere to the corona.  Topics will include:  the photosphere at high resolution, the chromosphere at high resolution, high-resolution flare observations, new high-resolution coronal techniques, and observational plans for the NSF's new Daniel K. Inouye Solar Telescope.</AbstractNarration>
+<MinAmdLetterDate>04/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718947</AwardID>
+<Investigator>
+<FirstName>Valentin</FirstName>
+<LastName>Martinez Pillet</LastName>
+<EmailAddress>vmpillet@nso.edu</EmailAddress>
+<StartDate>04/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Association of Universities for Research in Astronomy, Inc.</Name>
+<CityName>Washington</CityName>
+<ZipCode>200040000</ZipCode>
+<PhoneNumber>2024832101</PhoneNumber>
+<StreetAddress>1331 Pennsylvania Ave. NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1214</Code>
+<Text>PLANETARY ASTRONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

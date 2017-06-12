@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: A Sociological Study of the Use of Body Worn Cameras in Police Departments in Colorado</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2018</AwardExpirationDate>
+    <AwardAmount>12359</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Frederick M Kronz</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>General Audience Summary &lt;br/&gt;&lt;br/&gt;This award is a doctoral dissertation improvement grant. It supports a study of Body Worn Cameras (BWCs). Specifically, the investigators propose a research agenda to investigate and address three main questions: (1) How do BWCs impact the practice of police work at the individual police officer level? (2) How do BWCs impact the practice of police work at the organizational level? (3) Are these changes emergent or embodied in the practice of police work? To address three questions, the investigators will use a multi-method research design separated into two phases. The results from the two phases will form the basis of the student's PhD dissertation. These results will be shared with the police and broader community through direct meetings and seminars held at UC Denver and the partnering police departments. The findings of this research project will also be disseminated through leading academic journals and conferences in the areas of information systems, institutional studies and organization science. In addition, this project will support the doctoral dissertation of a minority student from a population underrepresented in STEM fields. &lt;br/&gt;&lt;br/&gt;Technical Summary &lt;br/&gt;&lt;br/&gt;The research project has two phases. In Phase I, the investigators will examine the adoption of BWCs in up to 10 case sites, through in-depth interviews, ride-along observations of police-civilian interactions, and review of policy documents and internal statistics at municipal police departments in Colorado. Analysis of that data will help make preliminary generalizations of recurring concepts in the data. Drawing on the results of these qualitative data, the investigators will conduct a Delphi study (Phase II) to gather feedback from domain experts and converge on a consensus on case findings and constructs identified in Phase I. With regards to theoretical framing, Information systems theory will be integrated with organizational research in order to provide a more robust explanation of the impact of video technology on policing. The research will inform key discussions, such as the resistance of policing organizations to efforts to increase their accountability and transparency, as well as current trends towards third-party policing via the extension of monitoring activities to camera vendors and digital storage space providers.</AbstractNarration>
+    <MinAmdLetterDate>02/09/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/09/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656239</AwardID>
+    <Investigator>
+      <FirstName>Ronald</FirstName>
+      <LastName>Ramirez</LastName>
+      <EmailAddress>ronald.ramirez@ucdenver.edu</EmailAddress>
+      <StartDate>02/09/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Abdul</FirstName>
+      <LastName>Sesay</LastName>
+      <EmailAddress>abdul.sesay@ucdenver.edu</EmailAddress>
+      <StartDate>02/09/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Colorado at Denver-Downtown Campus</Name>
+      <CityName>Aurora</CityName>
+      <ZipCode>800452571</ZipCode>
+      <PhoneNumber>3037240090</PhoneNumber>
+      <StreetAddress>F428, AMC Bldg 500</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7603</Code>
+      <Text>SCIENCE, TECH &amp; SOCIETY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7567</Code>
+      <Text>SOC STUDIES OF SCI, ENG &amp; TECH</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

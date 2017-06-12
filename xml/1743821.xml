@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2017 IEEE International  Symposium on Circuits and Systems (ISCAS)</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>30000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal requests funding to a number of US-based students for attending the 35-th IEEE International Symposium on Circuits and Systems (ISCAS) with the intention of exposing them to the discipline and to encourage them to pursue careers in emerging issues in the area of Circuits and Systems research. Participation in this symposium is considered an important part of the graduate school experience of students in the field of computer engineering, providing the opportunity to interact with senior researchers and to be exposed to leading edge work in the field. The support will enable dissemination of scientific knowledge to students who would otherwise not have the experience. This student travel support will also facilitate the development of promising graduate students, and will thus indirectly also help train the workforce of the future in the important area of computer engineering. Women and underrepresented groups will be given due consideration for receiving support through this grant. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The International Symposium on Circuits and Systems (ISCAS) for the past 49 years has been the premier conference, where emerging trends and novel concepts of Circuits and Systems research have been explored. The 50-th edition of this conference will addresses key trends and challenges in the area that includes Keynote and Plenary Talks, Technical Paper Sessions, Tutorials, Panels, Special Sessions. The conference committee has set up an adequate evaluation criteria to select the qualified students from a pool of applicants formed via open advertisement. While the requested funds will primarily be sued for supporting graduate students, the committee may also consider a small number of undergraduate applicants in order to better reach a diverse population of potential researchers in this field.</AbstractNarration>
+<MinAmdLetterDate>05/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743821</AwardID>
+<Investigator>
+<FirstName>Tinoosh</FirstName>
+<LastName>Mohsenin</LastName>
+<EmailAddress>tinoosh@umbc.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland Baltimore County</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212500002</ZipCode>
+<PhoneNumber>4104553140</PhoneNumber>
+<StreetAddress>1000 Hilltop Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+</Award>
+</rootTag>

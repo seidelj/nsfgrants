@@ -5,7 +5,7 @@ import codecs
 import re
 
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
-XML_DIR =os.path.join(PROJECT_ROOT, 'xml')
+XML_DIR =os.path.join(PROJECT_ROOT, '2017')
 
 mainHeaders = [
     'awardtitle', 'awardeffectivedate', 'awardexpirationdate',
@@ -67,6 +67,7 @@ def write_csv(parsed):
             for elem in item['programreference']:
                 row = [item['awardid']]+[str(elem[h]) for h in headers[1:]]
                 cwriter.writerow(row)
+
 def count_tags(soup, tag):
     print len(soup.find_all(tag))
 

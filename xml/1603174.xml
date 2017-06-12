@@ -5,7 +5,7 @@
     <AwardTitle>NAVFAC PAC Quality Assurance for Design and Construction for the United States Antarctic Program.</AwardTitle>
     <AwardEffectiveDate>11/18/2015</AwardEffectiveDate>
     <AwardExpirationDate>11/18/2020</AwardExpirationDate>
-    <AwardAmount>512880</AwardAmount>
+    <AwardAmount>1359880</AwardAmount>
     <AwardInstrument>
       <Value>Contract Interagency Agreement</Value>
     </AwardInstrument>
@@ -23,7 +23,7 @@
     </ProgramOfficer>
     <AbstractNarration/>
     <MinAmdLetterDate>11/19/2015</MinAmdLetterDate>
-    <MaxAmdLetterDate>11/19/2015</MaxAmdLetterDate>
+    <MaxAmdLetterDate>12/12/2016</MaxAmdLetterDate>
     <ARRAAmount/>
     <AwardID>1603174</AwardID>
     <Investigator>
@@ -38,11 +38,19 @@
       <Name>Department of Navy Naval Facilities Engineering Command</Name>
       <CityName>Arlington</CityName>
       <ZipCode>20350</ZipCode>
-      <PhoneNumber></PhoneNumber>
-      <StreetAddress></StreetAddress>
+      <PhoneNumber/>
+      <StreetAddress/>
       <CountryName>United States</CountryName>
       <StateName>Virginia</StateName>
       <StateCode>VA</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>5140</Code>
+      <Text>OPERATIONS SUPPORT PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5140</Code>
+      <Text>OPERATIONS SUPPORT PROGRAM</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

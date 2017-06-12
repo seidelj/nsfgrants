@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: SHF: Distributed Systems With Verified Complexity By Design</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>174980</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computing and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Nina Amla</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Distributed systems, which coordinate multiple networked computers to meet a shared goal, are critical to the nation's digital infrastructure. Yet they are also notoriously difficult to get right, especially in the face of computer and network faults. Previous research efforts have used tools from formal methods, such as theorem provers, to build distributed systems with formally verified correctness guarantees. This project advances the state-of-the-art by attacking the complementary problem of formally verifying performance guarantees for a class of distributed systems representable as games: distributed routers, load balancers, and others. Such performance guarantees are useful in a wide variety of settings, from real-time systems to low-latency web applications. The project additionally supports curricular development at both the undergraduate and graduate levels, as well as activities such as the investigator's "Coq Bootcamp", a twice-weekly summer seminar on formal verification for undergraduates.&lt;br/&gt;&lt;br/&gt;The investigator's technical methodology combines tools from programming languages, such as domain-specific languages (DSLs) for correct-by-construction programming in Coq, with recent work in algorithmic game theory: Roughgarden?s smooth games and an implementation of games called multiplicative weights. By composing a DSL for smooth games with a verified implementation of multiplicative weights, this project formally bounds the time within which a smooth game converges, and the quality of the resulting state wrt. optimal. To recover guarantees against a network model that permits faults, the project uses a quantified version of the Verdi system's verified system transformers to wrap smooth games in implementations of common distributed design patterns such as sequence numbering.</AbstractNarration>
+    <MinAmdLetterDate>02/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657358</AwardID>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Stewart</LastName>
+      <EmailAddress>gstewart@ohio.edu</EmailAddress>
+      <StartDate>02/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Ohio University</Name>
+      <CityName>ATHENS</CityName>
+      <ZipCode>457012979</ZipCode>
+      <PhoneNumber>7405932857</PhoneNumber>
+      <StreetAddress>108 CUTLER HL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7798</Code>
+      <Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7943</Code>
+      <Text>PROGRAMMING LANGUAGES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

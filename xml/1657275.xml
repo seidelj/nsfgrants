@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: NeTS: Self-Adaptation in Industrial Wireless Sensor-Actuator Networks</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2019</AwardExpirationDate>
+    <AwardAmount>175000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Wenjing Lou</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Industrial networks typically connect hundreds or thousands of sensors and actuators in industrial facilities, such as steel mills, oil refineries, and chemical plants. Recent years have witnessed an increased interest in adopting wireless sensor-actuator network (WSAN) technology for industrial networks. This project will develop highly self-adaptive WSANs, enabling a broad range of industrial process applications, which affect economics, security, and quality of life. Successful completion of this project will significantly spur the installation of WSANs with the potential of greatly improving industrial efficiency, leading to a significant reduction of the operating costs, which can help create more jobs. The end objective of this project is to incorporate the project outcomes into the next generation of industrial WSAN standards and real-world products. Project findings will be presented at major international conferences and published in their proceedings and high-impact journals and also used for enriching education and outreach.&lt;br/&gt;&lt;br/&gt;IEEE 802.15.4 based WSANs operate at low-power and can be manufactured inexpensively, which makes them ideal for industrial process applications where energy consumption and costs are important. However, the stringent and diverse quality of service (QoS) requirements and dynamic industrial environments make managing WSANs a daunting task. A key missing piece of the WSAN management puzzle is a self-adaptation component, which allows WSANs to adapt themselves to consistently satisfy the dynamic QoS requirements in uncertain environments. Industry consequently has shown a marked reluctance to embrace WSAN technology. The overarching goal of this project is to accomplish runtime parameter self-adaptation for industrial WSANs in uncertain environment. This project will develop rigorous scientific methods for equipping industrial WSANs with capabilities of optimally configuring themselves based on specific QoS requirements and adapting the configurations at runtime to consistently satisfy the dynamic requirements in uncertain environments. This project aims to advance the state of the art of industrial WSANs through creating a new paradigm of parameter self-adaptation, resulting in improved network performance and better network resource management. This project will also accomplish an increased understanding of the performance tradeoffs that exist in WSANs and enable the development of new solutions to inform users with accurate user-appropriate information on network performance tradeoffs and configuration choices.</AbstractNarration>
+    <MinAmdLetterDate>02/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657275</AwardID>
+    <Investigator>
+      <FirstName>Mo</FirstName>
+      <LastName>Sha</LastName>
+      <EmailAddress>msha@binghamton.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>SUNY at Binghamton</Name>
+      <CityName>BINGHAMTON</CityName>
+      <ZipCode>139026000</ZipCode>
+      <PhoneNumber>6077776136</PhoneNumber>
+      <StreetAddress>4400 VESTAL PKWY E</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

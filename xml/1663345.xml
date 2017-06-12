@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Mechanisms on Developable Surfaces</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>425001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Malak</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>There is an increasing demand for ultra-compact mechanical systems that are capable of complex tasks. Developable mechanisms are envisioned as next-generation mechanical systems to meet these needs. A developable surface can be thought of as a shape that can be made from a thin sheet of material without breaking or stretching. The term "developable mechanism" is coined to describe a mechanism that conforms to or is created from a developable surface. Developable mechanisms can be used in applications as diverse as spacecraft, automobiles, ships, architecture, furniture, clothing construction, and medical devices. They can also conform to or emerge from developable surfaces such as aircraft fuselages and wings, submarine hulls, rocket cones, and minimally invasive surgery tools. They make possible new mechanisms in highly constrained spaces (such as medical implants, next generation electronics equipment, and deployable aerospace components), and applications with limited manufacturing processes available (such as high-volume production and cost-sensitive applications). Results from this research will enable engineers to meet future and presently-unfulfilled needs for hyper-compact mechanisms in several important application areas. This will be demonstrated on industry applications. Although their motion is mathematically complex, developable mechanism fabrication is increasingly possible and accessible using 3-D printers and computer-controlled tools common to maker spaces. This accessibility, combined with plans to distribute open-source design materials, will make the research results useful to a broad community. &lt;br/&gt;&lt;br/&gt;The objectives of this research are to advance understanding of developable mechanism fundamentals and use this knowledge to create methods for their analysis and design. This will include a thorough investigation of the properties, motion criteria and kinematics of developable mechanisms on fundamental developable surfaces, such as generalized cylinders, planes, cones, and tangent developable, and extensions to hybrid developable surfaces. Design guides and engineering models will be verified and demonstrated by designing and testing physical prototypes.</AbstractNarration>
+<MinAmdLetterDate>05/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1663345</AwardID>
+<Investigator>
+<FirstName>Denise</FirstName>
+<LastName>Halverson</LastName>
+<EmailAddress>halverson@math.byu.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Larry</FirstName>
+<LastName>Howell</LastName>
+<EmailAddress>lhowell@et.byu.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Spencer</FirstName>
+<LastName>Magleby</LastName>
+<EmailAddress>magleby@byu.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brigham Young University</Name>
+<CityName>Provo</CityName>
+<ZipCode>846021231</ZipCode>
+<PhoneNumber>8014226177</PhoneNumber>
+<StreetAddress>A-285 ASB</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1464</Code>
+<Text>ENGINEERING DESIGN AND INNOVAT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>067E</Code>
+<Text>DESIGN TOOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>068E</Code>
+<Text>DESIGN THEORY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

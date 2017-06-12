@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Empowering Attacker-Centric Security Analysis of Network Protocols</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>64428</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Wenjing Lou</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The objective of this project is to improve the security of a wide range of network protocols that the Internet relies on. Unfortunately, the Internet has been evolving at a rapid rate but its initial design did not take security into consideration. In practice, this leads to a never-ending stream of network attacks that are continuously being discovered. The defenders are forced into a reactive position to these new and creative attacks, without having the necessary tools to understand and anticipate them. The proposed project aims to identify and analyze protocol flaws proactively and stay ahead of attackers. In particular, the project will develop a set of innovative and timely techniques, tools, and insights that will empower developers and researchers to analyze network protocols, identify their weaknesses, and correct them early on. The results will benefit all Internet users by providing a more secure network environment overall. &lt;br/&gt;&lt;br/&gt;Specifically, the research is motivated by the following observations. First, emerging threats such as side channels have been largely overlooked in network protocols. Second, network attacks are getting more sophisticated, with new threat models such as cooperating local and remote attackers. Third, the network protocols and their interactions with the environment are getting more complex, especially when considering the prevalence of network middleboxes, host-based firewalls, and censorship firewalls, etc. The research will develop a combination of program analysis and network measurement techniques to systematically uncover vulnerabilities in a variety of network protocols. The insights gained from the project will enable better and more secure design and implementation of protocols.</AbstractNarration>
+    <MinAmdLetterDate>03/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652954</AwardID>
+    <Investigator>
+      <FirstName>Zhiyun</FirstName>
+      <LastName>Qian</LastName>
+      <EmailAddress>zhiyun.qian@ucr.edu</EmailAddress>
+      <StartDate>03/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Riverside</Name>
+      <CityName>RIVERSIDE</CityName>
+      <ZipCode>925211000</ZipCode>
+      <PhoneNumber>9518275535</PhoneNumber>
+      <StreetAddress>Office of Research</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8060</Code>
+      <Text>Secure &amp;Trustworthy Cyberspace</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>025Z</Code>
+      <Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7434</Code>
+      <Text>CNCI</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Rheology and Coalescence Behavior of Oil-Water Interfaces Stabilized by Soy Lecithin</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Emulsion-based delivery systems are widely applicable to a range of commercial applications (including pharmaceutical drug delivery, enhanced oil recovery, personal care products, and food processing) because these advanced material systems enable the delivery and controlled release of valuable active compounds. Coalescence (a destabilization process where two liquid droplets merge to form single, larger droplet) is an undesirable limiting factor for implementing these delivery systems within the foregoing commercial applications. Therefore, systematic investigations which improve current understanding of the dynamic processes that lead to droplet coalescence are crucially important. This project will be conducted in collaboration with Dr. Patrick Spicer, an Associate Professor at the University of New South Wales in Sydney, Australia and a noted expert on the production of shaped and targeted droplet delivery systems.&lt;br/&gt;&lt;br/&gt;The objective of this EAPSI project is to elucidate how nanoparticle-surfactant mixtures adsorbed to oil-water interfaces impact the interfacial rheology and observed coalescence behavior between neighboring oil-in-water droplets. It has been hypothesized that the presence of surfactants in Pickering (particle stabilized) emulsions can significantly modify particle interactions at the oil-water interface and thus improve an emulsion's resistance to coalescence dynamics. This theory will be explored for oil-in-water Pickering emulsions stabilized by silica nanoparticles (~500 nm dia.) and lecithin (one of the most widely used surfactants for the delivery of active compounds). Characterization of the co-adsorption and interfacial rheology of silica nanoparticles and lecithin molecules at the oil-water interface will be studied using pendant drop tensiometry procedures developed at Purdue University. Direct observation of dynamic coalescence processes between micrometer-scale oil droplets at relevant timescales (&lt;1 ms) will be conducted using custom micromanipulation equipment, optical microscopy, and high-speed imaging capabilities available through collaboration with Prof. Patrick Spicer at the University of New South Wales. The expected outcomes of this research will provide improved capacity for understanding and predicting the physical phenomena which govern the successful development of template emulsion-based delivery systems. &lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the Australian Academy of Science.</AbstractNarration>
+<MinAmdLetterDate>05/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713936</AwardID>
+<Investigator>
+<FirstName>Jerome</FirstName>
+<LastName>Nash</LastName>
+<EmailAddress/>
+<StartDate>05/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Nash                    Jerome         J</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479061961</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5912</Code>
+<Text>AUSTRALIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

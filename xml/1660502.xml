@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RAPID Flood Extent/Depth Data Identification, Acquisition, Cataloguing, and Processing</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>73678</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06030000</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Earth Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Richard Yuretich</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>ABSTRACT&lt;br/&gt;&lt;br/&gt;A non-technical description explaining the broader significance of the project&lt;br/&gt;&lt;br/&gt;The extreme rainfall event in Louisiana in August 2016 caught many people by surprise. Flood maps and emergency preparations were designed for overflow from the Mississippi River and tributaries, but the extent and rapidity of direct precipitation caused unanticipated behaviors in the local stream watersheds. This RAPID project will examine the extent and the timing of the flooding in order to develop an effective model of the regional response to the rainfall. These data then will be incorporated into existing models of coastal flooding caused by storm surges to develop scenarios for different types of impacts on the region. This research will help in future planning and emergency management for various weather-related impacts.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A technical description of the project&lt;br/&gt;&lt;br/&gt;This RAPID project will generate three key products: 1) A time-independent representation of the furthest extents and maximum depths of flooding; 2) Time-dependent representations of the extent and depth of flooding; and, 3) Documentation of the methodology to directly and quickly incorporate the data into a hurricane storm surge model. The field effort will collect ephemeral data to validate flood extents and depths derived from remote sensing technologies. Science will be advanced in three key areas: 1) remote sensing algorithms for near real-time flood detection; 2) numerical implementation of coupled hydrologic and hurricane storm-surge models; and 3) the geophysics of flow for hydrologic and surge interactions over a large region.</AbstractNarration>
+    <MinAmdLetterDate>11/29/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/29/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660502</AwardID>
+    <Investigator>
+      <FirstName>Scott</FirstName>
+      <LastName>Hagen</LastName>
+      <EmailAddress>shagen@lsu.edu</EmailAddress>
+      <StartDate>11/29/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Louisiana State University &amp; Agricultural and Mechanical College</Name>
+      <CityName>Baton Rouge</CityName>
+      <ZipCode>708032701</ZipCode>
+      <PhoneNumber>2255782760</PhoneNumber>
+      <StreetAddress>202 Himes Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Louisiana</StateName>
+      <StateCode>LA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7699</Code>
+      <Text>ICER</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7914</Code>
+      <Text>RAPID</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

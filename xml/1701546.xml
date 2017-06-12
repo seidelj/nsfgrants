@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Unveiling the connection between star-formation and galaxy structure in the early Universe</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harshal Gupta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Christina Williams is awarded an NSF Astronomy and Astrophysics Postdoctoral Fellowship to conduct a program of research and education at The University of Arizona.  Williams will study the properties and processes that affect star formation and influence the structure of galaxies.  Results from her research will allow a better understanding of how galaxies form and change over time.  Alongside this research, Williams will reestablish an astronomy course at a tribal community college, and she will develop a mentoring network for the community college students to enhance their access to higher education.&lt;br/&gt;&lt;br/&gt;This project will explore the physical origin of the connection between star-formation activity and morphology in galaxies at high redshift.  Empirically, suppressed star-formation activity in galaxies is correlated with high stellar mass density (compactness), but the nature of this connection is poorly understood. Williams will investigate this relationship between star formation and structure through three analyses.  She will use deep spectroscopy in conjunction with high-resolution imaging to study the kinematic properties and ionization conditions (diagnostics of the energy input into the interstellar gas) in star-forming galaxies.  This study will indicate if compact morphology in galaxies enhances feedback.  She will also use imaging and spectroscopy from the James Webb Space Telescope (JWST) to test theories about the mode of stellar mass buildup in the first galaxies to quench star formation.  Finally, she will combine the JWST data with a molecular gas survey that will address the relationship between star formation efficiency and structure in galaxies.  For the educational component of her work, Williams will revive an astronomy course at the Tohono O'odham Community College.  She will also establish a mentoring network, which will encourage students to continue their education beyond community college.</AbstractNarration>
+<MinAmdLetterDate>05/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701546</AwardID>
+<Investigator>
+<FirstName>Christina</FirstName>
+<LastName>Williams</LastName>
+<EmailAddress/>
+<StartDate>05/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Williams                Christina      C</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857210065</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1609</Code>
+<Text>NSF ASTRON &amp; ASTROPHY PSTDC FE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Rank, genus and Betti numbers of large-volume manifolds</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2022</AwardExpirationDate>
+    <AwardAmount>42735</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Swatee Naik</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The United States electrical grid is an example of what mathematicians call a large graph, consisting of vertices (ex. homes, power plants, laundromats, etc.) connected together by edges (ex. power lines). The immense size of the graph can make it hard to study, but in some situations one can get around this by randomly choosing a vertex (say, a house) and then analyzing only the part of the graph that lies near that vertex. If one so samples the graph enough times, useful information can be deduced about it without ever dealing with the whole graph in its entirety. In this NSF funded CAREER project, the PI will apply a similar philosophy to the study of more general geometric shapes: by randomly sampling the geometry at different points, conclusions about global structure can be derived. Early-career mathematicians, such as undergraduates, graduate students and postdocs, will be heavily involved in the project. With the help of other leading researchers, the PI will run two summer schools and three small research groups with the aim of exposing young mathematicians to newly developing fields. The PI will also continue to advise graduate students, to sponsor undergraduate research, and will complete his online book "Geometry in Two Dimensions," which presents a modern, rigorous introduction to Euclidean and non-Euclidean geometry without many of the usual prerequisites.&lt;br/&gt;&lt;br/&gt;Thurston's Geometrization Conjecture, proved by Perelman in 2003, states that every closed, orientable three dimensional manifold M can be cut into pieces, each of which admits one of eight types of homogenous metrics. Of these pieces, only the hyperbolic three-manifolds have not been classified. The Geometrization Theorem also includes topological conditions that characterize when M itself admits a hyperbolic metric. Mostow's Rigidity Theorem implies that any such hyperbolic metric is unique up to isometry, so it is natural to try to extract concrete geometric information about it from the topology of M. This program is referred to as effective geometrization, and has been studied by the PI, Brock, Canary, Minsky, Namazi, Souto, among many others. Much of this project can be considered as part of this program. Measure theory plays a central role in many of the projects proposed. Adapting a notion of local convergence from graph theory to Riemannian geometry, the PI will bring new measure theoretic insight to the growth of rank, Heegaard genus and Betti numbers, drawing inspiration from the fields of measurable group theory, graph limits, and foliations.</AbstractNarration>
+    <MinAmdLetterDate>01/04/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/04/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1654114</AwardID>
+    <Investigator>
+      <FirstName>Ian</FirstName>
+      <LastName>Biringer</LastName>
+      <EmailAddress>ianbiringer@gmail.com</EmailAddress>
+      <StartDate>01/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Boston College</Name>
+      <CityName>Chestnut Hill</CityName>
+      <ZipCode>024673800</ZipCode>
+      <PhoneNumber>6175528000</PhoneNumber>
+      <StreetAddress>140 Commonwealth Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1267</Code>
+      <Text>TOPOLOGY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8048</Code>
+      <Text>Division Co-Funding: CAREER</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

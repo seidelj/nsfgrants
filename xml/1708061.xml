@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Growth, Form, and Self-Organization</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>170200</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03010000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Physics</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Krastan B. Blagoev</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project is to support leading United States scientists to participate in the research program on "Growth, Form, and Self-Organization", planned over the period of August 22 - December 20, 2017, at the Isaac Newton Institute for Mathematical Sciences in Cambridge, UK. The specific aim is to extend the planned activities by supporting and encouraging participation by a larger number of leading American researchers, including 12 junior researchers, who would otherwise not be able to participate. The planned program at the Newton Institute is to mark the centenary of D'Arcy Thompson's influential book, "On Growth and Form" - arguably the first treatise on the physics of living systems - by bringing various contemporary strands of inquiry in the spirit of his work into focus and to look into the future of understanding biology. The program will stimulate new interactions and collaborations between physicists, applied mathematicians, computer scientists, biologists, and other researchers interested in morphology, broadly understood. It will aim to open fruitful lines of inquiry and invite new approaches to address the fundamental issues and features of form and function in living as well as inanimate systems. &lt;br/&gt;&lt;br/&gt;The program will provide opportunities for cross-fertilization of ideas within and across disciplines on various aspects of shape dynamics in diverse contexts and at diverse scales. Program participants will foster, and in turn be immersed in, an energetic and informal research atmosphere, conducive to innovative ideas, daring propositions, and potential breakthroughs, and to forming new kinds of fruitful collaborations. The Institute offers an ideal environment for such a "ferment" and actively promotes diversity. The program and the Institute work together to attract and ensure participation of women researchers. Considerable efforts and funds will also be devoted to supporting junior researchers and students, assuring lasting impact. All lectures and seminars will be open to the public, filmed, archived and made freely accessible on the Institute's website. The four planned thematic workshops will provide further opportunities for sharing and developing ideas, which will be disseminated through proceedings, papers, and newly emerged research directions and endeavors.</AbstractNarration>
+    <MinAmdLetterDate>04/12/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/12/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1708061</AwardID>
+    <Investigator>
+      <FirstName>Andrzej</FirstName>
+      <LastName>Herczynski</LastName>
+      <EmailAddress>andrzej@bc.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Boston College</Name>
+      <CityName>Chestnut Hill</CityName>
+      <ZipCode>024673800</ZipCode>
+      <PhoneNumber>6175528000</PhoneNumber>
+      <StreetAddress>140 Commonwealth Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7246</Code>
+      <Text>PHYSICS OF LIVING SYSTEMS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7237</Code>
+      <Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8091</Code>
+      <Text>BRAIN Initiative Res Support</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9183</Code>
+      <Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

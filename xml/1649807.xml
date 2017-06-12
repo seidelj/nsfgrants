@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Algebraic and Extremal Graph Theory Conference</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>23000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jacques Verstraete</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>A 4-day Algebraic and Extremal Graph Theory will be hosted at the University of Delaware during the time period from Monday, August 7 to Thursday, August 10, 2017. The invited speakers have made important contributions in this field. To only mention just a few of these contributions, the program on studying graphs determined by spectrum and cospectral graphs has led to consistent and substantial progress in this area and the recent conjecture that almost all graphs are determined by their spectrum has generated even more creative effort in this area. Constructions of graphs from linear systems of equations are a breakthrough in the area of Turan-type problems for graphs with given girth and the applications of such constructions and the potential from extending or generalizing such constructions is growing rapidly. Attendance of 50-60 participants is expected, with 10-12 invited talks and 16-18 contributed talks. Researchers will present new results and time for informal discussions between talks is planned.&lt;br/&gt;&lt;br/&gt;Algebraic and extremal graph theory are important areas of combinatorics with a great symbiotic relationship. Results and techniques from these areas have been applied successfully in mathematics, computer science and engineering. For example, ranking web-pages methods used by current search engines use spectral techniques from algebraic graph theory. The best constructions of optimal graphs in terms of density and girth are obtained using algebraic constructions using systems of equations over finite fields. It is important to continue to expand, deepen and broaden the research in these areas and this conference is a step in this direction. Experts in the areas of algebraic and extremal graph theory will be brought together with junior participants including undergraduate and graduate students, postdocs and early career faculty. This conference will focus on uniting people with a variety of backgrounds and interests. Participants from groups that are historically underrepresented in the sciences will be actively recruited.</AbstractNarration>
+    <MinAmdLetterDate>01/04/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/04/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1649807</AwardID>
+    <Investigator>
+      <FirstName>Qing</FirstName>
+      <LastName>Xiang</LastName>
+      <EmailAddress>qxiang@udel.edu</EmailAddress>
+      <StartDate>01/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Robert</FirstName>
+      <LastName>Coulter</LastName>
+      <EmailAddress>coulter@udel.edu</EmailAddress>
+      <StartDate>01/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Sebastian</FirstName>
+      <LastName>Cioaba</LastName>
+      <EmailAddress>cioaba@udel.edu</EmailAddress>
+      <StartDate>01/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Delaware</Name>
+      <CityName>Newark</CityName>
+      <ZipCode>197162553</ZipCode>
+      <PhoneNumber>3028312136</PhoneNumber>
+      <StreetAddress>210 Hullihen Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Delaware</StateName>
+      <StateCode>DE</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7970</Code>
+      <Text>Combinatorics</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

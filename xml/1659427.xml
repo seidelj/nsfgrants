@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CC* Networking Infrastructure: A Science DMZ to Enable Friction-Free Scientific Data Workflows</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>498961</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Advanced Cyberinfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kevin L. Thompson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The University of Kansas (KU) is implementing a 100 Gigabit per second (Gbps) Science DMZ network for research scientists which provides a separate network for dedicated scientific research traffic workflows. This serves many research projects at the Center for Research Computing (CRC), the Center for Remote Sensing of Ice Sheets (CReSIS), the Genome Sequencing Core (GSC), the Biodiversity Institute (BI), and the Microscopy and Analytical Imaging laboratory (MAI). The project team is composed of domain scientists, computer scientists, and KU Information Technology administration. The common themes uniting these diverse scientific areas are enhanced external institutional collaboration, data sharing, remote data transfer, and educational outreach.&lt;br/&gt;&lt;br/&gt;The infrastructure upgrades are the foundation for a network architecture that is anchored by a dedicated 100 Gbps research network backbone devoted to prioritizing research data flows and is easily extensible for adding new connections. This design is modeled after the successful Science DMZ network architecture from the Energy Sciences Network (ESnet), which has been replicated at more than 100 universities. The project addresses the ?last mile? network bottleneck and the campus enterprise designed network architecture. The current network design places barriers on research data traffic on campus enterprise networks that compete for limited network bandwidth. This project elevates scientific research data at KU to transfer at higher speeds, which enhances interdisciplinary and external collaborations, and enables current and future scientific access to friction-free networks.</AbstractNarration>
+    <MinAmdLetterDate>12/21/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/21/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659427</AwardID>
+    <Investigator>
+      <FirstName>Eduardo</FirstName>
+      <LastName>Rosa-Molinar</LastName>
+      <EmailAddress>erm@ku.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Paden</LastName>
+      <EmailAddress>paden@ku.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Dan</FirstName>
+      <LastName>Voss</LastName>
+      <EmailAddress>dan.voss@ku.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Bob</FirstName>
+      <LastName>Lim</LastName>
+      <EmailAddress>blim@ku.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Kansas Center for Research Inc</Name>
+      <CityName>LAWRENCE</CityName>
+      <ZipCode>660457568</ZipCode>
+      <PhoneNumber>7858643441</PhoneNumber>
+      <StreetAddress>2385 IRVING HILL RD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Kansas</StateName>
+      <StateCode>KS</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8080</Code>
+      <Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

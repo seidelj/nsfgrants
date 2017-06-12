@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Integrating Environmentally Improved Photolithography Technology and Virtual Reality into Advanced Nanotechnology Education</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>703906</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Heather Watson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Advances in nanotechnology have significantly influenced manufacturing methods, the development of new systems and devices as well as the future of science, engineering, and technology in the nation. Nanoscience is critical to many high-technology and manufacturing industries in Utah, and the state is faced with a rising need for skilled workers in this field. In response to the urgent workforce need in local industries, Utah Valley University (UVU) will develop curricula to train students in nanotechnology principles. A nanotechnology course and associated modules will be developed for community college students and other introductory-level undergraduate students. The course will include design projects and laboratories using innovative environmentally-friendly fabrication techniques. Advanced virtual-reality game techniques will be used to promote students' understanding and visualization of the underlying physics concepts and the methods used to build very small-scale structures. The new course will also serve as a springboard for students intending to pursue advanced degrees in nanotechnology. The project will enhance the preparation of students, increase the number of skilled technicians, and help strengthen the regional workforce.&lt;br/&gt;&lt;br/&gt;This project will implement an introductory nanotechnology course that aligns with rapidly changing industry requirements, develop new tools for nanotechnology education, and complement existing associate and bachelor degree programs at UVU. The course will include a series of modules and projects, as well as laboratories that feature a novel water-based technique for photolithography which avoids the hazardous solvents of conventional methods. This improved method for photolithographic fabrication will contribute a potentially transformative methodology for both education and industry, and contribute to the knowledge base about the effectiveness of virtual learning environments in education. The laboratory experience also includes thin film fabrication using auto-catalytic metallization, and scanning electron microscopy for both characterization and electron beam lithography. Virtual-reality learning modules with high-fidelity simulation of various experimental methods and processes will also be incorporated into the course. These virtual-reality techniques will allow students the opportunity to learn from their mistakes without the disadvantage of depleting resources or trying to assemble flawed designs in the laboratory. The virtual-reality modules will also provide an effective alternative in circumstances where advanced equipment may not be available. The format of this nanotechnology course will facilitate adoption and adaptation at other institutions. The resources and practices from the project will be shared through a project website and through professional development workshops for educators. Summer programs for high school students, with an emphasis on groups underrepresented in STEM fields, will incorporate virtual-reality educational games and simplified lab experiments from the course to expose and engage students in nanotechnology.</AbstractNarration>
+<MinAmdLetterDate>05/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700695</AwardID>
+<Investigator>
+<FirstName>Afsaneh</FirstName>
+<LastName>Minaie</LastName>
+<EmailAddress>minaieaf@uvu.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Reza</FirstName>
+<LastName>Kamali-Sarvestani</LastName>
+<EmailAddress>Reza.Kamali@uvu.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Weber</LastName>
+<EmailAddress>Paul.Weber@uvu.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sean</FirstName>
+<LastName>Tolman</LastName>
+<EmailAddress>stolman@uvu.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Utah Valley University</Name>
+<CityName>Orem</CityName>
+<ZipCode>840585999</ZipCode>
+<PhoneNumber>8018636084</PhoneNumber>
+<StreetAddress>800 West University Parkway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7412</Code>
+<Text>ADVANCED TECH EDUCATION PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

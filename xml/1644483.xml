@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps Sites - Type I: UCI Applied Innovation I-Corps Site</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>99996</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Anita J. LaSalle</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This is a proposal from the University of California - Irvine (UC-Irvine) to create an I-Corps Site. NSF Innovation Corps (I-Corps) Sites are NSF-funded entities established at universities whose purpose is to nurture and support multiple, local teams to transition their technology concepts into the marketplace. Sites provide infrastructure, advice, resources, networking opportunities, training and modest funding to enable groups to transition their work into the marketplace or into becoming I-Corps Team applicants. I-Corps Sites also strengthen innovation locally and regionally and contribute to the National Innovation Network of mentors, researchers, entrepreneurs and investors.&lt;br/&gt;&lt;br/&gt;This project, at UC-Irvine, integrates units across campus, focuses on minorities and is likely to have an impact both on the campus and on the regional ecosystem. The Site is built on an already existing 31K sq. ft. collaborative facility, providing a rich environment for commercialization. The I-Corps Site focuses on research strengths such as photonics, nanotechnology, bioengineering, chemistry, medical and life sciences, and transportation. The institution has a large percentage of low-income students, and ranks first among UC institutions for Latino freshman applications, and second in African-American freshman applications. They have a good plan for accessing these students, as well as STEM students. In addition, the Center has helped create businesses with socially conscious missions.</AbstractNarration>
+    <MinAmdLetterDate>03/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1644483</AwardID>
+    <Investigator>
+      <FirstName>Richard</FirstName>
+      <LastName>Sudek</LastName>
+      <EmailAddress>sudek@uci.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Irvine</Name>
+      <CityName>Irvine</CityName>
+      <ZipCode>926173213</ZipCode>
+      <PhoneNumber>9498247295</PhoneNumber>
+      <StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8046</Code>
+      <Text>I-Corps - Sites</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

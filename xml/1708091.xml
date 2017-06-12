@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Understanding the Deformation Behavior of Alumina-Forming Austenitic Stainless Steels</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>168955</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diana Farkas</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY&lt;br/&gt;Even with the increasing use of renewable energy, the primary energy sources for the foreseeable future for power generation are likely to be fossil fuels. Thus, for economic reasons, it is critical to use these resources as efficiently as possible. Increasing a power plant's operating temperature increases its efficiency. The limiting factor for higher temperature is materials that can operate at higher temperatures, and are economically viable. The aim of this project is to elucidate the deformation mechanisms in alumina-forming austenitic (AFA) stainless steels that are being considered for this application. The work will train both a Ph.D. student and several undergraduates in state of the art techniques.&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;The project will ascertain the deformation mechanisms associated with grain boundary (GB) precipitation strengthening, and attempt to understand the fundamental deformation behavior in alloys containing both a precipitate free zone (PFZ) and multiple types of precipitates in both the GBs and the matrix each of which can contribute differently to the deformation behavior. The work will be performed on the model AFA stainless steel Fe-20Cr-30Ni-2Nb-5Al. Detailed microstructural and defect characterization by transmission electron microscopy (TEM) and scanning electron microscopy (SEM) wlll be performed before and after mechanical testing. TEM in-situ straining and SEM in-situ straining studies performed at both room temperature and 750C will examine both dislocation/precipitate and dislocation/GB interactions, including understanding the role of the PFZ along the GBs. The work will train both a Ph.D. student and several undergraduates in state of the art techniques.</AbstractNarration>
+<MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1708091</AwardID>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Baker</LastName>
+<EmailAddress>Ian.Baker@Dartmouth.edu</EmailAddress>
+<StartDate>04/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dartmouth College</Name>
+<CityName>HANOVER</CityName>
+<ZipCode>037551404</ZipCode>
+<PhoneNumber>6036463007</PhoneNumber>
+<StreetAddress>OFFICE OF SPONSORED PROJECTS</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1771</Code>
+<Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

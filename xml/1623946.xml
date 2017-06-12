@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>NSF Workshop: Frontiers in Polymer Science and Engineering</AwardTitle>
     <AwardEffectiveDate>03/01/2016</AwardEffectiveDate>
-    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
     <AwardAmount>183014</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -45,6 +45,22 @@
       <StateCode>MN</StateCode>
     </Institution>
     <ProgramElement>
+      <Code>1253</Code>
+      <Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1403</Code>
+      <Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1415</Code>
+      <Text>PARTICULATE &amp;MULTIPHASE PROCES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1765</Code>
+      <Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+    </ProgramElement>
+    <ProgramElement>
       <Code>1773</Code>
       <Text>POLYMERS</Text>
     </ProgramElement>
@@ -53,24 +69,8 @@
       <Text>Macromolec/Supramolec/Nano</Text>
     </ProgramElement>
     <ProgramElement>
-      <Code>1253</Code>
-      <Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
-    </ProgramElement>
-    <ProgramElement>
-      <Code>1765</Code>
-      <Text>CONDENSED MATTER &amp; MAT THEORY</Text>
-    </ProgramElement>
-    <ProgramElement>
-      <Code>1415</Code>
-      <Text>PARTICULATE &amp;MULTIPHASE PROCES</Text>
-    </ProgramElement>
-    <ProgramElement>
       <Code>8092</Code>
       <Text>Materials Eng. &amp; Processing</Text>
-    </ProgramElement>
-    <ProgramElement>
-      <Code>1403</Code>
-      <Text>PROCESS &amp; REACTION ENGINEERING</Text>
     </ProgramElement>
     <ProgramReference>
       <Code>7556</Code>

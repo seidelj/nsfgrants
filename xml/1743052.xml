@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Using mobile health and gamification to reduce snoring and sleep apnea</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to reduce snoring and sleep apnea using a software that resides on a smartphone. There are over 90 million Americans who suffer from snoring and 25 million Americans who suffer from obstructive sleep apnea (OSA). Snoring is a pervasive social problem that greatly reduces the quality of life of individuals, partners, and families and has been tied to negative health outcomes. The current treatments for snoring are often ineffective, too expensive or burdensome. Snoring is also associated with the medical condition of OSA which is linked to serious health conditions such as hypertension, stroke, heart disease, arrhythmias, diabetes, depression, and increases the risk of cancer mortality. In addition, there is also a considerable economic cost associated with OSA. This I-Corps project is a completely new approach to address the root cause of both snoring and sleep apnea and will greatly improve the lives of millions of Americans.&lt;br/&gt;&lt;br/&gt;This I-Corps project is a new therapy that exercises the upper airway and treats the root cause of snoring and obstructive sleep apnea (OSA), a weak airway that collapses during sleep. The approach is innovative because it identifies unique, directed exercises that can be performed in a voice controlled smartphone game that is both effective and engaging. The therapy builds on existing research, which shows that exercising the upper airway can result in a substantial reduction in snoring and sleep apnea. Backed by strong support from scientific literature, the initial work involved partnering with experts in speech therapy and sleep medicine to identify the most effective therapy to strengthen and tone the upper airway, which addresses the root cause of snoring and sleep apnea. The work has included proof-of-concept experiments using ultrasound imaging of tongue motion during various articulations to ensure the therapy consistently had the intended effect.</AbstractNarration>
+<MinAmdLetterDate>05/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743052</AwardID>
+<Investigator>
+<FirstName>Umesh</FirstName>
+<LastName>Goswami</LastName>
+<EmailAddress>goswa009@umn.edu</EmailAddress>
+<StartDate>05/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: Market concentration, skill segregation, and rising wage inequality</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2018</AwardExpirationDate>
+    <AwardAmount>11955</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Marie Cornwall</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Pay differences between a company's managers and its workers are striking, and much studied, but the rise in inequality over the last 40 years has come mostly from growing differences between people working at different employers, not between those working together. This fact is hard to explain for theories that explain inequality with differences in workers' education levels: even similarly-educated workers get paid differently depending on which companies they end up working at. This project instead aims to explain rising inequality by measuring changes in the intensity of competition between rival companies and changes in the balance of power between buyer and supplier companies. By studying the sources of pay differences between workplaces, this project points to a novel set of employer-targeted policies to address rising wage inequality. The research proposed here could help assess how antitrust enforcement, competition policy and product market regulation affect the wage structure. Advocates and policy makers alike have neglected these indirect policy determinants of inequality.&lt;br/&gt;&lt;br/&gt;To clarify the sources of rising between-firm inequality, this project brings insights from economic sociology to the analysis of inequality. It builds on and reformulates the structuralist sociology of wages to ask how hierarchical relations between firms can affect wage inequality. Changes in market power are expected to affect inequality by shifting the allocation of good jobs and high wages across different employers. Specifically, the project uses establishment-level and linked employer-employee data to test several contributing sources of changing relations between firms. First, it considers whether shifting product market power has benefited some firms and workers and undermined others. Second, it asks how the reliance of supplier firms on powerful corporate buyers affects suppliers? workers? wages. Finally, it tests whether trends in educational and occupational segregation across workplaces contribute to rising inequality. More broadly, it asks about the consequences of the structured nature of product markets for the distribution of wages: if businesses operate in settings that depart from the assumptions of perfect markets, what are the consequences for their workers? wages?</AbstractNarration>
+    <MinAmdLetterDate>03/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1702914</AwardID>
+    <Investigator>
+      <FirstName>Bruce</FirstName>
+      <LastName>Western</LastName>
+      <EmailAddress>western@wjh.harvard.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Nathan</FirstName>
+      <LastName>Wilmers</LastName>
+      <EmailAddress>wilmers@fas.harvard.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Harvard University</Name>
+      <CityName>Cambridge</CityName>
+      <ZipCode>021385366</ZipCode>
+      <PhoneNumber>6174955501</PhoneNumber>
+      <StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1331</Code>
+      <Text>SOCIOLOGY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1331</Code>
+      <Text>SOCIOLOGY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

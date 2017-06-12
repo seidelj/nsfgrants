@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>WiFiUS: RF Sensing in Internet of Things: When Deep Learning Meets CSI Tensor</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>299994</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Wenjing Lou</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Internet of Things (IoT) refers to a worldwide network of interconnected uniquely addressable things based on standard communication protocols. In recent years, medical care and healthcare are recognized as one of the most attractive application areas of the IoT, with applications ranging from patient and equipment tracking in medical facilities to health monitoring. The goal of this project is to investigate an IoT healthcare monitoring system, which is likely to continue to grow in popularity as it utilizes IoT in various ways for improving the quality of patient care. The outcomes from this project will significantly improve the state-of-the-art of RF sensing in the IoT, and provide a significant step toward enriched user experience at greatly reduced costs. The educational plan includes developing and enhancing undergraduate and graduate-level courses in the field. The simulation tool and testbed will provide excellent opportunities for students to gain hands-on experience in the cutting-edge technology. Outcomes from this project will be disseminated through publications, presentations, and a project website. The PIs are fully committed to increasing participation from under-represented groups in research, and will continue to further such efforts via outreach, in particular, through collaboration with Historically Black Colleges and Universities (HBCU).&lt;br/&gt;&lt;br/&gt;Specifically, this project aims to gain a deep understanding of RF sensing in healthcare IoT by exploiting advanced statistics and learning techniques, and to develop effective algorithms to make healthcare IoT more efficient. This research intends to significantly reduce the cost and improve the accuracy of RF sensing in healthcare IoT with intelligent exploration of CSI tensor and deep learning. The research work falls into the following three interwoven thrusts. (i) RF Sensing in Indoor IoT Environments: to address several fundamental challenges in RF sensing in indoor IoT environments, including developing a stochastic model for CSI based fingerprinting, incorporating nested arrays, and applying deep learning for indoor device-free localization. (ii) RF Sensing for Healthcare: to develop effective solutions for contact-free and long-term vital signs and human behavior monitoring, using RF and inaudible sound signals. (iii) System integration and evaluation: we will integrate the components from the first two thrusts into a healthcare IoT environment to understand the interaction of these components and evaluate the overall system performance.</AbstractNarration>
+    <MinAmdLetterDate>04/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1702957</AwardID>
+    <Investigator>
+      <FirstName>Shiwen</FirstName>
+      <LastName>Mao</LastName>
+      <EmailAddress>smao@auburn.edu</EmailAddress>
+      <StartDate>04/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Auburn University</Name>
+      <CityName>Auburn University</CityName>
+      <ZipCode>368490001</ZipCode>
+      <PhoneNumber>3348444438</PhoneNumber>
+      <StreetAddress>310 Samford Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Alabama</StateName>
+      <StateCode>AL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8229</Code>
+      <Text>WiFiUS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

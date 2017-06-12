@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Population Biology of Infectious Diseases</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2022</AwardExpirationDate>
+    <AwardAmount>223392</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08080000</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Biological Infrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sally E. O'Connor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This REU Site award to the University of Georgia, located in Athens, GA, will support the training of 12 students for 9 weeks during the summers of 2017- 2021. This program, supported by both the Division of Biological Infrastructure (BIO/DBI) and the Division of Mathematical Sciences (MPS/DMS), focuses on the intersection of empirical and quantitative methods in the study of infectious disease biology. Research projects can be lab or field based; involve modeling, simulation, and analytics; or a combination of both. While the program is hosted by the Odum School of Ecology, project mentors are spread across multiple UGA schools and departments including Ecology, Veterinary Medicine, Entomology, Epidemiology and Biostatistics, Forestry and Natural Resources, Public Health, and Genetics. In addition to research, students attend workshops on responsible conduct in research and how to apply to graduate school, participate in weekly journal readings, attend discussions on career paths and women in science, and take off-campus field trips to CDC headquarters and the Georgia Aquarium. The program will recruit students with majors in either the biological sciences (e.g. biology, ecology, genetics) or quantitative sciences (e.g. mathematics, computer science, and statistics). Applications (available online) from students attending HBCUs and other minority-serving institutions are encouraged. &lt;br/&gt;&lt;br/&gt;It is anticipated that a total of 60 students, primarily from schools with limited research opportunities, will be trained in the program. Students will learn how research is conducted, and will present their research at a poster symposium at the end of the summer. Many will present the results of their work at scientific conferences after they leave UGA. &lt;br/&gt;&lt;br/&gt;A common web-based assessment tool used by all REU Site programs funded by the Division of Biological Infrastructure will be used to determine the effectiveness of the training program. Students will be tracked after the program in order to determine their career paths. Students will be asked to respond to an automatic email sent via the NSF reporting system. More information about the program is available by visiting http://reu.ecology.uga.edu/ or by contacting the PI (Dr. John Drake). jdrake@uga.edu) or the co-PI (Dr. Michael Strand at mrstrand@uga.edu).</AbstractNarration>
+    <MinAmdLetterDate>02/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659683</AwardID>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Strand</LastName>
+      <EmailAddress>mrstrand@uga.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Drake</LastName>
+      <EmailAddress>jdrake@uga.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Georgia Research Foundation Inc</Name>
+      <CityName>ATHENS</CityName>
+      <ZipCode>306021589</ZipCode>
+      <PhoneNumber>7065425939</PhoneNumber>
+      <StreetAddress>310 East Campus Rd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7335</Code>
+      <Text>WORKFORCE IN THE MATHEMAT SCI</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7454</Code>
+      <Text>MSPA-INTERDISCIPLINARY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8007</Code>
+      <Text>BioMaPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

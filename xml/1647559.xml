@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Low-latency polyphonic coding for interactive immersive applications</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Peter Atherton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project, and of its underlying technological innovation, is in enabling a diverse variety of applications involving interactive and immersive media, which are central to several sectors that are poised to grow substantially in the coming years. Specifically, the low-latency audio technology developed in the project is a critical enabler for the development of future products that are of significant value to several sectors of the technology industry including, most importantly, the enabling of fully immersive interactive media products for augmented reality games and related applications. Additional impact is expected in the advancement and support of musical collaboration over the internet and enabling remote music education, both with clear cultural and educational implications. Another significant impact is in enabling a truly realistic teleconferencing experience with considerable implications for both business and social networks, with the latter further providing a realistic alternative to fully interactive social gatherings of groups and families without recourse to costly travel.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project develops a novel paradigm for coding and networking of polyphonic audio content at low-latency via efficient prediction, which is critical to numerous applications in the emerging field of interactive immersive hyper-realistic multimedia. Polyphonic audio, or the mixture of multiple periodic components plus noise, has long resisted effective prediction, thus forcing state-of-the-art coders to either employ long transformation that incurs substantial delay and is incompatible with applications requiring low latency, low complexity and low bitrate, or accept significantly degraded performance. This project develops technologies that approach optimal performance despite constraints on latency, complexity and bit rate, by effectively exploiting temporal redundancies in all periodic components of polyphonic audio signals. Specifically, the coding paradigm builds on the novel technique of cascaded long term prediction, which enables joint prediction of all periodic components in the mixture, at low delay. This prediction approach is complemented by the development of powerful low-complexity parameter estimation techniques to minimize resource requirements, effective adaptation to fundamental frequency changes, side information optimization to minimize bitrate costs, practical redesign of all coder modules to fully exploit the prediction capabilities, and enhanced error-resilience for streaming over lossy packet networks.</AbstractNarration>
+    <MinAmdLetterDate>12/14/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/14/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647559</AwardID>
+    <Investigator>
+      <FirstName>Tejaswi</FirstName>
+      <LastName>Nanjundaswamy</LastName>
+      <EmailAddress>tejaswi@infocodinglabs.com</EmailAddress>
+      <StartDate>12/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>INFOCODING LABS INC</Name>
+      <CityName>SANTA BARBARA</CityName>
+      <ZipCode>931113032</ZipCode>
+      <PhoneNumber>8058453997</PhoneNumber>
+      <StreetAddress>5266 HOLLISTER AVE STE 113</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

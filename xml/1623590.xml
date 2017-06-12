@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>RAPID: Tracing the origin and fate of particulate organic matter in nearshore marine sediments</AwardTitle>
     <AwardEffectiveDate>02/01/2016</AwardEffectiveDate>
-    <AwardExpirationDate>01/31/2017</AwardExpirationDate>
+    <AwardExpirationDate>01/31/2018</AwardExpirationDate>
     <AwardAmount>199500</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -27,9 +27,9 @@
     <ARRAAmount/>
     <AwardID>1623590</AwardID>
     <Investigator>
-      <FirstName>John</FirstName>
-      <LastName>Melack</LastName>
-      <EmailAddress>melack@bren.ucsb.edu</EmailAddress>
+      <FirstName>Henry</FirstName>
+      <LastName>Page</LastName>
+      <EmailAddress>page@lifesci.ucsb.edu</EmailAddress>
       <StartDate>01/19/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
@@ -43,22 +43,6 @@
       <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>Craig</FirstName>
-      <LastName>Carlson</LastName>
-      <EmailAddress>carlson@lifesci.ucsb.edu</EmailAddress>
-      <StartDate>01/19/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
-      <FirstName>Henry</FirstName>
-      <LastName>Page</LastName>
-      <EmailAddress>page@lifesci.ucsb.edu</EmailAddress>
-      <StartDate>01/19/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Robert</FirstName>
       <LastName>Miller</LastName>
       <EmailAddress>miller@msi.ucsb.edu</EmailAddress>
@@ -66,9 +50,25 @@
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Melack</LastName>
+      <EmailAddress>melack@bren.ucsb.edu</EmailAddress>
+      <StartDate>01/19/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Craig</FirstName>
+      <LastName>Carlson</LastName>
+      <EmailAddress>carlson@lifesci.ucsb.edu</EmailAddress>
+      <StartDate>01/19/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
     <Institution>
       <Name>University of California-Santa Barbara</Name>
-      <CityName>SANTA BARBARA</CityName>
+      <CityName>Santa Barbara</CityName>
       <ZipCode>931062050</ZipCode>
       <PhoneNumber>8058934188</PhoneNumber>
       <StreetAddress>Office of Research</StreetAddress>

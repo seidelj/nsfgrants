@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Gas Chromatography Triple Quadrupole Mass Spectrometer for Research and Teaching at Maine Maritime Academy</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>381585</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Song-Charng Kong</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project enables Maine Maritime Academy (MMA) to purchase and maintain a gas chromatograph - tandem mass spectrometry instrument (GC-MS/MS). This instrument will play a vital role in the research of a number of Maine Maritime faculty and a supporting role in the research of partners and collaborators at other Maine colleges/universities, a regional conservation group, and the environmental laboratory of a native Maine tribe. The instrument will also be immediately incorporated into the curricula of eight MMA classes offered by the Engineering and Ocean Science departments. &lt;br/&gt;&lt;br/&gt;A variety of novel research projects across diverse fields of study will be enabled by the GC-MS/MS system resulting from this project including biofuel chemistry, marine and environmental chemistry, ocean science, water pollution and remediation and bioengineering. In particular, molecular reactions important to biomass thermochemical conversions to fuels and chemicals; the characterization, transport and fate of persistent organic pollutants, such as dioxins and furans, in atmospheric and marine environments will be mapped locally to predict impacts; environmental and human processes on the impact and fate of organic anthropogenic contaminants, such as PAHs, PCBs and oil, will be quantified leading to enhanced environmental forensics capabilities; low energy desulfurization pathways for residual petroleum and bitumen feedstock upgrading will be developed; and the presence and techno-economic feasibility of isolating new compounds from understudied micro-algae extracellular environments will be explored. These projects will engage the entire Maine Maritime Academy community including undergraduate student researchers, students in the classroom, and faculty and staff.</AbstractNarration>
+<MinAmdLetterDate>05/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1625712</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Eaton</LastName>
+<EmailAddress>eatonsj@gmail.com</EmailAddress>
+<StartDate>05/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Henry</LastName>
+<EmailAddress>joshua.henry@mma.edu</EmailAddress>
+<StartDate>05/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Karin</FirstName>
+<LastName>Lemkau</LastName>
+<EmailAddress>karin.lemkau@mma.edu</EmailAddress>
+<StartDate>05/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Johanna</FirstName>
+<LastName>Evans</LastName>
+<EmailAddress>johanna.evans@mma.edu</EmailAddress>
+<StartDate>05/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carey</FirstName>
+<LastName>Friedman</LastName>
+<EmailAddress>carey.friedman@mma.edu</EmailAddress>
+<StartDate>05/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Maine Maritime Academy</Name>
+<CityName>Castine</CityName>
+<ZipCode>044200000</ZipCode>
+<PhoneNumber>2073262429</PhoneNumber>
+<StreetAddress>1 Pleasant Street / Leavitt Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>IHP trimester program on Combinatorics and Interactions</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>40000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jacques Verstraete</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The thematic program "Combinatorics and Interactions" will take place at the Institut Henri Poincaré (IHP) in Paris from January to March, 2017. The program will feature an introductory school, three week-long workshops, and five mini-courses. The program is an outgrowth of regular combinatorics workshops which have been held at IHP in recent years. The Institut Henri Poincaré has a long history of organizing such thematic quarters on active domains of research in mathematics/theoretical physics. This quarter will attract more than two hundred participants. World-leading experts will present the basics of the field in graduate courses, while the workshops will give the opportunity to participants to learn the newest results. The support from NSF enable fifteen young researchers from US based institutions to participate to this quarter. This is a unique opportunity for them to learn about or deepen their knowledge of this flourishing domain, in order to be able to contribute to it in the future. A website for the conference is maintained at http://www.ihp.fr/en/CEB/T1-2017.&lt;br/&gt;&lt;br/&gt;The program will bring together three distinct, rapidly evolving areas of combinatorics: random maps and dimer models; enumerative geometry and moduli spaces; and asymptotic representation theory. The mini-courses will be taught by world experts and there will be many opportunities for junior researchers to interact with some of the senior participants. These include A. Borodin (Loeve and the Poincaré prizes, 2015); B. Eynard (Aisenstaedt Chair at CRM Montréal, 2015); J.-F. Le Gall (2009 CNRS silver medal) ; M. Bousquet-Mélou (2013 CNRS silver medal); N. Curien (Rollo-Davidson prize 2015); G. Miermont and I. Corwin (Rollo-Davidson prizes 2009 and 2014).</AbstractNarration>
+    <MinAmdLetterDate>12/13/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/13/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1643027</AwardID>
+    <Investigator>
+      <FirstName>Rinat</FirstName>
+      <LastName>Kedem</LastName>
+      <EmailAddress>rinat@illinois.edu</EmailAddress>
+      <StartDate>12/13/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Urbana-Champaign</Name>
+      <CityName>CHAMPAIGN</CityName>
+      <ZipCode>618207473</ZipCode>
+      <PhoneNumber>2173332187</PhoneNumber>
+      <StreetAddress>SUITE A</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1264</Code>
+      <Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1263</Code>
+      <Text>PROBABILITY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7970</Code>
+      <Text>Combinatorics</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

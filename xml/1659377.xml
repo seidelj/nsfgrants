@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CC* Cyber Team: Improving Access to Regional and National Cyberinfrastructure for Small and Mid-Sized Institutions</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>1104455</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kevin L. Thompson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Cyberinfrastructure is as important for research in the 21st century as test tubes and microscopes were in the 20th century. Familiarity with and effective use of cyberinfrastructure at small and mid-sized institutions is essential if their faculty and students are to remain competitive. This regional initiative enables effective use of cyberinfrastructure by researchers and educators at small and mid-sized institutions in Northern New England (Maine, Massachusetts, New Hampshire, Vermont) by making it easier to obtain support from Research Computing Facilitators. Research Computing Facilitators combine technical knowledge and strong interpersonal skills with a service mindset, and use their connections with cyberinfrastructure providers to ensure that researchers and educators have access to the best available resources. It is widely recognized that Research Computing Facilitators are critical to successful utilization of cyberinfrastructure, but in very short supply.&lt;br/&gt;&lt;br/&gt;Since most small and mid-sized institutions cannot individually support more than one or two Research Computing Facilitators, the project is developing a sustainable pool of experts who can work across institutions in the region. The project is investing further upstream, pairing mentors with students to both accelerate research and education projects at small institutions and develop a pipeline of new talent to meet growing academic and industry demand. In addition to supporting science, technology and education goals that are vital to the economic future of the Northeast, the project is testing and refining a new model for delivering support from Research Computing Facilitators that can benefit small and mid-sized institutions in other regions.</AbstractNarration>
+    <MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659377</AwardID>
+    <Investigator>
+      <FirstName>Bruce</FirstName>
+      <LastName>Segee</LastName>
+      <EmailAddress>segee@maine.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>Everse</LastName>
+      <EmailAddress>Stephen.Everse@uvm.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Scott</FirstName>
+      <LastName>Valcourt</LastName>
+      <EmailAddress>Scott.Valcourt@unh.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Goodhue</LastName>
+      <EmailAddress>jtgoodhue@mghpcc.org</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>The Massachusetts Green High Performance Computing Center, Inc.</Name>
+      <CityName>Holyoke</CityName>
+      <ZipCode>010405984</ZipCode>
+      <PhoneNumber>4135524902</PhoneNumber>
+      <StreetAddress>100 Bigelow St.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8080</Code>
+      <Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

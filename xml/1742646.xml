@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Electronics and Communications Systems Services for Research, Design, Development, and Management in Support of the United States Antarctic Program</AwardTitle>
+<AwardEffectiveDate>04/25/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/24/2022</AwardExpirationDate>
+<AwardAmount>1759000</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090200</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>gary james</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>04/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1742646</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Rushing</LastName>
+<EmailAddress>Matthew.Rushing@navy.mil</EmailAddress>
+<StartDate>04/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Naval Electronics Systems Engineering Center</Name>
+<CityName>Charleston</CityName>
+<ZipCode>294066556</ZipCode>
+<PhoneNumber/>
+<StreetAddress>4600 Marriott Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5140</Code>
+<Text>OPERATIONS SUPPORT PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

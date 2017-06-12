@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I: Novel Urea Mixer to Enable Low Temperature Reduction of Diesel Exhaust Nitrogen Compounds Emissions.</AwardTitle>
+<AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>223273</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research Phase I project is opening a new, low-temperature range of Diesel emission control currently unavailable, while providing further flexibility in Diesel vehicle performance significant for commercial vehicles particularly those in stop-and-go operations (city-type duty cycles).  Its environmental and societal impacts consist of markedly-reduced Diesel emissions and greenhouse gases, emission control system downsizing and cost savings, reduced warranty costs to Diesel vehicle manufacturers and reduced Diesel fuel use.  Impacts further include reduced emission of respiratory irritants from and increased fuel economy in Diesel vehicles.  &lt;br/&gt;&lt;br/&gt;The technical objectives in this Phase I research project are proof of concept, computer simulation of the underlying complex thermo-chemistry mechanisms and prototyping. The innovation potentially resolves a major obstacle in reducing oxides of nitrogen in very low temperature Diesel exhaust, where traditionally injection of Diesel Exhaust Fluid (DEF; urea water solution) has not been feasible due to risks of urea crystallization; crystallization itself has been a major warranty challenge in the Diesel vehicle industry particularly in heavy vehicles such as trucks and buses operating in city-mode driving conditions.  It is anticipated that the proposed novel mixer will minimize urea crystallization risks, accelerate rates of thermolysis and hydrolysis reactions in the Diesel exhaust and enable the Selective Catalytic Reduction (SCR) catalyst reducing nitrogen oxides (NOx) at temperatures well below the current limit of 200 °C.  By removing these barriers, the technology developed in this project  will enable low temperature reduction of Diesel exhaust NOx, known to both harm human health and increase greenhouse gases.  The proposed innovation will likely also provide economic value consisting of vehicle component cost savings, major warranty cost reduction and reduced fuel consumption.</AbstractNarration>
+<MinAmdLetterDate>12/11/2016</MinAmdLetterDate>
+<MaxAmdLetterDate>12/11/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1648964</AwardID>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Strzelec</LastName>
+<EmailAddress>astrzelec@tamu.edu</EmailAddress>
+<StartDate>12/11/2016</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mansour</FirstName>
+<LastName>Masoudi</LastName>
+<EmailAddress>mansour.masoudi@emissol.com</EmailAddress>
+<StartDate>12/11/2016</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Emissol LLC</Name>
+<CityName>Mill Creek</CityName>
+<ZipCode>980121279</ZipCode>
+<PhoneNumber>4252311686</PhoneNumber>
+<StreetAddress>16300 Mill Creek Blvd. Ste 208-F</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

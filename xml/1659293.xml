@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CC*Integration: BRACELET: Robust Cloudlet Infrastructure for Scientific Instruments' Lifetime Connectivity</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>500000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>John Brassil</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Universities typically have many scientific instruments in interdisciplinary&lt;br/&gt;research laboratories to conduct high-quality research in science and engineering.&lt;br/&gt;Yet many of these older operating instruments are prematurely disconnected from campus networks&lt;br/&gt;because they cannot operate at the speed of a modern computing devices, or use legacy operating system software&lt;br/&gt;that is not updated with the latest security patches, creating potential vulnerabilities.&lt;br/&gt;&lt;br/&gt;This project will develop a robust cloudlet-based infrastructure, called BRACELET. &lt;br/&gt;BRACELET is an integrated three-tier infrastructure that integrates the&lt;br/&gt;existing campus network, cloud, and security infrastructures with the NSF DIBBs program supported 4CeeD&lt;br/&gt;data file upload service. Each cloudlet will be placed alongside potentially vulnerable instruments to shape traffic&lt;br/&gt;and protect against external threats. The cloudlet will play a crucial role in keeping the instrument connected throughout its&lt;br/&gt;lifetime, continuously providing otherwise missing or new performance and security features for the&lt;br/&gt;instrument. BRACELET will extend the capabilities and useful lifetime of scientific instruments, helping to accelerate&lt;br/&gt;scientific innovation and discovery.</AbstractNarration>
+    <MinAmdLetterDate>04/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659293</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Dallesasse</LastName>
+      <EmailAddress>jdallesa@illinois.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Tracy</FirstName>
+      <LastName>Smith</LastName>
+      <EmailAddress>tracys@illinois.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Roy</FirstName>
+      <LastName>Campbell</LastName>
+      <EmailAddress>rhc@illinois.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Klara</FirstName>
+      <LastName>Nahrstedt</LastName>
+      <EmailAddress>klara@cs.uiuc.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Paul</FirstName>
+      <LastName>Braun</LastName>
+      <EmailAddress>pbraun@illinois.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Urbana-Champaign</Name>
+      <CityName>CHAMPAIGN</CityName>
+      <ZipCode>618207473</ZipCode>
+      <PhoneNumber>2173332187</PhoneNumber>
+      <StreetAddress>SUITE A</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>2890</Code>
+      <Text>CISE RESEARCH RESOURCES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

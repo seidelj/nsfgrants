@@ -15,7 +15,7 @@
         <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
       </Directorate>
       <Division>
-        <LongName>Div Of Advanced Cyberinfrastructure</LongName>
+        <LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
       </Division>
     </Organization>
     <ProgramOfficer>
@@ -49,13 +49,25 @@
       <Text>DMR SHORT TERM SUPPORT</Text>
     </ProgramElement>
     <ProgramElement>
-      <Code>8084</Code>
-      <Text>CDS&amp;E</Text>
-    </ProgramElement>
-    <ProgramElement>
       <Code>8004</Code>
       <Text>Software Institutes</Text>
     </ProgramElement>
+    <ProgramElement>
+      <Code>8084</Code>
+      <Text>CDS&amp;E</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>024E</Code>
+      <Text>MATERIALS DESIGN</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>085E</Code>
+      <Text>POLYMER &amp; COMPOSITES PROCESSES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7237</Code>
+      <Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+    </ProgramReference>
     <ProgramReference>
       <Code>7433</Code>
       <Text>CyberInfra Frmwrk 21st (CIF21)</Text>
@@ -69,20 +81,8 @@
       <Text>DMREF</Text>
     </ProgramReference>
     <ProgramReference>
-      <Code>7237</Code>
-      <Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
-    </ProgramReference>
-    <ProgramReference>
       <Code>9216</Code>
       <Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
-    </ProgramReference>
-    <ProgramReference>
-      <Code>024E</Code>
-      <Text>MATERIALS DESIGN</Text>
-    </ProgramReference>
-    <ProgramReference>
-      <Code>085E</Code>
-      <Text>POLYMER &amp; COMPOSITES PROCESSES</Text>
     </ProgramReference>
   </Award>
 </rootTag>

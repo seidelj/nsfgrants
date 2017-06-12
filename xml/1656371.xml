@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>NSF-IOS-BSF: Biochemical and genetic basis of salinity tolerance in tilapia</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2021</AwardExpirationDate>
+    <AwardAmount>205541</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090300</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Emily Carrington</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Tilapias are a group of fish with very diverse abilities to tolerate environmental (pH, salinity, pollution) stress and change. This project will compare two tilapia species to decipher the biological mechanisms used by fish (and animals in general) for coping with environmental stress and change. Environmental change represents a global concern and can occur over a range of time scales (daily, annual, decadal etc.) and spatial scales (local, regional, etc.). This project develops and applies novel molecular biology approaches for revealing the mechanisms used by stress-tolerant tilapia, but lacking in stress-sensitive tilapia, for coping with environmental (in particular, salinity) change. This is especially important because tilapia are the most rapidly growing aquaculture commodity world-wide and knowledge about which species to select for increased food production in the developing world is critical. These studies also inform us about the evolutionary time scales needed for these fish, as well as other animals, to adapt to environmental changes. In addition, the project facilitates assessment of the potential for invasiveness if tilapia are cultured in non-native habitats. This project advances education by training of graduate and undergraduate students, including students from minorities that are underrepresented in the sciences. It also provides outreach to K-12 students and educators, aquaculture producers, and conservation organizations. It includes international collaborations and student exchange in Africa and Israel. In addition, this project will generate and make available molecular biology tools and approaches that can be used by researchers in many other areas of biology.&lt;br/&gt;&lt;br/&gt;This project tests the overall hypothesis that euryhaline tilapia differ from their stenohaline congeners by salinity-induced regulation of specific mRNAs and proteins that are necessary for high osmotolerance/ salinity tolerance. The focus will be on previously identified osmoregulatory proteins, myo-inositol phosphate synthase (MIPS), inositol monophosphatase 1 (IMAP1), and the Na-K ATPase alpha 3 subunit (NKA3a), to reveal causality between the regulation of these genes and salinity tolerance. Objective 1 is to determine mRNAs and proteins that are altered by salinity in euryhaline tilapia (Oreochromis mossambicus) compared to a congeneric stenohaline species, O. niloticus. This objective includes comparison of salinity effects on mRNA and protein abundances and identification of relevant single amino acid variants (SAVs) and post-translational modifications. Objective 2 is to reveal inducible cis-elements in euryhaline tilapia using a combination of experimental (enhancer trapping) and bioinformatics (motif searching) approaches. Objective 3 is to purify the transcription factor that activates the tilapia osmotically/salinity responsive enhancer in IMPA1 and MIPS genes by affinity-based, functional complementation, and mass spectrometry approaches. Objective 4 comprises genome editing in tilapia cells to determine whether MIPS and IMPA1 genes, and the NKA3a SAV A428?¨S are necessary for maintaining high cellular osmotolerance. Effects on cellular phenotype will be assessed by cell morphology/ proliferation assays, transcriptomics, proteomics, and metabolomics. Objective 5 is to perform genome editing of a target informed by Objective 4 in whole tilapia. Effects on tilapia salinity tolerance, morphology, behavior, physiology and molecular phenotypes (transcriptome, proteome, metabolome) will be analyzed.</AbstractNarration>
+    <MinAmdLetterDate>04/06/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/06/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656371</AwardID>
+    <Investigator>
+      <FirstName>Dietmar</FirstName>
+      <LastName>Kueltz</LastName>
+      <EmailAddress>dkueltz@ucdavis.edu</EmailAddress>
+      <StartDate>04/06/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Davis</Name>
+      <CityName>Davis</CityName>
+      <ZipCode>956186134</ZipCode>
+      <PhoneNumber>5307547700</PhoneNumber>
+      <StreetAddress>OR/Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7658</Code>
+      <Text>Physiolg Mechansms&amp;Biomechancs</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1228</Code>
+      <Text>MINORITY INVOLVEMENT -- BIO</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

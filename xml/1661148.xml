@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Partnership to Improve STEM Education</AwardTitle>
+    <AwardEffectiveDate>01/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>76507</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11090000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Research On Learning</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Celestine Pea</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The ECR program emphasizes fundamental STEM education research that will generate foundational knowledge in the field. This conference proposal will build on the current knowledge base and guidance from research studies about ways to improve the quality of STEM education and research for students who attend three Historically Black Colleges and Universities (HBCUs) and one urban-based non-HBCU university. The conference will focus on ways to increase the number of African American students who are interested in and motivated to enter STEM fields. It will also simultaneously explore approaches aimed at retaining students in the current pipeline to persist to degree completion across the multiple campuses. Thus, the main objectives of the conference will be to: develop a replicable process for evaluating the status of STEM education programs individually and collectively regarding the use of research-based effective strategies; examine current strategies utilized by the four institutions to identify needs required for improvement of STEM education; and access the expertise of respected researchers to determine next steps in improving STEM education for African American students.&lt;br/&gt;&lt;br/&gt;The four institutions will use relevant research, national and local experts, and institutional knowledge to inform and transform current STEM practices. Along with STEM educators, faculties from the arts and sciences, engineering, and computer science will serve as strategic partners in facilitating change institution-wide. This combined strategy of knowledge and expertise will move the institutions beyond meetings and planning to building the capacity for delivering higher quality STEM learning at all levels. As a result, outcomes from this conference will include future research opportunities, processes, strategies, and pathways for increasing and retaining African American students in STEM fields and careers. Outcomes will also include strategies for maintaining the extant collaborative environment while promoting a national network for learning about and sharing innovative and potentially transformative STEM programs shown to broaden participation in STEM by a larger number of African American students.</AbstractNarration>
+    <MinAmdLetterDate>01/09/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/09/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1661148</AwardID>
+    <Investigator>
+      <FirstName>Alfred</FirstName>
+      <LastName>Hall</LastName>
+      <EmailAddress>alhall1@memphis.edu</EmailAddress>
+      <StartDate>01/09/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Le Moyne-Owen College</Name>
+      <CityName>Memphis</CityName>
+      <ZipCode>381266510</ZipCode>
+      <PhoneNumber>9014351386</PhoneNumber>
+      <StreetAddress>807 Walker Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Tennessee</StateName>
+      <StateCode>TN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7980</Code>
+      <Text>Core R&amp;D Programs</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8212</Code>
+      <Text>Broaden Particip STEM Resrch</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

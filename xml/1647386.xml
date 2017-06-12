@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Developing the Molecular Underpinnings for Mechanisms of Growth of Secondary Organic Aerosol (SOA) Particles in Air</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2019</AwardExpirationDate>
+    <AwardAmount>881096</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020104</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sylvia A. Edgerton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project addresses the processes that lead to the formation and growth of secondary organic aerosol (SOA) in the atmosphere. These very small particles are formed from the oxidation of gaseous biogenic hydrocarbons, emitted by plants. The results of this research will provide guidance for parameterizing SOA processes in atmospheric models.&lt;br/&gt;&lt;br/&gt;The specific objectives of the project are to: (1) quantify incorporation of tracers with different properties such as functional groups and vapor pressures into SOA formed from various gas phase precursors under a range of experimental conditions; (2) measure rates of desorption of various tracers from different SOA for input into a proposed molecular model; (3) elucidate the nature of the surface region of SOA particles using extractive electrospray ionization mass spectrometry; and (4) measure the magnitude, time dependence and mechanism of uptake coefficients for amines of different structures on solid diacids and SOA.</AbstractNarration>
+    <MinAmdLetterDate>12/01/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/01/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647386</AwardID>
+    <Investigator>
+      <FirstName>Barbara</FirstName>
+      <LastName>Finlayson-Pitts</LastName>
+      <EmailAddress>bjfinlay@uci.edu</EmailAddress>
+      <StartDate>12/01/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Irvine</Name>
+      <CityName>Irvine</CityName>
+      <ZipCode>926173213</ZipCode>
+      <PhoneNumber>9498247295</PhoneNumber>
+      <StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1524</Code>
+      <Text>ATMOSPHERIC CHEMISTRY</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

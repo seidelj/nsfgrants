@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Development of Amphiphilic, pH Responsive Cationic Copolypeptoids for Nonviral Cell Transfection in Serum</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Carried out by the process of cell transfection (CT), the practice of gene therapy is a promising approach in addressing rare diseases and genetic disorders (e.g. hemophilia, SCID, and Kippel Trenauny). Among non-viral gene carriers used for CT polymers have received significant attention primarily because their chemical versatility, large-scale production, and cytocompatibility make them potential candidates for biomedical applications. However, drawbacks such as low transfection efficiency and size related cytotoxicity limiting full usage of these systems. In this research, responsive, cationic polypeptoid copolymers will be developed. Under the guidance of Professor Lichen Yin, an expert in cell transfection at Soochow University, synthesized copolymers will be used to investigate the particle stability and behavior of nucleic acid condensed polyplexes during in vitro cell transfection. This research will provide a strategy to stabilize genetic material during cell transfection. This approach will also permit the effective release genetic material intracellularly via endosomal escape.&lt;br/&gt;&lt;br/&gt;Poly(N-substituted glycines) are a special class of peptidomimetic polymers bearing substituents on the nitrogen present in the backbone. Commonly referred to as polypeptoids, this group of polymers are known for their minimal cytotoxicity, enhanced proteolytic stability and structural tunability, making them potential candidates for a variety of biomedical and biotechnological applications including smart-coatings, antimicrobial agents, and drug delivery. Currently, the cell transfection of polypeptoid/DNA complexes in serum-containing media is problematic due to the instability of the complexed particles in serum. The manifestation of charge shielding, in which interaction with anionic serum components (lipids, albumin, salts, etc.) reduces polyplex surface charge, is mainly responsible for this outcome. To address this challenge, block polypeptoid copolymers containing hydrophilic and hydrophobic segments will be developed in this project. In this research synthesized copolymers will be tested for their ability to effectively protect and transport therapeutic gene p53 during in vitro cell transfection in nuclease. Under extracellular conditions where charge shielding is permissible (pH= 5.0-5.5), it is anticipated that copolymers will respond to this biological stimuli by adopting a micellar structure with a charged, hydrophobic inner core and charge neutral outer shell. Dr. Yin's group proficiency in the field of cell transfection will contribute significantly towards efforts to understand and elucidate the behavior of these polymeric systems in biological environments. &lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the Chinese Ministry of Science and Technology.</AbstractNarration>
+<MinAmdLetterDate>05/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712805</AwardID>
+<Investigator>
+<FirstName>Jessica</FirstName>
+<LastName>Simpson</LastName>
+<EmailAddress/>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Simpson                 Jessica</Name>
+<CityName>Baton Rouge</CityName>
+<ZipCode>708081822</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9200</Code>
+<Text>US CHINA COOP IN BASIC SCIENCE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: RV-Embedded: Runtime Verification for Embedded Systems</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>750000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Peter Atherton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is that the proposed runtime verification technology will lead to a more robust definition of and architecture for ensuring safety in automobiles, medical devices, and aerospace and defense systems. Through this, these forms of safety-critical infrastructure will be more resilient to attack and catastrophic failure resulting from both critical system failures and malicious attacks. As a result, the technology will help to address a slew of recent problems with software failures, security compromises, and other unintentional software behaviors that inevitably occur as systems become more complex, potentially saving lives and making millions of safety-critical embedded systems safer, easier to upgrade, and better tested.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project will commercialize a first-of-its-kind complete solution for runtime verification and software analysis specifically tailored for embedded systems. From automobiles that connect to each other and drive autonomously, to control systems that run ever increasing networks that power our utilities, cities, and many other aspects of our daily lives, it is clear that embedded systems are here to stay in the most safety critical domains. A growing problem in embedded systems is how to ensure they behave correctly; a good case study for this is automobiles, in which several high profile hacks and recalls have called into question the security and integrity of vehicles. The proposed solution will fill this market niche with a suite of related analysis tools/modules, built on a common novel and formally rigorous runtime verification technology infrastructure, each module implementing unique instrumentation and analysis functionality. These tools/modules together provide what is needed to develop safe embedded systems.</AbstractNarration>
+    <MinAmdLetterDate>03/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660186</AwardID>
+    <Investigator>
+      <FirstName>Dwight</FirstName>
+      <LastName>Guth</LastName>
+      <EmailAddress>dwight.guth@runtimeverification.com</EmailAddress>
+      <StartDate>03/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Runtime Verification, Inc.</Name>
+      <CityName>Urbana</CityName>
+      <ZipCode>618012744</ZipCode>
+      <PhoneNumber>2176498738</PhoneNumber>
+      <StreetAddress>102 E. Main Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

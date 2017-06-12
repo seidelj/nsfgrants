@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2017 CRCNS Principal Investigators Meeting</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>36000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth C. Whang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The PIs and Co-PIs of grants supported through the NSF-NIH-ANR-BMBF-BSF Collaborative Research in Computational Neuroscience (CRCNS) program meet annually. This thirteenth meeting of CRCNS investigators brings together a broad spectrum of computational neuroscience researchers supported by the program, and includes poster presentations, talks, plenary lectures, and workshops. &lt;br/&gt;The meeting is scheduled for June 14-16, 2017 and is hosted by Brown University.  More information is available at http://crcns2017.brown.edu.</AbstractNarration>
+<MinAmdLetterDate>05/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741737</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Harrison</LastName>
+<EmailAddress>Matthew_Harrison@brown.edu</EmailAddress>
+<StartDate>05/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brown University</Name>
+<CityName>Providence</CityName>
+<ZipCode>029129002</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress>BOX 1929</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7327</Code>
+<Text>CRCNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7327</Code>
+<Text>CRCNS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

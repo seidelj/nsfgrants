@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Symposium on Atomically Thin, Layered, and 2D Non-Carbon Materials and Systems. To Be Held in Boston, November 26 to December 1,2017.</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2018</AwardExpirationDate>
+<AwardAmount>11900</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dimitris Pavlidis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Symposium NM4: Atomically Thin, Layered, and 2D Non-Carbon Materials and Systems? will take place from November 26 to December 1, 2017 at the Hynes Convention Center and Boston Sheraton Hotel in Boston, MA. Topics to be addressed include two-dimensional (2D) materials and devices, the latest developments in science and engineering and advances in the material and device applications with non-carbon 2D materials. The Symposium seeks financial support to support student and junior researcher participation, as well as invited speakers. It will host world-renowned scientists in the area of two-dimensional (2D) materials science and technology as invited speakers, whose expertise range from synthesis, characterizations, device development, theory and applications. There will be a vigorous exchange of new ideas on device and fabrication technology, and a huge opportunity to initiate and strengthen national and international collaboration, which will be of enormous benefit to students and young scholars in their pursuit of high-quality research.</AbstractNarration>
+<MinAmdLetterDate>05/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740467</AwardID>
+<Investigator>
+<FirstName>Swastik</FirstName>
+<LastName>Kar</LastName>
+<EmailAddress>s.kar@northeastern.edu</EmailAddress>
+<StartDate>05/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>J. Ardie Butch</FirstName>
+<LastName>Dillen</LastName>
+<EmailAddress>dillen@mrs.org</EmailAddress>
+<StartDate>05/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Materials Research Society</Name>
+<CityName>Warrendale</CityName>
+<ZipCode>150867573</ZipCode>
+<PhoneNumber>7247792732</PhoneNumber>
+<StreetAddress>506 KEYSTONE DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

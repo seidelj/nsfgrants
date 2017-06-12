@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Consortium at IJCAI 2017</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>25000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Reid Simmons</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This proposal will support US-based Ph.D. students working in artificial intelligence the opportunity to share their knowledge and interact with each other and more senior researchers, to learn about different sub-fields within AI, and to be mentored in research, publication, and career opportunities. This goal will be accomplished by partially supporting the travel costs for US-based Ph.D. students to attend the International Joint Conference on Artificial Intelligence (IJCAI), which is one of the premier international conferences on research in artificial intelligence. The conference, which in 2017 will be held in Melbourne, Australia attracts an international crowd that includes academics, industry workers, entrepreneurs, and funding agency leaders.</AbstractNarration>
+    <MinAmdLetterDate>03/29/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/29/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1724434</AwardID>
+    <Investigator>
+      <FirstName>Maria</FirstName>
+      <LastName>Gini</LastName>
+      <EmailAddress>gini@cs.umn.edu</EmailAddress>
+      <StartDate>03/29/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Minnesota-Twin Cities</Name>
+      <CityName>Minneapolis</CityName>
+      <ZipCode>554552070</ZipCode>
+      <PhoneNumber>6126245599</PhoneNumber>
+      <StreetAddress>200 OAK ST SE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Minnesota</StateName>
+      <StateCode>MN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Rigidity, Cohomology, and Approximate Embeddings in von Neumann Algebra Factors</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2020</AwardExpirationDate>
+    <AwardAmount>125540</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kevin Clancey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The driving force behind many exciting developments in mathematics and its applications in recent years has been the dichotomy between structure (order, rigidity, etc.) and randomness (lack of structure, disorder, coarseness). This project concerns a powerful technique, called deformation-rigidity theory, to study these opposing phenomena in the framework of von Neumann algebras, i.e., algebras of infinite matrices, where the product of two elements, A times B, may be different from the product in reverse order, B times A, a fact that reflects the laws of quantum mechanics in particle physics (Heisenberg's Uncertainty Principle). Von Neumann algebras are also related to group theory and ergodic theory, since transformations of spaces give rise to a special class of such algebras called II1 factors. Rigidity in this context occurs when the group of transformations can be recognized by merely knowing its associated II1 factor (which is a very coarse object). The study of rigidity of factors is an interdisciplinary endeavor and can be relevant to many areas of mathematics. It also has applications to computer science, complexity theory, design computer networks, and the theory of error-correcting codes. This research project aims to deepen understanding in this important area.&lt;br/&gt;&lt;br/&gt;The principal investigator recently added several new tools to this study, namely an approximation/simulation technique, a representation theory, and a cohomology. In this project, he intends to combine all these tools to further study rigidity-versus-randomness phenomena in II1 factors and to tackle several famous problems in this area: the Connes Approximate Embedding (CAE) conjecture, the sofic group problem, the free group factor problem, the paving problem, and calculations of invariants for group-like objects. It should be noted that the CAE conjecture, which predicts that II1 factors can be "simulated" on a computer, would have striking consequences in quantum information theory.</AbstractNarration>
+    <MinAmdLetterDate>04/06/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/06/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1700344</AwardID>
+    <Investigator>
+      <FirstName>Sorin</FirstName>
+      <LastName>Popa</LastName>
+      <EmailAddress>popa@math.ucla.edu</EmailAddress>
+      <StartDate>04/06/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Los Angeles</Name>
+      <CityName>LOS ANGELES</CityName>
+      <ZipCode>900951406</ZipCode>
+      <PhoneNumber>3107940102</PhoneNumber>
+      <StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: REU Chemical Biology Site at New York University</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>322457</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Michelle Bushey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Professors Paramjit Arora, Daniela Buccella, and colleagues of New York University (NYU) host the REU Site: REU Chemical Biology Site at New York University, to introduce young scientists to a rapidly growing and technologically important research field. The site is funded by the REU Sites Program of the Division of Chemistry. The main objectives of the educational program are to introduce undergraduate science majors to cutting-edge research at the chemistry-biology interface that captured their interest in science and engineering careers. The projects also seek to provide students with basic professional skills to succeed in graduate school and beyond and to increase their awareness of various career opportunities in science and engineering fields. The site creates a collaborative environment in which the undergraduate participants are exposed to a diverse peer group in science and engages faculty at the students' home institutions in research at the interface of chemistry and biology.&lt;br/&gt;&lt;br/&gt;The educational objectives are attained through a summer internship program that combines research, professional development training, and social activities designed to foster a sense of community among student participants and mentors. The research component is integrated with thematically related efforts at NYU, including new university initiatives in the Department of Chemistry such as the Biomedical Chemistry Institute (BCI), the Laboratory of Molecular Recognition and Synthesis (LMRS), and the Center for Computational Chemistry (C3). These institutes feature open lab spaces specifically designed to foster communication and collaboration between research groups with complementary expertise. The Site utilizes the unique infrastructure and collaborative nature of the department to provide an interdisciplinary experience to the participants. Each student has the opportunity to interact with at least two groups that have ongoing collaborations and joint students. The REU Site encourages the participation of faculty from students' home schools in the REU by including research activities for mentor-student teams in the program. By including faculty from students' institutions, the Site further promotes chemical biology research at colleges within the NY Tristate area that are currently lacking such programs.</AbstractNarration>
+    <MinAmdLetterDate>02/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659619</AwardID>
+    <Investigator>
+      <FirstName>Paramjit</FirstName>
+      <LastName>Arora</LastName>
+      <EmailAddress>arora@nyu.edu</EmailAddress>
+      <StartDate>02/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Daniela</FirstName>
+      <LastName>Buccella</LastName>
+      <EmailAddress>db157@nyu.edu</EmailAddress>
+      <StartDate>02/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>New York University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100121019</ZipCode>
+      <PhoneNumber>2129982121</PhoneNumber>
+      <StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1986</Code>
+      <Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7234</Code>
+      <Text>SENSORS NON-SOLICITATION RESEA</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

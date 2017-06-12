@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Interest-Aligned College Degree Planning within an Optimized Multiplan Framework</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Glenn H. Larsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This SBIR Phase I project will develop a web-based application that assists prospective and new college students in the challenging decision of the major/minor choice for their college degree. Studies have shown that 20 to 50 percent of students enter college as undecided in terms of intended majors, and subsequently an astonishing 75 percent actually change their major at least once before graduation. These statistics illustrate one of the key factors that hinder on-time degree completion and boost total student debt to the trillion dollar level. The proposed system administers a brief but highly-regarded personality quiz, then displays majors and minors that align with the results of that quiz. The student makes selections from this list, then clicks a button to see groups of corresponding semester-by-semester shortest-path degree plans with labels indicating their alignment with the personality quiz result. This easy-to-use approach empowers students to make early, well-informed college career choices. Colleges across the country will want to purchase and install this software for many reasons, including: to show their commitment to helping students avoid the all-too-common difficulties and expense of poor college career decisions, to obtain improved graduation rates, and to improve administrative resource planning for future semesters via a database of their students' plans.&lt;br/&gt;&lt;br/&gt;The key technical innovations of this software system include integration of a personality interest assessment profile within a degree planning system, assignment of interest vectors to individual college courses along with the utilization of this information in the development of degree plans that are well-aligned with student interest vectors, the use of state-of-the-art mathematical optimization techniques in order to quickly generate shortest-path degree plans, and automated multiple-plan generation followed by clustering and cluster labeling within this plan collection in order to provide a simple interface that allows a student to easily navigate through a collection of alternative degree plans. These technical innovations are made possible by the many years of experience in algorithm development by the company team members, and represent an approach not seen in the very limited collection of existing academic planning software, which tends to focus on cumbersome drag-and-drop technology that discourages the exploration of alternative degree paths. The goal of this research is to provide an easy-to-customize and easy-to-install degree planning system that will be readily affordable by any academic institution and that will allow prospective and undecided students to discover and explore in detail - with just a few mouse clicks - those college careers that are aligned with their personal interests.</AbstractNarration>
+    <MinAmdLetterDate>12/10/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/10/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647478</AwardID>
+    <Investigator>
+      <FirstName>Robert</FirstName>
+      <LastName>Meyer</LastName>
+      <EmailAddress>rrm.rrm@gmail.com</EmailAddress>
+      <StartDate>12/10/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>IDP Interactive Degree Planner LLC</Name>
+      <CityName>Madison</CityName>
+      <ZipCode>537111137</ZipCode>
+      <PhoneNumber>6082740206</PhoneNumber>
+      <StreetAddress>730 Wedgewood Way</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Wisconsin</StateName>
+      <StateCode>WI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>118E</Code>
+      <Text>GRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8031</Code>
+      <Text>Education Products</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8039</Code>
+      <Text>Information, Communication &amp; Computing</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

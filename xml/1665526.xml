@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Spectral Theory</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>112000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Taylor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The PI will continue his research into spectral theory, especially the spectral theory of orthogonal polynomials. Spectral theory concerns the relation of mathematical models to their "spectral characteristics" and includes such areas as computer tomography, sonar analysis, and scattering of subatomic particles. Orthogonal polynomials are the simplest paradigm, especially useful because the inverse problem --often difficult to even show has solutions -- is so explicit.  The PI will study several problems connected with orthogonal polynomials and its close relative, the Chebyshev polynomials.&lt;br/&gt;&lt;br/&gt;Three main areas will be studied.  The first involves higher sum rules, a subject where the PI was a pioneer.  It is intended to follow up on recent progress using the method of large deviations, a technique from probability theory.  The second concerns studying Chebyshev polynomials.  Recently, the PI settled a 45 year old conjecture involving polynomials associated to subsets of the real line and will study the more subtle case of general subsets of the complex plane in the new grant period.  The third area concerns Schrodinger operators on trees with periodic potential. The paradigm is periodic Schrodinger operators on the real line but there are new issues connected with the fact that the symmetry group is now non-abelian.</AbstractNarration>
+<MinAmdLetterDate>04/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1665526</AwardID>
+<Investigator>
+<FirstName>Barry</FirstName>
+<LastName>Simon</LastName>
+<EmailAddress>bsimon@caltech.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250600</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E California Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

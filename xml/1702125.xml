@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Free Resolutions in Commutative Algebra</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>192000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Timothy Hodges</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A core goal in the mathematical areas Algebraic Geometry and Commutative Algebra deals with understanding the solutions of a system of polynomial equations, possibly in a large number of variables and with a large number of equations. The solutions form a geometric object. The main idea is to study the rich and beautiful interplay between its geometric and algebraic properties. Closely related to this study is the concept of a free resolution, which was first introduced by David Hilbert in two papers in 1890 and 1893. Constructing a free resolution amounts to repeatedly solving systems of polynomial equations. The study of these objects flourished in the second half of the twentieth century, and has seen spectacular progress in the last ten years. The field is very broad, with strong connections and applications to other mathematical areas and string theory. Recent computational methods have made it possible to compute some free resolutions by computers. &lt;br/&gt;&lt;br/&gt;The main research goal in this project is to make significant progress in understanding the structure of free resolutions and their numerical invariants. The main research topics are:&lt;br/&gt;&lt;br/&gt;(1)  resolutions over complete intersections, which will be studied using the methods recently introduced by Eisenbud and Peeva in their research monograph "Minimal Free Resolutions over Complete Intersections";&lt;br/&gt;&lt;br/&gt;(2)  Betti numbers of periodic infinite minimal free  resolutions, for which computational algebra methods will be combined with insights from the examples of modules with periodic resolutions with constant Betti numbers;&lt;br/&gt;&lt;br/&gt;(3) applications of the new approach introduced recently by McCullough and Peeva which produces resolutions of prime ideals.</AbstractNarration>
+<MinAmdLetterDate>06/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702125</AwardID>
+<Investigator>
+<FirstName>Irena</FirstName>
+<LastName>Peeva</LastName>
+<EmailAddress>irena@math.cornell.edu</EmailAddress>
+<StartDate>06/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

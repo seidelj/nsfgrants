@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Inclusion in Engineering - Workshop</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>49858</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Wenda Bauchspies</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This workshop will explore important questions about inclusion in engineering in order to set up a research agenda. The goal will be to identify current barriers that may be keeping people out of engineering. As well as to identify best practices for making sure that the potential talent pool for engineering is fully included. The workshop will include panels and roundtables with faculty members in Engineering and in Sciences, Technology and Society (STS) to facilitate sharing of expertise between the two fields. Focuses of the workshop will include the (1) perceived climate of engineering in past, present, and future work and educational spaces of engineering; and (2) the inclusion of people seen as different and lessons learned from diversity initiatives. This research will be of interest to instructors, advisors, researchers, administrators, professionals, community members, industry and prospective engineers.&lt;br/&gt;&lt;br/&gt;The PIs and workshop participants will bring complementary expertise in engineering, diversity initiatives, science of broadening participation and STS to bear on an agenda-setting meeting on inclusion in engineering. Discussions between faculty members from both STS and engineering drawn from diverse disciplines and institutions, and from across the United States, will allow exploration of a broad range of diversity of trajectories in non-discrimination policies and practices. These may be relevant for inclusion of those with other invisible identities, such as religious affiliation, veteran status, and many disabilities, and contribute to increasing the pool of engineering talent. The participants' perspectives will help provide a foundation for developing new tools for measuring the impact of promising practices on diverse engineers' recruitment, retention, performance, creativity and engagement. The interdisciplinary network of engineering and STS faculty fostered by this workshop will be well-positioned to engage in future more expansive collaborative research in the science of broadening participation.</AbstractNarration>
+    <MinAmdLetterDate>04/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656085</AwardID>
+    <Investigator>
+      <FirstName>Anne</FirstName>
+      <LastName>Pollock</LastName>
+      <EmailAddress>apollock@gatech.edu</EmailAddress>
+      <StartDate>04/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Manu</FirstName>
+      <LastName>Platt</LastName>
+      <EmailAddress>manu.platt@bme.gatech.edu</EmailAddress>
+      <StartDate>04/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Chloe</FirstName>
+      <LastName>Arson</LastName>
+      <EmailAddress>chloe.arson@ce.gatech.edu</EmailAddress>
+      <StartDate>04/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jennifer</FirstName>
+      <LastName>Hasler</LastName>
+      <EmailAddress>jennifer.hasler@ece.gatech.edu</EmailAddress>
+      <StartDate>04/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Georgia Tech Research Corporation</Name>
+      <CityName>Atlanta</CityName>
+      <ZipCode>303320420</ZipCode>
+      <PhoneNumber>4048944819</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7603</Code>
+      <Text>SCIENCE, TECH &amp; SOCIETY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7680</Code>
+      <Text>ENG DIVERSITY ACTIVITIES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7567</Code>
+      <Text>SOC STUDIES OF SCI, ENG &amp; TECH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8050</Code>
+      <Text>Science of Broadening Participation</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

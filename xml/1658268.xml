@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Enhancing Cognitive Training with Transcranial Direct Current Stimulation</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>578506</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Alumit Ishai</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Identifying interventions that can lead to cognitive benefits may have broad implications for education, successful aging, and amelioration of cognitive decline. There has been intense investigation of whether the training of working memory can enhance cognitive functioning, but with controversial outcomes. There is however recent evidence that cognitive training of working memory and other cognitive skills can benefit from non-invasive brain stimulation applied during training. In particular, repeated application of direct current stimulation to certain regions of the scalp can improve the outcomes of a training program intended to improve working memory. Furthermore, this enhancement effect is maintained after for up to several months or a year post-training without subsequent training or stimulation. In the proposed research, we examine the neurobiological mechanisms by which this improvement may occur. Given the potential effectiveness of direct current stimulation, its accessibility and low cost, understanding the neural mechanisms by which stimulation exerts its effects could have direct implications for constructing more effective interventions. &lt;br/&gt;&lt;br/&gt;The neural mechanisms by which current stimulation achieves its facilitative effects on memory are largely unknown. The research program will combine transcranial direct current stimulation with simultaneous functional neuroimaging to examine the effect of stimulation on underlying neural activity. Individuals will be trained on a short-term memory task for several days and will be scanned as training proceeds. The neuroimaging data collected will measure local perfusion stages that accompany the stimulation during the training itself, when accompanied by different types of transcranial stimulation. The studies will 1) compare network connectivity with and without stimulation as learning proceeds over the course of a training intervention and 2) compare the impact of stimulation on neural activity when the anode and cathode are reversed. Electrode placement sites will be optimally adjusted based on each participant's individual activation patterns during a working memory task. The results of these studies will address the nature of the cognitive changes due to working memory training with direct cortical stimulation as well as the relationship of these changes to patterns of neural activity.</AbstractNarration>
+    <MinAmdLetterDate>04/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658268</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Jonides</LastName>
+      <EmailAddress>jjonides@umich.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Luis</FirstName>
+      <LastName>Hernandez-Garcia</LastName>
+      <EmailAddress>hernan@umich.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Michigan Ann Arbor</Name>
+      <CityName>Ann Arbor</CityName>
+      <ZipCode>481091274</ZipCode>
+      <PhoneNumber>7347636438</PhoneNumber>
+      <StreetAddress>3003 South State St. Room 1062</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>004Y</Code>
+      <Text>Science of Learning</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1699</Code>
+      <Text>COGNEURO</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1699</Code>
+      <Text>COGNEURO</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

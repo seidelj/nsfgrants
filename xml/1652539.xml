@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Scaling Up Knowledge Discovery in High-Dimensional Data Via Nonconvex Statistical Optimization</AwardTitle>
+    <AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2022</AwardExpirationDate>
+    <AwardAmount>102102</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Aidong Zhang</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The past decade has witnessed a surge of research activities on knowledge discovery in high-dimensional data, among which convex optimization-based methods are widely used. While convex optimization algorithms enjoy global convergence guarantees, they are not always scalable to high-dimensional massive data. Motivated by the empirical success of nonconvex methods such as matrix factorization, the objective of this project is to develop a new generation of principled nonconvex statistical optimization algorithms to scale up high-dimensional machine learning methods. This project amplifies the utility of high-dimensional knowledge discovery methods in various fields such as computational genomics and recommendation systems. It incorporates the resulting research outcomes into curriculum development and online courses, to train a new generation of machine learning and data mining practitioners. In addition, special training is provided to K-12 students and community college students for a broader education of modern data analysis techniques.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project consists of three synergistic research thrusts. First, it develops a family of nonconvex algorithms for structured sparse learning, including extensions to both parallel computing and distributed computing. Second, it devises a unified nonconvex optimization framework for low-rank matrix estimation, which covers a wide range of low-rank matrix learning problems such as matrix completion and preference learning. Several acceleration techniques are also explored. Third, it develops a family of alternating optimization algorithms, to solve the bi-convex optimization problem for estimating various complex statistical models. This project integrates modern optimization techniques with model-based statistical thinking, and provides a systematic way to design nonconvex high-dimensional machine learning methods with strong theoretical guarantees. The targeted applications include but not limited to computational genomics, neuroscience, and recommendation systems.</AbstractNarration>
+    <MinAmdLetterDate>02/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652539</AwardID>
+    <Investigator>
+      <FirstName>Quanquan</FirstName>
+      <LastName>Gu</LastName>
+      <EmailAddress>qg5w@virginia.edu</EmailAddress>
+      <StartDate>02/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Virginia Main Campus</Name>
+      <CityName>CHARLOTTESVILLE</CityName>
+      <ZipCode>229044195</ZipCode>
+      <PhoneNumber>4349244270</PhoneNumber>
+      <StreetAddress>P.O. BOX 400195</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7364</Code>
+      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7364</Code>
+      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

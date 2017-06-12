@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Bayesian Inference in Statistics and Statistical Genetics</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the participation of junior researchers in the research conference "Bayesian Inference in Statistics and Statistical Genetics" to be held at Michigan Technological University in Houghton, Michigan, August 16-20, 2017. Bayesian inference for high-dimensional data has received considerable attention from researchers in a wide variety of fields, including climatology analysis, genomics and proteomics studies, time series analysis, and neuroimaging. Further, there is an increasing demand for Bayesian inference in other related fields due to the rapid evolution of high-performance computing.&lt;br/&gt;&lt;br/&gt;The purpose of this conference is to stimulate research collaboration in the development, analysis, and application of statistical techniques for complex, high-dimensional data arising in real world applications. The conference will be an excellent forum for exchanging cutting-edge research results, highlighting current research trends and open problems, exploring visions of future work, and stimulating cross-disciplinary research in various areas. The conference will feature plenary talks given by internationally recognized specialists, invited presentations by junior researchers, and a contributed poster session.  Additional information can be found at the conference website:&lt;br/&gt;http://kliak.mtu.edu/2017/</AbstractNarration>
+<MinAmdLetterDate>05/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719789</AwardID>
+<Investigator>
+<FirstName>Min</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>minwang@mtu.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan Technological University</Name>
+<CityName>Houghton</CityName>
+<ZipCode>499311295</ZipCode>
+<PhoneNumber>9064871885</PhoneNumber>
+<StreetAddress>1400 Townsend Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

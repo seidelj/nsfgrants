@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Gaussian Graphical Models: Theory, Computation, and Applications</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>75459</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gabor J. Szekely</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Technological advances and the information era allow the collection of massive amounts of data at unprecedented resolution. Making use of this data to gain insight into complex phenomena requires characterizing the relationships among a large number of variables. Graphical models explicitly capture the statistical relationships between the variables of interest in the form of a network. Such a representation, in addition to enhancing interpretability of the model, enables computationally efficient inference. The investigator develops methodology to infer undirected and directed networks between a large number of variables from observational data. This research has broad societal impact, as it affects application domains from weather forecasting to phylogenetics and to personalized medicine. In addition, the PI is one of the initial faculty hires in a new MIT-wide effort in statistics. As such, the PI has major impact on creating new undergraduate and PhD programs in statistics to train the next generation in big data analytics, crucial for taking on challenging roles in this data-rich world.&lt;br/&gt;&lt;br/&gt;The goal of this project is to study probabilistic graphical models using an integrated approach that combines ideas from applied algebraic geometry, convex optimization, mathematical statistics, and machine learning, and to apply these models to scientifically important novel problems. The research agenda is structured into three projects. In the first project, the investigator develops methods to infer causal relationships between variables from observational data using the framework of directed Gaussian graphical models combined with tools from optimization and algebraic geometry. The end goal is to apply this new methodology to learn tissue- and person-specific gene regulatory networks from gene expression data such as the Genotype-Tissue Expression (GTEx) project. In the second project, the investigator develops scalable methods for maximum likelihood estimation in Gaussian models with linear constraints on the covariance matrix or its inverse. Such models are important for inference of phylogenetic trees or cellular differentiation trees. The third project is an application of graphical models to weather forecasting; the investigator develops new parametric methods based on Gaussian copulas and also non-parametric methods for the post-processing of numerical weather prediction models that take into account the complicated dependence structure of weather variables in space and time.</AbstractNarration>
+    <MinAmdLetterDate>02/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651995</AwardID>
+    <Investigator>
+      <FirstName>Caroline</FirstName>
+      <LastName>Uhler</LastName>
+      <EmailAddress>cuhler@mit.edu</EmailAddress>
+      <StartDate>02/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Massachusetts Institute of Technology</Name>
+      <CityName>Cambridge</CityName>
+      <ZipCode>021394301</ZipCode>
+      <PhoneNumber>6172531000</PhoneNumber>
+      <StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1269</Code>
+      <Text>STATISTICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8048</Code>
+      <Text>Division Co-Funding: CAREER</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

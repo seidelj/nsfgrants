@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Synthesis Driven by Release of Ring Strain</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>149999</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Scott Rychnovsky</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In this project, funded by the Chemical Synthesis Program of the Chemistry Division, Professor Cha of the Department of Chemistry at Wayne State University is investigating an efficient preparation of several molecular building blocks that have utility in organic and medicinal chemistry. The research project begins with readily available cyclopropanols: three-membered ring compounds that are tensioned like a spring and said to have ring strain. Reactions that open the three-membered rings are driven to completion by releasing this ring strain. The Cha laboratory developed a significantly improved preparation of these cyclopropanols. They are developing new reactions of cyclopropanols to build more complex molecules that may have useful medicinal properties. This project is an excellent training ground for young scientists, from undergraduate researchers to post-doctoral fellows, to learn about chemistry. &lt;br/&gt;&lt;br/&gt;The specific goals for the project include the design of new chemical reactions that facilitate concise and environmentally benign syntheses of important structural motifs or natural products. Emphasis is placed on high efficiency and convergence by use of segment coupling strategies, in which two large fragments are linked at a late stage in the synthesis. Concise total syntheses of suberosenone and alkaloid 261C are underway. These syntheses highlight the preparative power of the newly developed synthetic methods. Suberosenone and alkaloid 261C are both scarce natural products, and chemical syntheses are necessary to evaluate their biological activity. Through participation in this project, students and postdocs are trained in organic methods development, organometallic chemistry and natural product synthesis. They are well prepared for careers in chemistry.</AbstractNarration>
+    <MinAmdLetterDate>03/30/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/30/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1665331</AwardID>
+    <Investigator>
+      <FirstName>Jin</FirstName>
+      <LastName>Cha</LastName>
+      <EmailAddress>jcha@chem.wayne.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Wayne State University</Name>
+      <CityName>Detroit</CityName>
+      <ZipCode>482023622</ZipCode>
+      <PhoneNumber>3135772424</PhoneNumber>
+      <StreetAddress>5057 Woodward</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>6878</Code>
+      <Text>Chemical Synthesis</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8037</Code>
+      <Text>Advanced Manufacturing</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

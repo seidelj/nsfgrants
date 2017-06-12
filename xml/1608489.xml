@@ -45,17 +45,29 @@
       <StateCode>RI</StateCode>
     </Institution>
     <ProgramElement>
-      <Code>7623</Code>
-      <Text>BIOMATERIALS PROGRAM</Text>
-    </ProgramElement>
-    <ProgramElement>
       <Code>1491</Code>
-      <Text>BIOTECH, BIOCHEM &amp; BIOMASS ENG</Text>
+      <Text>Cellular &amp; Biochem Engineering</Text>
     </ProgramElement>
     <ProgramElement>
       <Code>7298</Code>
       <Text>COLLABORATIVE RESEARCH</Text>
     </ProgramElement>
+    <ProgramElement>
+      <Code>7623</Code>
+      <Text>BIOMATERIALS PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5936</Code>
+      <Text>GERMANY (F.R.G.)</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5937</Code>
+      <Text>SWEDEN</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5950</Code>
+      <Text>SWITZERLAND</Text>
+    </ProgramReference>
     <ProgramReference>
       <Code>7556</Code>
       <Text>CONFERENCE AND WORKSHOPS</Text>
@@ -71,18 +83,6 @@
     <ProgramReference>
       <Code>9150</Code>
       <Text>EXP PROG TO STIM COMP RES</Text>
-    </ProgramReference>
-    <ProgramReference>
-      <Code>5936</Code>
-      <Text>GERMANY (F.R.G.)</Text>
-    </ProgramReference>
-    <ProgramReference>
-      <Code>5937</Code>
-      <Text>SWEDEN</Text>
-    </ProgramReference>
-    <ProgramReference>
-      <Code>5950</Code>
-      <Text>SWITZERLAND</Text>
     </ProgramReference>
   </Award>
 </rootTag>

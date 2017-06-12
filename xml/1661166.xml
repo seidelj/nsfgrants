@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Improving STEM Outcomes for Young Children with Language Learning Disabilities by Intervening at the Intersection of Language and Scientific Thought</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2020</AwardExpirationDate>
+    <AwardAmount>353890</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11090000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Research On Learning</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robert Ochsendorf</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The sophisticated language of science can be a barrier to the learning of science, and this is especially true for children whose abilities to produce and comprehend language are deficient, including children at risk for dyslexia. The purpose of this project is to test interventions that have the potential to ameliorate language as a barrier to science learning. To isolate the active ingredient, two separate interventions - one addressing grammar and the other addressing vocabulary - will be compared to a science only control condition. The participants will be preschoolers and kindergarteners who have specific language impairment (SLI), a prevalent condition that impedes the development of vocabulary and grammar. Early intervention could be key to preparing future secondary and post-secondary students with SLI for the successful acquisition of STEM knowledge and the pursuit of STEM careers. The project goals are intended to better understand how to improve these students' learning trajectories before significant gaps in scientific knowledge have developed. Integration of supports for science-relevant grammar and vocabulary into early science curricula may be a viable approach.&lt;br/&gt;&lt;br/&gt;The research involves randomized controlled trial with assignment of participants to one of three intervention conditions: science only, science + vocabulary supports, and science + grammar supports. Small-group inquiry-based science instruction will occur in all three conditions. The science + vocabulary condition will include instruction on science-related vocabulary words whereas the science + grammar condition will include a focus on complex grammatical constructions relevant to scientific inquiry. Weekly measures during the intervention and withdrawal phases will target participants' mastery and maintenance of taught science concepts. Additional measures administered before and after the intervention phase will target participants' generalization to untaught science concepts and practices. Comparisons of outcomes between conditions are intended to assess whether supports for vocabulary and grammar improve science learning. Statistical analysis will involve binomial mixed models.&lt;br/&gt;&lt;br/&gt;This project is supported by NSF's EHR Core Research (ECR) program. The ECR program emphasizes fundamental STEM education research that generates foundational knowledge in the field. Investments are made in critical areas that are essential, broad and enduring: STEM learning and STEM learning environments, broadening participation in STEM, and STEM workforce development. The program supports the accumulation of robust evidence to inform efforts to understand, build theory to explain, and suggest intervention and innovations to address persistent challenges in STEM interest, education, learning and participation.</AbstractNarration>
+    <MinAmdLetterDate>03/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1661166</AwardID>
+    <Investigator>
+      <FirstName>Renee</FirstName>
+      <LastName>Cole</LastName>
+      <EmailAddress>renee-cole@uiowa.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Susan</FirstName>
+      <LastName>Cook</LastName>
+      <EmailAddress>susan-cook@uiowa.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Amanda</FirstName>
+      <LastName>Van Horne</LastName>
+      <EmailAddress>amanda-owen-vanhorne@uiowa.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Karla</FirstName>
+      <LastName>McGregor</LastName>
+      <EmailAddress>karla-mcgregor@uiowa.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Iowa</Name>
+      <CityName>IOWA CITY</CityName>
+      <ZipCode>522421320</ZipCode>
+      <PhoneNumber>3193352123</PhoneNumber>
+      <StreetAddress>2 GILMORE HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Iowa</StateName>
+      <StateCode>IA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7980</Code>
+      <Text>Core R&amp;D Programs</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1545</Code>
+      <Text>RES IN DISABILITIES ED</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

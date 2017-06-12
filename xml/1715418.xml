@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Singularity and Asymptotics for Nonlocal Partial Differential Equations</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>67937</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Roytburd</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Long-range interactions can be observed in a broad class of natural phenomena, ranging from fluid dynamics to animal swarms. Mathematically, these phenomena can be modeled by partial differential equations (PDE) with both nonlocal and nonlinear terms. This project is devoted to the study of a variety of nonlocal equations arising in fluid mechanics and biology, such as the two-dimensional Boussinesq equation arising in the study of atmospheric fronts and oceanic circulation; the aggregation equation, which models the collective behavior of animal groups; and a two-species system motivated by coral broadcast spawning. Many fundamental mathematical questions about solutions of the equations under the investigation in this project are unanswered. Nonetheless, the equations and their numerical solutions are widely used for understanding and prediction of natural phenomena. This research aims to enhance confidence in the validity of these equation for modeling natural phenomena and to provide a firm theoretical foundation for applications. The goal of this project is to rigorously study whether solutions to nonlocal equations can form a singularity in finite time, and what is the long-time dynamics if the solutions do exist globally in time. &lt;br/&gt;&lt;br/&gt;This project contains three different but related directions of research on the singularity and asymptotics for nonlocal PDEs. The first direction concerns finite-time singularity formation in fluid equations. For some variations of the two-dimensional inviscid Boussinesq equation, the goal is to use the "hyperbolic flow scenario" to construct a solution that blows up in finite time at a boundary point. The second subproject is devoted to a nonlocal PDE with a gradient flow structure, where particles/individuals tend to repulse each other in short distance and attract each other in long distance. The question is whether in the long run solutions converge to a global minimizer of a certain energy functional, or dissipate to zero. The third direction deals with a two-species system, where two densities evolve under diffusion, reaction and chemotaxis, and the goal is to investigate how the chemotaxis term would affect the long time dynamics of this system. In each of these directions, the investigator plans to apply and develop various analysis tools such as energy methods, gradient flow theory, and comparison principle methods to analyze the dynamical features of the solutions. This project will advance the mathematical understanding of nonlocal PDEs and related applications, and will also provide education and training to students in this active field.</AbstractNarration>
+<MinAmdLetterDate>05/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1715418</AwardID>
+<Investigator>
+<FirstName>Yao</FirstName>
+<LastName>Yao</LastName>
+<EmailAddress>yaoyao@math.gatech.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

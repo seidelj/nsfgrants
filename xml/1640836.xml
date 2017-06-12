@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>US Participation in New Zealand Logic Meetings</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2017</AwardExpirationDate>
+    <AwardAmount>34320</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tomek Bartoszynski</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award will support US participants, particularly graduate students and recent doctoral degree recipients, as well as those with no other federal support, to attend two meetings in mathematical logic in New Zealand in January 2017. The first, "Computability and Complexity Symposium 2017," will be held from the 5th to the 8th of January 2017, in Wellington, NZ. The second, the New Zealand Mathematical Research Institute Summer School 2017, focusing on mathematical logic and computability, will be held from the 9th to the 14th of January 2017, in Napier, NZ. &lt;br/&gt;&lt;br/&gt;The meetings feature talks on recent developments in computability theory and complexity. The Wellington meeting will be a mathematical symposium. Lectures will be given by a mix of senior and junior researchers over the three days of the conference. Time will also be set aside for informal discussions. The Napier meeting will follow the format of a workshop. There will be five tutorials (3 to 4 hours each) by leading researchers (both junior and senior) aimed at graduate students and recent Ph.D.s. There will be further background lectures suitable for beginning graduate students.&lt;br/&gt;&lt;br/&gt;The web pages for the conferences are at http://sms.victoria.ac.nz/Events/CCS2017/WebHome and http://sms.victoria.ac.nz/Events/NZMRI2017/WebHome</AbstractNarration>
+    <MinAmdLetterDate>11/08/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/08/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1640836</AwardID>
+    <Investigator>
+      <FirstName>Peter</FirstName>
+      <LastName>Cholak</LastName>
+      <EmailAddress>Peter.Cholak.1@nd.edu</EmailAddress>
+      <StartDate>11/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Notre Dame</Name>
+      <CityName>NOTRE DAME</CityName>
+      <ZipCode>465565708</ZipCode>
+      <PhoneNumber>5746317432</PhoneNumber>
+      <StreetAddress>940 Grace Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Indiana</StateName>
+      <StateCode>IN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1268</Code>
+      <Text>FOUNDATIONS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

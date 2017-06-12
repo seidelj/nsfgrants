@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Algorithm Development For Reconstruction Of Design Elements</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2019</AwardExpirationDate>
+    <AwardAmount>212978</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>John E. Yellen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Archaeologists, forensic scientists, and air crash examiners often find objects of evidence broken in many pieces, and if the number is large they face the problem of how to match, edge shapes and surface markings to fit the fragments back together. In cases where individual sites often yield thousands of pieces this problem can be particularly acute. This research will develop a computer assisted program, "SnowVision" to aid in fitting fragments of objects together. The research is of significance for its use not only at archaeological sites but also for the general applicability of the algorithms developed. The project will provide new insights into a novel line of research for computer vision scientists. The open-source nature of the project means that the products delivered by the team can be addressed to multiple challenges. In addition to the educational impacts, the project includes outreach efforts to Native-American tribes and institutions.&lt;br/&gt;&lt;br/&gt;Dr. Karen Smith and her research team are addressing this issue by focusing on a specific type of prehistoric Southeastern US pottery which contains paddle-stamped designs. For the development and implementation of SnowVision, Dr. Smith and her team focus on the designs embellished on Swift Creek pottery, ca. AD 200-800, found on sites throughout the Deep South. Swift Creek's curvilinear designs, which were carved onto wooden paddles and subsequently stamped onto pottery vessels, offer insights into networks of exchange, ritual, and mobility at an unprecedented level of granularity when paddle matches are found across archaeological contexts, as they so often are. Limitations of time, design expertise, and collections access have been the primary impediments to advancement in the study of these pre-Columbian networks, for which design matches provide unequivocal evidence. SnowVision will increase the speed by which researchers are able to identify design matches from different archaeological sites. This will, in turn, incentivize the digitization of understudied collections. By making the software and related pottery sherd images available online, SnowVision also will increase the reach of collections curated in different museums. Dissemination of the designs will continue to raise awareness of the deep decorative traditions of our Nation's indigenous communities. Sherd images will be archived with Open Context, where sherd data can be leveraged with data from other research projects.</AbstractNarration>
+    <MinAmdLetterDate>02/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658987</AwardID>
+    <Investigator>
+      <FirstName>Jun</FirstName>
+      <LastName>Zhou</LastName>
+      <EmailAddress>zhouj@mailbox.sc.edu</EmailAddress>
+      <StartDate>02/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Colin</FirstName>
+      <LastName>Wilder</LastName>
+      <EmailAddress>wildercf@mailbox.sc.edu</EmailAddress>
+      <StartDate>02/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Song</FirstName>
+      <LastName>Wang</LastName>
+      <EmailAddress>songwang@cec.sc.edu</EmailAddress>
+      <StartDate>02/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Karen</FirstName>
+      <LastName>Smith</LastName>
+      <EmailAddress>SMITHKY2@mailbox.sc.edu</EmailAddress>
+      <StartDate>02/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of South Carolina at Columbia</Name>
+      <CityName>COLUMBIA</CityName>
+      <ZipCode>292080001</ZipCode>
+      <PhoneNumber>8037777093</PhoneNumber>
+      <StreetAddress>Sponsored Awards Management</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>South Carolina</StateName>
+      <StateCode>SC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1391</Code>
+      <Text>ARCHAEOLOGY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1391</Code>
+      <Text>ARCHAEOLOGY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: CSR: Rethinking the FTL in SSDs -- a file translation layer instead of a flash translation layer</AwardTitle>
+<AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>174998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>M. Mimi McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As data sets for artificial intelligence, network services, and cloud storage grows, so does the demand of quickly and efficiently serving data from the storage device. Using solid state drives (SSDs) based on non-volatile, flash memory technologies is an effective approach to improve the performance of storage devices. However, as the rest parts of the computer system leverage the entrenched interface to communicate with SSDs, the overhead of supporting these abstractions buries the real potential of SSDs. Specifically, the different addressing modes for different system layers result in multiple address translations when accessing a single file and require additional system resource to maintain the mapping. This address translation overhead takes time and limits the bandwidth of SSDs. This project is addressing this problem by proposing an innovative storage interface that minimizes the system overhead but better fits the behaviors of applications in accessing data. The proposed interface will simplify the design of operating systems. This interface will require no modifications to existing applications. &lt;br/&gt;&lt;br/&gt;As most file accessing overhead coming from the operating system, simplifying operating systems with the proposed interface will significantly boost the latency and bandwidth when applications access SSDs. This project will implement the proposed design in real SSDs without changes to existing hardware, meaning that the result of this project can immediately facilitate existing computer systems hosting big data applications without additional hardware costs. This project will also encourage researchers to revisit existing hardware/software interfaces for achieving better performance on emerging peripheral devices as well as exploring other benefits, including enhanced security and reduced energy consumption of pursuing this research direction.</AbstractNarration>
+<MinAmdLetterDate>03/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1657039</AwardID>
+<Investigator>
+<FirstName>Hung-Wei</FirstName>
+<LastName>Tseng</LastName>
+<EmailAddress>htseng3@ncsu.edu</EmailAddress>
+<StartDate>03/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>026Y</Code>
+<Text>CRII CISE Research Initiation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7354</Code>
+<Text>COMPUTER SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

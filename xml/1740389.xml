@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Near-Threshold-Voltage Regulation Module</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is significant on low power electronics, especially in markets for wearable devices and implantable medical devices. As electronic devices continue to shrink in size they are faced with compounded issues of power consumption, heat generation and dissipation. As the devices become more sophisticated and the users of such devices demand more utility and connectivity, a need for providing more functionality with less power consumption, decreased heat management, and extended battery life is in critical demand. The Near-Threshold-Voltage (NTV) modular regulator is adaptable to commercially available integrated circuits and provides an innovative solution to these issues. The commercial impact of this NTV modular regulator technology could be realized by saving power consumption and by cutting expenses in development costs to qualify for new generation of low-power electronics. Similar savings and an even broader impact may be envisioned when the modular designing tool is used for a variety of applications using legacy CMOS circuitry and enabling seamless updates to newer technology without substantial development costs.&lt;br/&gt;&lt;br/&gt;This I-Corps project further develops a Near-Threshold-Voltage (NTV) modular regulator that is practical for semiconductor integrated circuit (IC) products. The regulator reduces power consumption of many commercially available ICs by running at slightly higher than NTV regions auto-set by the design. It lowers the IC internal operating voltages and enables them to run smoothly at above 95% regulation while minimizing the noise effects. With this module, the ICs will not require external voltage regulators, which further minimizes the unused space on circuit boards. The module is adaptable to ICs without making expensive and drastic changes to their original VLSI designs, especially avoiding the costly technology process transfers for manufacturers. Many devices utilizing System-On-a-Chip (SoC) architectures will realize the advantages of using this module as part of the layout without changing the core circuitry. As the module is process adjustable by design, the SoC does not need to rely on software solutions to regulate power consumption. With the NTV module, existing ICs can easily adapt to emerging CMOS technologies thus sustaining or reviving their period of performance.</AbstractNarration>
+    <MinAmdLetterDate>03/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1740389</AwardID>
+    <Investigator>
+      <FirstName>Ruyan</FirstName>
+      <LastName>Guo</LastName>
+      <EmailAddress>ruyan.guo@utsa.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at San Antonio</Name>
+      <CityName>San Antonio</CityName>
+      <ZipCode>782491644</ZipCode>
+      <PhoneNumber>2104584340</PhoneNumber>
+      <StreetAddress>One UTSA Circle</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

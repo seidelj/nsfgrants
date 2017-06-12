@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CBMS Conference: Bayesian Modeling for Spatial and Spatio-Temporal Data</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>34968</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award supports the CMBS regional conference "Bayesian Modeling for Spatial and Spatio-Temporal Data" to be held at the University of California, Santa Cruz, August 14-18, 2017. The principal speaker is Alan Gelfand from Duke University. Hierarchical Bayesian methods for modeling spatial and spatio-temporal data constitute an extremely important area of research in the statistical sciences, with a wide range of applications. However, the explosive growth in all areas of spatial and spatio-temporal modeling has produced a massive body of literature that can be daunting for newcomers, imposing a steep entry barrier into the field. The conference lectures will facilitate introduction to the subject by providing a comprehensive review of Bayesian methods for spatial statistics. Established researchers, newcomers, and students will have the opportunity to learn and discuss the major ideas, modern modeling and computing methods, and recent results in the field. The conference will strengthen links and collaborations between multiple groups of researchers in the western United States. This award will support about 30 participants, with priority given to junior researchers.&lt;br/&gt;&lt;br/&gt;Additional lectures will be presented by Sudipto Banerjee (University of California, Los Angeles), Michele Guindani (University of California, Irvine), and Christopher Paciorek (University of California, Berkeley). All three speakers have research expertise in theory, methods, and applications of Bayesian modeling for spatial data, and their lectures will be constructed to be complementary to the main lectures.&lt;br/&gt;&lt;br/&gt;More information can be found at the conference webpage: https://cbms.soe.ucsc.edu</AbstractNarration>
+    <MinAmdLetterDate>11/04/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/04/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1642617</AwardID>
+    <Investigator>
+      <FirstName>Bruno</FirstName>
+      <LastName>Sanso</LastName>
+      <EmailAddress>bruno@ams.ucsc.edu</EmailAddress>
+      <StartDate>11/04/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Athanasios</FirstName>
+      <LastName>Kottas</LastName>
+      <EmailAddress>thanos@soe.ucsc.edu</EmailAddress>
+      <StartDate>11/04/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Rajarshi</FirstName>
+      <LastName>Guhaniyogi</LastName>
+      <EmailAddress>rguhaniy@ucsc.edu</EmailAddress>
+      <StartDate>11/04/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Santa Cruz</Name>
+      <CityName>Santa Cruz</CityName>
+      <ZipCode>950641077</ZipCode>
+      <PhoneNumber>8314595278</PhoneNumber>
+      <StreetAddress>1156 High Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1260</Code>
+      <Text>INFRASTRUCTURE PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Improvement Grant: Adaptive Epistemologies of Scientific Practice and Environmental Restoration</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2018</AwardExpirationDate>
+    <AwardAmount>16567</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Wenda Bauchspies</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project will analyze scientific, legal and political outcomes for fish habitat restoration. It will study how scientists and fisheries managers are adapting to uncertainty. The study will contribute to an understanding of how science relates to environmental management and policy. It will enable both environmental managers and scientists to be more effective in responding to environmental issues. This research will engage with scientists and managers, including Federal, State, and Tribal agencies, in order to consider how best to conceptualize, prepare for, and develop scientific and management models, scenarios, and tools. The project will develop tools for future researchers in the critical area of adaptive science, technology, and policy studies. The research will be of interest to fisheries, environmental scientists, policy makers, local residents and administrators. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project includes three interrelated case studies, focused on salmon habitat restoration in the Columbia River Basin. It will look specifically at the scientific practice of salmon habitat restoration, mandated by the Endangered Species Act. The project will explore how scientists and environmental managers adapt their epistemological and management practices to accommodate environmental uncertainty and to identify how and when the relationships between science, law, and natural resource management shift. The researchers will conduct interviews, archival research, policy analysis, and participant observation in order to answer these questions. This study will extend literature in the field of science, technology, and society (STS) on the history and development of ecological science and management, the intersection of science and law, and adaptive governance and resilience of social-ecological systems.</AbstractNarration>
+    <MinAmdLetterDate>02/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655884</AwardID>
+    <Investigator>
+      <FirstName>Jerrold</FirstName>
+      <LastName>Long</LastName>
+      <EmailAddress>jlong@uidaho.edu</EmailAddress>
+      <StartDate>02/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Shana</FirstName>
+      <LastName>Hirsch</LastName>
+      <EmailAddress>shanalhirsch@gmail.com</EmailAddress>
+      <StartDate>02/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Idaho</Name>
+      <CityName>MOSCOW</CityName>
+      <ZipCode>838443020</ZipCode>
+      <PhoneNumber>2088856651</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Idaho</StateName>
+      <StateCode>ID</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7603</Code>
+      <Text>SCIENCE, TECH &amp; SOCIETY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7567</Code>
+      <Text>SOC STUDIES OF SCI, ENG &amp; TECH</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

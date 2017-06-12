@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Point-of-Care Physiological Assessment</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is to transform health, wellness, and disease assessment and monitoring by developing a simple, cost-effective method of exhaled air analysis. This technology can be used in diverse scenarios, including in the hospital, primary care settings, in the field, and directly by the end-user. The long term potential impact of this technology is the ability to collect physiological measurements frequently, non-invasively, and deliver results instantaneously. Infrequent measurements or delays in diagnostic results can lead to avoidable morbidity, mortality, and direct emergency/terminal care costs. This technology is capable of addressing unmet monitoring and diagnostic needs in a wide variety of clinical and health &amp; wellness applications, representing a multibillion dollar value creation opportunity impacting stakeholders throughout the value chain.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims to develop a technology platform that will enable accurate and cost effective breath gas analysis at the point-of-care. The breath test is made possible by carbon nanotube chemiresistor sensor scheme and device integration advancements. This project has a novel approach to selective detection of gases at part-per-billion concentrations using a smartphone and near field communication tags modified with a simple two-step process. The technology platform consists of a circuit design, data transfer method, fabrication process, and chemiresistor formulations to enable molecularly-specific detection of biomarkers at biologically relevant (part-per-billion) concentrations in exhaled breath. This technology produces a chemically-specific, concentration-dependent electrical output without compromising on the pattern recognition benefits of 'electronic nose' solutions. This work may also yield general advancements in chemical sensor performance optimization and thin-film electronics roll-to-roll manufacturing techniques.</AbstractNarration>
+    <MinAmdLetterDate>04/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1741052</AwardID>
+    <Investigator>
+      <FirstName>Roman</FirstName>
+      <LastName>Lubynsky</LastName>
+      <EmailAddress>rml@mit.edu</EmailAddress>
+      <StartDate>04/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Massachusetts Institute of Technology</Name>
+      <CityName>Cambridge</CityName>
+      <ZipCode>021394301</ZipCode>
+      <PhoneNumber>6172531000</PhoneNumber>
+      <StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

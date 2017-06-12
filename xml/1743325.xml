@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Housing and Symposium Support for 49th North American Power Symposium held at West Virginia University, Morgantown, WV, USA, September 17,- September 19, 2017</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eyad Abed</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project provides funding to subsidize a student-oriented conference in power engineering, the 2017 edition of the North American Power Symposium (NAPS). Most of the funding will be used to support student-related travel expenses incurred by US university students attending the symposium, which will take place in Morgantown, WV during September 17-19, 2017. The symposium will be hosted by West Virginia University. NAPS is a nonprofit event with technical sponsorship from the Institute of Electrical and Electronics Engineers (IEEE) and has a tradition of providing an opportunity for students to share their research with one another and with faculty and industry experts. The overwhelming majority of papers in NAPS are traditionally presented by students. NAPS has been supported by the National Science Foundation in the past, which has positively influenced student participation. In addition to providing subsidized accommodation for students, the organizers' efforts to foster and encourage student participation include a comprehensive student program, tours of nearby industry sites, and a student paper competition with awards. Moreover, measures will be taken to encourage participation of women and underrepresented minorities in the conference.</AbstractNarration>
+<MinAmdLetterDate>05/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743325</AwardID>
+<Investigator>
+<FirstName>Muhammad</FirstName>
+<LastName>Choudhry</LastName>
+<EmailAddress>choudhry@cemr.wvu.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Feliachi</LastName>
+<EmailAddress>alfeliachi@mail.wvu.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Parviz</FirstName>
+<LastName>Famouri</LastName>
+<EmailAddress>pfamouri@wvu.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarika</FirstName>
+<LastName>Khushalani-Solanki</LastName>
+<EmailAddress>SKhushalaniSolanki@mail.wvu.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jignesh</FirstName>
+<LastName>Solanki</LastName>
+<EmailAddress>jmsolanki@csee.wvu.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>West Virginia University Research Corporation</Name>
+<CityName>Morgantown</CityName>
+<ZipCode>265066845</ZipCode>
+<PhoneNumber>3042933998</PhoneNumber>
+<StreetAddress>P.O. Box 6845</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>West Virginia</StateName>
+<StateCode>WV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

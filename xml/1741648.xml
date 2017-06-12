@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Travel and Attendance Grant Proposal for ISSTA/SPIN 2017</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2017</AwardExpirationDate>
+<AwardAmount>9000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant provides participant support for attendance at the International Symposium on Software Testing and Analysis (ISSTA) and the International Symposium on Model Checking of Software (SPIN), which will be held in Santa Barbara, California, USA, on July 10-14, 2017. ISSTA and SPIN together cover verification, validation, testing, and analysis of software systems, a topic whose criticality increases with the growing complexity and distribution of software-intensive systems. This symposium is one of the top venues for researchers in this area.  The funds are to encourage mainly US-based students to attend ISSTA/SPIN. Priority will be given to students in groups typically underrepresented in ISSTA/SPIN communities, such as women, African-Americans, Native Americans, Hispanic Americans, and students from non-PhD-granting US universities.  The Symposium provides education, training and professional development of the supported participants, the building of the research community in this important area, and the exposure to senior people in the field and the international research community.</AbstractNarration>
+<MinAmdLetterDate>05/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741648</AwardID>
+<Investigator>
+<FirstName>Tevfik</FirstName>
+<LastName>Bultan</LastName>
+<EmailAddress>bultan@cs.ucsb.edu</EmailAddress>
+<StartDate>05/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931062050</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>Office of Research</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+</Award>
+</rootTag>

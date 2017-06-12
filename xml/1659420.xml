@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site:  Astronomy and Informatics at the MIT Haystack Observatory</AwardTitle>
+<AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>347732</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Neff</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>MIT's Haystack Observatory will host a combined summer REU (Research Experiences for Undergraduates) and RET (Research Experiences for Teachers) site in astronomy, space sciences, geodesy, and informatics. The program will strive to recruit diverse student cohorts including students from underrepresented groups, as well as students from colleges and universities with limited local research infrastructure. The research and professional development programs will help students to understand the nature and ethics of scientific research and the skills and process necessary to become a professional scientist.  Instructional Units developed by RET participants will be used in classrooms worldwide.  &lt;br/&gt;&lt;br/&gt;These activities are linked through an overarching radio science theme. Each summer, seven undergraduate students and two K-12 teachers will spend ten weeks at Haystack engaged in research.  Most of these will utilize major on-site facilities and instrumentation.  Opportunities also exist for students to get involved with the Event Horizon Telescope, very long baseline interferometry, the Murchison Widefield Array, and in designing instrumentation for these and future facilities.  The program is also a gateway to opportunities in various geospace and magnetospheric physics projects.</AbstractNarration>
+<MinAmdLetterDate>03/06/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1659420</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Erickson</LastName>
+<EmailAddress>pje@haystack.mit.edu</EmailAddress>
+<StartDate>03/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Colin</FirstName>
+<LastName>Lonsdale</LastName>
+<EmailAddress>clonsdale@haystack.mit.edu</EmailAddress>
+<StartDate>03/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1219</Code>
+<Text>SPECIAL PROGRAMS IN ASTRONOMY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7700</Code>
+<Text>EDUCATIONAL LINKAGES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>Q170</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1359</Code>
+<Text>RES EXP FOR TEACHERS(RET)-SITE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7736</Code>
+<Text>DOD ASSURE PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Cliometrics Conferences for 2018, 2019, and 2020</AwardTitle>
+    <AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2020</AwardExpirationDate>
+    <AwardAmount>125289</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Nancy A. Lutz</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award funds three conferences that will stimulate new research in the interdisciplinary area of cliometrics, which combines economics, statistics, history, demography, sociology, anthropology, anatomy, and climatology as well as other disciplines to examine core questions about economic theory and the development of modern economies. The conferences bring together young scholars, including graduate students, with a group of excellent senior scholars to engage in workshop sessions that give intensive commentary on early research results. The goal is to improve research quality, promote graduate training, and allow young scholars to build deeper research networks. The result is better scientific knowledge about the evolution and structural dynamics of the U.S. economy and the international economy. The conferences advance science, promote the training of U.S. students in this area, and shed valuable light on how government and business decisions can affect the U.S. economic competitiveness.</AbstractNarration>
+    <MinAmdLetterDate>02/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658801</AwardID>
+    <Investigator>
+      <FirstName>Carolyn</FirstName>
+      <LastName>Moehling</LastName>
+      <EmailAddress>cmoehling@economics.rutgers.edu</EmailAddress>
+      <StartDate>02/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Susan</FirstName>
+      <LastName>Wolcott</LastName>
+      <EmailAddress>swolcott@binghamton.edu</EmailAddress>
+      <StartDate>02/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Christopher</FirstName>
+      <LastName>Hanes</LastName>
+      <EmailAddress>chanes@binghamton.edu</EmailAddress>
+      <StartDate>02/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Rutgers University New Brunswick</Name>
+      <CityName>Piscataway</CityName>
+      <ZipCode>088543925</ZipCode>
+      <PhoneNumber>8489320150</PhoneNumber>
+      <StreetAddress>33 Knightsbridge Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1320</Code>
+      <Text>ECONOMICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: Towards Inter-Sentential Models for Detecting Focus of Negation</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>60000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Donald T. Langendoen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Understanding language is at the core of intelligent systems, and a required component of several end-user applications such as machine translation, question answering and text summarization. Most computational approaches to extract meaning from text build a semantic representation capturing some of the meaning intuitively understood by humans when reading text. For example, semantic role labelers extract who did what to whom, how, when and where from plain text, and semantic parsers transform text into logic forms. This exploratory EAGER project defines new algorithms for extracting positive interpretations from negated statements by detecting the focus of negation, that is, pinpointing the usually few text chunks within a negation that are intended to be negated.&lt;br/&gt;&lt;br/&gt;Negation is an intricate linguistic phenomenon present in all human languages. From a theoretical point of view, it is well known that negation often carries positive meanings ranging from implicatures to entailments. Despite this observation, current computational approaches to understand the effects of negation are limited to scope detection and disregard the numerous positive interpretations immediately understood by humans when reading text with negated elements. This project builds inter-sentential models to detect the foci of negation, a key component to extract positive interpretations from negations. Exploiting the context surrounding a negation is key to improving foci detection, as existing intra-sentential models fail to take into account key related events that signal the correct foci out of the many potential foci for a given negation. Being able to extract positive interpretations from negation will benefit the overall extraction of meaning from text, since once positive interpretations associated with negative expressions have been identified, they can be integrated with the interpretations obtained for the text as a whole.</AbstractNarration>
+    <MinAmdLetterDate>03/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1734730</AwardID>
+    <Investigator>
+      <FirstName>Eduardo</FirstName>
+      <LastName>Blanco</LastName>
+      <EmailAddress>eduardo.blanco@unt.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of North Texas</Name>
+      <CityName>DENTON</CityName>
+      <ZipCode>762035017</ZipCode>
+      <PhoneNumber>9405653940</PhoneNumber>
+      <StreetAddress>1155 Union Circle #305250</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

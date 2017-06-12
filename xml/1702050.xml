@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>DISSERTATION RESEARCH: Are offspring polymorphic species hedging their bets?</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2019</AwardExpirationDate>
+    <AwardAmount>19813</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010207</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Leslie Rissler</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Stock markets are dynamic. Therefore, investors hedge their bets by investing in multiple stocks simultaneously or dividing investments between stocks and bonds. This reduces the chance of complete loss due to a stock crash but also reduces potential gains when a stock dramatically rises. Similarly, organisms may have evolved bet hedging strategies that allow them to cope with dynamic environments. To date the evidence supporting the existence of biological bet-hedging strategies stems primarily from theoretical work. To robustly assess evidence for bet hedging in nature, this study takes advantage of a fascinating reproductive strategy, termed offspring polymorphism, in which organisms produce multiple different kinds of offspring simultaneously. This strategy can be observed across many life forms including animals (e.g. frogs) and bacteria but is especially common in plants. Investigators will test the hypothesis that seed-polymorphism plants produce one seed or offspring type that is good at surviving in dry years and one that is good at surviving in wet years. This research will help scientists gain a better understanding of how organisms cope with change. This will increase predictive power about organisms' responses to environmental change and increasing desertification. Outreach to the public will occur, and undergraduate students will be trained as part of this work.&lt;br/&gt; &lt;br/&gt;Through the combination of an innovative field experiment and stochastic population models parameterized with long-term field and experimental data, the researchers will rigorously evaluate seed polymorphism as a bet hedging strategy in Pectocarya heterocarpa, a winter, desert annual species. P. heterocarpa is particularly suitable as it produces three visually distinct and spatially separated seed types which are easy to distinguish and count. These morphs will be sown in a natural field setting under various rain reducing shelters to examine how seeds differ in their germination timing, growth, and fitness under different rainfall regimes. The ecologists will combine this data with multi-decadal temporal and spatial demographic data on P. heterocarpa. They will then parameterize density-dependent and independent models to rigorously evaluate offspring polymorphism as a bet hedging strategy. Specifically, the density-independent model will allow researchers to find optimal seed ratios under different environmental regimes while the density-dependent models allow for an adaptive dynamics approach to find evolutionary stable seed polymorphism strategies.</AbstractNarration>
+    <MinAmdLetterDate>03/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1702050</AwardID>
+    <Investigator>
+      <FirstName>D. Lawrence</FirstName>
+      <LastName>Venable</LastName>
+      <EmailAddress>venable@email.arizona.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Joshua</FirstName>
+      <LastName>Scholl</LastName>
+      <EmailAddress>scholl@email.arizona.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Arizona</Name>
+      <CityName>Tucson</CityName>
+      <ZipCode>857194824</ZipCode>
+      <PhoneNumber>5206266000</PhoneNumber>
+      <StreetAddress>888 N Euclid Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7377</Code>
+      <Text>EVOLUTIONARY ECOLOGY</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

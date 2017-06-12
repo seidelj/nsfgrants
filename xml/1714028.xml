@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Motion Compensation Techniques that Enable Radar Detection of Life Signs from an Unmanned Aerial Vehicle</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Unmanned Aerial Vehicles (UAVs) or drones are often used for aerial reconnaissance and provide stunning aerial views after an earthquake or disaster. By mounting a radar sensor on these platforms, search and rescue teams can locate victims that are buried under wood structures that have collapsed. Radar sensors can detect physiological motions, such as respiration, by measuring the chest motion from breathing. However, radar signals are corrupted by the platform motion. This project will expand the PI's ongoing sensor fusion research for motion compensation techniques that enable the use of radar sensors for remote sensing of physiological signals. Specifically, this project will investigate integrating the image based UAV navigation sensors developed by Professor Takaba at Ritsumeikan University in Japan with other motion compensation techniques developed by the Principal Investigator.&lt;br/&gt;&lt;br/&gt;Position measurements via GPS, Inertial Measurement Units and Frequency Modulated Continuous Wave Radars do not provide sufficiently precise measurements to cancel the unwanted motion. Doppler radar in-range phase measurements combined with image based cross range data may be used to stabilize the platform. Additional signal processing can be used to extract the signal of interest from the composite waveform. To date, the PI has implemented, tested and characterized radar and ultrasonic secondary sensors as sources of motion compensation correction signals. This approach compensates the vertical motion, however, horizontal motion compensation techniques are also required to maximize the Signal to Noise Ratio. Image based techniques are ideal for cross-range stabilization by using pattern recognition techniques to isolate lateral motion. This investigation will evaluate whether the radar and image sensor fusion approach can successfully detect a radar derived respiration signal in the presence of platform motion.&lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the Japan Society for the Promotion of Science (JSPS).</AbstractNarration>
+<MinAmdLetterDate>05/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714028</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Nakata</LastName>
+<EmailAddress/>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Nakata                  Robert         H</Name>
+<CityName>Honolulu</CityName>
+<ZipCode>968161921</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5921</Code>
+<Text>JAPAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

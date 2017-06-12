@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: Quantitative genetics of sexual dimorphism in primate teeth</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>16340</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rebecca Ferrell</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Many nonhuman primate species have sex differences in the size and shape of their canine and premolar teeth, but in the human lineage those differences are smaller. This project models the genetic inheritance of canine and premolar tooth size in several primate species, including a modern human sample, to examine the impact of genetic structures on the evolution of sex differences in canine size. The findings will be used to understand mechanisms of canine reduction in the human lineage and canine expansion in other primates, and contribute to our understanding of evolutionary relationships among diet, behavior, and dentition in our hominin ancestors. elective pressures related to aggression and diet are hypothesized to contribute to sex differences in primate canine teeth, and changes in these selective pressures may have led to human canine and premolar reduction. The project will support training of a female student in a STEM field, production of a large dataset that will be made public for other researchers, and outreach activities such as public lectures focused on improving public understanding of primate diversity and evolution.&lt;br/&gt;&lt;br/&gt;Dental characteristics provide valuable evidence of genetic relatedness in primates, and tooth measurements are well-suited to classical quantitative genetic analysis, which uses pedigree data to estimate the genetic heritability of traits. This project assesses the genetic inheritance of canine and premolar dimensions in several primate species with the specific aim of elucidating the genetic mechanisms underlying sex differences in the morphology of these teeth. Previous researchers have stated that sex differences in genetic inheritance and low overlap in male and female genetic material contribute to the evolution of sex differences, but these hypotheses have not been tested in primates. This project addresses three fundamental research questions: 1) Are sex differences in canine and premolar size associated with sex differences in trait inheritance? 2) Do the same genes impact the size of the upper canine and lower premolar? 3) Do primate species with sex differences in the canine have more evolvable canines than those with no sex differences? These questions can be answered using tooth size measurements collected from primate populations with known pedigrees. Statistical models will be used to estimate the inheritance of canine and premolar size in each population. Preliminary data collection and analyses of saddle-back tamarins indicate that there are significant differences between male and female patterns of trait inheritance, but data from additional populations and species will demonstrate whether this is typical of primates broadly or a peculiarity limited to a single tamarin population.</AbstractNarration>
+    <MinAmdLetterDate>02/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650802</AwardID>
+    <Investigator>
+      <FirstName>Kieran</FirstName>
+      <LastName>McNulty</LastName>
+      <EmailAddress>kmcnulty@umn.edu</EmailAddress>
+      <StartDate>02/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Anna</FirstName>
+      <LastName>Hardin</LastName>
+      <EmailAddress>hardi227@umn.edu</EmailAddress>
+      <StartDate>02/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Minnesota-Twin Cities</Name>
+      <CityName>Minneapolis</CityName>
+      <ZipCode>554552070</ZipCode>
+      <PhoneNumber>6126245599</PhoneNumber>
+      <StreetAddress>200 OAK ST SE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Minnesota</StateName>
+      <StateCode>MN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7608</Code>
+      <Text>DDRI Bio Anthro</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1392</Code>
+      <Text>Biological Anthropology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

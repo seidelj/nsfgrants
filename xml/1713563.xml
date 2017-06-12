@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Developing Statistical Methods for Removing Unwanted Variation with Negative Controls in Genetics and Causal Inference</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Unwanted variation is a common problem in statistical analysis that makes it difficult for researchers to distinguish between signal and noise. For example, in the field of genetics, a researcher might to try to detect the difference in gene expression between a cancer tumor and a nearby benign region. The difference between the two regions is the variation of interest--this is wanted variation. However, differences in genetic techniques between laboratories can create unwanted variation in the data, which can lead to the researcher reaching incorrect conclusions from the data. The unwanted variation can either induce bias, distorting the true relationship between the genes and diseases, or can decrease precision, masking the variation of interest. Ideally, the researcher would like to remove the unwanted variation. One way to achieve this goal is through a negative control, which is a variable that is associated with the unwanted variation, but is not associated with the variation of interest.  The goal of this project is to develop statistical techniques for using negative controls to effectively remove unwanted variation while keeping the variation of interest. These methods will be useful in a wide variety of fields, but will focus on genetics and causal inference, including experimental design. This research will be conducted in collaboration with Professor Terence Speed, a leading expert on negative controls in this context, at the Walter and Eliza Hall Medical Institute in Melbourne, Australia.&lt;br/&gt;&lt;br/&gt;The fields of epidemiology, causal inference, and genetics all have methods related to removing unwanted variation.  This project will synthesize approaches from these fields to build new statistical methods for negative controls.  These methods include hypothesis testing, propensity score matching, and parametric models, and rely on different frameworks and assumptions. This project will bring together the flexibility of causal inference techniques, the statistical efficiency of genetics methods, and the rigorous hypotheses of epidemiology.&lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the Australian Academy of Science.</AbstractNarration>
+<MinAmdLetterDate>05/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713563</AwardID>
+<Investigator>
+<FirstName>Kristen</FirstName>
+<LastName>Hunter</LastName>
+<EmailAddress/>
+<StartDate>05/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Hunter                  Kristen        B</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021381877</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5912</Code>
+<Text>AUSTRALIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -44,5 +44,13 @@
       <StateName>Illinois</StateName>
       <StateCode>IL</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>005Y</Code>
+      <Text>STEM + Computing (STEM+C) Part</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

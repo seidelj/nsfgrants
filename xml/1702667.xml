@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research: The Emergence of Disciplinary Networks</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>11334</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marie Cornwall</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Title: The Emergence of Disciplinary Networks&lt;br/&gt;&lt;br/&gt;This project uses the emergence of neurology in France to investigate how social networks form around emerging areas of inquiries, ultimately transitioning them from idea to institution. What leads to the alignment of a dense community of relationships among medical researchers with a novel set of ideas, and how might this coupling process differ among relationship types? The case of French neurology is an ideal one with which to answer these questions because the structure of relationships among its practitioners well represents that of other nascent disciplines in 19th century France and emerging fields more generally. The project aims to reconstruct apprenticeship, colleagueship, co-authorship, and communication networks among French medical scientists between 1840 and 1900 and to identify the mechanisms that generated the structure of relationships among those individuals who would become neurologists. Data are collected from archives located in Paris, France, and statistical network and text analyses are used in order to address the research questions.&lt;br/&gt;&lt;br/&gt;This project aims to explain why researchers collectively orient themselves toward institutionalizing particular groundbreaking ideas.  Most current work on social networks in science only examines co-publication or co-citation networks, which leaves one unable to explain disciplinary emergence. The disciplinary network theoretical framework of this research advances sociology of science in a key way.&lt;br/&gt;At the same time, it advances two central areas in social network analysis. Foci serve as critical organizers of networks, and this research illuminates the process through which emerging foci come to affect social networks. Further, while much research in&lt;br/&gt;network science of science investigates the structure of scientific communities, it neglects how ideas, and other attributes of researchers, as well as the multitude of relationships that usually exist between them cohere into the foundations of a new discipline.&lt;br/&gt;The ability to detect social groups from relationship data constitutes one of the most active areas being developed by network scientists, but no models exist that accurately capture how traits of individuals within networks generate community structure. This research will uncover the mechanisms that produce community structure. The results of my projectwill also shed light on the mechanisms that generate relationships among distinct social networks.</AbstractNarration>
+<MinAmdLetterDate>05/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702667</AwardID>
+<Investigator>
+<FirstName>Omar</FirstName>
+<LastName>Lizardo</LastName>
+<EmailAddress>olizardo@nd.edu</EmailAddress>
+<StartDate>05/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brandon</FirstName>
+<LastName>Sepulvado</LastName>
+<EmailAddress>bsepulva@nd.edu</EmailAddress>
+<StartDate>05/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

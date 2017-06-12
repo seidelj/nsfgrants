@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RCN: Building a Collaborative Network for Coastal Wetland Carbon Cycle Synthesis</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2022</AwardExpirationDate>
+    <AwardAmount>189316</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010209</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Karina Schafer</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Tidal marshes, mangrove swamps and seagrass meadows are unique ecosystems found on coastlines worldwide. These wetlands support specialized plant, microbe and animal species that collectively form some of the Earth's most productive ecosystems, influencing the ecology of estuaries and coastal oceans. Coastal wetlands are also under severe pressure from human activity which threatens to diminish the many benefits they provide to people and aquatic food webs. Among these benefits is the fact that they remove large amounts of carbon dioxide from the atmosphere and bury it in soils for centuries to millennia. Indeed, these ecosystems account for nearly 50 percent of the organic carbon buried in sediments despite occupying less than 2 percent of terrestrial area. This surprising fact suggests an opportunity: that protecting, restoring and managing coastal ecosystems could improve the ecological and social benefits they provide. The pace of research on this topic has accelerated and there is a great need to coordinate ongoing research and synthesize existing information. The goal of this Research Coordination Network (RCN) project is to advance understanding of carbon cycling in coastal wetlands by creating a central repository for sharing data, and facilitating synthesis and modeling to better predict the functioning of coastal ecosystems.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The Coastal Wetland Carbon Research Coordination Network will accelerate scientific discovery, advance science-informed policy, and improve coastal ecosystem management by: (1) developing a community dedicated to coastal wetland carbon science for basic research, policy development, and management, (2) exploring the ecological links among coastal wetlands, estuaries, and the atmosphere, and (3) sharing data and analysis tools that support the diverse needs of scientists, policy makers and managers. Activity 1 will establish a repository for participant-contributed data, and a central portal for downloading data from repositories of interest to the coastal carbon community. Activity 2 will create a Coastal Wetland Carbon website to attract participation of diverse users by providing a variety of resources that meet their needs. It will provide data analysis tools, a knowledge sharing resource, a video library of training modules in standard methods, a code library to support modeling, links to publications, and a webinar library. This RCN project will also provide outreach via a series of webinars and town hall gatherings at professional meetings, host a series of workshops on scientific gaps in coastal carbon, and develop a web-based tool for modeling.</AbstractNarration>
+    <MinAmdLetterDate>02/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655622</AwardID>
+    <Investigator>
+      <FirstName>J. Emmett</FirstName>
+      <LastName>Duffy</LastName>
+      <EmailAddress>duffye@si.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>J. Patrick</FirstName>
+      <LastName>Megonigal</LastName>
+      <EmailAddress>megonigalp@si.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Holmquist</LastName>
+      <EmailAddress>HolmquistJ@si.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Smithsonian Institution</Name>
+      <CityName>Arlington</CityName>
+      <ZipCode>222023709</ZipCode>
+      <PhoneNumber>2026337110</PhoneNumber>
+      <StreetAddress>Office of Sponsored Projects</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1181</Code>
+      <Text>ECOSYSTEM STUDIES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1181</Code>
+      <Text>ECOSYSTEM STUDIES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1664</Code>
+      <Text>RESEARCH COORD NETWK IN BIO SC</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

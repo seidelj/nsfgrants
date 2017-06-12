@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Colorado State University Site Addition: I/UCRC Center for Configuration Analytics and Automation</AwardTitle>
+<AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>149972</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitri Perkins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The NSF IUCRC Center for Configuration Analytics and Automation (CCAA) addresses research issues related to the security, safety, and resiliency of information technology (IT) systems.  The PIs at Colorado State University (CSU) are engaged in cyber-security and resiliency of applications spanning multiple sectors, including health care, energy security, transportation security, and Internet of Things.  Complementing the IT security expertise of the existing CCAA Centers symbiotically, the current center will further strengthen the safety, security, and resiliency of IT and cyber physical systems thereby strengthening the nation's critical infrastructure. The planned research projects of the Center promise significant societal benefits and is likely to attract minority students, specially women. In addition, some funds from this research will be used for outreach initiatives, reaching out to students at all levels including K12, and trying to increase the participation of minority students in STEM subjects. The project will also encourage the participation of minority-owned businesses in the Center.&lt;br/&gt;&lt;br/&gt;The University of North Carolina at Charlotte (UNCC) and George Mason University (GMU) jointly established the multi-university Center for Configuration Analytics and Automation (CCAA) under the aegis of the NSF I/UCRC Program in May 2013 to help commercial and government sectors improve security and resiliency of enterprise IT systems, cloud infrastructure, and cyber physical systems.  Configuration analytics and automation methodology and tools are being developed by the center so as to provide safety, security, and survivability of IT services and infrastructures.  The PIs at Colorado State University (CSU) have been focusing on problems related to securing and managing complex IT systems in the energy sector, health sector, transportation sector, the Internet of Things (IoT) and the next generation Internet infrastructure. The consensus is that challenges to IT security are many, the efforts are more often than not uncoordinated and piecemeal, the dawn of Internet of Things and increased sophistication of attackers are making it worse, and human interactions are bringing in an additional layer of complexity. Configuration analytics and automation in targeted application domains are more needed now than ever before to design effective solutions. Colorado State University (CSU) has teamed up with researchers and partners of the CCAA and established the CSU site of CCAA, to foster further synergistic activities that address the common need in many of these areas including security and resiliency of oil and natural gas plants, radar networks and IoT networks. Several industries have committed membership to the CSU site of CCAA and the CCAA team believes that such joint efforts in focused areas will make the nation even stronger in cyber defense and resiliency.</AbstractNarration>
+<MinAmdLetterDate>02/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1650573</AwardID>
+<Investigator>
+<FirstName>Indrakshi</FirstName>
+<LastName>Ray</LastName>
+<EmailAddress>iray@cs.colostate.edu</EmailAddress>
+<StartDate>02/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christos</FirstName>
+<LastName>Papadopoulos</LastName>
+<EmailAddress>christos@colostate.edu</EmailAddress>
+<StartDate>02/21/2017</StartDate>
+<EndDate>03/09/2017</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Indrajit</FirstName>
+<LastName>Ray</LastName>
+<EmailAddress>indrajit.ray@colostate.edu</EmailAddress>
+<StartDate>02/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

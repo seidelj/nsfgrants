@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Advanced Trace-Oriented Binary Code Analysis</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2022</AwardExpirationDate>
+    <AwardAmount>94413</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sol J. Greenspan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Binary code analysis is very attractive from a security viewpoint. First, in many tasks such as malware analysis, the source code of the program under examination is often absent, and the analysis has to be done on binary code. Second, even the source code is available, binary analysis allows us to reason about the real instructions executed on hardware and avoid the well-known WYSINWYX problem, What You See Is Not What You Execute. Third, some program behaviors, such as cache access patterns, are only exhibited in the low-level code. On the other hand, binary code analysis is faced with an increasing challenge caused by the emerging, readily available code obfuscation techniques. Traditional signature-based malware detection is often problematic as it relies on file hashes and byte (or instruction) signatures which are not very resilient to obfuscation.&lt;br/&gt;&lt;br/&gt;This project tackles the challenge by proposing several advanced methods that combine techniques from the behavior and semantics perspectives. Two new concepts, System Call Sliced Segment Equivalence Checking and N-gram Basic Block Semantics Memoization, are proposed to achieve better obfuscation resiliency and scalability. Compared with the existing approaches, these methods are based on the strong principles of program semantics and logics, more resilient to automatic obfuscation schemes, and more scalable with the proposed advanced semantics memoization techniques. In addition, the application is extended to side-channel detection with a new rigorous model. Upon completion, the project will make a significant contribution to binary code analysis in general. It will advance the state of the art of malware analysis and side-channel detection and help better defend cyber attacks, leading to more secure cyber space. Broader impact will also result from the education and dissemination initiatives.</AbstractNarration>
+    <MinAmdLetterDate>03/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652790</AwardID>
+    <Investigator>
+      <FirstName>Dinghao</FirstName>
+      <LastName>Wu</LastName>
+      <EmailAddress>dwu@ist.psu.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Pennsylvania State Univ University Park</Name>
+      <CityName>UNIVERSITY PARK</CityName>
+      <ZipCode>168027000</ZipCode>
+      <PhoneNumber>8148651372</PhoneNumber>
+      <StreetAddress>110 Technology Center Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8060</Code>
+      <Text>Secure &amp;Trustworthy Cyberspace</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>025Z</Code>
+      <Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7434</Code>
+      <Text>CNCI</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

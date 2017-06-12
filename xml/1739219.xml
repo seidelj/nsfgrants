@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Hardness and Virtual Fatigue Test Analysis</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project will be focused on improving design process efficiency for product development teams. This project will explore implementation of a web-based software that will be scalable, cost effective and comprehensive. Currently, many small to medium manufacturers cannot afford long-term simulation software due to high licensing and operating costs. To ensure durability, they rely heavily on a series of full-scale physical tests. Manufacturers who can afford existing software suites still utilize extensive physical testing, as simulation results are not solely adequate. This innovative technology allows for intelligent design changes and improvements to be implemented prior to prototyping and testing at an affordable rate for all manufacturers. This can significantly reduce the industry's reliance on physical testing, which can increase design time and product development costs.&lt;br/&gt;&lt;br/&gt;This I-Corps Project relies on an innovative relationship between the multi-scale hardness properties of a material and its long-term fatigue performance. By measuring the hardness of material, the technology can predict long-term product life. Currently, durability simulations are performed utilizing finite element analysis simulations and experimentally obtained material fatigue properties, neglecting important processing properties such as hardness and roughness. As a result, such simulations are often not accurate enough to predict the long-term performance of a product and thus necessitating physical testing for verification. The inclusion of processing parameters obtained through hardness testing in such simulation allows the designer to take into account many other contributing material factors and create a more robust and comprehensive simulation. This more accurate prediction of long-term product performance can drastically reduce the amount of physical testing necessary to verify a product is ready for the market. Using the multi-scale material properties from the hardness test, the proposed web-based software solution will be able to assist product engineers in design decisions regarding long term performance in any new or modified part.</AbstractNarration>
+<MinAmdLetterDate>05/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1739219</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Kujawski</LastName>
+<EmailAddress>daniel.kujawski@wmich.edu</EmailAddress>
+<StartDate>05/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Western Michigan University</Name>
+<CityName>Kalamazoo</CityName>
+<ZipCode>490085200</ZipCode>
+<PhoneNumber>2693878298</PhoneNumber>
+<StreetAddress>1903 West Michigan Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

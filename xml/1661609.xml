@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>A Thermo-Kinetic Approach to Enhance the Use of Clays in Concrete</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2020</AwardExpirationDate>
+    <AwardAmount>393948</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Y. Grace Hsuan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In response to the incessantly increasing demand for sustainable concretes for the construction of infrastructure, past studies have identified carbon-efficient materials (e.g., fly ash, slag) for partial replacement of cement in concrete. High-volume use of these materials, however, is only beneficial when they exhibit enhanced reactivity in concrete environments. As fundamental composition-reactivity relationships for these materials are not well established, their selection is based on trial-and-error based approaches, which are unreliable and often lead to impoverished performance. Low quality and limited availability of such materials further marginalizes their adoption as construction materials. Therefore, to have a significant global impact, abundant, inexpensive, carbon-efficient, and highly reactive materials need to be identified and adapted for use in concrete. Clays, which are abundant in all geological settings, meet all of these criteria. This research aims to formulate binders for concrete by replacing up to 70% of cement with clays and other readily available inorganic materials. A holistic approach, based on accurate characterizations of reactivity, thermodynamic interactions and microstructural development, is employed to develop cost- and energy-efficient strategies to achieve enhanced reactivity of clays, including widely available low-grade clays, thus promoting their use as cement replacement materials for concrete. Overall, outcomes of this work will define a new paradigm in methods of proportioning high volumes of clay in concretes without conceding performance, thereby charting a path for widespread adoption of truly sustainable concretes. Knowledge dissemination activities, including training of underrepresented students and outreach activities to inform professionals and general audience of the economic and societal impacts of designing clay-rich sustainable concretes, will extend the impact of this research. &lt;br/&gt;&lt;br/&gt;This study employs harmonized experimental and computational tasks to elucidate fundamental composition-reactivity-microstructure-property correlations in sustainable binder systems. Advanced structure characterization and novel microcalorimetry-based reactivity-assessment techniques are used in tandem to link composition of clays to their reactivity. This knowledge is used to develop energy-efficient activation procedures that maximize the reactivity of clays, including kaolinite-deficient clays. A thermodynamic model in conjunction with experiments is used to bolster the binder?s reactivity through controlled additions of inorganic additives that synergistically interact with cement and clay to maximize the formation of space-filling reaction products. A suite of microstructure and performance characterization techniques, including a microstructure-based 3D lattice Boltzmann method, are employed to relate the microstructural evolution to the development of engineering properties. This is followed by rigorous evaluations of specification-based engineering properties of concrete made with clay-rich sustainable binders. Knowledge gained from these studies are consolidated to develop guidelines that enable selection and regulation of physical/chemical properties of clays to design sustainable concretes with enhanced properties.</AbstractNarration>
+    <MinAmdLetterDate>03/31/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/31/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1661609</AwardID>
+    <Investigator>
+      <FirstName>Aditya</FirstName>
+      <LastName>Kumar</LastName>
+      <EmailAddress>kumarad@mst.edu</EmailAddress>
+      <StartDate>03/31/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Hongyan</FirstName>
+      <LastName>Ma</LastName>
+      <EmailAddress>mahon@mst.edu</EmailAddress>
+      <StartDate>03/31/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Missouri University of Science and Technology</Name>
+      <CityName>Rolla</CityName>
+      <ZipCode>654096506</ZipCode>
+      <PhoneNumber>5733414134</PhoneNumber>
+      <StreetAddress>300 W 12th Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1637</Code>
+      <Text>Structural and Architectural E</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>039E</Code>
+      <Text>STRUCTURAL SYSTEMS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Using High-throughput Technologies to Quickly and Comprehensively Probe Enzymatic Function and Promiscuity</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Chemical synthesis is the main route to develop new molecules for use in biomaterials, pharmaceutical drugs, and as chemical probes. Chemists often use dangerous, time-consuming, and costly techniques when synthesizing these compounds which must then be tested for relevant and robust function. Enzymes are nature's powerful chemists, performing many synthetically challenging chemical transformations simply and safely. It is the purpose of the grant to utilize a high-throughput technique to rapidly test enzymatic function and substrate promiscuity to realize enzymes able to replace dangerous and expensive synthetic chemistry methods. Using "mRNA display", which is a technology to generate and screen massive nucleotide-encoded peptide libraries, millions of potential enzyme substrates will be synthesized and tested for enzymatic modification. This streamlined process will provide a quick, comprehensive analysis of enzyme promiscuity to reveal the usefulness of an enzyme for organic synthesis applications. The project will be conducted under the guidance of Dr. Hiroaki Suga, an expert on mRNA display, at the University of Tokyo in Japan. &lt;br/&gt;&lt;br/&gt;LynD is a putatively promiscuous enzyme that acts on peptide substrates in the maturation of ribosomally synthesized and post-translationally modified peptide (RiPP) natural products. It is the purpose of LynD to transform cysteine residues into thiazolines -- often a necessary transformation for RiPP biological activity. Using mRNA display techniques, millions of unique substrates for LynD will be synthesized and attached to genetic barcodes. Substrates that are fully modified by LynD will be isolated using a resin that covalently reacts with unmodified cysteines. Once modified substrates are purified, the genetic barcodes will be sequenced to reveal the comprehensive substrate promiscuity of LynD. Given a proper selection technique between modified and unmodified enzyme substrates, it is envisioned that the processes used in this award will be expandable to other peptide modifying enzymes. &lt;br/&gt; &lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the Japan Society for the Promotion of Science.</AbstractNarration>
+<MinAmdLetterDate>05/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713931</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Fleming</LastName>
+<EmailAddress/>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Fleming                 Steven         R</Name>
+<CityName>Chapel Hill</CityName>
+<ZipCode>275145307</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5921</Code>
+<Text>JAPAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

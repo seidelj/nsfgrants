@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>DISSERTATION RESEARCH: Does a large detritus pool enhance ecosystem resilience in response to an episodic perturbation?</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2018</AwardExpirationDate>
+    <AwardAmount>15390</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010209</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>John Schade</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Storm water runoff can erode and transport high levels of sediment and nutrients to lakes. This export is especially pronounced in the Midwestern U.S., where large areas of agriculture have left exposed soils that easily wash away during storms. These large pulses of sediments and nutrients to lakes during storms can affect drinking water quality, recreational opportunities, and commercial and sport fishing. It is expected that storms in the Midwestern U.S. will increase in severity and frequency over the next 100 years. This Doctoral Dissertation Improvement Grant will provide funds to understand how lakes will respond to storms under these changing conditions. In addition, this project will directly support the research of one doctoral student, and will provide hands-on research opportunities for undergraduate students.&lt;br/&gt;&lt;br/&gt;This research will experimentally examine what factors contribute to lake ecosystem resilience following storm events, using replicated aquatic mesocosms (5000 liter tanks) that simulate conditions during large storm events in a lake. This research will answer three general questions: (1) Do larger detritus pools speed lake resilience (the time necessary for ecosystems to recover) following large storm events? (2) How do additions of sediment and nutrients that occur during large storm events affect lake recovery time? and (3) How do additions of sediment and nutrients and detritus pool size interactively affect lake resilience? The experiment will include manipulations of detritus pool size, hydraulic flushing (a physical disturbance that reduces the amount of algae), and addition of sediment and nutrients. A factorial design will be used to isolate the mechanisms that influence lake recovery following large storm events. Understanding how these factors interact is essential to understanding ecosystem resilience and for effective management of water quality in lakes and reservoirs.</AbstractNarration>
+    <MinAmdLetterDate>04/16/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/16/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1701825</AwardID>
+    <Investigator>
+      <FirstName>Tanner</FirstName>
+      <LastName>Williamson</LastName>
+      <EmailAddress>willi571@miamioh.edu</EmailAddress>
+      <StartDate>04/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>William</FirstName>
+      <LastName>Renwick</LastName>
+      <EmailAddress>renwicwh@muohio.edu</EmailAddress>
+      <StartDate>04/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Miami University</Name>
+      <CityName>Oxford</CityName>
+      <ZipCode>450563653</ZipCode>
+      <PhoneNumber>5135293600</PhoneNumber>
+      <StreetAddress>500 E High Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1181</Code>
+      <Text>ECOSYSTEM STUDIES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Renewable Energy Generation and Storage</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>324000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03070000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Materials Research</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jose Caro</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Non-Technical Description: &lt;br/&gt;The importance of affordable and high-efficiency technologies for renewable energy has been well established. There is also a need for scientifically and technologically competent students with sufficient experience in research methods, ethics, and team work to succeed in advanced technology careers. With an interdisciplinary team of scientists and engineers, new buildings and labs, and extensive materials characterization tools, this second phase of the NSF Research Experiences for Undergraduates (REU) program in Renewable Energy Generation and Storage will address important scientific, technological, and training needs in the energy sector. This REU program will bring nine STEM undergraduate students (sophomore and junior level) together each year for a 10 week summer experience in a stimulating and supportive research environment. The program will build on past success in which 64% of the REU participants came from community colleges and small 4-year schools that do not have the capacity to offer this kind of research experience for students. Our successful professional development and presentation skills workshops will be continued and expanded to include post-program mentoring through an individualized development program (IDP) that is personalized for each student. &lt;br/&gt;&lt;br/&gt;Technical Description: &lt;br/&gt;The students participating in this program will be able to select from 14 research active faculty representing interdisciplinary areas in smart energy ranging from chemistry and physics, to materials science, mechanical engineering and electrical engineering. The supportive and challenging research environment created for each participant will focus on a solution to current global energy challenges including energy generation, energy storage, and energy efficient electronic systems that is an active area of modern materials and engineering research. Students will benefit from carefully planned experimental problems designed to yield significant results in the 10 week period, while providing the opportunity to contribute as a member of a larger interdisciplinary research team to advance scientific knowledge. Mentored by research teams in the Department of Energy sponsored NorthEast Center for Chemical Energy Storage (NECCES) and the Center for Autonomous Solar Power (CASP) at Binghamton University, the students will also have the opportunity to interact with industrial partners such as Corning Glass and Lockheed-Martin, and invited government lab speakers to learn about different career paths.</AbstractNarration>
+    <MinAmdLetterDate>03/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658990</AwardID>
+    <Investigator>
+      <FirstName>Wayne</FirstName>
+      <LastName>Jones, Jr.</LastName>
+      <EmailAddress>wjones@binghamton.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jeffrey</FirstName>
+      <LastName>Mativetsky</LastName>
+      <EmailAddress>jmativet@binghamton.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>SUNY at Binghamton</Name>
+      <CityName>BINGHAMTON</CityName>
+      <ZipCode>139026000</ZipCode>
+      <PhoneNumber>6077776136</PhoneNumber>
+      <StreetAddress>4400 VESTAL PKWY E</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7222</Code>
+      <Text>XC-Crosscutting Activities Pro</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1711</Code>
+      <Text>MATERIALS EDUCATION AND RESEARCH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8396</Code>
+      <Text>Clean Energy Technology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8611</Code>
+      <Text>Energy Efficiency and End Use</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

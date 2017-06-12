@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: The Niela Project: A Qualitative Investigation of the Experiences of Black Women in Pursuit of Doctorates and Postdoctorates in Engineering and Computing</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2020</AwardExpirationDate>
+    <AwardAmount>120000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mary Poats</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Niela Project: A Qualitative Investigation of the Experiences of Black Women in Pursuit of Doctorates and Postdoctorates in Engineering and Computing, is a 4-year collaborative research study (conducted by the University of California-Irvine?s Heidelberg College and Engineers for Equity) to explore how Black female doctoral students and postdoctoral scholars succeed in their engineering and computer science programs. Although university administrators are well informed of the graduation disparities for Black women, there are no known models or interventions in place that better serve them. Therefore, the goal of this effort is to improve the understanding of the dynamics and factors that Black women's experiences may have on their academic persistence and overall well-being.&lt;br/&gt;&lt;br/&gt;Interviews with faculty mentors and other advisors to 125 Black women graduate students and postdoctoral scholars in engineering and computer science will be conducted, along with a qualitative study of a population that has not yet been researched separately from the larger context of women graduate students and postdocs. The aim is to unveil the mentors' understanding of: 1) the women's experiences, 2) the specific challenges the women encounter as the mentors advise Black female doctoral students and postdoctoral scholars, and 3) the key strategies the mentors implemented to help the students persist and nurture their well-being. Additional outcomes of the study include an awareness of the key challenges Black female doctoral students and postdoctoral scholars in Engineering and Computer Science programs face on a daily basis; important ways to enhance their academic persistence; and programmatic changes that could broaden the participation of these students and postdoctoral scholars in Engineering and Computer Science.</AbstractNarration>
+    <MinAmdLetterDate>12/28/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/28/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647986</AwardID>
+    <Investigator>
+      <FirstName>Marjorie</FirstName>
+      <LastName>Shavers</LastName>
+      <EmailAddress>mshavers@heidelberg.edu</EmailAddress>
+      <StartDate>12/28/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Heidelberg College</Name>
+      <CityName>Tiffin</CityName>
+      <ZipCode>448832434</ZipCode>
+      <PhoneNumber>4194482000</PhoneNumber>
+      <StreetAddress>310 E Market Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7680</Code>
+      <Text>ENG DIVERSITY ACTIVITIES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>110E</Code>
+      <Text>EDUCATION RESEARCH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7680</Code>
+      <Text>ENG DIVERSITY ACTIVITIES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

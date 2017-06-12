@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Phenol Reactions in Aqueous Particles as a Source of Secondary Organic Aerosol</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>286056</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sylvia A. Edgerton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>It is established that wildfires and biomass burning emit particles directly that harm human health. It has recently been recognized that reactive gases emitted by burning wood can also convert to particles, and this indirect particle production would exacerbate the exposure problem for humans. The work will investigate the mechanisms by which key reactive gases in fire plumes react in the laboratory and field to quantify the indirect production of particles and estimate its impacts on human exposure.&lt;br/&gt;&lt;br/&gt;This research builds on recent laboratory work that phenols emitted by biomass burning in large amounts could provide a large source of secondary particles via reactions in cloud and fog drops since the phenols partition into the aqueous phase relatively easily. However, secondary particle enhancement has not yet been observed in the field presumably due to the effects of dilution and evaporation of semi-volatile gases during aging of fire plumes. The project will investigate if and how targeted phenols that are reactive gases present in significant amounts in biomass burning effluents can be converted to particles. The research will isolate and measure the fundamental processes in the laboratory and field and integrate them to elucidate the mechanism of phenol to particle conversion. The results will improve the assessment of the contributions of secondary particle formation in fire plumes to human exposure.</AbstractNarration>
+    <MinAmdLetterDate>04/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1649212</AwardID>
+    <Investigator>
+      <FirstName>Cort</FirstName>
+      <LastName>Anastasio</LastName>
+      <EmailAddress>canastasio@ucdavis.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Qi</FirstName>
+      <LastName>Zhang</LastName>
+      <EmailAddress>dkwzhang@ucdavis.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Davis</Name>
+      <CityName>Davis</CityName>
+      <ZipCode>956186134</ZipCode>
+      <PhoneNumber>5307547700</PhoneNumber>
+      <StreetAddress>OR/Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1524</Code>
+      <Text>ATMOSPHERIC CHEMISTRY</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

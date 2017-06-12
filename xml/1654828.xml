@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: The Impact of Face-to-Face and Remote Interviewing</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>145095</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Scott Barclay</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Despite widespread dissemination of best-practice standards for conducting forensic interviews, many jurisdictions lack the expertise to skillfully investigate crimes involving child witnesses. An efficient way to ensure that all jurisdictions have access to highly trained child interviewers is to conduct remote (live-streaming video) forensic interviews. Remote interviewing could reduce investigative response time, spare investigative resources, and accelerate case disposition. However, the ability of remote interviewing to elicit eyewitness evidence from children has not been sufficiently tested and, therefore, will certainly prompt challenges regarding children?s testimonial reliability. The current project is a comprehensive and theoretically grounded evaluation of the effectiveness of remote interviewing of child witnesses. Results will be disseminated to scientists and forensic professionals through publications and presentations, thereby informing policies and guidelines for the use of remote forensic interviews with children. Because remote interviewing increases access to specialized expertise, project results will also impact how children are questioned by electronic means in non-forensic contexts. The project will provide research training to dozens of students at two research sites and promote greater awareness of evidence-based practice through outreach to practitioners who work with child witnesses. &lt;br/&gt;&lt;br/&gt;Using an established paradigm that produces salient touching experiences, individual children at two sites (ages 4 to 8 years) will be told that a male assistant can no longer touch their skin when he delivers a germ education program. The assistant will touch each child once and realize an impending mistake before he completes a second touch. Afterward, children will hear a story from their parents that contains misinformation about the experience, including narrative about a nonexperienced touch. During interviews conducted in traditional face-to-face or remote formats, children will answer questions about the germ education event and answer a series of questions that tests their ability to distinguish experienced from suggested events. By comparing the completeness and accuracy of children?s testimonies across formats, this study will determine whether remote interviewing elicits testimony that is comparable in quality to the testimony elicited by face-to-face interviewing. Measures of behavioral inhibition and executive function will determine whether remote interviewing is beneficial for children who are behaviorally inhibited or contraindicated for typically-developing children who have poor cognitive control.</AbstractNarration>
+    <MinAmdLetterDate>01/30/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/30/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1654828</AwardID>
+    <Investigator>
+      <FirstName>Christopher</FirstName>
+      <LastName>Davoli</LastName>
+      <EmailAddress>davol1cc@cmich.edu</EmailAddress>
+      <StartDate>01/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Debra</FirstName>
+      <LastName>Poole</LastName>
+      <EmailAddress>poole1da@cmich.edu</EmailAddress>
+      <StartDate>01/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Central Michigan University</Name>
+      <CityName>Mount Pleasant</CityName>
+      <ZipCode>488590001</ZipCode>
+      <PhoneNumber>9897746777</PhoneNumber>
+      <StreetAddress>Office of Research &amp; Graduate St</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1372</Code>
+      <Text>LAW AND SOCIAL SCIENCES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

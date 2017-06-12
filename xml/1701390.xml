@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Van der Waals Heteromaterials</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>434692</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tania Paskova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Description: Layered materials consists of two-dimensional molecular-planes that are stacked on top of each other and held together by only weak forces. Although the interactions between layers are weak, it has been recently shown that they are critical in controlling the properties of these materials. In nature, layered compounds exhibit identical layer composition. In this project, the research team is combining diverse layered materials with atomic layer precision and thus creates artificially layered materials with novel properties. Specifically, the team is gaining insight how interfaces between dissimilar layered materials controls material properties and this has far reaching implications for designing materials at the nanoscale. Better understanding of interlayer interactions enables discovery of novel materials with applications as diverse as superconductivity or solar energy harvesting. The program advocates the increase of minority students in STEM research and is embedded in activities which allows graduate students to gain experience internationally at research facilities in Europe. &lt;br/&gt;&lt;br/&gt;Technical Description: Quantum confinement and interlayer hybridization in van der Waals materials strongly modify the properties of single layers compared to bulk materials. The research team aims to understand how such weak interlayer interactions modify the properties of artificial van der Waals heterostructures and explores how these modifications can be utilized for designing materials with desirable properties. In this project, van der Waals heterostructures are synthesized by direct growth of layered materials on van der Waals substrates. The variation of their electronic properties due to interlayer interactions are characterized by angle resolved photoemission spectroscopy and scanning tunneling microscopy/spectroscopy. Scanning probe techniques also allow the characterization of artificially grown nanostructures and lateral interfaces. Quantum critical phenomena, such as charge density wave transitions, are anticipated to be sensitively dependent on interlayer interactions and thus the tuning of transition temperatures is being studied in metallic materials. Band gap tuning as a function of layers and/or interfaces with dissimilar materials are being studied in semiconducting materials. Finally, modifications of single layer electronic properties by molecular adsorption, charge transfer doping, or field effect is explored by combining the capabilities of growing single layers with a new nanoprobe transport measurement under ultra-high vacuum conditions.</AbstractNarration>
+<MinAmdLetterDate>04/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701390</AwardID>
+<Investigator>
+<FirstName>Matthias</FirstName>
+<LastName>Batzill</LastName>
+<EmailAddress>mbatzill@cas.usf.edu</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Florida</Name>
+<CityName>Tampa</CityName>
+<ZipCode>336129446</ZipCode>
+<PhoneNumber>8139742897</PhoneNumber>
+<StreetAddress>3702 Spectrum Blvd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

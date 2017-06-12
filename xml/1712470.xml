@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Topological methods in arithmetic and algebra</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>94697</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project weaves together several threads in the disparate areas of topology, arithmetic, and algebra.  Questions in arithmetic - such as determining the symmetries of a number system - can be difficult to resolve directly, but are sometimes easier to address in a probabilistic or statistical sense.  One main goal of this project is to use tools in topology (and specifically the geometry of configuration spaces of points in the plane) to resolve geometric analogues of these statistical questions in arithmetic.  Along the way, the Principal Investigator will develop tools to study the structure of algebraic objects governing these questions; these tools will be strongly informed by the geometric setting of these configuration spaces.&lt;br/&gt;&lt;br/&gt;The Principal Investigator will particularly aim to establish and refine conjectures of Malle, Delaunay, and others in the function field setting.  The methods involve a new tool for the computation of the homology of braid groups using the homological algebra of braided Hopf algebras. As part of this work, the Principal Investigator will develop a structure theory for braided Hopf algebras, and use this to better understand their homological algebra.  Finally, the Principal Investigator will reverse the roles of the subjects involved, and  use arithmetic tools to address questions in chromatic homotopy theory, particularly surrounding the chromatic splitting and redshift conjectures.</AbstractNarration>
+<MinAmdLetterDate>05/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712470</AwardID>
+<Investigator>
+<FirstName>Craig</FirstName>
+<LastName>Westerland</LastName>
+<EmailAddress>cwesterl@umn.edu</EmailAddress>
+<StartDate>05/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

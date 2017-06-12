@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Student Travel Support for IEEE Radar Conference 2017; Seattle, WA, May 8-12, 2017</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>7500</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07010000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jenshan Lin</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The IEEE Radar Conference is an annual flagship conference on radar systems and signal processing, sponsored by the IEEE Aerospace and Electronic Systems Society. The 2017 IEEE Radar Conference will be held in Seattle, WA from May 8 to May 12, 2017. About 450 to 500 attendees are expected. Radar is an important technology to the United States (US) and is used in defense, security, transportation, weather monitoring, and many other emerging applications including collision-avoidance automobile radar, self-driving vehicles, non-invasive patient monitoring, and medical imaging/diagnostics. To support the training of the next generation scientists and engineers working on radar technologies, this NSF grant will provide partial travel support for graduate students to present their research papers at the conference and learn the cutting-edge research and development in radar systems. The travel grants will be awarded competitively to graduate students from US universities who will be presenting papers at the conference. The awardees will be selected by a committee of the conference and the paper quality will be considered in the selection process. The conference organizing committee has pledged to match NSF support with the same amount of funds from corporate sponsors. The total amount of funds will support a minimum of 15 awardees.</AbstractNarration>
+    <MinAmdLetterDate>04/16/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/16/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1727184</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Sahr</LastName>
+      <EmailAddress>jdsahr@u.washington.edu</EmailAddress>
+      <StartDate>04/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Washington</Name>
+      <CityName>Seattle</CityName>
+      <ZipCode>981950001</ZipCode>
+      <PhoneNumber>2065434043</PhoneNumber>
+      <StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Washington</StateName>
+      <StateCode>WA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7564</Code>
+      <Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>105E</Code>
+      <Text>RF/Microwave &amp; mm-wave tech</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

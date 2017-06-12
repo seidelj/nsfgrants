@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Medium: A Cloudless Universal Translator</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardAmount>254652</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tao Li</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project explores the research foundations necessary to build a universal language translator on a portable computing device for secure private use without the need for reliance on cloud servers. Transformative developments in both machine learning and computer hardware design have made this exciting challenge feasible. The project will nurture a true bidirectional co-design process between researchers in both fields. The broader impacts of the project include: 1) the practical applications of widely available language translation technology, and 2) the training of graduate engineers who have specialization in machine learning as well as hardware and circuit design, skills in broad demand in US industry.&lt;br/&gt;&lt;br/&gt;The problem of developing hardware to fit deep learning models is not simply one of fitting current machine learning models on current circuit technology, as the models are much too large, too slow, and too energy-hungry. This project will need to develop novel machine learning techniques that take these factors into account. Machine learning researchers mostly optimize for accuracy; however, the project goal will require considering trade-offs on model size, speed, and computation. Conversely, the hardware design will have to consider and exploit the unique properties of the neural models, such as high-tolerance to certain types of noise, repeated computational structure, and non-linear interactions. The research approach includes three major areas for interaction: model compression, approximation in architecture, and training for unreliable hardware. Succeeding in these goals will be necessary to build a successful on-device system.</AbstractNarration>
+<MinAmdLetterDate>05/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1704834</AwardID>
+<Investigator>
+<FirstName>Gu-Yeon</FirstName>
+<LastName>Wei</LastName>
+<EmailAddress>guyeon@eecs.harvard.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Brooks</LastName>
+<EmailAddress>dbrooks@eecs.harvard.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Rush</LastName>
+<EmailAddress>srush@seas.harvard.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Whatmough</LastName>
+<EmailAddress>pwhatmough@seas.harvard.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

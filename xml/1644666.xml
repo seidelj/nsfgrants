@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps Sites - Type I: Brandeis University I-Corps Site Housed at the Hassenfeld Family Innovation Center</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2022</AwardExpirationDate>
+    <AwardAmount>47410</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Anita J. LaSalle</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project establishes an I-Corps Site at Brandeis University, managed by the Office of Technology Licensing and housed at the Hassenfeld Family Innovation Center (HFIC). NSF Innovation Corps (I-Corps) Sites are NSF-funded entities established at universities whose purpose is to nurture and support multiple, local teams to transition their technology concepts into the marketplace. Sites provide infrastructure, advice, resources, networking opportunities, training and modest funding to enable groups to transition their work into the marketplace or into becoming I-Corps Team applicants. The Site at Brandeis builds on resources that are central to the mission of HFIC, including: training, mentoring, and external engagement with industry.&lt;br/&gt;&lt;br/&gt;This project utilizes a modest amount of funding ($ 237,050 over five years) to establish an I-Corps Site that will serve at least 15 commercialization teams each year. All of the elements for a successful proposal and project are in place. The institution has a track record for commercialization. They have interacted with the regional I-Corps Node and understand the I-Corps training process. There is an established pipeline of teams and there is a specific plan for recruiting underrepresented teams and for mentoring those teams through the commercialization processes.&lt;br/&gt;&lt;br/&gt;This projects is likely to not only influence the culture of this institution but also impact the commercialization ecosystem in their geographical region.</AbstractNarration>
+    <MinAmdLetterDate>02/01/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/01/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1644666</AwardID>
+    <Investigator>
+      <FirstName>Rebecca</FirstName>
+      <LastName>Menapace</LastName>
+      <EmailAddress>menapace@brandeis.edu</EmailAddress>
+      <StartDate>02/01/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Brandeis University</Name>
+      <CityName>WALTHAM</CityName>
+      <ZipCode>024532728</ZipCode>
+      <PhoneNumber>7817362121</PhoneNumber>
+      <StreetAddress>415 SOUTH ST MAILSTOP 116</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8046</Code>
+      <Text>I-Corps - Sites</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

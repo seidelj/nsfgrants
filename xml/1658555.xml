@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Student Travel Support Program for 2016 IEEE Conference on Decision and Control, Las Vegas, NV, December 12-14, 2016</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>17000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07010000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Radhakisan S. Baheti</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award supports student travel to and participation in the 55th IEEE Conference on Decision and Control (CDC), to be held in Las Vegas, NV, December 12-14, 2016. For over fifty years, the CDC has been the world's leading annual forum for scientific and engineering researchers who share an interest in systems and control theory and the foundations of systems and control technology. As in previous years, the 55th CDC will feature the presentation of contributed and invited papers, tutorial sessions, as well as plenary and semi-plenary sessions and workshops. We anticipate that the conference will draw over 1500 participants, including more than 250 students and, recognizing the importance of students to the present and future of the Control Systems Society (CSS), hope that NSF will continue its long-standing tradition of supporting the student travel at CDC, and will join CSS in facilitating the student travel program.&lt;br/&gt;&lt;br/&gt;The range of topics covered at the annual CDC is extremely broad, mirroring the varied applications of control and systems theory. The systems theoretic approach has played a critical role in the development of many contemporary infrastructures and technology affecting everyday life. Systems and control theoretic tools are central in the design, operation, and security of cyber-physical systems, where they can inform researchers about ways to make large networks (e.g., power, communication, computer, traffic) robust to deliberate and accidental disturbances.&lt;br/&gt;&lt;br/&gt;The CDC provides a unique opportunity for students receiving proposed funds to interact with members of the professional community in a stimulating setting, and to exchange ideas with a broad group of colleagues. The large number of workshops before the conference and the interactive format of many of the presentations will allow additional opportunity for training and learning. Specific outreach effort will be devoted to advertising the conference and the student travel award program to under-represented minorities.</AbstractNarration>
+    <MinAmdLetterDate>11/30/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/30/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658555</AwardID>
+    <Investigator>
+      <FirstName>Elisa</FirstName>
+      <LastName>Franco</LastName>
+      <EmailAddress>efranco@engr.ucr.edu</EmailAddress>
+      <StartDate>11/30/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Riverside</Name>
+      <CityName>RIVERSIDE</CityName>
+      <ZipCode>925211000</ZipCode>
+      <PhoneNumber>9518275535</PhoneNumber>
+      <StreetAddress>Office of Research</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7607</Code>
+      <Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>092E</Code>
+      <Text>Control systems &amp; applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

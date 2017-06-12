@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Hierarchical Multiscale Methods for Flows in Fractured Media</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Multiscale fractured media occur in many subsurface and material science applications. The simulations of complex processes in fractured media are challenging due to multiple scales and high contrast. The material properties within fractures can be very different from the background properties. These problems require some types of model reduction. In this project, the EAPSI fellow will study developing and applying hierarchical modeling concepts in these multiscale simulations. This research will be conducted in the collaboration with Dr. Viet Ha Hoang at Nanyang Technological University. Dr. Hoang has an extensive experience in developing hierarchical models for multiscale problems. The researcher will learn these techniques and work with Dr. Hoang closely to develop these hierarchical methods for flows in fractured media. The research can have an impact in many areas of research, which is important for US. These include environmental problems such as CO2 sequestration or unconventional hydrocarbon recovery.&lt;br/&gt; &lt;br/&gt;Multiscale methods, though efficient, it may require many local simulations. These local solutions involve performing local computations in each computational grid. The computational cost associated with local solves can be drastically reduced if one can take into account the neighboring coarse-grid information and local solutions.  Many neighboring coarse-grid blocks share similar features and effective permeabilities of the neighboring coarse-grid blocks are close to each other. In this research, hierarchical approaches will be employed for local problems to reduce the computational cost by using different resolution in different coarse-grid blocks and combining these multi-resolution solutions to achieve an accurate approximation of the effective properties. These effective coefficients will be used to simulate the global flow. Modeling global large-scale fractures, multiscale finite element methods will be used.&lt;br/&gt; &lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the National Research Foundation of Singapore.</AbstractNarration>
+<MinAmdLetterDate>05/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713805</AwardID>
+<Investigator>
+<FirstName>Jun_Sur</FirstName>
+<LastName>Park</LastName>
+<EmailAddress/>
+<StartDate>05/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Park                    Jun_Sur        R</Name>
+<CityName>College Station</CityName>
+<ZipCode>778406924</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5927</Code>
+<Text>EAST ASIA, OTHER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

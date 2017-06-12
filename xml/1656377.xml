@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Conference Proposal: Semester on KPZ Universality and Directed Polymers</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>49450</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tomek Bartoszynski</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Semester on KPZ Universality and Directed Polymers will be hosted at the Centre International de Rencontres Mathematiques, in Luminy, France, from February 1 to July 31, 2017. The purpose of the programme is to bring together leading researchers from around the world to strengthen our understanding of KPZ universality. This is one of the most active areas of statistical mechanics and mathematical physics in the last ten years that is focused on studying the extremes of highly correlated random systems. Remarkably, the statistics governing the extremes appear to be universal regardless of the particular system under consideration, although thus far this has only been understood for very specific systems. The main focus of the program is to understand the unifying mechanism behind the universality, motivated by examples from directed polymer models. This will be done in an interdisciplinary manner using ideas from statistical mechanics, probability theory, dynamical systems, and partial differential equations. The intellectual merit of the semester lies in its potential to establish a cross-fertilization of ideas within different areas of mathematics and connect these ideas with theoretical physics and other fields of science. Broader impact will be realized via this exchange of ideas across disciplines and through the training of a new generation of students to carry on the work in this important field.&lt;br/&gt;&lt;br/&gt;In addition to enabling long-term collaborations between leading researchers, the semester will allow for the dissemination of new results with a conference on Qualitative Methods in KPZ Universality (April 24-27, 2017) and a small groups meeting on Random Walks in Random Environments (March 13-17, 2017).There will also be a research school on Random Structures in Statistical Mechanics and Mathematical Physics (March 6-10, 2017) aimed at introducing graduate students and other junior researchers to this exciting new field. Funds from this proposal will enable the participation of United States based students and junior researchers in these programs. &lt;br/&gt;&lt;br/&gt;Conference website: khanin-shlosman.weebly.com</AbstractNarration>
+    <MinAmdLetterDate>12/09/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/09/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656377</AwardID>
+    <Investigator>
+      <FirstName>Thomas</FirstName>
+      <LastName>Alberts</LastName>
+      <EmailAddress>alberts@math.utah.edu</EmailAddress>
+      <StartDate>12/09/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Utah</Name>
+      <CityName>SALT LAKE CITY</CityName>
+      <ZipCode>841128930</ZipCode>
+      <PhoneNumber>8015816903</PhoneNumber>
+      <StreetAddress>75 S 2000 E</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Utah</StateName>
+      <StateCode>UT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1263</Code>
+      <Text>PROBABILITY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

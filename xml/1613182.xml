@@ -27,14 +27,6 @@
     <ARRAAmount/>
     <AwardID>1613182</AwardID>
     <Investigator>
-      <FirstName>Timothy</FirstName>
-      <LastName>Chevral</LastName>
-      <EmailAddress>tt27@buffalo.edu</EmailAddress>
-      <StartDate>03/23/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Erin</FirstName>
       <LastName>McDonald</LastName>
       <EmailAddress>erinmcdo@buffalo.edu</EmailAddress>
@@ -42,12 +34,20 @@
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
+    <Investigator>
+      <FirstName>Timothy</FirstName>
+      <LastName>Chevral</LastName>
+      <EmailAddress>tt27@buffalo.edu</EmailAddress>
+      <StartDate>03/23/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
     <Institution>
       <Name>SUNY at Buffalo</Name>
-      <CityName>Buffalo</CityName>
-      <ZipCode>142607016</ZipCode>
+      <CityName>Amherst</CityName>
+      <ZipCode>142282567</ZipCode>
       <PhoneNumber>7166452634</PhoneNumber>
-      <StreetAddress>402 Crofts Hall</StreetAddress>
+      <StreetAddress>520 Lee Entrance</StreetAddress>
       <CountryName>United States</CountryName>
       <StateName>New York</StateName>
       <StateCode>NY</StateCode>

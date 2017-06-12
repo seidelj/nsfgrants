@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Measurement and Analysis of Osmosis-Mediated, Closed-cell Poroelastic Dynamics</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2022</AwardExpirationDate>
+    <AwardAmount>500000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kara Peters</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Faculty Early Career Development (CAREER) award will describe the physico-chemo-hydromechanical behavior of closed-cell fluid-solid composites under the regime of osmosis-driven motion. The plant kingdom quietly and efficiently goes about its life without the aid of muscle tissue. Despite this lack, plants can produce large and even rapid movements using water as the driving force. These movements enable energy harvesting. This award supports research efforts that use this osmosis-driven motion as inspiration. In leveraging plant architectures, the synthetic plant-tissue-analogs resulting from these efforts will provide a non-toxic, energy efficient, and tailored response. Simultaneously, such materials would require no connection to an external power support when used in water. The anticipated response of these hydraulic structures may be tuned to provide response variation as a function of both time and position. Responses such as these are essential for many tissue therapies and will benefit society via applications in healthcare and biomechanics. Further, the fundamental efforts supported by this award will enrich understanding of the hydraulic response of plants, a necessary component of detailed climate models. Educational activities for STEM outreach to young female athletes at sport camps will also be developed and extracurricular seminars on communication/rhetoric for scientific presentations will be established in collaboration with an English professor at the University of Illinois.&lt;br/&gt;&lt;br/&gt;The research team will develop a constitutive model for this currently undescribed class of materials by building on existing theories of poroelasticity for solids capable of finite deformation. Models will be informed by experiments on synthetic plant-tissue-analogs architected for a homogeneous deformation response when immersed in an aqueous environment. As validation of the final model, dynamically and/or inhomogeneously-deforming, architected composites will be designed and fabricated with an aim toward metastable, hierarchical self-assembled structures. In successfully modeling these materials, this work will fill an existing gap in the understanding of 'water relations' in plant tissue. Specifically, by controlling material and surface properties via engineered water-solid composites, this work will resolve an ongoing debate regarding inter- and intra-cellular water flow pathways and their dependence on the osmotic and hydrostatic pressure within the cells.</AbstractNarration>
+    <MinAmdLetterDate>01/26/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/26/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653676</AwardID>
+    <Investigator>
+      <FirstName>Shelby</FirstName>
+      <LastName>Hutchens</LastName>
+      <EmailAddress>hutchs@illinois.edu</EmailAddress>
+      <StartDate>01/26/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Urbana-Champaign</Name>
+      <CityName>CHAMPAIGN</CityName>
+      <ZipCode>618207473</ZipCode>
+      <PhoneNumber>2173332187</PhoneNumber>
+      <StreetAddress>SUITE A</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1630</Code>
+      <Text>Mechanics of Materials and Str</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>022E</Code>
+      <Text>SOLID MECHANICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>024E</Code>
+      <Text>MATERIALS DESIGN</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>026E</Code>
+      <Text>STRUCTURAL MECHANICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>027E</Code>
+      <Text>NANOMECHANICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9102</Code>
+      <Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

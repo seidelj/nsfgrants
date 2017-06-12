@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Correlated Random Processes in Physical and Radar Meteorology</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2020</AwardExpirationDate>
+    <AwardAmount>156119</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Nicholas F. Anderson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award allows for research on several intertwined issues related to radar meteorology, cloud physics, and the transfer of radiation through the atmosphere. The specific research tasks within the proposal will answer questions regarding why some raindrops do not fall at their terminal velocities, how radiation travels through layered dust, and how supercooled water freezes. These topics have a wide range of application, from improving radar estimates of rainfall to impacting materials sciences. The research will include international collaborators and provide educational and training opportunities for students. &lt;br/&gt;&lt;br/&gt;The researcher will be studying the presence and impact of correlated fluctuations in cloud and precipitation physics, radar meteorology, and radiative transfer. Theoretical studies, computer simulations, and field and laboratory data analysis will be conducted to answer questions related to five main research topics: deviations of falling raindrops from their expected terminal speed, radiative transfer through a vertically stratified medium, coherence in radar backscatter using high resolution and short pulse data, temporal and spatial correlations of precipitation and their dependence on scale, and the effects of pressure fluctuations on the nucleation and freezing of supercooled water droplets.</AbstractNarration>
+    <MinAmdLetterDate>01/31/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/31/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1639868</AwardID>
+    <Investigator>
+      <FirstName>Alexander</FirstName>
+      <LastName>Kostinski</LastName>
+      <EmailAddress>kostinsk@mtu.edu</EmailAddress>
+      <StartDate>01/31/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Michigan Technological University</Name>
+      <CityName>Houghton</CityName>
+      <ZipCode>499311295</ZipCode>
+      <PhoneNumber>9064871885</PhoneNumber>
+      <StreetAddress>1400 Townsend Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1525</Code>
+      <Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>0000</Code>
+      <Text>UNASSIGNED</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>OTHR</Code>
+      <Text>OTHER RESEARCH OR EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Geometric Techniques for Big Data Medical Imaging</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>194445</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computing and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>John Cozzens</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Medical imaging has benefited greatly from advances in signal and image processing, which have enabled better data acquisition, superior reconstruction and improved analysis of massive amounts of imaging data. With improving resolutions and the push for comprehensive diagnosis, medical imaging faces new challenges; including bigger data sizes, longer scan durations, and susceptibility to artifacts, such as patient motion. Hence, it is imperative that these large-scale datasets are processed and analyzed efficiently in the presence of systematic and physiological imperfections, along with constraints on diagnostic ability and patient throughput.&lt;br/&gt;&lt;br/&gt;This project builds a cross-disciplinary research framework to provide theoretical, algorithmic and application developments based on geometric methods to characterize the limits and to improve the state of medical imaging reconstruction and analysis. This research comprises three complementary thrusts: rate-distortion characterization of learning algorithms; theoretical guarantees and algorithms for phase retrieval of low-dimensional models; and optimization strategies on low-dimensional manifolds for a class of parameter estimation problems. Each of these thrusts is complemented with applications in medical imaging, with tremendous potential for translational impact in the US healthcare system, including improved diagnosis and throughput in health-care applications. Broader educational impacts of this project result from integration of the research to graduate and undergraduate curriculum; outreach to the local community and to under-privileged K-12 students.</AbstractNarration>
+    <MinAmdLetterDate>03/01/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/01/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651825</AwardID>
+    <Investigator>
+      <FirstName>Mehmet</FirstName>
+      <LastName>Akcakaya</LastName>
+      <EmailAddress>akcakaya@umn.edu</EmailAddress>
+      <StartDate>03/01/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Minnesota-Twin Cities</Name>
+      <CityName>Minneapolis</CityName>
+      <ZipCode>554552070</ZipCode>
+      <PhoneNumber>6126245599</PhoneNumber>
+      <StreetAddress>200 OAK ST SE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Minnesota</StateName>
+      <StateCode>MN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7797</Code>
+      <Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7936</Code>
+      <Text>SIGNAL PROCESSING</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

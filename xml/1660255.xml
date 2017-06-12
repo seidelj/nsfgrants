@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Developing a Novel, Non-Hormonal Device for Vaginal Atrophy for Breast Cancer Survivors and Post-menopausal Women</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>749997</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jesus Soriano Molla</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to develop a hormone-free treatment alternative for women suffering from vaginal atrophy. Vaginal atrophy is a condition in which the vaginal tissue is thin, dry, and inelastic. Women with vaginal atrophy experience day-to-day vaginal dryness and pain with intercourse. This SBIR project catalyzes the development of a technology platform that will enable a novel home-use, hormone-free medical device to treat vaginal atrophy. This project represents a medical device treatment for vaginal atrophy developed specifically for women wishing to avoid hormone-based therapies. Currently available treatment options fall in two categories: over-the-counter products and hormone-replacement therapies. Over-the-counter products, like lubricants, are available at drugstores, but these products are often limited in their efficacy relative to the severity of symptoms many women experience. Hormone-replacement therapies on the other hand, such as estrogen creams, can be effective for women; however they are contraindicated for large market segments of women (e.g. breast cancer survivors and women with cardiovascular risk factors). Therefore, this SBIR project is critical to the development of a safe treatment alternative for women and represents a chance to significantly improve their quality of life.&lt;br/&gt;&lt;br/&gt;The proposed project supports the technical work required to develop this medical device treatment and addresses a major unmet need for breast cancer survivors and post-menopausal women. The work supported by this SBIR grant will complete necessary device improvements and prepare the technology platform for commercialization. The main objectives of this project are to 1) optimize the device for safety and usability, 2) execute specific design enhancements to ensure cost-effective manufacturability, and 3) complete all necessary quality system testing to meet FDA (Food and Drug Administration) requirements. To achieve the first objective, the company will complete all prescribed activities under the company's quality management system. User interviews will also be completed with device prototypes to explore features that enable and encourage appropriate device use. This work will be completed in cooperation between the company's engineering team and an outside industrial design firm. The second objective will require design for manufacturing activities, which will also be completed in a partnership with an outside firm. The third objective will be executed again by following the company's quality management system policies, processes, and procedures. All of these activities, once complete, will ensure the company's device is ready for commercialization.</AbstractNarration>
+    <MinAmdLetterDate>03/09/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/09/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660255</AwardID>
+    <Investigator>
+      <FirstName>Holly</FirstName>
+      <LastName>Rockweiler</LastName>
+      <EmailAddress>holly.rockweiler@gmail.com</EmailAddress>
+      <StartDate>03/09/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Madorra</Name>
+      <CityName>Palo Alto</CityName>
+      <ZipCode>943065921</ZipCode>
+      <PhoneNumber>3142393059</PhoneNumber>
+      <StreetAddress>4226 Juniper Lane</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>124E</Code>
+      <Text>CENTERS: BIOENG &amp; HEALTH CARE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5345</Code>
+      <Text>BIOMEDICAL ENGINEERING</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8042</Code>
+      <Text>Health and Safety</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

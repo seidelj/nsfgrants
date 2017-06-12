@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Aspects of the Dynamics of the Coupled Tropsphere-Stratosphere System</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>141209</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ming Cai</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The tropopause region separating the troposphere and the stratosphere plays an important role for a range of atmospheric processes. This region includes the bands of maximum wind speed (the jet-streams), which act as a waveguide for large-scale atmospheric disturbances (Rossby waves) and govern in part the development of mid-latitude weather systems. It also couples the dynamical evolution of the stratosphere to the circulation near the Earth's surface on sub-seasonal and seasonal time scales. Chemical species of distinct tropospheric and stratospheric source regions are sporadically exchanged through the tropopause. The goal of this project is to study the dynamics of large-scale wave coupling near the tropopause waveguide, how this wave coupling is influenced by the background atmospheric thermal structure, and how it modifies the exchange of chemical constituents between the troposphere and the stratosphere. Different approaches will be used, including theory, observational data analysis, and numerical modeling.&lt;br/&gt;&lt;br/&gt;The results from this project will advance our understanding of climate- and weather-relevant processes in the tropopause region, including the processes behind the two-way coupling between the troposphere and stratosphere. In particular, the project will lead to a better understanding of what drives planetary scale circulation variability in the stratosphere and how this circulation variability impacts weather near the Earth's surface. The project will furthermore improve our understanding of how the background atmospheric thermal structure near the tropopause influences exchange processes between the troposphere and the stratosphere. An improved understanding of the tropopause region is expected to ultimately lead to improved fidelity of models for weather and climate with corresponding societal benefits. The project will provide training as well as teaching and research experience for a graduate student and a postdoctoral fellow, which will help prepare them for continued careers in science and/or education. The project PI will continue his outreach activities from past NSF support, related to conveying stories of great discoveries in atmospheric science to middle and high school students.</AbstractNarration>
+<MinAmdLetterDate>04/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1643167</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Birner</LastName>
+<EmailAddress>Thomas@atmos.colostate.edu</EmailAddress>
+<StartDate>04/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5740</Code>
+<Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Center for Visual and Decision Informatics (CVDI) I/UCRC site at the University of Virginia</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>91894</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Center for Visual and Decision Informatics (CVDI) National Science Foundation Industry University Cooperative Research Center (IUCRC) was established in 2012 by the University of Louisiana at Lafayette (UL Lafayette) and Drexel University. CVDI has been successful in meeting the IUCRC program management requirements during its Phase 1, with demonstrated excellent growth trajectory in terms of research funding, industry members, and academic sites, and will continue into Phase 2 operation. This award aims to help establish a Phase II CVDI site at the University of Virginia (UVA) that complements and strengthens the research base and industrial support of the existing sites of CVDI. The Center's activities will generate societal benefits by addressing areas of national priority such as finance, cyber-physical systems, and security, and will deliver data science innovations with value to both government and industry. UVA CVDI will follow a strategy to broaden Science, Technology, Engineering, and Mathematics (STEM) participation: (1) involve under-represented groups through the NSF Research Experience for Undergraduates program; (2) recruit graduate students from neighboring Historically Black Colleges and Universities; (3) collaborate with K-12 STEM programs for data science outreach; and (4) increase student internships opportunities by leveraging CVDI industrial members and national initiatives, as the Graduate Education for Minorities program.&lt;br/&gt;&lt;br/&gt;CVDI will serve as a major research and innovation center for solving challenges in core areas of data science such as big data analytics, visual analytics, augmented intelligence, and decision informatics. The UVA site brings complementary and synergistic research strength in a number of important technical areas, including: cognitive assistance, information retrieval, natural language processing, latent structure learning, reinforcement learning, data fusion and distributed learning, and agent-based models and simulation. The UVA site's focus on decision analytics and human-in-the-loop data gathering, analysis, and exploitation complements the activities and interests of the other sites. Application domains for the UVA site also reinforce and complement those of the other sites. These include: computational law, manufacturing, IoT and sensing, data privacy and security, finance and banking, internet analytics, and national defense.</AbstractNarration>
+    <MinAmdLetterDate>02/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650512</AwardID>
+    <Investigator>
+      <FirstName>Hongning</FirstName>
+      <LastName>Wang</LastName>
+      <EmailAddress>hw5x@virginia.edu</EmailAddress>
+      <StartDate>02/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Peter</FirstName>
+      <LastName>Beling</LastName>
+      <EmailAddress>pb3a@virginia.edu</EmailAddress>
+      <StartDate>02/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>William</FirstName>
+      <LastName>Scherer</LastName>
+      <EmailAddress>wts@virginia.edu</EmailAddress>
+      <StartDate>02/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Donald</FirstName>
+      <LastName>Brown</LastName>
+      <EmailAddress>deb@virginia.edu</EmailAddress>
+      <StartDate>02/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Gerber</LastName>
+      <EmailAddress>msg8u@virginia.edu</EmailAddress>
+      <StartDate>02/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Virginia Main Campus</Name>
+      <CityName>CHARLOTTESVILLE</CityName>
+      <ZipCode>229044195</ZipCode>
+      <PhoneNumber>4349244270</PhoneNumber>
+      <StreetAddress>P.O. BOX 400195</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

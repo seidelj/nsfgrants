@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Magnetic Ionic Liquids as Tunable Solvents for Sample Preparation and Chemical Analysis</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>138999</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Bushey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is funded by the Chemical Measurement and Imaging (CMI) program in the Division of Chemistry. Professor Jared L. Anderson of Iowa State University is developing new separation media based on magnetic ionic liquids for sample preparation and chromatography methods. Magnetic ionic liquids are non-molecular solvents that possess low melting points, high stability, and can be controlled by an applied magnetic field. The proposed work will develop new advancements in nucleic acid analysis and have a major impact in various interdisciplinary fields including clinical diagnostics, biomedicine, and forensics. &lt;br/&gt;&lt;br/&gt;This project focuses on three areas where magnetic ionic liquids are studied and used in chemical measurement. Magnetic ionic liquids are designed and incorporated into chromatographic separations; new approaches are developed to achieve sequence specific extraction of deoxyribonucleic acid; and the preservation of ribonucleic acid structure is studied using magnetic ionic liquids as solvents. This research provides fundamental new knowledge about these materials and catalyzes the development of new approaches for achieving rapid and selective nucleic acid analysis. Graduate and undergraduate students acquire training in separation science and bioanalytical chemistry. High school students participate in the research through the American Chemical Society Project SEED program. A social networking program is used to disseminate scientific videos to young children and the general public.</AbstractNarration>
+<MinAmdLetterDate>05/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709372</AwardID>
+<Investigator>
+<FirstName>Jared</FirstName>
+<LastName>Anderson</LastName>
+<EmailAddress>andersoj@iastate.edu</EmailAddress>
+<StartDate>05/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112207</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1138 Pearson</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+</Award>
+</rootTag>

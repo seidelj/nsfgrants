@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Workshop: Advancing Healthy Communities - the 2017 AEESP Meeting to be held on June 20-22, 2017 at the University of Michigan, Ann Arbor, Michigan</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>49999</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>William Cooper</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>1719868&lt;br/&gt;Lastoskie&lt;br/&gt;&lt;br/&gt;The biannual Association of Environmental Engineering and Science Professors (AEESP) Research and Education Conference is the flagship event of the organization for members to discuss novel research and educational activities and to develop professional competencies. The conference serves as a venue for exchange of information among academics and practitioners, particularly relating to advancement of innovative research and preparation of students for professional practice in environmental engineering and science. This conference, which has the theme of "Advancing Healthy Communities," is scheduled to be held on June 20-22, 2017, and will be hosted on the campus of the University of Michigan in Ann Arbor, Michigan. &lt;br/&gt;&lt;br/&gt;The 2017 AEESP meeting will be organized by a core council composed of faculty members from the University of Michigan, the lead institution, and five partnering universities (Michigan State University, Wayne State University, Michigan Technological University, University of Toledo, and University of Notre Dame). It is anticipated that 600 faculty, students, and guests will attend the conference. As in previous AEESP meetings, topical programming at the 2017 AEESP Research and Education Conference will address a broad spectrum of environmental engineering and science themes, including drinking water treatment; environmental microbiology for wastewater treatment; management of aging water supply infrastructures; remediation of contaminated soils and brownfields; community resilience to climate change; material and energy recovery from waste streams; urban air quality; environmental education in the developing world; integration of design into environmental engineering; and ethics and risk communication on matters of public health. The conference location and its theme of advancing healthy communities has particular relevance in the recent aftermath of the drinking water crisis in Flint, Michigan. In addition to technical programming themed on advances in water treatment technologies and water supply infrastructure management, presentations concerning ethics, education, and risk communication in relation to public health will be a key component of the 2017 AESSP meeting. The AEESP meeting offers a sizable cohort of undergraduate, graduate, and postdoctoral students the opportunity to deliver oral and poster presentations on their research to the environmental engineering and science academic community. Junior and prospective faculty members attending the conference will benefit from workshops on how to find a faculty position, apply for the NSF CAREER award, and achieve success in their teaching and research activities. Scholarly advancements in environmental research and education will be published in a special issue of the journal Environmental Engineering Science. In summary, the 2017 AEESP Conference will promote the broad dissemination of important research and education achievements relating to the conference theme of "Advancing Healthy Communities".</AbstractNarration>
+    <MinAmdLetterDate>03/20/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/20/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1719868</AwardID>
+    <Investigator>
+      <FirstName>Christian</FirstName>
+      <LastName>Lastoskie</LastName>
+      <EmailAddress>cmlasto@umich.edu</EmailAddress>
+      <StartDate>03/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Nancy</FirstName>
+      <LastName>Love</LastName>
+      <EmailAddress>nglove@umich.edu</EmailAddress>
+      <StartDate>03/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Michigan Ann Arbor</Name>
+      <CityName>Ann Arbor</CityName>
+      <ZipCode>481091274</ZipCode>
+      <PhoneNumber>7347636438</PhoneNumber>
+      <StreetAddress>3003 South State St. Room 1062</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1440</Code>
+      <Text>ENVIRONMENTAL ENGINEERING</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

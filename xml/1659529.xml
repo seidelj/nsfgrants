@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Membrane Biochemistry and Bioinspired Synthesis</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2020</AwardExpirationDate>
+    <AwardAmount>330160</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Michelle Bushey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Professors Arne Gericke, Shawn Burdette, and colleagues at Worcester Polytechnic Institute (WPI) host the REU Site: Membrane Biochemistry and Bioinspired Synthesis. Funded by the REU Sites Program of the Division of Chemistry, this site provides Students from 2- and 4-yr colleges with the opportunity to participate in a 10-week summer research experience that is designed to expose them to impactful research in membrane biochemistry and bioinspired chemical synthesis. The framework of the program is designed to provide the REU students with the opportunity to be fully engaged in all aspects of the scientific discovery: project conception, execution, troubleshooting, interpretation and dissemination. The REU students are embedded in and interact with an interdisciplinary community of researchers dedicated to tackling challenging problems at the forefront of science. To aid in the process of assembling a diverse group of students each summer, chemistry faculty from three institutions that are separated from the contiguous 48 US States partner with the WPI group: the University of the US Virgin Islands, and the Universities of Alaska at Anchorage and at Fairbanks. All of these schools serve large populations of underrepresented students.&lt;br/&gt;&lt;br/&gt;The REU students pursue projects in the areas of membrane biochemistry and bioinspired chemical synthesis. The synthetic projects involve mechanistic studies of anion binding for enantioselective carbon-carbon bond formations and porous metal organic frameworks as host materials for molecular storage and release. The membrane biochemistry projects are concerned with metal ion permeation through transport proteins, membrane composition and stress survival in C. elegans, and the effect of ether lipids on membrane morphology among other projects.</AbstractNarration>
+    <MinAmdLetterDate>02/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659529</AwardID>
+    <Investigator>
+      <FirstName>Arne</FirstName>
+      <LastName>Gericke</LastName>
+      <EmailAddress>agericke@wpi.edu</EmailAddress>
+      <StartDate>02/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Shawn</FirstName>
+      <LastName>Burdette</LastName>
+      <EmailAddress>scburdette@wpi.edu</EmailAddress>
+      <StartDate>02/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Worcester Polytechnic Institute</Name>
+      <CityName>WORCESTER</CityName>
+      <ZipCode>016092247</ZipCode>
+      <PhoneNumber>5088315000</PhoneNumber>
+      <StreetAddress>100 INSTITUTE RD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1986</Code>
+      <Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

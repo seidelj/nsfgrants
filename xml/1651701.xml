@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Transformative Approaches for Hardware Obfuscation Protection, Attacks, and Assessment</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardAmount>66541</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yan Solihin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Electronic computing hardware forms the foundation of modern information systems and cyber infrastructure. However, the unavoidable involvement of untrusted parties  who can insert malicious circuits (i.e., hardware Trojans), steal intellectual property (IP), and produce counterfeits have made hardware more vulnerable to cyber-attacks. National defense, welfare, and economic growth all suffer through 1) weaker security and quality of critical infrastructures; 2) substantial economic and reputational losses for IP owners; 3) increased revenue for terrorist groups, criminals, and adversarial nation states; and 4) lower incentive to innovate and develop new products. The objective of this project is to advance the state-of-the-art in hardware obfuscation for IP protection. Hardware obfuscation refers to transformation of a circuit design into one that is functionally equivalent to the original, but infeasible to reverse engineer and/or obtain unrestricted use without significant effort. &lt;br/&gt;&lt;br/&gt;This project targets four major limitations associated with existing hardware obfuscation techniques: 1) Impractical overheads for real-world designs; 2) Susceptibility to attacks; 3) Poor scalability to large circuits of practical interest; and 4) lack of metrics and benchmarks in the research community to objectively compare different methods. Efficiency and scalability are being improved by developing novel circuit entropy metrics and holistic obfuscation algorithms that operate on decision diagrams. Outreach activities dedicated to obfuscation and awareness of IP piracy issues include creation of the first publically available benchmarks, conducting online global competitions, and generating new course materials, projects, and book. Through integration of these activities, measureable improvements in the attack resistance of obfuscated combinational and sequential designs are expected by project's end.</AbstractNarration>
+<MinAmdLetterDate>05/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1651701</AwardID>
+<Investigator>
+<FirstName>Domenic</FirstName>
+<LastName>Forte</LastName>
+<EmailAddress>dforte@ece.ufl.edu</EmailAddress>
+<StartDate>05/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

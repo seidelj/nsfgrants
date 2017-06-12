@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps Sites - Type I: NYU I-Corps Sites for Enhancing Diversity in Entrepreneurship</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>100000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Anita J. LaSalle</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project, from New York University (NYU), creates an I-Corps Site at this institution. Innovation Corps (I-Corps) Sites are NSF-funded entities established at universities whose purpose is to nurture and support multiple, local teams to transition their technology concepts into the marketplace. Sites provide infrastructure, advice, resources, networking opportunities, training and modest funding to enable groups to transition their work into the marketplace or into becoming I-Corps Team applicants. I-Corps Sites also strengthen innovation locally and regionally and contribute to the National Innovation Network of mentors, researchers, entrepreneurs and investors.&lt;br/&gt;&lt;br/&gt;NYU Tandon School of Engineering (NYU-SoE) Center for Innovation and Entrepreneurship (CIE) will "encourage and support diversity in STEM entrepreneurship, among women in particular, by encouraging social entrepreneurship, an approach that has shown to be attractive to women." Using the Lean LaunchPad approach infused with insights into supporting diversity, teams will receive funding for customer discovery, prototyping, and other resources to support commercialization across multiple academic terms. This approach is supported by a strong network of faculty and mentors who have exhibited an excellent record of previous NSF funding and commercialization successes.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this proposal incorporates the proposition that social entrepreneurship is more attractive to underrepresented groups, particularly women. By pursuing avenues that will increase diversity in both STEM and entrepreneurship, through the training, programs, and mentorship of the site, this project may serve as an exemplar for I-Corps nationally.</AbstractNarration>
+    <MinAmdLetterDate>03/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1644681</AwardID>
+    <Investigator>
+      <FirstName>Nikhil</FirstName>
+      <LastName>Gupta</LastName>
+      <EmailAddress>ngupta@nyu.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Kurt</FirstName>
+      <LastName>Becker</LastName>
+      <EmailAddress>kurt.becker@nyu.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Anne-Laure</FirstName>
+      <LastName>Fayard</LastName>
+      <EmailAddress>alf371@nyu.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jin</FirstName>
+      <LastName>Montclare</LastName>
+      <EmailAddress>montclare@nyu.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Christopher</FirstName>
+      <LastName>Leslie</LastName>
+      <EmailAddress>chris.leslie@nyu.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>New York University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100121019</ZipCode>
+      <PhoneNumber>2129982121</PhoneNumber>
+      <StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8046</Code>
+      <Text>I-Corps - Sites</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

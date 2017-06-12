@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Emerging Researchers on the Path to Innovation</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2019</AwardExpirationDate>
+    <AwardAmount>349869</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04010000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>SBE Off Of Multidisciplinary Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thomas J. Baerwald</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This research project will examine the impact of federal research and development (R&amp;D) funding on research productivity. Whereas prior research on this general topic has focused on outcomes of senior researchers and teams, this project will direct attention to emerging researchers, specifically U.S. graduate students in the science and engineering academic disciplines. By focusing attention on this overlooked population, this project will expand knowledge about the role of R&amp;D investment on research productivity and enhance understanding of graduate education and training within science and engineering disciplines. The project will minimize the burden of reporting by the individuals and groups on which the project focuses by using public records of grant outcomes and third-party databases. This approach will provide access to more complete and timely data for assessing R&amp;D outcomes, and it will expand knowledge about how research production varies not only by institutional context and academic discipline but also by social factors like gender. This project will provide education and training opportunities for graduate and undergraduate students. In addition to conducting the research project and disseminating findings through scholarly journals, the investigators will develop and make available online tutorials regarding data-building activities that will leverage data from third-party sources so that other researchers can expand their own research capabilities. The project also will provide new information and insights that can inform policy making with respect to R&amp;D investments to the management of S&amp;E graduate education and training programs.&lt;br/&gt;&lt;br/&gt;This research project will draw on random samples of high quality S&amp;E graduate students who receive awards or who are designated for honorable mention in the prestigious U.S. National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP). In contrast to the set of other NSF funding mechanisms, GRFP-eligible applicants are at an earlier point in their professional and research education and training as graduate students. The investigators conducting this project will use the two samples of awardees and honorable mentions to evaluate the impact of federal funding on research productivity and quality. Public metrics on individual- and organizational-level variables will serve as added controls to enable the investigators to address unobservable measures of research quality. This investigators will employ a series of third-party databases that provide information about degree completion, publication activity, and professional placement. Once data from different sources are integrated, the researchers will use econometric techniques to empirically examine the impact of the R&amp;D investment on research-related outcomes. More specifically, they will examine the impact of R&amp;D investment for emerging researchers on publication productivity, research quality, leadership, and independence. The latter two measures of research leadership and independence will offer insights as to how a graduate student uses the R&amp;D resources to develop her/his own research record over time.</AbstractNarration>
+    <MinAmdLetterDate>03/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1661157</AwardID>
+    <Investigator>
+      <FirstName>Alexandra</FirstName>
+      <LastName>Graddy-Reed</LastName>
+      <EmailAddress>graddyre@usc.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Lauren</FirstName>
+      <LastName>Lanahan</LastName>
+      <EmailAddress>llanahan@uoregon.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Oregon Eugene</Name>
+      <CityName>Eugene</CityName>
+      <ZipCode>974035219</ZipCode>
+      <PhoneNumber>5413465131</PhoneNumber>
+      <StreetAddress>5219 UNIVERSITY OF OREGON</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Oregon</StateName>
+      <StateCode>OR</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7626</Code>
+      <Text>SCIENCE OF SCIENCE POLICY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7626</Code>
+      <Text>SCIENCE OF SCIENCE POLICY</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

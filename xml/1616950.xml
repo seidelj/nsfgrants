@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>The 2016 NAACL Student Research Workshop</AwardTitle>
     <AwardEffectiveDate>12/15/2015</AwardEffectiveDate>
-    <AwardExpirationDate>11/30/2016</AwardExpirationDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
     <AwardAmount>15000</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -44,5 +44,17 @@
       <StateName>Massachusetts</StateName>
       <StateCode>MA</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

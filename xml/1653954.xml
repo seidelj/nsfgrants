@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Computational transformation of organic photovoltaics manufacturing</AwardTitle>
+    <AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2022</AwardExpirationDate>
+    <AwardAmount>502523</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Carole Read</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Title: CAREER: Computational transformation of organic photovoltaics manufacturing&lt;br/&gt;Proposal 1653954: Jankowski, Eric&lt;br/&gt;&lt;br/&gt;Organic solar cells or organic photovoltaics (OPVs) are primarily plastic based films that offer a low-cost route to renewable electricity. Manufacturing organic photovoltaics is similar to newspaper printing and makes flexible, lightweight cells that can be incorporated into fabrics and curved surfaces. Their thin film configuration allows creative integration into building envelopes, expanding the opportunity to use solar energy for electricity generation in a wider range of infrastructure and building applications. This research project could contribute towards low-cost organic photovoltaics. A main barrier for use of this technology is that OPVs currently have lower efficiency compared to photovoltaics made with primarily inorganic materials (e.g. silicon). The research goal of this CAREER project is to control the structure of plastic solar cells in order to revolutionize sustainable energy generation. This research will use advanced computer simulations to understand how molecules used in organic photovoltaics can be arranged into nanostructures that are good at converting sunlight into electricity. By determining the molecules and conditions that robustly form favorable nanostructures, this project will improve recipes towards making solar cell systems. The project will facilitate regional benefits through a Boise State University service-learning project with the non-profit Discovery Center of Idaho, the state's only public hands-on science museum. Here, university students will develop exhibits as part of class and will engage directly with children and their families. The project will also include integrating computational education into the Boise State materials engineering curriculum. Together, these efforts will enhance participation, retention, diversity, and preparedness of university engineering students.&lt;br/&gt;&lt;br/&gt;Thermodynamic self-assembly offers a path to engineer the nanostructure of organic photovoltaic active layers, but it is not yet known which structures are best or which ingredients best assemble them. This fundamental engineering science research project employs high performance computing to screen thousands of potential ingredient combinations for those with the best structures. The project team will use coarse-grained molecular dynamics simulations accelerated with graphics processing units to predict experimentally relevant morphologies. Researchers will use atomistic configurations derived from the coarse morphologies to generate electronic structures from first principles calculations and to inform kinetic Monte Carlo simulations of charge mobility. Fundamental knowledge in the thermodynamics and kinetics of self-assembly of organic structures will be generated. Finally, to validate manufacturing protocols, the team will fabricate and characterize ingredients predicted to robustly assemble into high-efficiency structures in OPV solar cells in collaboration with National Renewable Energy Laboratory researchers.</AbstractNarration>
+    <MinAmdLetterDate>01/26/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/26/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653954</AwardID>
+    <Investigator>
+      <FirstName>Eric</FirstName>
+      <LastName>Jankowski</LastName>
+      <EmailAddress>ericjankowski@boisestate.edu</EmailAddress>
+      <StartDate>01/26/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Boise State University</Name>
+      <CityName>Boise</CityName>
+      <ZipCode>837250001</ZipCode>
+      <PhoneNumber>2084261574</PhoneNumber>
+      <StreetAddress>1910 University Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Idaho</StateName>
+      <StateCode>ID</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7644</Code>
+      <Text>ENERGY FOR SUSTAINABILITY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

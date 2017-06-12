@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>MetaDash: A Teacher Dashboard Informed by Real-Time Multichannel Self-Regulated Learning Data</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>914686</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11090000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Research On Learning</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Amy Baylor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The project is supported by the Education and Human Resource Core Research program, which supports fundamental research in STEM learning and learning environments. It is important to find new ways to support students' ability to construct, analyze, critique, and use models of STEM phenomena. Given that teachers are the main mediator of any educational innovation, it is imperative to support STEM teachers to effectively engage students in critical thinking skills. This project involves the research and development of MetaDash, a teacher dashboard that provides information regarding students' cognitive, affective, metacognitive, and motivational self-regulatory learning processes during STEM instruction. The dashboard is informed by multi-modal channels that synthesize information such as student facial expressions, eye gaze behavior, electrodermal activity, and verbalizations. MetaDash will impact current teacher training by providing real-time student data (both individual student and aggregated) to enhance instructional decision-making.&lt;br/&gt;&lt;br/&gt;Research methodology centers around the design and testing of Metadash as an intelligent, multichannel data visualization tool that displays key aspects of students' learning processes and knowledge construction in real time. The research approach investigates (1) how and when to present the multi-channel input based on human-computer-interaction design principles and informed by teacher usability studies; (2) how to optimize statistical approaches to handle unstructured data from multiple sources; and (3) how to create behavioral signatures for constructs such as self-regulation, motivation and frustration using multi-modal measures such as eye-tracking and facial expression. The ultimate goal of MetaDash is to foster STEM learning by supporting teachers' and students' monitoring and control of CAMM SRL processes. As such, MetaDash will advance current dashboards by providing teachers with: (1) multichannel STEM learning and cognitive, affective, metacognitive, and motivational (CAMM) self-regulated learning (SRL) data collected from students; and (2) individual student and aggregate data to accelerate teachers' decision-making.</AbstractNarration>
+    <MinAmdLetterDate>03/16/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/16/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660878</AwardID>
+    <Investigator>
+      <FirstName>Roger</FirstName>
+      <LastName>Azevedo</LastName>
+      <EmailAddress>razeved@ncsu.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Min</FirstName>
+      <LastName>Chi</LastName>
+      <EmailAddress>mchi@ncsu.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Soonhye</FirstName>
+      <LastName>Park</LastName>
+      <EmailAddress>spark26@ncsu.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>North Carolina State University</Name>
+      <CityName>RALEIGH</CityName>
+      <ZipCode>276957514</ZipCode>
+      <PhoneNumber>9195152444</PhoneNumber>
+      <StreetAddress>CAMPUS BOX 7514</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7980</Code>
+      <Text>Core R&amp;D Programs</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8817</Code>
+      <Text>STEM Learning &amp; Learning Environments</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

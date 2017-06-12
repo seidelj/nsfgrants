@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Dissecting the whole-brain circuit mechanisms for oxytocinergic control of pain avoidance behavior</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardAmount>298000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090200</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richmond R. Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>General Abstract&lt;br/&gt;&lt;br/&gt;The experience of pain triggers a host of different physiological and behavioral responses that help an animal minimize the potential for injury and maximize its probability of survival.  Describing how neural circuits respond to painful experience is therefore important for better understanding a crucial aspect of brain function.  To accomplish this goal, this project will examine pain processing in the larval zebrafish, a common laboratory model organism whose brain shares many essential features with that of humans while being small enough to study and manipulate in uniquely powerful ways.  These features will enable this work to investigate how cells that produce the neurotransmitter oxytocin shape the neural representation of and behavioral response to pain, at the level of the entire brain.  Because oxytocin-producing cells are highly conserved and thought to be important in pain processing in all vertebrates, the insight provided by this work will help to create models for neural circuit function that generalize across species.  The work will therefore serve the national interest by advancing our understanding of the fundamental ways that nervous systems process pain, which will not only tell us more about how brains work, in general, but which could also lead to unexpected insights into pain management. Additionally, the use of a simple model organism will enable resources and expertise developed in this work to be easily applied to a variety of planned educational activities at the high school, college, and graduate levels.&lt;br/&gt;&lt;br/&gt;Technical Abstract&lt;br/&gt;&lt;br/&gt;While oxytocinergic neurons in the vertebrate hypothalamus are best known for their roles in reproduction, learning, and social behavior, an emerging body of evidence shows that OXT is also an important modulator of the pain response.  As with its other functions, OXT's role in pain is integrative, effecting diverse physiological and neuronal events in concert to influence behavior.  While previous work in mammals has emphasized the analgesic and fear-attenuating effects of OXT, the Douglass lab has recently discovered that, in the larval zebrafish, activation of OXT neurons by acute pain is a central event in promoting defensive "flight" behaviors.  The circuit mechanisms behind OXT's role in pain avoidance, the contribution of other neurotransmitters released by the OXT neurons, and the functional architecture of the underlying networks all remain unknown.  The current proposal will use genetic and optogenetic manipulations in combination with whole-brain anatomy, functional imaging, circuit labeling, and behavior, in order to identify the cellular targets of OXT neurons that mediate their effects on pain avoidance and characterize anatomical heterogeneity within the population of OXT neurons with respect to behavioral function.  In parallel, the project leverage its core expertise and resources to create a summer course for high school students in the use of zebrafish as a model organism for neuroscience, and an intensive graduate course in microscopy.</AbstractNarration>
+<MinAmdLetterDate>05/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1652766</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Douglass</LastName>
+<EmailAddress>adam.douglass@neuro.utah.edu</EmailAddress>
+<StartDate>05/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7714</Code>
+<Text>MODULATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

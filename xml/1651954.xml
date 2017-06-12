@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Secure Database-Driven Dynamic Spectrum Sharing</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2022</AwardExpirationDate>
+    <AwardAmount>115254</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Wenjing Lou</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Database-driven dynamic spectrum sharing (DSS) is a key enabling technical paradigm approved by FCC for increasing wireless spectrum access. In such a system, a geo-location database administrator (DBA) accepts registrations from primary users and determines spectrum availability, and secondary users are all required to inquire the DBA about the availability of any interested spectrum before using it. An effective approach to improve the spectrum-estimation accuracy in database-driven DSS systems is to deploy a small number of dedicated spectrum sensors at strategic locations and outsource most spectrum-sensing tasks to ubiquitous mobile users. This approach is not only highly feasible given the wide penetration of increasingly powerful mobile devices into everyday life and the foreseeable prevalence of DSS in future mobile communication systems, but also expected to be much more cost-effective than deploying a large-scale network of dedicated distributed spectrum sensors. &lt;br/&gt;&lt;br/&gt;This project is to investigate several fundamental security and privacy challenges associated with database-driven DSS systems armed with spectrum-sensing outsourcing. Specifically, there are four main thrusts in this project: (1) secure radio environment map construction in the presence of false spectrum measurements; (2) incentive-compatible and differentially-private mechanisms for crowdsourced spectrum sensing; (3) physical-layer secondary user authentication techniques for spectrum misuse detection; and (4) performance evaluation through a combination of measurement campaign, simulation study, prototyping, and experimentation. The project will actively channel the research results into development of undergraduate and graduate curricula, engage undergraduate and under-represented students into research, and include outreach activities to K-12, underrepresented, and oversea students as well as the local military community.</AbstractNarration>
+    <MinAmdLetterDate>01/25/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/25/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651954</AwardID>
+    <Investigator>
+      <FirstName>Rui</FirstName>
+      <LastName>Zhang</LastName>
+      <EmailAddress>ruizhang@udel.edu</EmailAddress>
+      <StartDate>01/25/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Delaware</Name>
+      <CityName>Newark</CityName>
+      <ZipCode>197162553</ZipCode>
+      <PhoneNumber>3028312136</PhoneNumber>
+      <StreetAddress>210 Hullihen Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Delaware</StateName>
+      <StateCode>DE</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8060</Code>
+      <Text>Secure &amp;Trustworthy Cyberspace</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>025Z</Code>
+      <Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7434</Code>
+      <Text>CNCI</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

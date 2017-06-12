@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Optimized Content Delivery Networks</AwardTitle>
+<AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project includes the commercialization of content delivery technology which enables a new generation of video streaming services and emerging services such as virtual reality, as well as accelerated web performance, media delivery, and cloud networking services.  This commercialization is expected to dramatically decrease bandwidth usage and operating cost for network operators.  It is expected to have direct and long-term impact on network architectures for content delivery and cloud computing applications.  It will also impact the training of graduate students in the areas of technology transition, intellectual property management, business development, and marketing.&lt;br/&gt;&lt;br/&gt;This I-Corps project is expected to significantly advance the state of the art in algorithms and protocols which optimally use bandwidth and storage to improve content delivery performance in reducing user delay and decreasing bandwidth costs, in a scalable, distributed, and adaptive manner. Unlike most current solutions, the algorithms used here are optimized for multi-hop, multiple-data-source network settings.  When properly deployed, they will enable the delivery of a new generation of data-rich content and cloud computing services.</AbstractNarration>
+<MinAmdLetterDate>11/18/2016</MinAmdLetterDate>
+<MaxAmdLetterDate>11/18/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1654532</AwardID>
+<Investigator>
+<FirstName>Edmund</FirstName>
+<LastName>Yeh</LastName>
+<EmailAddress>eyeh@ece.neu.edu</EmailAddress>
+<StartDate>11/18/2016</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

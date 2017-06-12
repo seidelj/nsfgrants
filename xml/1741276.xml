@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Assessing a Design Thinking Approach to APLU INCLUDES Summits</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2018</AwardExpirationDate>
+    <AwardAmount>49850</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01060300</Code>
+      <Directorate>
+        <LongName>Office Of The Director</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of Integrative Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>cynthia phillips</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This workshop on using design thinking for assessment and evaluation will advance the knowledge of the field in its understanding of ways to engage various stakeholder groups in using evaluative thinking from the beginning of an initiative. It specifically supports education and diversity through the audience of the Association of Public and Land-grant Universities (APLU) and the nature of the NSF INCLUDES context with its focus on broadening participation in the STEM enterprise (particularly higher education).&lt;br/&gt;&lt;br/&gt;The scope is a workshop for approximately 100 APLU members to advance the use of evidence-based approaches to foster career pathways towards the professoriate by broadening participation pf underrepresented groups . The workshop will include plenary presentations, small group sessions and extensive opportunity for networking, reflection and consensus building.</AbstractNarration>
+    <MinAmdLetterDate>04/12/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/12/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1741276</AwardID>
+    <Investigator>
+      <FirstName>Travis</FirstName>
+      <LastName>York</LastName>
+      <EmailAddress>tyork@aplu.org</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Association of Public and Land-Grant Universities</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200054722</ZipCode>
+      <PhoneNumber>2024786040</PhoneNumber>
+      <StreetAddress>1307 New York Ave NW</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7550</Code>
+      <Text>Eval &amp; Assessment Capabilites</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>032Z</Code>
+      <Text>Evaluation and Spec. Grants INCLUDES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

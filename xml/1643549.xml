@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Advancing Cohorts of Excellence in STEM (ACES) Program</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2022</AwardExpirationDate>
+    <AwardAmount>650000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kevin Lee</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project will provide scholarships and support services for up to sixteen low-income, academically talented students in science, technology, engineering and mathematics (STEM) at Avila University. The broader impact and principal goal of the project is to significantly increase the number of students participating in STEM degree programs and matriculating to STEM careers. By increasing the number of students in biology, biochemistry and molecular biology, computer science, and software engineering and by providing enhanced support services, this project will increase student success, retention, and rate of entry into the STEM workforce. This project will directly support national policy goals and address the growing need for educated workers in the Greater Kansas City Area and beyond.&lt;br/&gt;&lt;br/&gt;The targeted degree programs will employ evidence-based, high-impact educational practices that include (1) course sequences that provide early engagement in research and early exposure to STEM careers, (2) transition-to-university programming, (3) internships, and (4) project-based capstone courses. The program will provide faculty, peer, and professional mentorships, supplemental instruction, and STEM seminars. Additional enhanced support services will incorporate strategies to increase retention and persistence. These will include a cohort model, redesigned courses and course sequences, career development workshops, and a novel early-alert retention support system. The program will improve data analytics by creating a STEM Student Success Dashboard, which will monitor and analyze on-track indicators by discipline, student subgroup, and dosage of support services. Findings of the project will contribute to a better understanding of the impact support services have on the retention, persistence to graduation, and career preparation for low-income STEM students. A rigorous qualitative analysis will provide data on how support services are experienced in real time and how effective they are in achieving the greater goal of increasing the STEM workforce. Results of the project will be disseminated internally to faculty and support staff and externally at regional and national conferences.</AbstractNarration>
+    <MinAmdLetterDate>01/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1643549</AwardID>
+    <Investigator>
+      <FirstName>Robert</FirstName>
+      <LastName>Powell</LastName>
+      <EmailAddress>robert.powell@avila.edu</EmailAddress>
+      <StartDate>01/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ronnie</FirstName>
+      <LastName>McCleary</LastName>
+      <EmailAddress>Ron.McCleary@avila.edu</EmailAddress>
+      <StartDate>01/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Dominick</FirstName>
+      <LastName>Scalise</LastName>
+      <EmailAddress>Dominick.Scalise@avila.edu</EmailAddress>
+      <StartDate>01/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Larry</FirstName>
+      <LastName>Garrison Sullivan</LastName>
+      <EmailAddress>Larry.Sullivan@avila.edu</EmailAddress>
+      <StartDate>01/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Katherine</FirstName>
+      <LastName>Burgess</LastName>
+      <EmailAddress>katherine.burgess@avila.edu</EmailAddress>
+      <StartDate>01/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Avila University</Name>
+      <CityName>Kansas City</CityName>
+      <ZipCode>641451698</ZipCode>
+      <PhoneNumber>8165013727</PhoneNumber>
+      <StreetAddress>11901 Wornall Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1536</Code>
+      <Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

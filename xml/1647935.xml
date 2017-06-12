@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Real-Time Learning Outcome Reporting</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>224923</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Glenn H. Larsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This SBIR Phase I project represents a new approach to transparently capture and report game-based learning (GBL) outcomes that will lead to an improved understanding of the benefits of GBL as an education technology for learning science. The K-12 educational market requires a consistent reporting system for learning outcomes in GBL products while sufficiently protecting student data. Given the important benefits that STEM-based GBL products can provide to allow for independent and enjoyable science education, teachers need improved reporting options to evaluate those benefits. The proposed research aims to solve both the reporting and benefits problem by creating a platform to report learning outcome data in a transferable format from multiple GBL products to a single dashboard. This will allow educators, administrators, parents and other stakeholders to build personalized learning plans and other support mechanisms required for individualized learning for every student using GBL and other education products. With better ways for the education community to measure, learn, control and understand the impact of their learning investments, GBL will be more widely adopted, and more high-quality STEM based GBL products will be needed, driving industry expansion and ultimately resulting in better learning experiences for all students. Higher adoption will lead to market growth, creating new jobs, higher quality products and drive student interest in science careers. &lt;br/&gt;&lt;br/&gt;The proposed research will provide a software platform for reporting real-time learning outcomes in games using a standardized format to categorize and define the learners' actions. The platform addresses the issue of the lack of consistent, meaningful assessments for game-based learning (GBL) products and revolutionizes the way game-based learning data is analyzed. This new platform creates a base data format that aligns with national learning standards across various disciplines to create a robust, transparent and interoperable platform that can be used to build an industry-wide standardized system for tracking learning analytics in games and other educational products. Outcomes from multiple GBL products will be reported to a record store(s), giving stakeholders a complete view of student progress across multiple disciplines and products. Further, the platform provides protection for student data that does not currently exist in the GBL industry by allowing GBL data to report to a school-operated record store, instead of being stored on a game developer?s server. The platform created will provide a unified dashboard of standardized, interoperable, real-time data reporting and algorithm based analytics from games and other learning products. Project research focuses on working with stakeholders to define the schema for the standardized system and to develop a user-friendly reporting system to deliver the data to teachers.</AbstractNarration>
+    <MinAmdLetterDate>12/12/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/12/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647935</AwardID>
+    <Investigator>
+      <FirstName>Suzanne</FirstName>
+      <LastName>Wilczynski</LastName>
+      <EmailAddress>suzi@dig-itgames.com</EmailAddress>
+      <StartDate>12/12/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Dig-iT Games LLC</Name>
+      <CityName>Bethesda</CityName>
+      <ZipCode>208146060</ZipCode>
+      <PhoneNumber>2404761801</PhoneNumber>
+      <StreetAddress>7801 Norfolk Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>118E</Code>
+      <Text>GRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8031</Code>
+      <Text>Education Products</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8039</Code>
+      <Text>Information, Communication &amp; Computing</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

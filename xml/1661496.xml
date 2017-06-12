@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RAPID: Recovery of Well Water Quality After the Great Louisiana 2016 Flood</AwardTitle>
+    <AwardEffectiveDate>11/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2017</AwardExpirationDate>
+    <AwardAmount>150919</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>William Cooper</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>1661496 (Edwards). &lt;br/&gt;&lt;br/&gt;Following a massive flood in Louisiana, this RAPID grant will help assist private well owners in the area assess and address the current safety of their potable water supply. Climate models predict that the frequency of flooding will increase in Louisiana and elsewhere in the U.S. The 47 million residents in the U.S. reliant on well water, half of which normally test positive for microbial contamination, would benefit from a better understanding of one-time disinfection protocols.&lt;br/&gt;&lt;br/&gt;After natural disasters, residents need low-cost, effective remediation options to ensure safe, clean drinking water. Shock chlorination is the primary disinfection method for microbial contamination in wells, but evidence suggests that this approach may not be appropriate under all conditions, the actual disinfection effect may be short-lived or incomplete, and there may be short-term increases in metals such as lead. The recent flooding event in Louisiana offers a unique opportunity to characterize well water quality after a flood, evaluate both natural and enhanced recovery after treatments such as shock chlorination, and assess public health issues experienced by low-income well owners using compromised wells.</AbstractNarration>
+    <MinAmdLetterDate>11/14/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/14/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1661496</AwardID>
+    <Investigator>
+      <FirstName>Adrienne</FirstName>
+      <LastName>Katner</LastName>
+      <EmailAddress>akatn1@lsuhsc.edu</EmailAddress>
+      <StartDate>11/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Marc</FirstName>
+      <LastName>Edwards</LastName>
+      <EmailAddress>edwardsm@vt.edu</EmailAddress>
+      <StartDate>11/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Kelsey</FirstName>
+      <LastName>Pieper</LastName>
+      <EmailAddress>kpieper@vt.edu</EmailAddress>
+      <StartDate>11/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Virginia Polytechnic Institute and State University</Name>
+      <CityName>BLACKSBURG</CityName>
+      <ZipCode>240610001</ZipCode>
+      <PhoneNumber>5402315281</PhoneNumber>
+      <StreetAddress>Sponsored Programs 0170</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1440</Code>
+      <Text>ENVIRONMENTAL ENGINEERING</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7643</Code>
+      <Text>ENVIRONMENTAL SUSTAINABILITY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7914</Code>
+      <Text>RAPID</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

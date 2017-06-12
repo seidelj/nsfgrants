@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Fluid Collection and Transfer Safety Device</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is focused on improving occupational safety for workers during the collection and transfer of potentially infectious or contaminated fluids such as umbilical cord blood or environmental water to test tubes for transportation to the laboratory. This fluid collection and transfer technology reduces fluid splash and splatter during fluid collection and eliminates the need for a needle and syringe system during transfer thereby eliminating haphazard and dangerous methods currently in use. These procedures are thereby rendered safer by reducing the risk of potentially infectious fluid exposures and by reducing the risk of needle stick injuries. There is considerable commercial opportunity due to the intensity of interest in improving the occupational safety of staff and personnel involved in the large number of fluid collection and transfer procedures taking place daily.&lt;br/&gt;&lt;br/&gt;This I-Corps project proposes to develop an inexpensive and safe technology for collecting and transferring potentially infectious or contaminated fluids to test tubes. The system consists of a collection vessel with a wide opening to easily collect fluids from various sources and a guide tube assembly (consisting of a guide tube with a recessed needle installed) which is clipped into to the vessel. Laboratory tubes are filled with fluid in the vessel in a clean, quick, efficient and safe manner by inserting the laboratory tube into the guide tube. As a result, the worker can complete the procedure without the need for removing the stopper from the vacuum tube (reducing mess and contamination) and without the need for an exposed needle (reducing risk of percutaneous injury). This project is focused on workers involved in these commonplace fluid transfer procedures and the administrative staff concerned with protecting these workers and reducing liability (and cost) for their institutions.</AbstractNarration>
+    <MinAmdLetterDate>03/29/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/29/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1740772</AwardID>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Schaffer</LastName>
+      <EmailAddress>michael.schaffer@ttuhsc.edu</EmailAddress>
+      <StartDate>03/29/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas Tech University Health Science Center</Name>
+      <CityName>Lubbock</CityName>
+      <ZipCode>794306271</ZipCode>
+      <PhoneNumber>8067432961</PhoneNumber>
+      <StreetAddress>3601 4th Street, MS 6271</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Shipboard Scientific Support Equipment: Sea Education Association (SSV Corwith Cramer &amp; SSV Robert C. Seamans</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>19465</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>James S. Holik</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Proposals from SEA are fundamentally different form others is this panel because SEA does not support any NSF-funded science. Rather the program is a shipboard educational experience that has offered high-quality academic programs to college, high-school, and graduate students, as well as K-12 teachers, for 45 years. The National Science Board recently named SEA the recipient of its 2016 Public Service Award for making a substantial contribution to increasing public understanding of science and engineering. NSF recognizes that many SEA alumni are professionals working and teaching in the marine sciences and related fields and for that reason have allowed for limited support through the SSSE Program. The panel considered this when it evaluated the requests and found unlike the Instrumentation Proposal, there were several items here that were poorly explained and that the whole proposal was a bit unclear. The overall rating was Good-Very Good. That said it is clear that SEA needs overboarding sheaves. Their top priority was a leval winding sheave with an expensive monitoring device. This was way over the top in terms of what this Program would support. Instead, the Program will fund the purchase of two overboarding sheaves but has counseled the group to consult with other operators, i.e. WHOI, who is located down the street, and purchase sheaves with load pins which could provide the digital output and load information they need. SEA appreciated the advice and will do exactly that. No other items on the proposal will be funded.&lt;br/&gt;&lt;br/&gt;The Program recommends an award of $19,465 for the purchase of the following:&lt;br/&gt;&lt;br/&gt;1) 2 Overboarding Sheaves $19,465</AbstractNarration>
+    <MinAmdLetterDate>03/30/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/30/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1723634</AwardID>
+    <Investigator>
+      <FirstName>Paul</FirstName>
+      <LastName>Joyce</LastName>
+      <EmailAddress>pjoyce@sea.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Deborah</FirstName>
+      <LastName>Goodwin</LastName>
+      <EmailAddress>dgoodwin@sea.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Sea Education Association</Name>
+      <CityName>Woods Hole</CityName>
+      <ZipCode>025430006</ZipCode>
+      <PhoneNumber>5085403954</PhoneNumber>
+      <StreetAddress>PO Box 6</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5416</Code>
+      <Text>SHIPBOARD SCIENTIFIC SUPP EQUI</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

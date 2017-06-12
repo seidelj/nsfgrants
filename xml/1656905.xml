@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: AF: Novel Geometric Algorithms for Certain Data Analysis Problems</AwardTitle>
+    <AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2019</AwardExpirationDate>
+    <AwardAmount>174328</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computing and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jack Snoeyink</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>We can often see trends or clusters in data by graphing or plotting-- giving geometric form to data. As data increases in volume and complexity, giving it geometric form and then developing computational geometry algorithms is still a fruitful way to approach data analysis. For example, activity data from a smartphone or fitness tracker can be viewed as a point in thousands of dimensions whose coordinates include all positions, heart rates, etc. from an entire sequence of measurements. For better privacy, we can share summaries (rough position, duration, etc.) as points in tens of dimensions. Points from many people can be clustered to identify similar patterns, and patterns matched (with unreliable data identified and discarded) to recognize actions that a digital assistant could take to improve quality of life or health outcomes. &lt;br/&gt;&lt;br/&gt;This project aims to develop a set of advanced data structures and novel geometric algorithms for three fundamental data analysis problems: (1) constrained clustering in high dimensions, (2) geometric matching under certain transformations, and (3) extracting trustworthy information from unreliable data. The first two problems are both naturally studied by computational geometry, and the third has a novel formulation as a geometric optimization problem in high dimensions. The goal is to achieve highly efficient and quality guaranteed solutions for each of these problems. The new geometric insights, advanced data structures, and efficient algorithmic techniques introduced by this project will enrich further development in computational geometry and bring fresh ideas to other areas, including machine learning, computer vision, data mining, and bioinformatics. &lt;br/&gt;&lt;br/&gt;This project provides research and educational opportunities in data analysis to both graduate and undergraduate students (including women, minorities, and other underrepresented groups) at Michigan State University. It also undertakes outreach activities for students in K-12 outreach activities and prepares online materials to benefit more students and teachers. In particular, student evaluations of teacher performance will be one of the data sets used in problem (3), extracting trustworthy information from unreliable data.</AbstractNarration>
+    <MinAmdLetterDate>02/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656905</AwardID>
+    <Investigator>
+      <FirstName>Hu</FirstName>
+      <LastName>Ding</LastName>
+      <EmailAddress>huding@msu.edu</EmailAddress>
+      <StartDate>02/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Michigan State University</Name>
+      <CityName>East Lansing</CityName>
+      <ZipCode>488242600</ZipCode>
+      <PhoneNumber>5173555040</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7796</Code>
+      <Text>ALGORITHMIC FOUNDATIONS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7929</Code>
+      <Text>COMPUTATIONAL GEOMETRY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

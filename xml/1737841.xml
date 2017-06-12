@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Symposium on Physics and Control of Turbulent Shear Flow</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ronald Joslin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Funding is being requested to support the Physics and Control of Turbulent Shear Flows (PCTSF) symposium which will be held at CUNY in New York City on the 10th and 11th of July, 2017. This international symposium will bring together researchers in the field of turbulence from all career levels (Graduate Students, Young Professionals and Senior Members) to exchange ideas on the current state&lt;br/&gt;associated with the physics of large scale structures in turbulent shear flows and how to control them. It is anticipated that there will be approximately 100 participants at this specialized symposium which will highlight work associated the control of turbulent shear flows. The intellectual merit of the symposium lies in the exchange of scientific ideas, presentations of cutting edge research and exposure to a diverse array of approaches to study the physics of turbulent shear flows and how one can control them. &lt;br/&gt;&lt;br/&gt;The objectives of the Physics and Control of Turbulent Shear Flows symposium will be to present/evaluate state of the art techniques for extract flow physics from turbulent shear flows, to present/evaluate state of the art applications in flow control of flow dominated by&lt;br/&gt;turbulent shear layers, to bring together researchers and practitioners to exchange experiences, disseminate up to date information associated with the physics of turbulent shear flows and their control, and to expose young or new researchers to the state of the art in the field by means of attending conferences.</AbstractNarration>
+<MinAmdLetterDate>05/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737841</AwardID>
+<Investigator>
+<FirstName>Yiannis</FirstName>
+<LastName>Andreopoulos</LastName>
+<EmailAddress>andre@ccny.cuny.edu</EmailAddress>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lawrence</FirstName>
+<LastName>Ukeiley</LastName>
+<EmailAddress>ukeiley@ufl.edu</EmailAddress>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Melissa</FirstName>
+<LastName>Green</LastName>
+<EmailAddress>greenma@syr.edu</EmailAddress>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY City College</Name>
+<CityName>New York</CityName>
+<ZipCode>100319101</ZipCode>
+<PhoneNumber>2126505418</PhoneNumber>
+<StreetAddress>Convent Ave at 138th St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FLUID DYNAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

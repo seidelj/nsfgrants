@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Debris Disks as Probes of Planetary System Evolution</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harshal Gupta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Meredith MacGregor is awarded an NSF Astronomy and Astrophysics Postdoctoral Fellowship to conduct a program of research and education at the Carnegie Institution Department of Terrestrial Magnetism.  Using large telescopes, MacGregor will undertake detailed observations of debris disks around nearby stars.  Studying debris disks in detail will allow astronomers to understand how planetary systems form.  Alongside this research, MacGregor will develop and teach an astronomy course for high school students and teachers-in-training.&lt;br/&gt;&lt;br/&gt;MacGregor will perform a comparative study of debris disk structure around nearby stars using the Atacama Large Millimeter/submillimeter Array (ALMA).  The ALMA observations will allow her to address basic dynamical processes that control the evolution of debris disks and their interactions with planets.  She will also conduct observations of these disks with the upcoming James Webb Space Telescope (JWST).   Combined with the ALMA observations, the JWST observations will allow her to examine radial variations in grain composition, connections between grain composition and gas content, and possible evidence of dynamical evolution.  For the educational component of her work, MacGregor will develop and teach a six-week course on 'Life in the Universe' for high school students and teachers-in-training at the Carnegie Academy for Science Education.</AbstractNarration>
+<MinAmdLetterDate>05/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701406</AwardID>
+<Investigator>
+<FirstName>Meredith</FirstName>
+<LastName>MacGregor</LastName>
+<EmailAddress/>
+<StartDate>05/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MacGregor               Meredith       A</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021383037</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1609</Code>
+<Text>NSF ASTRON &amp; ASTROPHY PSTDC FE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

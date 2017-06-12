@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: A Platform for Commercial Dialogue Systems with Fluid Turn-Taking Skills</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Peter Atherton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is that it will make progress toward the societal need to increase the efficiency and flexibility with which people can talk to computers, and reduce the frustration that many people feel in trying to get things done with current speech-enabled systems. Commercial applications of speech-enabled systems are increasing very rapidly, including systems that act as virtual assistants, automate customer service functions, and generally enable people to get things done with their voices in their homes, cars, and throughout daily life. As these applications expand throughout society, we will inevitably find ourselves speaking to automated systems more and more often. The company's innovative platform is designed to enable people to communicate more naturally and efficiently in these interactions. This project will develop ways to improve how people can communicate as they interact with speech-based applications developed by a variety of businesses and organizations. The project will enhance understanding of how advanced research innovations in dialogue systems technology can be brought into the commercial arena and contribute to the technical development of an innovative new dialogue platform. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project advances the development and commercialization of language processing and dialogue system technologies that increase the efficiency and naturalness of speaking to an automated system while reducing user frustration. The project addresses technical hurdles in the standardization of software architecture, generalization of language processing models, and methods for authoring and controlling the content of automated conversations. The objective for Phase I is to demonstrate the overall technical feasibility of the proposed conversational platform. The project plan includes data collection, technical development, and evaluation steps to achieve this objective. An anticipated outcome is an improved understanding of the most promising technical avenues to enable more natural conversational skills in commercial dialogue systems.</AbstractNarration>
+    <MinAmdLetterDate>12/11/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/11/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648502</AwardID>
+    <Investigator>
+      <FirstName>David</FirstName>
+      <LastName>DeVault</LastName>
+      <EmailAddress>devault@ementive.com</EmailAddress>
+      <StartDate>12/11/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Anticipant Speech, Inc.</Name>
+      <CityName>Irvine</CityName>
+      <ZipCode>926124694</ZipCode>
+      <PhoneNumber>9492878655</PhoneNumber>
+      <StreetAddress>4199 Campus Dr STE 550 PMB 134</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

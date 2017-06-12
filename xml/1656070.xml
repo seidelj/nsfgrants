@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>LTER: Resilience in the Environmental Mosaic of the Northern Gulf of Alaska (NGA) Shelf Ecosystem</AwardTitle>
+    <AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2022</AwardExpirationDate>
+    <AwardAmount>1127000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040300</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>David L. Garrison</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award will establish a Long Term Ecological Research (LTER) program in the Northern Gulf of Alaska (NGA). The NGA is a highly productive subarctic biome where intense environmental variability has profound impacts on lower trophic level organisms and community dynamics that, directly or indirectly, support the iconic fish, crabs, seabirds and marine mammals of Alaska. In the NGA, a pronounced spring bloom and regions of sustained summer production support a stable base of energy-rich zooplankton grazers and a substantial sinking flux of organic matter, thereby efficiently transferring primary production up the food chain and contributing to carbon export. The LTER research team will examine features, mechanisms and processes that drive this productivity and system-wide resilience to understand how short- and long-term climate variability propagates through the environment to influence organisms. This highly productive biome will provide a valuable new component to the LTER network by investigating marine ecosystem changes in a region impacted by warming surface ocean trends, and by leveraging a strong climate context provided by two decades of prior observations and a rich history of coupled biological-physical modeling to advance prediction of ecosystem response to perturbation. To complement the observational and modeling efforts, the NGA LTER includes an Education &amp; Outreach component that will develop videos highlighting the understanding gained from this research, and the activities of scientists in ocean-related STEM careers. These products will be presented to the public through various high-traffic venues, will be incorporated into virtual field trips for K-12 students, and will be available to the LTER network. The NGA LTER program will also serve as a platform to train graduate and undergraduate students across disciplines and in cutting-edge field and data-analysis techniques. Finally, synthetic activities will aid in effective ecosystem-based management of commercially important fisheries in Alaska.&lt;br/&gt;&lt;br/&gt;The research focus of the NGA LTER site will be on mechanistic understanding of processes that underlie environmental variability, and the role of the latter in promoting high productivity and resilience. Building on prior knowledge, the investigators will test three hypotheses centered on ecosystem emergent properties: 1. Changes in the hydrologic cycle affect spring bloom production through changes in cloud cover, the stratification/mixing balance, macro- and micronutrient supplies, and transport pathways. 2. Hot-spots of high summer primary and secondary production result from interactions between the fresher Alaska Coastal Current and more saline offshore waters as promoted by shelf morphology and regional winds; hot spot timing and magnitude will be influenced by changes in the hydrologic cycle. 3. Nutritional and life history patterns of NGA consumers minimize trophic mismatch, buffering spatial and temporal variability in lower trophic level production and leading to resilience in the face of long-term climate change. The investigators will address these hypotheses with an integrated research program that includes: a) seasonal time series studies addressing short- and long-term environmental and ecosystem variability through a spring-to-fall field cruise- and mooring-based observational program, building upon and enhancing the Seward Line times series, and leveraging existing collaborations to obtain higher trophic level data; b) process studies that focus on hypothesized mechanisms leading to variability and enhancement of NGA production in time and space; c) modeling studies that incorporate physical and biogeochemical observations, provide a framework for testing hypotheses, and predict ecosystem responses to projected environmental changes; d) a data management component that provides a public platform for data visualization and synthesis by LTER colleagues, educators &amp; students, and resource managers.</AbstractNarration>
+    <MinAmdLetterDate>02/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656070</AwardID>
+    <Investigator>
+      <FirstName>Seth</FirstName>
+      <LastName>Danielson</LastName>
+      <EmailAddress>sldanielson@alaska.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Russell</FirstName>
+      <LastName>Hopcroft</LastName>
+      <EmailAddress>rrhopcroft@alaska.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ana</FirstName>
+      <LastName>Aguilar-Islas</LastName>
+      <EmailAddress>amaguilarislas@alaska.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jerome</FirstName>
+      <LastName>Fiechter</LastName>
+      <EmailAddress>Fiechter@ucsc.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Suzanne</FirstName>
+      <LastName>Strom</LastName>
+      <EmailAddress>Suzanne.Strom@wwu.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Alaska Fairbanks Campus</Name>
+      <CityName>Fairbanks</CityName>
+      <ZipCode>997757880</ZipCode>
+      <PhoneNumber>9074747301</PhoneNumber>
+      <StreetAddress>West Ridge Research Bldg 008</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Alaska</StateName>
+      <StateCode>AK</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1195</Code>
+      <Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>006Z</Code>
+      <Text>Multiple Environmental Stressors</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1097</Code>
+      <Text>DIVERSITY: ROLE IN ECOSYSTEMS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1174</Code>
+      <Text>POPULATION DYNAMICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1389</Code>
+      <Text>CARBON CYCLE RESEARCH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8242</Code>
+      <Text>Marine Nitrogen Cycle</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9117</Code>
+      <Text>MARINE BIOTECHNOLOGY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9177</Code>
+      <Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9251</Code>
+      <Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

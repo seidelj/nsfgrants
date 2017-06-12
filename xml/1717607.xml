@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Enabling Software Engineering Virtual Assistant Technology</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>407218</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The objective of this research project is to address key barriers in adapting natural language processing techniques to problems in creating virtual assistants for software engineering.  Virtual assistants such as Siri, Cortana, and Alexa are claiming an increasing role in computing for everyday tasks, but multiple barriers prevent existing virtual assistant technology from being applied to software engineering tasks.  The long-term goal of the project is that virtual assistants will improve productivity for software engineers.&lt;br/&gt;&lt;br/&gt;This proposal targets two of those barriers: 1) conversation analysis and modeling, and 2) reference expression generation.  The first of these problems, in a nutshell, is that experiments in natural language modeling conversations tend to cover topics with similar outcomes, while conversations about software may have a much wider range of possible outcomes.  The second problem is that much research in natural language processing is focused on how humans refer to physical objects that have attributes that are universally preferred while in contrast, software artifacts tend not to have measurable attributes that people use as descriptions.  The chief broader impact is an application to assistive technology for persons who are visually impaired.  Virtual assistants have the potential to alleviate barriers-to-entry into computing careers faced by visually impaired persons by creating a voice interface for answering software development questions.</AbstractNarration>
+<MinAmdLetterDate>05/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717607</AwardID>
+<Investigator>
+<FirstName>Collin</FirstName>
+<LastName>McMillan</LastName>
+<EmailAddress>collin.mcmillan@nd.edu</EmailAddress>
+<StartDate>05/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

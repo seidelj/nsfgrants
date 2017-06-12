@@ -15,7 +15,7 @@
         <LongName>Directorate For Geosciences</LongName>
       </Directorate>
       <Division>
-        <LongName>Division Of Polar Programs</LongName>
+        <LongName>Office of Polar Programs (OPP)</LongName>
       </Division>
     </Organization>
     <ProgramOfficer>
@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1623926</AwardID>
     <Investigator>
+      <FirstName>Peter</FirstName>
+      <LastName>LaFemina</LastName>
+      <EmailAddress>pcl11@psu.edu</EmailAddress>
+      <StartDate>02/23/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
       <FirstName>Glen</FirstName>
       <LastName>Mattioli</LastName>
       <EmailAddress>gmattioli@uta.edu</EmailAddress>
       <StartDate>02/23/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
-      <FirstName>Peter</FirstName>
-      <LastName>LaFemina</LastName>
-      <EmailAddress>plafemina@geosc.psu.edu</EmailAddress>
-      <StartDate>02/23/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>UNAVCO, Inc.</Name>

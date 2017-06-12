@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>RAPID: An Integrated Study of Post-fire Wind and Water Erosion in Western Rangelands</AwardTitle>
     <AwardEffectiveDate>12/01/2015</AwardEffectiveDate>
-    <AwardExpirationDate>11/30/2016</AwardExpirationDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
     <AwardAmount>46724</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -52,13 +52,29 @@
     </Investigator>
     <Institution>
       <Name>Boise State University</Name>
-      <CityName>boise</CityName>
-      <ZipCode>837251135</ZipCode>
+      <CityName>Boise</CityName>
+      <ZipCode>837250001</ZipCode>
       <PhoneNumber>2084261574</PhoneNumber>
       <StreetAddress>1910 University Drive</StreetAddress>
       <CountryName>United States</CountryName>
       <StateName>Idaho</StateName>
       <StateCode>ID</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>7458</Code>
+      <Text>GEOMORPHOLOGY &amp; LAND USE DYNAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7693</Code>
+      <Text>CZO: CRITICAL ZONE OBSER SOLIC</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7914</Code>
+      <Text>RAPID</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

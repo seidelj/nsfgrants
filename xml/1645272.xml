@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Northeastern Analysis Meeting (NEAM) 2016</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>26385</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Bruce Kitchens</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award supports participation in the conference "1st Northeastern Analysis Meeting" to be hosted by The College at Brockport, State University of New York, Brockport, NY, from October 14-16, 2016. The purpose of the conference is to disseminate and exchange the latest ideas and developments in analysis, very broadly defined. It is designed to promote communication between people from different branches of Analysis. The organizers hope to establish an ongoing conference series which will meet in the fall of every year and compliment the Southeast Analysis Meeting which occurs in the spring of every year.&lt;br/&gt;&lt;br/&gt;The scientific focus of the conference will cover the following topics: Differential Equations, Probability, Dynamical Systems, Wavelets and Analysis Methods in Image Processing. The conference will have thirteen plenary talks, a large number of twenty minute time slots for contributed talks and two open problem panel discussions. More information can be found on the conference website: https://www.brockport.edu/academics/conferences/northeastern_analysis/</AbstractNarration>
+    <MinAmdLetterDate>12/01/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/01/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1645272</AwardID>
+    <Investigator>
+      <FirstName>Ruhan</FirstName>
+      <LastName>Zhao</LastName>
+      <EmailAddress>rzhao@brockport.edu</EmailAddress>
+      <StartDate>12/01/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Gabriel</FirstName>
+      <LastName>Prajitura</LastName>
+      <EmailAddress>gprajitu@brockport.edu</EmailAddress>
+      <StartDate>12/01/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>SUNY College at Brockport</Name>
+      <CityName>Brockport</CityName>
+      <ZipCode>144202932</ZipCode>
+      <PhoneNumber>5853952444</PhoneNumber>
+      <StreetAddress>Research Foundation of SUNY</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

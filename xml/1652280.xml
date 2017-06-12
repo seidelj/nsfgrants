@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Securing Applications From Compromised System Software</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2022</AwardExpirationDate>
+    <AwardAmount>74642</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sol J. Greenspan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In an ideal world, secure software would be built as a set of mutually distrusting components that work together to accomplish goals. However, modern software is not built this way; rather, it heavily trusts a component called the operating system kernel. Fortunately, there are new methods of isolating programs from each other and from the OS kernel to minimize the damage caused if an attacker compromises a critical component. However, such solutions are too slow and are vulnerable to sophisticated implicit information flow attacks. Also, the effectiveness of current solutions will be verified using formal verification techniques.&lt;br/&gt;&lt;br/&gt;This project will develop new techniques to solve these deficiencies. It will investigate the use of new hardware mechanisms that will accelerate the protection of applications from compromised commodity operating system kernels. It will develop new compiler transformations that will modify existing software to distrust other software components. It will devise new static information flow analysis methods and run-time checks to keep compromised operating system kernels from stealing application secrets and influencing application behaviors through Iago attacks. Finally, the project will build a formal model of the system and prove that it protects software as intended. The project will release open source software so that the techniques and tools can be used by other researchers and can find their way into practice. Educationally, curriculum for OS designers will contain knowledge of this important class of attacks at the point that designers are building the OS.</AbstractNarration>
+    <MinAmdLetterDate>03/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652280</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Criswell</LastName>
+      <EmailAddress>criswell@cs.rochester.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Rochester</Name>
+      <CityName>Rochester</CityName>
+      <ZipCode>146270140</ZipCode>
+      <PhoneNumber>5852754031</PhoneNumber>
+      <StreetAddress>518 HYLAN, RC BOX 270140</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8060</Code>
+      <Text>Secure &amp;Trustworthy Cyberspace</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>025Z</Code>
+      <Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7434</Code>
+      <Text>CNCI</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

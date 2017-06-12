@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Improvement Award: Employing Remote Sensing Techniques to Examine Land Use Change</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2018</AwardExpirationDate>
+    <AwardAmount>20803</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>John E. Yellen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In this Doctoral Dissertation Improvement grant, Ms. Jennie Sturm of the University of New Mexico will utilize a prehistoric example to examine the processes by which economic land use affected the rise in social complexity of a community living in an arid environment. The degree to which local communities engineer their landscapes to facilitate agriculture, water management, and other economic activities, versus the degree to which they depend on outside involvement, is often a measure of that community's success in their environment and an underlying factor in reaching different levels of social complexity. By focusing on the physical remnants of past land modification, archaeology is well-suited to provide perspective on past societies and their strategies for managing land use. This is especially important for the present day United States because of the increasing awareness of the long-term environmental impacts from land modification. Information gathered from studies such as this one is directly relevant for many issues facing contemporary desert cities, including agricultural management, water usage, and urban planning. &lt;br/&gt;&lt;br/&gt;For this project, researchers will identify and compare patterns of land modification in an arid environment and evaluate how such patterns can be used to infer a broader system of land use. This research will take place in Chaco Culture National Historical Park (CCNHP), also known as Chaco Canyon, in New Mexico. Chaco Canyon was the location of one of the largest and most socially complex societies in the prehistoric American Southwest, and thus contains crucial information on how economic land use contributed to its rise. The researchers will use remote sensing methods, including ground-penetrating radar and aerial photography, to document land use patterns within Chaco. The land use patterns documented will allow rigorous evaluation of changes in land use, replication of land modifications, and adherence to or rejection of a broader system of economic land management. Archaeological remote sensing is particularly effective in mapping land use patterns, including those that are buried below the surface, in ways that are efficient, non-destructive, and adhere to the National Park's mission of preservation. The results of this research will be provided to CCNHP to include as part of public outreach and interpretation, and will be useful to the park as a management tool for their cultural resources. Training workshops conducted by Jennie Sturm in concurrence with data collection will also allow students to gain hands-on experience with remote sensing techniques that are rapidly affecting multiple industries.</AbstractNarration>
+    <MinAmdLetterDate>10/17/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/17/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1649264</AwardID>
+    <Investigator>
+      <FirstName>Wirt</FirstName>
+      <LastName>Wills</LastName>
+      <EmailAddress>wwills@unm.edu</EmailAddress>
+      <StartDate>10/17/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jennie</FirstName>
+      <LastName>Sturm</LastName>
+      <EmailAddress>jsturm@unm.edu</EmailAddress>
+      <StartDate>10/17/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of New Mexico</Name>
+      <CityName>Albuquerque</CityName>
+      <ZipCode>871310001</ZipCode>
+      <PhoneNumber>5052774186</PhoneNumber>
+      <StreetAddress>1700 Lomas Blvd. NE, Suite 2200</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Mexico</StateName>
+      <StateCode>NM</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7606</Code>
+      <Text>DDRI Archaeology</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

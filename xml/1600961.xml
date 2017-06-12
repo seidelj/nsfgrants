@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1600961</AwardID>
     <Investigator>
-      <FirstName>Moria</FirstName>
-      <LastName>Robinson</LastName>
-      <EmailAddress>mrobinson@ucdavis.edu</EmailAddress>
-      <StartDate>03/11/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Sharon</FirstName>
       <LastName>Strauss</LastName>
       <EmailAddress>systrauss@ucdavis.edu</EmailAddress>
       <StartDate>03/11/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Moria</FirstName>
+      <LastName>Robinson</LastName>
+      <EmailAddress>mrobinson@ucdavis.edu</EmailAddress>
+      <StartDate>03/11/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>University of California-Davis</Name>

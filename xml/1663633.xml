@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Label-Free detection of Sialic Acid Using Surface Enhanced Raman Scattering Microscopy</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader and commercial impacts of this I-Corps program are to improve the early-stage detection methods of breast cancer which is expected to reduce morbidity, mortality and rates of recurrence. It is also expected to decrease the overall cost of cancer care and lost productivity from breast cancer treatment and impacts. This screening technology is based on surface-enhanced Raman scattering and offers a noninvasive, high sensitive, rapid and cost-effective method of detection and dynamic monitoring of a breast cancer biomarker sialic acid in saliva. The non-invasive nature of our method helps to accommodate cultural and religious sensitivities that decrease compliance with mammography among certain populations. Moreover, portability and affordability give this technique the potential to promote early diagnosis of breast cancer in low-income, rural or remote areas.&lt;br/&gt;&lt;br/&gt;This I-Corps project develops a surface-enhanced Raman scattering system for cancer screening. This screening technology offers a noninvasive, high sensitive, rapid and cost-effective method of detection and dynamic monitoring of a breast cancer biomarker sialic acid in saliva. Currently available methods of specific detection and quantification of sialic acid (such as chromatographic methods) are complicated, expensive and time consuming, while more robust techniques (such as colorimetric assays) suffer from non-specificity and interference. This technology may present a versatile and age-independent alternative to standard mammography screening, holding promise for the improved management of breast cancer. Furthermore, it has been reported that sialic acid levels increased in the serum of patients with uterus, lung, colon/rectum, stomach and prostate cancer. Therefore, our method can be potentially used to detect not exclusively breast cancer, but also other types of cancer.</AbstractNarration>
+    <MinAmdLetterDate>10/26/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/26/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1663633</AwardID>
+    <Investigator>
+      <FirstName>Miguel</FirstName>
+      <LastName>Jose Yacaman</LastName>
+      <EmailAddress>miguel.yacaman@utsa.edu</EmailAddress>
+      <StartDate>10/26/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at San Antonio</Name>
+      <CityName>San Antonio</CityName>
+      <ZipCode>782491644</ZipCode>
+      <PhoneNumber>2104584340</PhoneNumber>
+      <StreetAddress>One UTSA Circle</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

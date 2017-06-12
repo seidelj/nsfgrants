@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: The impact of microeukaryotes in human microbiome evolution</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>25184</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rebecca Ferrell</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This dissertation project will study the role of parasites on the evolution of the human gut microbiome (the community of micro-organisms that live in the human digestive tract), their importance in these micro-environments, and the consequences of their loss in modern industrialized populations. Recent research has shown that the gut microbiome of industrialized populations has reduced species diversity, including the loss of microbial species that can help to reduce inflammation in the body. The reduction of parasite infections in these populations may be related reduced gut microbiome diversity and the increased prevalence of autoimmune diseases in the industrialized world. This project will advance our understanding of human biology and the co-evolution of species, while supporting student training and inclusion of underserved groups in scientific research. A series of scientific computing workshops will be offered through the Center on American Indian and Alaska Native Genomic Research and made available to the general public to encourage continued scientific education. Given that parasite infection remains a major source of morbidity and mortality world-wide, procedures developed in this project for the detection and analysis of parasites will be disseminated through international partnerships in regions where these types of infections pose a major public health concern.&lt;br/&gt;&lt;br/&gt;This project investigates whether the loss of parasites in the industrialized gut can explain the loss of microbial diversity in these micro-ecosystems. Using fecal samples from five geographically and culturally variable populations including industrialized peoples in the United States, and traditional peoples in South America and Africa, this study proposes to (1) describe the impact of parasites on the human gut microbiome, and (2) document the influence of lifestyle including subsistence strategy on parasite diversity in traditional and industrialized societies. Parasite DNA sequenced from samples collected for this study will be compared to bacterial community data using a variety of statistical procedures to detect whole community as well as functional shifts that may be linked to parasite infection.</AbstractNarration>
+    <MinAmdLetterDate>02/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650746</AwardID>
+    <Investigator>
+      <FirstName>Cecil</FirstName>
+      <LastName>Lewis</LastName>
+      <EmailAddress>cmlewis@ou.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Allison</FirstName>
+      <LastName>Mann</LastName>
+      <EmailAddress>aemann01@ou.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Oklahoma Norman Campus</Name>
+      <CityName>NORMAN</CityName>
+      <ZipCode>730199705</ZipCode>
+      <PhoneNumber>4053254757</PhoneNumber>
+      <StreetAddress>201 Stephenson Parkway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Oklahoma</StateName>
+      <StateCode>OK</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7608</Code>
+      <Text>DDRI Bio Anthro</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1392</Code>
+      <Text>Biological Anthropology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI: Glycan Characterization and Quantitative Analysis via Free-Radical Induced Dissociation</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>103000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey D. Cook</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Prof. Jinshan Gao and his students at Montclair State University are pursuing research that seeks improved capabilities for glycan characterization and quantitation.  Glycans (or polysaccharides) are complex biomolecules that play important roles in the biochemistry of living systems, despite their low abundance.  Their qualitative and quantitative analysis can be important in identifying and distinguishing healthy and diseased cells.  Dr. Gao's group is targeting new ways to derive glycan structural information using mass spectrometry, one of the most widely used and important tools of chemical analysis.  They are devising ways to label glycan molecules with isotopic or other chemical "tags" to gain better insight into their fragmentation and to facilitate their quantitation.  The work seeks both improved performance and better understanding of the methods.  Impact on workforce development is enhanced by involvement of undergraduate students, including first-generation college students and members from under-represented groups; Montclair State University is a Hispanic-Serving Institution. Elements of the research are integrated into Dr. Gao's undergraduate courses, enabling students to become familiar with modern analytical techniques. &lt;br/&gt;&lt;br/&gt;The overarching goals of the research are to develop a novel free-radical approach for glycan characterization and quantitation, and to investigate glycan dissociation induced by free radicals. Combining the merits of free-radical chemistry and mass spectrometry requires 1) development of free-radical reagents for glycan characterization; 2) development of free-radical tags for glycan quantitation; and 3) synthesis of model glycans for investigation of glycan dissociation mechanisms. These tasks provide a range of synthesis opportunities for the students engaged in the research.  The free-radical reagents are employed to generate systematic and predictable glycan dissociation, facilitating visualization of the glycan skeleton. Free-radical tags enable simultaneous glycan quantitation and characterization. Insights gained from the investigation of glycan dissociation should improve understanding of the potential broader utility of the free-radical dissociation approach. The work should advance understanding of the roles of glycans in health and disease, including tumor development and other glycosylation-related diseases, such as coronary heart disease and inflammatory bowel disease.</AbstractNarration>
+<MinAmdLetterDate>05/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709272</AwardID>
+<Investigator>
+<FirstName>Jinshan</FirstName>
+<LastName>Gao</LastName>
+<EmailAddress>gaoj@mail.montclair.edu</EmailAddress>
+<StartDate>05/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Montclair State University</Name>
+<CityName>Montclair</CityName>
+<ZipCode>070431624</ZipCode>
+<PhoneNumber>9736556923</PhoneNumber>
+<StreetAddress>1 Normal Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+</Award>
+</rootTag>

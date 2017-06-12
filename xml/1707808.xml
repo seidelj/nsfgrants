@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Interactions Between Representation Theory and Algebraic Geometry</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2018</AwardExpirationDate>
+    <AwardAmount>55000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Matthew Douglass</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The conference "Interactions between representation theory and algebraic geometry," will take place at the University of Chicago, August 21-25, 2017. It will be a major gathering of researchers in these two interacting branches of mathematics. Representation theory is the algebraic study of symmetries in geometry and physics and is at the crossroads of many important areas of modern mathematics. Algebraic geometry is concerned with the study of shapes that can be described using polynomial equations, and with applying geometric ideas to commutative algebra and number theory. In the past decades, some of the most important results in representation theory have been obtained by applying ideas and methods from algebraic geometry, and conversely many important problems in algebraic geometry have benefited from applying representation theory. The conference will feature one-hour lectures by leading experts in the field, poster presentations, and evening talks by junior mathematicians. The conference will stimulate productive interactions between mathematicians in diverse fields and career stages, including Ph.D. students and postdoctoral researchers.&lt;br/&gt;&lt;br/&gt;The conference will address recent developments in the interconnected areas of representation theory and algebraic geometry, as well as related subjects, including p-adic Hodge theory, arithmetic geometry and non-commutative algebra. In particular, cutting-edge research related to categorification, symplectic resolutions, quantization, D-modules, quiver varities and the Langlands program will be presented. The conference aims not only to disseminate this research but to make it accessible to junior mathematicians. The webpage is https://sites.google.com/site/2017uchicagomathconference/.</AbstractNarration>
+    <MinAmdLetterDate>03/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1707808</AwardID>
+    <Investigator>
+      <FirstName>Vladimir</FirstName>
+      <LastName>Drinfeld</LastName>
+      <EmailAddress>drinfeld@math.uchicago.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Chicago</Name>
+      <CityName>Chicago</CityName>
+      <ZipCode>606375418</ZipCode>
+      <PhoneNumber>7737028669</PhoneNumber>
+      <StreetAddress>5801 South Ellis Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1264</Code>
+      <Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

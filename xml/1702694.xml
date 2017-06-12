@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>WiFiUS: Fault-Tolerant Cognitive IoT Systems Using Sensors of Limited Field-of-View: Fundamental Limits and Practical Strategies</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>299115</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Richard Brown</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Improving reliability and efficiency of Internet of Things (IoT) is necessary to harness their full potential. IoT systems will sense, communicate, and process data to produce reliable decisions and inferences. The investigators study three ways in which each IoT device will be limited: limited "field of view" of each sensor; severe energy limitations; unreliability of sensing and communication. This research contributes towards progress of science by obtaining and analyzing novel cross-layer IoT sensing, communication, and computing strategies that outperform classical strategies by several orders of magnitude in energy efficiency and reliability. For validation, the researchers examine improvements on practically relevant problems of health monitoring through neuro-interfaces and distributed camera inference. The research involves several graduate and undergraduate courses, with emphasis on engaging female and minority students.&lt;br/&gt;&lt;br/&gt;Severe energy constraints provide a compelling incentive for cross-layer designs of "cognitive" IoT systems to jointly sense, compress, communicate, and compute. However, naive cross-layer designs can reduce tolerance to system faults, e.g., sensing/ communication/computation errors. The investigators pursue a systematic understanding, utilizing it to obtain novel cross-layer designs of cognitive IoT strategies that gracefully trade off fault tolerance and efficiency through novel error-correction techniques compatible with limited fields of view. They benchmark this trade off against novel information-theoretic fundamental limits. The obtained techniques increase the robustness of algorithms that use, as a first step, linear projections on distributedly-sensed large dimensional data. Focusing on algorithms for the widely applicable k-Nearest Neighbors (k-NN) problem, the researchers obtain improved algorithms and analyze performance-efficiency-robustness tradeoffs, bridging information theory, statistics, and machine learning.</AbstractNarration>
+    <MinAmdLetterDate>04/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1702694</AwardID>
+    <Investigator>
+      <FirstName>Pulkit</FirstName>
+      <LastName>Grover</LastName>
+      <EmailAddress>pgrover@andrew.cmu.edu</EmailAddress>
+      <StartDate>04/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Carnegie-Mellon University</Name>
+      <CityName>PITTSBURGH</CityName>
+      <ZipCode>152133815</ZipCode>
+      <PhoneNumber>4122689527</PhoneNumber>
+      <StreetAddress>5000 Forbes Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1714</Code>
+      <Text>SPECIAL PROJECTS - CISE</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>2878</Code>
+      <Text>SPECIAL PROJECTS - CCF</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8229</Code>
+      <Text>WiFiUS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

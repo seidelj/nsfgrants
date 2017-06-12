@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Radio Stars: from kHz to THz</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>25089</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The conference will bring together researchers and students, observers and theorists for the presentation and discussion of new advances in stellar astrophysics enabled by the latest generation of radio facilities operating from meter to submillimeter wavelengths.  &lt;br/&gt;&lt;br/&gt;The general focus of the workshop will be radio emission from hot and cool stars during the pre-main sequence through post-main sequence evolutionary phases.  An underlying theme will be exploring how the new technologies that are opening the entire radio spectrum to the study of the Sun and stars are leading to new discoveries.</AbstractNarration>
+<MinAmdLetterDate>06/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743708</AwardID>
+<Investigator>
+<FirstName>Lynn</FirstName>
+<LastName>Matthews</LastName>
+<EmailAddress>lmatthew@haystack.mit.edu</EmailAddress>
+<StartDate>06/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1215</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

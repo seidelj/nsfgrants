@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Research Experiences for Undergraduates in Chemistry at the University of Cincinnati</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>310336</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Michelle Bushey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Professors Anna Gudmundsdottir, William Connick, and colleagues at the University of Cincinnati host this site funded by REU Sites Program of the NSF Division of Chemistry. The site supports 10 students for ten weeks each summer to conduct research in a stimulating, inclusive research environment. Students become an integral part of the teams that carry out cutting-edge research in fields broadly related to sustainable and health related chemistry. The research contributes towards advancing the national health and building a sustainable nation. The research projects conducted by students in conjunction with the participating faculty members and their research groups, are planned in such a way as to permit tangible accomplishments in a ten-week period, yet are sufficiently open-ended that fresh research challenges arise. Each student has the opportunity to contribute to scientific knowledge, including refereed publication and presentation at an appropriate scientific meeting.&lt;br/&gt; &lt;br/&gt;Students at predominantly undergraduate institutions (PUIs) within 500 miles of Cincinnati are the primary target group for recruiting. There is a special focus on recruitment of minority students at regional historically black colleges and universities (HBCUs). The REU students have opportunities to develop as young professional scientists and researchers through a series of educational and professional development activities. These activities prepare the REU students to enter the pipeline as informed, knowledgeable professionals with a clear understanding of the challenges and opportunities before them. A focus on minority recruiting, combined with the involvement of a faculty member from an HBCU in the program, expands and strengthens the pool of underrepresented minorities in the workplace. Advancement of underrepresented students has a broad societal impact that is complemented by the positive effects of the research outcomes. In partnership with other activities at the University of Cincinnati, students from the University of Bordeaux are on campus expose the REU students to international collaboration.</AbstractNarration>
+    <MinAmdLetterDate>03/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659648</AwardID>
+    <Investigator>
+      <FirstName>William</FirstName>
+      <LastName>Connick</LastName>
+      <EmailAddress>bill.connick@uc.edu</EmailAddress>
+      <StartDate>03/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Anna</FirstName>
+      <LastName>Gudmundsdottir</LastName>
+      <EmailAddress>anna.gudmundsdottir@uc.edu</EmailAddress>
+      <StartDate>03/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Cincinnati Main Campus</Name>
+      <CityName>Cincinnati</CityName>
+      <ZipCode>452210222</ZipCode>
+      <PhoneNumber>5135564358</PhoneNumber>
+      <StreetAddress>University Hall, Suite 530</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1986</Code>
+      <Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7234</Code>
+      <Text>SENSORS NON-SOLICITATION RESEA</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7237</Code>
+      <Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8396</Code>
+      <Text>Clean Energy Technology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8399</Code>
+      <Text>Energy Storage or Transmission</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8607</Code>
+      <Text>Solar Energy Capture&amp;Conver</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8650</Code>
+      <Text>Sustainable Chemistry</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9263</Code>
+      <Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Workshop: Framing the Role of Big Data and Modern Data Science in Chemistry</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>78796</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Michelle Bushey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award from the Division of Chemistry supports "CHE Workshop: Framing the Role of Big Data and Modern Data Science in Chemistry", held April 18-19, 2017 in Arlington, Virginia. Profs. Johannes Hachmann, John McLean, and Theresa Windus of SUNY Buffalo, Vanderbilt and Iowa State University respectively, have assembled a team to address the potential of big data research and modern data science in the field of chemistry. The workshop brings together a diverse group of approximately 45 leaders in the chemical sciences who have expertise in the development of this field. &lt;br/&gt;&lt;br/&gt;The goals of the workshop are to spearhead a broad discussion about data-driven research, and the tools to enable it. The long-term objectives of the workshop are to shape this emerging field, and to help pioneer a fundamental transformation of the discovery process in chemistry. These goals are well aligned with ideas and needs expressed in the Dear Colleague Letter on Data-Driven Discovery Science in Chemistry (D3SC), NSF 17-036, which is reflective of the "Harnessing the Data Revolution" need, recognized as one of the "10 Big Ideas for Future NSF Investment". The application of big data and modern data science creates new tools that promise to transform the discovery and design process in chemistry and thus boost our capacity for innovation. In addition to the far-reaching technological implications, this development also promises a significant increase in the return on public and private investments, both in terms of resources and time.</AbstractNarration>
+    <MinAmdLetterDate>03/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1733626</AwardID>
+    <Investigator>
+      <FirstName>Theresa</FirstName>
+      <LastName>Windus</LastName>
+      <EmailAddress>twindus@iastate.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>McLean</LastName>
+      <EmailAddress>john.a.mclean@vanderbilt.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Johannes</FirstName>
+      <LastName>Hachmann</LastName>
+      <EmailAddress>hachmann@buffalo.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>SUNY at Buffalo</Name>
+      <CityName>Amherst</CityName>
+      <ZipCode>142282567</ZipCode>
+      <PhoneNumber>7166452634</PhoneNumber>
+      <StreetAddress>520 Lee Entrance</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1978</Code>
+      <Text>PROJECTS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

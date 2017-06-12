@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Does Northern Hemisphere Snow Cover Influence Mid-latitude Cyclone Trajectories? Weather System Implications for a Changing Climate</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>168340</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Eric T. DeWeaver</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Winter storms have significant societal and economic impacts in North America. For over 50 years, forecasters have noted that the location of the southern extent of pre-existing snow cover appears to affect the tracks and intensity of storms that follow afterwards. However, neither the validity nor the physical mechanisms underlying this forecasting rule-of-thumb have been rigorously investigated. Understanding how and where these storms form, both currently and in the future, in relation to the snow line, requires advances in theories and models of large-scale climate dynamics. This project will conduct a comprehensive statistical analysis of a greater range of snow cover and cyclone observations in central/eastern North America, and evaluate hypotheses of the underlying mechanisms using numerical model simulations. These findings will then be used to address how this process is represented in climate models and identify changes to mid-latitude storm trajectories arising from past and projected retreats and advances of the mid-latitude snow line.&lt;br/&gt;&lt;br/&gt;Better understanding of how features of the Earth system, particularly snow cover, manifest in weather systems, will lead to improvements in both weather and climate forecasting and benefit risk management of weather hazards. New databases on snow cover and mid-latitude storm tracks will be made publicly and freely available. This project supports a PhD student and two undergraduate students who will be trained in the emerging field of the weather-climate interface.</AbstractNarration>
+    <MinAmdLetterDate>03/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1640452</AwardID>
+    <Investigator>
+      <FirstName>Jonathan</FirstName>
+      <LastName>Martin</LastName>
+      <EmailAddress>jemarti1@wisc.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>Vavrus</LastName>
+      <EmailAddress>sjvavrus@wisc.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Notaro</LastName>
+      <EmailAddress>mnotaro@wisc.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ankur</FirstName>
+      <LastName>Desai</LastName>
+      <EmailAddress>desai@aos.wisc.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Wisconsin-Madison</Name>
+      <CityName>MADISON</CityName>
+      <ZipCode>537151218</ZipCode>
+      <PhoneNumber>6082623822</PhoneNumber>
+      <StreetAddress>21 North Park Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Wisconsin</StateName>
+      <StateCode>WI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5740</Code>
+      <Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

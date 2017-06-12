@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: SC2: Efficient, Collaborative Spectrum Sharing through a Systems and Optimal Control Approach</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>99999</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Currently radio spectrum is partitioned into fixed bands that are available only to licensed users. The low utilization of these bands, coupled with exponentially increasing demand, has led to the problem of spectrum scarcity for wireless access. Work on this award is expected to yield paradigm-shifting innovations that will achieve significantly higher spectrum utilization by facilitating dynamic sharing of spectrum among different wireless networks and users. The research will inform public policy on spectrum allocation, lead to better quality of service and faster Internet access for wireless users, and enable new multimedia applications. Students, particularly those from underrepresented groups, will acquire hands-on experience with cutting edge wireless technologies.&lt;br/&gt;&lt;br/&gt;The work on this award has two unique research directions that are expected to have significant impact. First, a systems and optimal control approach to collaborative spectrum sharing will be developed. This approach relies on cooperative decision making among all components of the solution (e.g., spectrum sensing, communication, reasoning, and control); all decisions made within the system are mindful of the overall system objective. In order to achieve broadly cooperative decision making, new ideas from event-triggered and self-triggered control will be used. Rather than periodically updating control signals, these control frameworks introduce decision making when signals should be updated and when new information should be obtained, respectively. Second, the use of trust establishment schemes will be investigated, with the explicit goal of incentivizing collaboration among networks. As part of this research task, a trust, or reputation, metric will developed, along with tunable algorithms that maximize the balanced score between internal network performance and global network performance. The proposed research on spectrally efficient communications and radio environment understanding will also be critically important for enabling collaboration in the spectrum domain.</AbstractNarration>
+    <MinAmdLetterDate>03/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1737989</AwardID>
+    <Investigator>
+      <FirstName>Cameron</FirstName>
+      <LastName>Nowzari</LastName>
+      <EmailAddress>cnowzari@gmu.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Brian</FirstName>
+      <LastName>Mark</LastName>
+      <EmailAddress>bmark@gmu.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jill</FirstName>
+      <LastName>Nelson</LastName>
+      <EmailAddress>jnelson@gmu.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Bernd-Peter</FirstName>
+      <LastName>Paris</LastName>
+      <EmailAddress>pparis@gmu.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>George Mason University</Name>
+      <CityName>FAIRFAX</CityName>
+      <ZipCode>220304422</ZipCode>
+      <PhoneNumber>7039932295</PhoneNumber>
+      <StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1714</Code>
+      <Text>SPECIAL PROJECTS - CISE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

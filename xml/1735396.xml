@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: Measuring the Stability of Web Links</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>89200</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sol J. Greenspan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>With every passing day, the Internet becomes more and more integrated in society. Our reliance on online web services in our professional and personal lives continuously increases. Recognizing this, attackers take advantage of the web's popularity to mount a wide range of web application attacks, compromising systems, and stealing private and financial information. Although many classes of these attacks are seemingly unrelated, in reality, many of them stem from the stateless nature of the web, where no safeguards exist to ensure that a resource that was linked to yesterday is the same resource being accessed today. As a result, enforcing link integrity holds the promise of mitigating a multitude of security attacks.&lt;br/&gt;&lt;br/&gt;However, the dynamicity of the web poses challenges to link integrity schemes, which must cope with constant benign changes while flagging the malicious ones. Pursuing this line of research requires a fundamental understanding of the security aspects of the web?s dynamic nature. This nature cannot be assessed today with the available tools, because existing web crawlers are limited to retrieving content, and generally do not gather the metadata critical to the development of link integrity schemes. This project aims to quantify the stability of web links by developing a custom web crawler infrastructure and tools that will collect security-related metadata about remote resources. The gathering and subsequent assessing of this metadata is a critical first step to demonstrate the feasibility of developing robust link integrity schemes that can be used to detect abnormal content and infrastructure changes (indicative of an ongoing attack) while keeping false positives to a minimum.</AbstractNarration>
+    <MinAmdLetterDate>04/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1735396</AwardID>
+    <Investigator>
+      <FirstName>Nick</FirstName>
+      <LastName>Nikiforakis</LastName>
+      <EmailAddress>nick@cs.stonybrook.edu</EmailAddress>
+      <StartDate>04/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Ferdman</LastName>
+      <EmailAddress>mferdman@cs.stonybrook.edu</EmailAddress>
+      <StartDate>04/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>SUNY at Stony Brook</Name>
+      <CityName>Stony Brook</CityName>
+      <ZipCode>117940001</ZipCode>
+      <PhoneNumber>6316329949</PhoneNumber>
+      <StreetAddress>WEST 5510 FRK MEL LIB</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8060</Code>
+      <Text>Secure &amp;Trustworthy Cyberspace</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>025Z</Code>
+      <Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7434</Code>
+      <Text>CNCI</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

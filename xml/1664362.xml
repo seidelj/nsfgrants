@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Modeling the Census of Stellar Explosions in Galaxies across the Universe</AwardTitle>
+    <AwardEffectiveDate>08/13/2016</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2018</AwardExpirationDate>
+    <AwardAmount>319710</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03020000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Astronomical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joseph E. Pesce</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Stellar explosions are a critical component in the evolution of the universe: they influence the evolution of entire galaxies and are the source of all elements heavier than helium, including oxygen, carbon, iron, and all other matter that make up planets like Earth. Many of the processes leading up to these explosions are understood in principle, but much can be learned about the progenitor stars of these explosions by studying how different classes of explosions are distributed across galaxy types, galaxy environments, and cosmic age. The team will build upon the successful Galaxy Evolution (GALEV) stellar population models and study, for a variety of stellar explosions, how each of them depends on the age, mass, and chemical properties of their host galaxy. In addition to advancing our understanding of where most of the vitally important elements come from, this will also greatly benefit the full scientific exploitation of major US investments, such as the Large Synoptic Survey Telescope and the Advanced Laser Interferometer Gravitational Wave Observatory. A connected public education and outreach effort focuses on demonstrating how astronomers extract scientific insights from "pretty pictures." Supplemented with public talks and stargazing events, this generates enthusiasm amongst young students for the science fields.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Explosive transients such as Supernovae and Gamma-Ray Bursts are tracers of the final stage of stellar evolution that shape the evolution of the host galaxy by regulating the gas inflows and outflows and by enriching the interstellar medium with metals. Observationally, recent and future advances in instrumentation -- many with major US support such as the Large Synoptic Survey Telescope and Advanced-LIGO -- allow us to gather sizable samples of these rare events across a wide range of host galaxy properties. Though the qualitative theoretical base for most events are well established, current theoretical models cannot yet predict a priori the distribution of events across redshift, galaxy type, galaxy mass, etc. In this project, the team will extend the successful Galaxy Evolution (GALEV) synthesis code to model the rate of events from single- and binary-star progenitors, fully and self-consistently accounting for both the evolution of metallicity and stellar populations in galaxies. This approach allows the researchers to study the host galaxies of explosive transients individually and hence to better constrain the physical processes underlying these events. The team will develop a series of presentations for the Manfred Olson Planetarium aimed at school groups, the campus community, and the general public to illustrate astronomical methods and techniques in an easy-to-understand, audience-appropriate way. Members of the team will also run astronomy shows by taking telescopes to parks and public events in the south-east Wisconsin region to offer stargazing and casual interactions with fellow citizens across all ages and backgrounds.</AbstractNarration>
+    <MinAmdLetterDate>10/28/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1664362</AwardID>
+    <Investigator>
+      <FirstName>Ralf</FirstName>
+      <LastName>Kotulla</LastName>
+      <EmailAddress>kotulla@wisc.edu</EmailAddress>
+      <StartDate>10/28/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Wisconsin-Madison</Name>
+      <CityName>MADISON</CityName>
+      <ZipCode>537151218</ZipCode>
+      <PhoneNumber>6082623822</PhoneNumber>
+      <StreetAddress>21 North Park Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Wisconsin</StateName>
+      <StateCode>WI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1217</Code>
+      <Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1206</Code>
+      <Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1207</Code>
+      <Text>OBSERVATIONAL ASTRONOMY</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

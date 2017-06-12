@@ -49,14 +49,6 @@
       <Text>POP &amp; COMMUNITY ECOL PROG</Text>
     </ProgramElement>
     <ProgramReference>
-      <Code>9169</Code>
-      <Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
-    </ProgramReference>
-    <ProgramReference>
-      <Code>EGCH</Code>
-      <Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
-    </ProgramReference>
-    <ProgramReference>
       <Code>1182</Code>
       <Text>POP &amp; COMMUNITY ECOL PROG</Text>
     </ProgramReference>
@@ -65,12 +57,20 @@
       <Text>EGC EDUCATIONAL ACTIVITIES</Text>
     </ProgramReference>
     <ProgramReference>
+      <Code>9169</Code>
+      <Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+    </ProgramReference>
+    <ProgramReference>
       <Code>9178</Code>
       <Text>UNDERGRADUATE EDUCATION</Text>
     </ProgramReference>
     <ProgramReference>
       <Code>9251</Code>
       <Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>EGCH</Code>
+      <Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
     </ProgramReference>
     <ProgramReference>
       <Code>SMET</Code>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>BPE Symposia/Travel: Funding Women Engineers to Attend the National LATTICE Symposia</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>29988</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>James Moore</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Extant scientific literature indicates that women students in STEM, who take classes from women STEM faculty, are more likely to major in STEM disciplines. Therefore, engineering and science benefit from diversity. In 2015, the NSF ADVANCE Program awarded a grant (HRD-1500310) to the University of Washington, North Carolina State University, and California Polytechnic State University to create LATTICE (Launching Academics on the Tenure Track: an Intentional Community in Engineering), an adaptation of an existing professional development model that combines a national symposium with peer mentoring circles to broaden the participation of women in engineering, particularly at the underserved postdoctoral and early-career faculty stage. The intent of this travel grant is to support 30 early-career women in electrical engineering and computer science to attend the first LATTICE Symposium on May 18-21, 2017, outside of Seattle, Washington. &lt;br/&gt;&lt;br/&gt;LATTICE intends to bring together engineering faculty, faculty diversity advocates and practitioners, and social scientists to create a professional development symposia, followed by peer Mentoring Circles for two national cohorts of early-career women interested in engineering faculty careers, to support women engineering faculty in electrical engineering and computer science and study what contributes to the success of the planning team and the intervention. The symposia, plus Mentoring Circles intervention, are designed to positively impact engineering women faculty's career self-efficacy, sense of belonging, and career advancing behaviors so that they are able to cultivate successful careers. The LATTICE project is also designed to obtain important information that can help the fields of electrical engineering and computer science better understand the efficacy of adapting the professional development model to different populations, such as women in engineering.</AbstractNarration>
+    <MinAmdLetterDate>03/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1700596</AwardID>
+    <Investigator>
+      <FirstName>Eve</FirstName>
+      <LastName>Riskin</LastName>
+      <EmailAddress>riskin@ee.washington.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Joyce</FirstName>
+      <LastName>Yen</LastName>
+      <EmailAddress>joyceyen@u.washington.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Washington</Name>
+      <CityName>Seattle</CityName>
+      <ZipCode>981950001</ZipCode>
+      <PhoneNumber>2065434043</PhoneNumber>
+      <StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Washington</StateName>
+      <StateCode>WA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7680</Code>
+      <Text>ENG DIVERSITY ACTIVITIES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7680</Code>
+      <Text>ENG DIVERSITY ACTIVITIES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

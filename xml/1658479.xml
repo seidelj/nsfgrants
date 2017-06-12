@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Circulation of the Ross Gyre</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>1121679</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040300</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Eric C. Itsweire</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Ross Gyre, one of two main gyres in the Southern Ocean, serves an important role in maintaining the global overturning circulation. However, due to its remote location and unfavorable weather conditions, this area is poorly sampled and understood. The current knowledge of the Ross Gyre is very limited and new observations and analyses are needed to understanding the transport of heat, oxygen, nutrients and salt between the Ross Gyre and the Antarctic Circumpolar Current (ACC). New ocean data will be collected and analyzed in collaboration with partners in the US, New Zealand, and Australia to determine the structure and characteristics of large-scale fluxes associated with the Ross Gyre. In addition, the knowledge gained from the project will enhance our understanding of global overturning circulation, which is strongly influenced by climate change. A graduate student and a postdoctoral researcher will trained in working within a harsh natural environment and they will gain experience with international collaborations. The project will leverage a university-based REU (Research Experience for Undergraduates) program to introduce undergraduate students to oceanographic research and data analysis techniques. Overall, the proposed work addresses a timely and important topic that is critical to understanding circulation in the Southern Ocean and globally.&lt;br/&gt;&lt;br/&gt;The large-scale gyre circulation, eddy fluxes, and advection in the Ross Gyre act to produce net exchange between the Antarctic Circumpolar Current (ACC) and the Antarctic margin. This project aims to relate these processes by analyzing the large-scale dynamics, property transports, and determine the net sources and sinks of low potential vorticity Circumpolar Deep Water (CDW) to the margin in this region. The main objectives are to determine the structure and transport of the Ross Gyre and associated sub-gyres, to quantify the interactions between the ACC and Ross Gyre, including the role of topography in localizing meridional exchange and to determine the connection between the Antarctic Slope Current and the Ross Gyre The main hypothesis is that in the western limits of the gyre, where northward flowing boundary currents are in proximity of the ACC, modified Circumpolar Deep Water entering the gyre along its western rim is strongly mixed by eddies, removing much of its identifying characteristics. The eastern sector of the gyre experiences highly variable wind forcing and strong ACC instabilities, enhancing the mixing of CDW into the gyre where it is carried toward the continental margin. Thus three processes: gyre circulation, eddy fluxes, and upwelling act in concert. A program of hydrographic and float profile data analyses and an analysis of the Southern Ocean State Estimate (SOSE) model will be used to understand the large-scale gyre circulation, eddy fluxes and advection in the Ross Gyre. The hydrographic component will involve two primary activities, focused ship-based hydrography and float-based hydrography. A dedicated deployment of 15 profiling floats in the Ross Gyre is proposed to enhance coverage in the gyre; these floats will be complemented with additional float contributions from US programs and colleagues in Australia and Italy.</AbstractNarration>
+    <MinAmdLetterDate>03/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658479</AwardID>
+    <Investigator>
+      <FirstName>Kevin</FirstName>
+      <LastName>Speer</LastName>
+      <EmailAddress>kspeer@fsu.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Florida State University</Name>
+      <CityName>TALLAHASSEE</CityName>
+      <ZipCode>323064166</ZipCode>
+      <PhoneNumber>8506445260</PhoneNumber>
+      <StreetAddress>874 Traditions Way, 3rd Floor</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1610</Code>
+      <Text>PHYSICAL OCEANOGRAPHY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5113</Code>
+      <Text>ANTARCTIC OCEAN &amp; ATMOSPH SCI</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1324</Code>
+      <Text>CLIMATE VARIABILITY AND PREDICTABILITY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5113</Code>
+      <Text>ANTARCTIC OCEAN &amp; ATMOSPH SCI</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

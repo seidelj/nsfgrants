@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>High-Dimensional Dynamical Systems</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>337000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Roytburd</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project develops mathematical models for disordered physical systems. The primary applications studied in this project are turbulent fluids, the microstructure of glasses, and branched structures that arise in the aggregation of clusters and the shape of lightning. As often happens, the mathematical models studied also explain phenomena unrelated to specific physical systems, and this project also includes a statistical approach to the performance of several widely-used numerical algorithms. The primary purpose of this research is to develop mathematical methods to improve understanding of important phenomena, particularly turbulence in fluids and the aging of glasses, which are well-known but poorly-understood systems in physics and materials science. This project also contributes to the development of the STEM workforce through the training of graduate students.&lt;br/&gt;&lt;br/&gt;The main focus of this project is the development of mathematical methods for dynamical systems that are strongly nonlinear, involve randomness, and have a large number of degrees of freedom. The mathematical tools to analyze these systems are drawn from integrable systems, kinetic theory, partial differential equations and probability theory. Four projects are considered: (a) random isometric embeddings and turbulence in incompressible fluids; (b) conformal processes with branching; (c) aging of spin glasses; and (d) statistical behavior of algorithms in numerical linear algebra. Projects (a) and (b) provide rigorous results on random geometry. In project (a), turbulence heuristics are used to improve the known critical exponents for the isometric embedding problem in differential geometry. This construction also sheds light on random fluid flows arising in isotropic homogeneous turbulence. In project (b), a new stochastic partial differential equation, whose solutions describe conformally embedded trees, is investigated. Project (c) considers a basic model for vitreous systems in materials science. The purpose of project (d) is to quantify the `probability of difficulty' for several widely used algorithms in computer science. Both these projects are unified by the study of glassy behavior. In particular, the algorithms studied may be viewed as high-dimensional dynamical systems with exponentially many critical points. Their performance reflects glassy behavior such as aging and metastability. Conversely, the algorithms serve as numerical laboratories that shed light on aging dynamics in physical glasses.</AbstractNarration>
+<MinAmdLetterDate>05/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714187</AwardID>
+<Investigator>
+<FirstName>Govind</FirstName>
+<LastName>Menon</LastName>
+<EmailAddress>menon@dam.brown.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brown University</Name>
+<CityName>Providence</CityName>
+<ZipCode>029129002</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress>BOX 1929</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

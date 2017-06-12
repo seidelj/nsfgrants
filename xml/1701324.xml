@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Fourth Mile High Conference on Nonassociative Mathematics</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2018</AwardExpirationDate>
+    <AwardAmount>15000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Timothy Hodges</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award supports participation in the Fourth Mile High Conference on Nonassociative Mathematics which will take place at the University of Denver, Denver, Colorado, on July 29--August 5, 2017. Approximately 90 researchers from 20 countries are expected to participate. The conference will bring together scientists from all areas of nonassociative mathematics and is intended to promote cross-disciplinary research. The conference will be accessible to graduate and post-doctoral students and will provide a forum for these beginning researchers. The organizers are committed to encouraging and supporting participation of researchers from underrepresented and underprivileged groups. &lt;br/&gt;&lt;br/&gt;Nonassociative mathematics is a broad field that interacts with many traditional mathematical disciplines. The following areas of mathematics will be featured at the conference: the algebraic theory of quasigroups, loops, Lie algebras and Jordan algebras; the combinatorial theory of latin squares and triple systems; the geometric theory of 3-nets and latin square designs; applications of octonions and related structures in physics; applications of quandles in knot theory. The meeting will begin with a full day of expository lectures on the connections between low-dimensional topology and related self-distributive algebras. Further information can be found on the conference website: www.math.du.edu/milehigh</AbstractNarration>
+    <MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1701324</AwardID>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Kinyon</LastName>
+      <EmailAddress>mkinyon@du.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Petr</FirstName>
+      <LastName>Vojtechovsky</LastName>
+      <EmailAddress>petr@math.du.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Denver</Name>
+      <CityName>Denver</CityName>
+      <ZipCode>802104711</ZipCode>
+      <PhoneNumber>3038712000</PhoneNumber>
+      <StreetAddress>2199 S. University Blvd.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1264</Code>
+      <Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1267</Code>
+      <Text>TOPOLOGY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Coastal Research in Science and Technology (CREST) at UMass Boston</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>104880</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Elizabeth Rom</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The "Coastal Research in Environmental Science and Technology (CREST)" Research Experiences for Undergraduates (REU) program at the University of Massachusetts Boston (UMass Boston) is a ten-week immersive research experience serving eight undergraduates per year. The program allows students to develop independent research projects and to participate in professional development activities. Research projects will focus on cutting edge, integrative, coastal environmental science research. The goal of the CREST REU is to introduce students who are early in their academic career to the diverse approaches used in coastal environmental research, which necessitates crossing disciplinary boundaries. Scholars will develop a peer network from diverse backgrounds and disciplines. They will foster an understanding of coastal ocean research and will acquire experience in all aspects of the scientific method and environmental problem solving. Students will also participate in a variety of professional development activities to gain practical experience in the communication of their research, responsible conduct in research, and activities designed to integrate students into the University community. The program will support the national goal of developing a scientific workforce with interdisciplinary training. &lt;br/&gt;&lt;br/&gt;The student research experiences address high need areas in the chemistry, geology and earth science, ecology and molecular ecology, and social, behavioral, economics, and sustainability sciences fields. Coastal ecosystems are considered to disproportionally produce more services to humans than any other ecosystems. However, anthropogenic drivers of habitat loss, habitat degradation and over-exploitation of coastal resources are threatening coastal ecosystem services. Student research will contribute to the understanding of how coastal ecosystems respond to anthropogenic drivers and will support the integration of data from natural science and social science research into the decision-making process for coastal management. This program will offer a total of twenty-four young scholars an opportunity to conduct socially-relevant research and to advance into scientific careers.</AbstractNarration>
+    <MinAmdLetterDate>03/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658901</AwardID>
+    <Investigator>
+      <FirstName>Alan</FirstName>
+      <LastName>Christian</LastName>
+      <EmailAddress>alan.christian@umb.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Helen</FirstName>
+      <LastName>Poynton</LastName>
+      <EmailAddress>helen.poynton@umb.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Massachusetts Boston</Name>
+      <CityName>Dorchester</CityName>
+      <ZipCode>021253300</ZipCode>
+      <PhoneNumber>6172875370</PhoneNumber>
+      <StreetAddress>100 Morrissey Boulevard</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1690</Code>
+      <Text>EDUCATION/HUMAN RESOURCES,OCE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

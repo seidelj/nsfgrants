@@ -36,13 +36,33 @@
     </Investigator>
     <Institution>
       <Name>SUNY at Buffalo</Name>
-      <CityName>Buffalo</CityName>
-      <ZipCode>142607016</ZipCode>
+      <CityName>Amherst</CityName>
+      <ZipCode>142282567</ZipCode>
       <PhoneNumber>7166452634</PhoneNumber>
-      <StreetAddress>402 Crofts Hall</StreetAddress>
+      <StreetAddress>520 Lee Entrance</StreetAddress>
       <CountryName>United States</CountryName>
       <StateName>New York</StateName>
       <StateCode>NY</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>7484</Code>
+      <Text>IIS SPECIAL PROJECTS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7719</Code>
+      <Text>DEL</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1311</Code>
+      <Text>LINGUISTICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7484</Code>
+      <Text>IIS SPECIAL PROJECTS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7719</Code>
+      <Text>DEL</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

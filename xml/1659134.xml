@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU SITE: Research in Consumer Networking Technologies</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2020</AwardExpirationDate>
+    <AwardAmount>359999</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Harriet G. Taylor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This funding renews a Research Experience for Undergraduates (REU) Site at the University of Missouri - Columbia. Undergraduate students will engage in summer research involving a variety of interesting problems involving consumer networking technologies. The students will participate in the faculty mentors' on-going funded research, investigate technically challenging issues, and develop viable solutions and insights. They will participate in professional development activities to prepare them for future graduate studies and a broad range of emerging computing careers. The site will focus on recruiting students from non-PhD granting institutions with particular emphasis on institutions in and around the state of Missouri. The approach of integrating future technologies such as Internet-of-Things, smart devices, and software-defined networking in the REU Site research will foster the rapid deployment of advanced consumer networking applications and services that are of significance to the economy and quality of life in areas such as social computing, health care, and public safety.&lt;br/&gt;&lt;br/&gt;The intellectual merit of the project rests with the leadership an experienced research group with excellent expertise and experience in the research area. Experienced faculty mentors will lead projects in four major research areas including software defined networking, visual computing at the network edge, social health networking, and body-area sensing and emotion recognition. The research activities will lead to a better understanding of the multitude of efficiency, performance, reliability, scalability, and security issues and tradeoffs in emerging consumer applications and related networking technologies. Advanced networking environments and software developed in the previous REU site programs as well as new testbeds such as the Missouri University Science DMZ (demilitarized zone), NSF-supported CloudLab/GENI, smart device equipment, and perfSONAR multi-domain networking monitoring will be leveraged by the participating students in hands-on experiments within their research projects.</AbstractNarration>
+    <MinAmdLetterDate>01/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659134</AwardID>
+    <Investigator>
+      <FirstName>Prasad</FirstName>
+      <LastName>Calyam</LastName>
+      <EmailAddress>calyamp@missouri.edu</EmailAddress>
+      <StartDate>01/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Yi</FirstName>
+      <LastName>Shang</LastName>
+      <EmailAddress>shangy@missouri.edu</EmailAddress>
+      <StartDate>01/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Missouri-Columbia</Name>
+      <CityName>COLUMBIA</CityName>
+      <ZipCode>652110001</ZipCode>
+      <PhoneNumber>5738827560</PhoneNumber>
+      <StreetAddress>115 Business Loop 70 W</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

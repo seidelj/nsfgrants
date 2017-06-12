@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: RI: Distributed, Stable and Robust Topology Control: New Methods for Asymmetrically Interacting Multi-Robot Teams</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>174333</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jeffrey Trinkle</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Recent years have seen a rapid increase of autonomous robotics in critical segments of research and industry. However, autonomy in teams of robots remains somewhat in its infancy. This project therefore aims to eliminate three assumptions that currently limit the autonomous control of multi-robot teams: (1) that complete system information is available to all robots at all times; (2) that robot-to-robot interactions are symmetric among team members (i.e., I see you and you see me); and (3) that interactions among robots provide enough information to guarantee predictable and safe robot motion. This project will tackle such restrictions by developing new methods for explicitly controlling robot-to-robot interaction when the above assumptions are absent, with validation in field experiments using commercial off-the-shelf robotic and Internet of Things (IoT) sensor platforms. The project outcomes will find broad relevance in applications spanning intelligent transportation, precision agriculture, autonomous construction, and defense, while allowing for deeper experimentation outside of laboratories. Finally, the project includes a comprehensive outreach plan consisting of: (1) K-12 academic experiences for underrepresented students; (2) graduate curriculum; and (3) open-source contributions to the robotics community.&lt;br/&gt;&lt;br/&gt;Towards the above goals, this project will intersect novel techniques from control and graph theory to derive stability guarantees for a new class of asymmetric topology control laws. The theoretical approaches will enable guaranteed coordination for a large class of distributed multi-robot systems. Specifically, this project will focus on the following objectives of developing: (1) nonlinear motion controllers that guarantee stable multi-robot coordination for an identified class of asymmetric robot interactions; (2) distributed algorithms for determining stable transitions in asymmetric communication and sensing topologies; (3) extensions for hardware safe control inputs and robustness to external disturbance; and (4) field experiments with aerial and ground robots, and an IoT sensor network in a target tracking regime.</AbstractNarration>
+    <MinAmdLetterDate>03/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657235</AwardID>
+    <Investigator>
+      <FirstName>Ryan</FirstName>
+      <LastName>Williams</LastName>
+      <EmailAddress>rywilli1@vt.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Virginia Polytechnic Institute and State University</Name>
+      <CityName>BLACKSBURG</CityName>
+      <ZipCode>240610001</ZipCode>
+      <PhoneNumber>5402315281</PhoneNumber>
+      <StreetAddress>Sponsored Programs 0170</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

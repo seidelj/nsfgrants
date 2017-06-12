@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID:  Addressing Geographic Disparities in the National Organ Transplant Network</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Liver transplantation is currently the only known medical treatment for End-stage Liver Disease with established survival benefits.  In the United States, current allocation policies continue to result in geographical disparities for donor organs on several metrics.  Disparities include the fraction of waitlisted patients dying on the waitlist, and the sickness level at which patients are transplanted in different areas of the country.  This Rapid Response Research (RAPID) award supports refinements and enhancements to a novel neighborhood-based  organ allocation approach currently being considered for adoption by policy makers on the United Network for Organ Sharing (UNOS) Liver and Intestine Committee. The refinements specifically address reducing geographic disparities by better matching donor organs with transplant beneficiaries.  This award will provide decision support to UNOS and the broader transplantation community in the U.S.&lt;br/&gt;&lt;br/&gt;This RAPID award will support activities to take to scale the previously developed optimization model by utilizing national datasets.  Because the model involves a highly complex multi-objective optimization, a refinement of the existing model is highly challenging, as identifying acceptable solutions involves lengthy simulations and manipulation of several parameters and structural linkages between organ procurement organizations.  The simulation tools will be publicly available, and the data collected from an improved model is expected to have an impact on a broad population segment.  Researchers in operations research, management science, transplant surgery, and the hepatology communities will be educated through presentation at national conferences.  A graduate student will be trained as part of the research, and clinicians will also be educated as to the role of a scientific modeling approach when considering public health challenges.</AbstractNarration>
+<MinAmdLetterDate>05/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743886</AwardID>
+<Investigator>
+<FirstName>Sanjay</FirstName>
+<LastName>Mehrotra</LastName>
+<EmailAddress>mehrotra@northwestern.edu</EmailAddress>
+<StartDate>05/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University at Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606113008</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>750 N. Lake Shore Drive,</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

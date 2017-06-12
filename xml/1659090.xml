@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Miniaturized ultra-sensitive ion detectors for radiation sensing and monitoring</AwardTitle>
+<AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project primarily involves the development of a more robust nuclear/radiation security and safety infrastructure that enables government and law enforcement agencies to lower the risk of nuclear terrorism or radiation exposure. A successful implementation of the project will provide better screening and detection tools embedded into a real-time radiation-monitoring safety and security network. This will improve the protection and monitoring capabilities that range from building-scale stand-alone sensor networks (impacting nuclear power plants and hospitals) all the way to city-scale sensor grids for border protection and Smart City integrations. Commercial potentials are also expected in several other directions such as mass spectrometry, power-grid monitoring, automotive engine tuning and emissions testing, and small payload space applications.&lt;br/&gt;&lt;br/&gt;This I-Corps project will explore the commercial viability of a low-cost, high-sensitivity, scalable, networkable and disruptive new ion sensing technology for nuclear security and radiation safety applications. The technology exploits certain novel physical properties of advanced nanomaterials which renders them with unprecedented sensitivity down to single-ion detection. The sensors are able to operate over a wide range of doses, perform equally well in air or under vacuum, and can clearly distinguish between positively and negatively charged ions, which are critical for most radiation-detection applications. Considering size, weight, power-consumption, performance and cost parameters, this technology is well-poised to be an extremely attractive alternative to many current ionizing radiation detection approaches.</AbstractNarration>
+<MinAmdLetterDate>10/25/2016</MinAmdLetterDate>
+<MaxAmdLetterDate>10/25/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1659090</AwardID>
+<Investigator>
+<FirstName>Swastik</FirstName>
+<LastName>Kar</LastName>
+<EmailAddress>s.kar@northeastern.edu</EmailAddress>
+<StartDate>10/25/2016</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

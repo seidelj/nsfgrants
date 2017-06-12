@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>RAPID: Geochemical and Geophysical Observations of the 2015 Eruption of Volcan Momotombo, Nicaragua</AwardTitle>
     <AwardEffectiveDate>01/01/2016</AwardEffectiveDate>
-    <AwardExpirationDate>12/31/2016</AwardExpirationDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
     <AwardAmount>40432</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -27,14 +27,6 @@
     <ARRAAmount/>
     <AwardID>1620977</AwardID>
     <Investigator>
-      <FirstName>Diana</FirstName>
-      <LastName>Roman</LastName>
-      <EmailAddress>droman@dtm.ciw.edu</EmailAddress>
-      <StartDate>12/21/2015</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Charles</FirstName>
       <LastName>Connor</LastName>
       <EmailAddress>cbconnor@usf.edu</EmailAddress>
@@ -53,10 +45,18 @@
     <Investigator>
       <FirstName>Peter</FirstName>
       <LastName>LaFemina</LastName>
-      <EmailAddress>plafemina@geosc.psu.edu</EmailAddress>
+      <EmailAddress>pcl11@psu.edu</EmailAddress>
       <StartDate>12/21/2015</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Diana</FirstName>
+      <LastName>Roman</LastName>
+      <EmailAddress>droman@dtm.ciw.edu</EmailAddress>
+      <StartDate>12/21/2015</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
       <FirstName>Christelle</FirstName>
@@ -76,5 +76,25 @@
       <StateName>Pennsylvania</StateName>
       <StateCode>PA</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1573</Code>
+      <Text>PETROLOGY AND GEOCHEMISTRY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7298</Code>
+      <Text>COLLABORATIVE RESEARCH</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7571</Code>
+      <Text>DEEP EARTH PROCESSES SECTION</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5926</Code>
+      <Text>LATIN AMERICA, SDC</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7914</Code>
+      <Text>RAPID</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

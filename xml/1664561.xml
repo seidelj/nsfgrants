@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Nonlinear and Modern Mathematical Physics</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>29838</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Edward Taylor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award provides funding for US participation in the conference "Nonlinear and Modern Mathematical Physics" that will be held in Kuala Lumpur (Malaysia), from May 4-8 2017.&lt;br/&gt;&lt;br/&gt;The conference focuses on recent developments in Analysis, especially in the fields of mathematical physics and partial differential equations. A number of distinguished mathematicians have agreed to attend and speak at this conference. This award gives early career researchers, members of underrepresented groups, researchers not funded by NSF and the like an opportunity to attend and participate in this conference. The organizing committee will strive to make this funding opportunity known to target groups through a number of different activities. More information will be made available at: http://einspem.upm.edu.my/nmmp2017/index.html</AbstractNarration>
+    <MinAmdLetterDate>12/28/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/28/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1664561</AwardID>
+    <Investigator>
+      <FirstName>Wenxiu</FirstName>
+      <LastName>Ma</LastName>
+      <EmailAddress>mawx@math.usf.edu</EmailAddress>
+      <StartDate>12/28/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of South Florida</Name>
+      <CityName>Tampa</CityName>
+      <ZipCode>336129446</ZipCode>
+      <PhoneNumber>8139742897</PhoneNumber>
+      <StreetAddress>3702 Spectrum Blvd.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

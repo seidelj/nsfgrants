@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Hidden Components in Modern Applications</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nandini Kannan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In the era of Big Data, researchers often encounter datasets that are large in size and complex in structure where the information of interest is usually contained in "components" hidden in the enormous amount of noise.  Examples include communities in large social networks, topics in text documents, and confounding factors in genome-wide association studies (GWAS).  Extracting these hidden components is an interesting but challenging problem. This project will address these challenges and include applications to many scientific areas including social networks, text mining, genomics, and genetics. The project will include (a) collection of large social networks data, (b) development of new models, methods, and theory for extracting hidden components in network analysis, text mining, and genome-wide association studies, and (c) a study of knowledge discovery using academic research data such as co-authorship and citation relationships. The research will have an impact in linguistics, social sciences, cancer research, and knowledge discovery.  &lt;br/&gt;&lt;br/&gt;This project aims to develop statistical models, methods, and theory for inferring and utilizing hidden components in complex data, especially matrix data.  The goals of the project include: (1) Development of simple and fast methods for network mixed membership estimation and topic model estimation. These methods, based on nontrivial modifications of Principal Component Analysis (PCA), are easy to implement and can handle very large data. (2) New methods and theory for detecting and estimating rare and weak effects in GWAS.   Problems related to optimal ranking of genes in the presence of complex correlation structures and detection of weak spikes in large covariance matrices will be considered. (3) A study of social network structures of scientific researchers.  The PI and her collaborators will collect meta-information from published articles in representative statistics journals to understand social network structures and other features of the statistics community. (4) Development of new random matrix theory (RMT) for statistical analysis.</AbstractNarration>
+<MinAmdLetterDate>04/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712958</AwardID>
+<Investigator>
+<FirstName>Zheng</FirstName>
+<LastName>Ke</LastName>
+<EmailAddress>zke@galton.uchicago.edu</EmailAddress>
+<StartDate>04/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>5801 South Ellis Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

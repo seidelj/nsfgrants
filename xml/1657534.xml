@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: SaTC: Transparent Capture and Aggregation of Secure Data Provenance for Smart Devices</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>174681</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Deborah Shands</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Computers are increasingly pervasive and diverse, embedded in devices ranging from smart phones and wearable computers to home automation devices and automotive systems. This explosive growth has far outpaced the speed with which device behaviors can be analyzed and understood, creating unprecedented opportunities for "Internet of Things" devices to engage in nefarious activities such as violating users' privacy or spreading malware. This project is designing and implementing new frameworks that track the provenance (i.e., history) of data processing and communications in systems of smart devices. To facilitate the identification of malicious behaviors, the project is developing non-invasive techniques for extracting device provenance, and presenting a public accountability infrastructure through which the history of interactions between smart devices can be analyzed.&lt;br/&gt;&lt;br/&gt;In light of the great diversity of computing platforms in this environment, the efficient extraction of fine-grained data provenance is difficult. To overcome these challenges, the researchers are designing and implementing minimally-invasive mechanisms and associated algorithms for the observation of smart device activity at multiple system layers. The expected results include the development of a retrofit mechanism that leverages program instrumentation to enable complete provenance mediation for commodity-off-the-shelf smart devices, and a network mediation point that monitors inter-device communication in order to extract network provenance from systems of devices. Finally, the project is developing algorithms and protocols to securely extract and aggregate device provenance to a centralized repository, enabling provenance-based crowd-sourced monitoring of the Internet of Things. This work will not only establish foundations for trust in the functionality of smart devices, but also enable further research in provenance-based analytics.</AbstractNarration>
+    <MinAmdLetterDate>02/22/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/22/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657534</AwardID>
+    <Investigator>
+      <FirstName>Adam</FirstName>
+      <LastName>Bates</LastName>
+      <EmailAddress>batesa@illinois.edu</EmailAddress>
+      <StartDate>02/22/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Urbana-Champaign</Name>
+      <CityName>CHAMPAIGN</CityName>
+      <ZipCode>618207473</ZipCode>
+      <PhoneNumber>2173332187</PhoneNumber>
+      <StreetAddress>SUITE A</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>025Z</Code>
+      <Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

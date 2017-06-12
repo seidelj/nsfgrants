@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Symplectic Geometry Workshop at the Isaac Newton Institute</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>30000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas Ivey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A workshop on symplectic geometry will be held at the Isaac Newton Institute in Cambridge, England on August 14-18, 2017. This award supports the participation of US-based researchers. The conference topics center on an area of geometry united by certain common ideas: the importance of moduli spaces, the relation between differential-geometric and algebro-geometric concepts, and semi-infinite-dimensional homology theories. The workshop aims to provide a venue for both junior and advanced researchers to broaden their outlook beyond their existing areas of expertise, by being exposed to promising new areas of activity. This award intends to offer this opportunity to a diverse group of US-based participants.&lt;br/&gt;&lt;br/&gt;The aim of the meeting is to reconnect these research strands and spur interactions, as illustrated by the following examples. Talks will discuss work in progress relating gauge theory and the Four-Color Theorem. The considerable computational difficulties in this project may well be more approachable from other directions, including Fukaya categories and mirror symmetry, which are the areas of expertise of several speakers, making the conference a good venue for catalyzing that interaction. Another talk will discuss recent work on equivariance in Floer cohomology, a powerful tool that should have many concrete topological applications; among the participants are leaders from the well-developed field of equivariant symplectic topology, who can contribute ideas for such applications. Higher-dimensional gauge theory is another subject that, following recent breakthroughs, seems ready for wider developments. At the conference, leading specialists from the analytic side and from Picard-Lefschetz theory will contribute their respective viewpoints. Further details can be found at the conference webpage:  https://www.newton.ac.uk/event/sygw05</AbstractNarration>
+<MinAmdLetterDate>05/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1727545</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Seidel</LastName>
+<EmailAddress>pseidel@mit.edu</EmailAddress>
+<StartDate>05/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

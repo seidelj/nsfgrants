@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>Fully nonlinear geometric partial differential equations</AwardTitle>
     <AwardEffectiveDate>10/01/2015</AwardEffectiveDate>
-    <AwardExpirationDate>06/30/2016</AwardExpirationDate>
+    <AwardExpirationDate>09/30/2016</AwardExpirationDate>
     <AwardAmount>38522</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -37,12 +37,16 @@
     <Institution>
       <Name>University of California-Irvine</Name>
       <CityName>Irvine</CityName>
-      <ZipCode>926173067</ZipCode>
-      <PhoneNumber>9498244768</PhoneNumber>
-      <StreetAddress>5171 California Avenue, Ste 150</StreetAddress>
+      <ZipCode>926173213</ZipCode>
+      <PhoneNumber>9498247295</PhoneNumber>
+      <StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
       <CountryName>United States</CountryName>
       <StateName>California</StateName>
       <StateCode>CA</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1265</Code>
+      <Text>GEOMETRIC ANALYSIS</Text>
+    </ProgramElement>
   </Award>
 </rootTag>

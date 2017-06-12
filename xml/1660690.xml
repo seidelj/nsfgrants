@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>STEM Teaching Excellence in High-Need Schools: Teacher Preparation in the Nation's Capital</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2022</AwardExpirationDate>
+    <AwardAmount>763327</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sandra Richardson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>As the nation faces an increasingly critical need for a strong technology workforce, secondary schools continue to be challenged with fulfilling the shortage of licensed teachers with strong content knowledge in STEM disciplines. High-need students are an insufficiently tapped population for helping meet these challenges. This George Washington University (GW) Track 1: Robert Noyce Teacher Scholarships and Stipends (S&amp;S) project, in partnership with Loudoun County Community College (LCCC), will recruit, license, and retain 27 high-achieving undergraduate majors in biology, chemistry, mathematics, and physics to become grades 6-12 STEM teachers in high-need schools. This Noyce project will identify and educate new math and science teachers who had not previously chosen to become teachers. A pre-Noyce phase of the project will provide opportunities for incoming students at GW and LCCC to learn about high-need communities through courses, seminars, and related first-hand experiences in service learning projects focused on high-need populations. Noyce students will deepen their content knowledge through participation in undergraduate research projects and internships with established external partners, including Smithsonian, National Institute of Health, and high-tech companies. Additionally, Noyce students will receive intensive mentoring while in the Noyce program, and Noyce graduates will receive mentoring in their first years of teaching in high-need schools. Thousands of secondary students in the DC metropolitan area, and across the nation, will benefit from improved science and math instruction as a result of the GW Noyce program. Producing high-caliber secondary math and science teachers in high-need schools is essential to support our nation's increasingly STEM-driven economy.&lt;br/&gt;&lt;br/&gt;The GW Noyce project is informed by GW's rigorous, research-based undergraduate STEM initiatives that will enrich the STEM content knowledge of new GW teachers, assuring that Noyce STEM teachers will have content knowledge at the same level of rigor as other STEM professionals. The pre-Noyce phase cohort, comprised of first and second year students from GW and LCCC, will be invited in their sophomore years to join a Learning Assistants program to develop teaching skills and learn about the teaching profession. Students from the pre-Noyce group will apply for admission into the Noyce Scholars program, which provides scholarships for their junior and senior years. The GW Noyce project will advance knowledge about Noyce program impacts on the production of highly qualified STEM teachers in high-need schools. Dissemination of project results will occur through conference presentations and publications in STEM education journals.</AbstractNarration>
+    <MinAmdLetterDate>03/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660690</AwardID>
+    <Investigator>
+      <FirstName>Daniel</FirstName>
+      <LastName>Ullman</LastName>
+      <EmailAddress>dullman@gwu.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>LaKeisha</FirstName>
+      <LastName>McClary</LastName>
+      <EmailAddress>mcclary@gwu.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Tiffany-Rose</FirstName>
+      <LastName>Sikorski</LastName>
+      <EmailAddress>tsikorski@gwu.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Larry</FirstName>
+      <LastName>Medsker</LastName>
+      <EmailAddress>lrm@gwu.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jonathon</FirstName>
+      <LastName>Grooms</LastName>
+      <EmailAddress>jgrooms@gwu.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>George Washington University</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200522000</ZipCode>
+      <PhoneNumber>2029946255</PhoneNumber>
+      <StreetAddress>2121 Eye Street NW</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1795</Code>
+      <Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

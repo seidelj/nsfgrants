@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Smart Window Film for Ultra-high Thermal and Acoustic Insulation</AwardTitle>
+<AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2017</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will not only produce a multifunctional thermal insulation structure that is easy to install onto any existing single-, double-, or even triple-pane windows in reducing total building energy consumption, but also improve water condensation issues and occupant discomfort that are associated with single-pane windows in cool climates. Furthermore, the smart window system includes a soundproof layer that can attenuate noise, outperforming a triple-pane window without deterioration of optical properties. In cold climates, the film, which uses a low-e coating, will prove the exterior temperature condition (&lt; -5 °C) required for interior condensation to occur in winter. The proposed approach outperforms existing doubleor triple-pane windows with Al frames and conventional spacers and will enjoy a share of the already-popular energy saving windows market (61.6%, or ~$10 billion Global). According to our cost estimate for a 1 square foot smart window of the design dimension proposed (including all chemical and energy costs in a scalable roll-to-roll process), a $5/ft2 manufacturing cost can be achieved, providing a great incentive with a pay-off period within 5 years for customers.&lt;br/&gt;&lt;br/&gt;The proposed project will address thermal, optical, and acoustic concerns on an existing singlepane window simultaneously. The thin window film realizes a low U-factor (&amp;#8804; 0.45) within 3mm in thickness, through the combination of a super-low thermal conductive supporting material, and two distinct coatings (low transmittance in infrared region) on a thin film, which can be readily attached to a single-pane glass window. It also yields noise attenuation &amp;#8805; 50 dB with designed cavities embedded in the window film to attenuate noise transmission. The resulting sheet can not only enhance acoustic insulation performance but also reduce the volume of the porous membrane used and thus cost. In addition, the smart film demonstrates all-season operation of smart-glass based on temperature-responsive, tunable Near-IR transmittance in a tunable thermochromic coating without electric power consumption. The film controls haze by Page 11 controlling light scattering in the interface of granulate materials and reduces the volume fraction of the structural material used in the proposed smart film. The combined low-e and thermochromic coatings will help the film achieve a high color rendering index because visible transmittances for the coatings are excellent complements to each other, thus exhibiting a broad and uniform transmission over the visible spectrum.</AbstractNarration>
+<MinAmdLetterDate>12/07/2016</MinAmdLetterDate>
+<MaxAmdLetterDate>12/07/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1648003</AwardID>
+<Investigator>
+<FirstName>Hsiu-hung</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>simon.chen.thermoflowlabs@gmail.com</EmailAddress>
+<StartDate>12/07/2016</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ThermoFlow Labs LLC.</Name>
+<CityName>Columbia</CityName>
+<ZipCode>652032299</ZipCode>
+<PhoneNumber>5738829037</PhoneNumber>
+<StreetAddress>4412 Cedar Falls Lane</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

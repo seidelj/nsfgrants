@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RUI: Metal complexes with Benzothiophene and/or NHC ligands: Synthesis and Applications</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2020</AwardExpirationDate>
+    <AwardAmount>81974</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tingyu Li</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In this project funded by the Chemical Structure, Dynamics and Mechanisms B Program of the Chemistry Division, Professor Craig M. Anderson of the Chemistry Program at Bard College investigates the synthesis of transition metal complexes with ligands containing moieties that bond to the metal through multiple coordinating atoms. The optical characteristics and biochemical reactivity of these compounds depend on the ligand architecture, which can be tuned to optimize properties used in potential applications, such as the emission wavelength in organic light emitting diodes (OLEDs). The project adds to the understanding of metal-ligand bonding, offers promise for the development of more efficient and robust OLEDs and anti-cancer agents. A vital component of this work is that it involves the training of undergraduate students and these students gain proficiency in the practice of science in a contemporary chemistry laboratory. They are involved in the dissemination of research results through conference presentations and peer-reviewed journal articles, and thus gain the experience needed in order to continue in their future scientific studies.&lt;br/&gt;&lt;br/&gt;The project studies metal complexes and cyclometalated complexes that are bonded to ligands with N-heterocyclic carbene and/or cyclometalated benzothiophene moieties or fragments. These complexes have potential applications in acting as catalysts, sensors, artificial photosynthetic devices, and bio-organometallic agents. Specific objectives include: 1. the synthesis and characterization of platinum, iridium, and nickel metal complexes with benzothiophene and N-heterocyclic carbene derived ligands; 2. examination of the photophysical properties and reactivity of the metal complexes; and 3. exploration of potential applications of the newly synthesized compounds in OLED device fabrication, bio-organometallic Chemistry, and chemical catalysis.</AbstractNarration>
+    <MinAmdLetterDate>04/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1665435</AwardID>
+    <Investigator>
+      <FirstName>Craig</FirstName>
+      <LastName>Anderson</LastName>
+      <EmailAddress>canderso@bard.edu</EmailAddress>
+      <StartDate>04/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Bard College</Name>
+      <CityName>Annandale-on-Hudson</CityName>
+      <ZipCode>125045000</ZipCode>
+      <PhoneNumber>8457586822</PhoneNumber>
+      <StreetAddress>Office of Dean of the College</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9102</Code>
+      <Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8990</Code>
+      <Text>Optics and Photonics</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9229</Code>
+      <Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

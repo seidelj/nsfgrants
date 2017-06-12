@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Point of Care Diagnostic Device for Zika Virus</AwardTitle>
+<AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project stems from the critical need for improved point-of-care diagnostic devices particularly those for Zika virus infections.  The new tests developed could allow results to be available within less than one hour, thereby reducing burden on patients and clinicians, and improving treatment and outcomes. The new tests will potentially improve the lives of people suffering from Zika infections and will impact several current clinical treatment regimes and may suggest new treatment options.  Applications for the core technology could also include other types of infectious disease diagnostics.&lt;br/&gt;&lt;br/&gt;This I-Corps project will be the first step in commercializing a new, innovative and rapid diagnostic test for Zika virus infections.  The core technology is based on molecular imprinting.  This method allows building exact casts of biological molecules that are extremely stable and therefore can be stored without refrigeration.  In this project the core technology is used to create stable casts of antibodies to Zika virus.  The devices will detect binding of the antibodies to the casts and therefore can detect if the antibodies are present in a patient's blood, which would point to an infection. The technology is the first diagnostic test based on imprinting large molecules like the Zika antibody.</AbstractNarration>
+<MinAmdLetterDate>11/18/2016</MinAmdLetterDate>
+<MaxAmdLetterDate>11/18/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1650801</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Boland</LastName>
+<EmailAddress>tboland@utep.edu</EmailAddress>
+<StartDate>11/18/2016</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at El Paso</Name>
+<CityName>El Paso</CityName>
+<ZipCode>799680001</ZipCode>
+<PhoneNumber>9157475680</PhoneNumber>
+<StreetAddress>ADMIN BLDG RM 209</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

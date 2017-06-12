@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Surfactants Platform for Agrochemical and Enhanced Oil Recovery Applications</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is driven by the development of a new plant-based surfactant technology, which has the potential to transform the agrochemicals, oil recovery, and detergents/personal care market toward health friendly and environmentally safe chemicals. A major limitation of existing plant-based surfactant technologies is that they have limited performance compared petrochemical-based surfactants. This entirely bio-renewable surfactant technology provides a competitive advantage in that can be customized toward a specific market, potentially outperform all existing surfactants, and that it can potentially replace the function of numerous existing chemicals in a particular formulation, providing substantially more value and simplifying complex products.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims to engage in targeted customer discovery research to evaluate the commercial impact of the proposed surfactant technology and to align the technical performance of the tunable technology with a distinct competitive advantage in the target market. This I-Corps project is based on the development of a patented process technology for combining plant-based natural oils and sugars into highly functional surfactants that outperform all other surfactants. Technical results from preliminary research have demonstrated the customizable nature of the technology toward specific markets, providing strong multi-functional performance to replace the need for complex blends of chemicals.</AbstractNarration>
+    <MinAmdLetterDate>10/24/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/24/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1661648</AwardID>
+    <Investigator>
+      <FirstName>Paul</FirstName>
+      <LastName>Dauenhauer</LastName>
+      <EmailAddress>hauer@umn.edu</EmailAddress>
+      <StartDate>10/24/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Minnesota-Twin Cities</Name>
+      <CityName>Minneapolis</CityName>
+      <ZipCode>554552070</ZipCode>
+      <PhoneNumber>6126245599</PhoneNumber>
+      <StreetAddress>200 OAK ST SE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Minnesota</StateName>
+      <StateCode>MN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

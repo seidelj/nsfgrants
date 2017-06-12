@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Motivic Cohomology, Motivic Homotopy Theory, and K-Theory</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>185361</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Timothy Hodges</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project concerns the investigation of connections between algebra, algebraic geometry, and topology. Algebraic geometry studies properties of geometric objects that are invariant under transformations given by polynomial functions, while topology studies properties invariant under smooth, continuous deformations.  The goal is to gain a better understanding of the way that structures in algebraic geometry are reflected by structures in topology, using a blend of algebraic and topological methods.  The investigator aims to settle several important longstanding conjectures in this area. &lt;br/&gt;&lt;br/&gt;One part of the project is to find a cleaner proof of the recently-verified Bloch-Kato conjecture. A related part of the project is to understand how Voevodsky's slice filtration is related to algebraic cobordism and other motivic spectra and to verify several of the slice conjectures. The investigator will also study the relationship between the singularities of a variety, its K-theory, and its cdh-cohomology, using recently-developed cohomological techniques. Another part of this project is to relate the algebraic Witt group of a real surface to a recently-developed topological invariant, one that is easier to compute.</AbstractNarration>
+<MinAmdLetterDate>05/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702233</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Weibel</LastName>
+<EmailAddress>weibel@math.rutgers.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>Piscataway</CityName>
+<ZipCode>088543925</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>33 Knightsbridge Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

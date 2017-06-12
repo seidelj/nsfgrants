@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>DISSERTATION RESEARCH:   Functional Tests of Hox Gene Evolution and the Pipefish Elongated Body Plan</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>19093</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colette St.Mary</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research will experimentally manipulate gene expression to understand how elongate fishes, such as pipefish, get their shape. Fishes, like other vertebrates, share a conserved set of genes that regulate development. Yet from this conserved set, fishes come in an amazing diversity of shapes. Pipefish are part of a group of nearly 300 species that also includes seahorses, pipehorses, and seadragons, that have remarkably diverse traits such as long snouts, tube-like bodies, and males that become pregnant. These fishes provide a unique opportunity to study trait evolution because of the breadth of characters absent in other fish lineages and the existence of powerful experimental tools based on the pipefish genomic. This project will involve the research training of an undergraduate from groups underrepresented in science. It will also contribute to public outreach in collaboration with The Museum of Natural and Cultural History at the University of Oregon.&lt;br/&gt;&lt;br/&gt;This project will connect observed genetic and genomic changes with the morphological changes to the body plan in the Gulf pipefish (Syngnathus scovelli). This research focuses on a small subset of Hox transcription factors and their surrounding genomic content that are important in early cranial and axial skeleton development. Based on analysis of the Gulf pipefish genome, a few key Hox genes and nearby regulatory elements have been lost through the course of evolution in the Gulf pipefish lineage. Using advanced genomic and gene editing techniques, the researchers will perform functional tests in related teleost fish, the threespine stickleback (Gasterosteus aculeatus) and zebrafish (Danio rerio), to examine the morphological impact of the loss of genes and genomic content on the fish body plan. Possible effects of these losses on the evolution of the syngnathid body plan will be determined by creating mutations in these orthologous genes using the CRISPR technique in zebrafish and threespine stickleback fish models. This work will advance our understanding of how novel characters evolve in the context of the deeply conserved developmental toolkit.</AbstractNarration>
+<MinAmdLetterDate>05/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701854</AwardID>
+<Investigator>
+<FirstName>Allison</FirstName>
+<LastName>Fuiten</LastName>
+<EmailAddress>afuiten@uoregon.edu</EmailAddress>
+<StartDate>05/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Cresko</LastName>
+<EmailAddress>wcresko@uoregon.edu</EmailAddress>
+<StartDate>05/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oregon Eugene</Name>
+<CityName>Eugene</CityName>
+<ZipCode>974035219</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress>5219 UNIVERSITY OF OREGON</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Role of Small Proteoglycans in the Structure and Biomechanics of Articular Cartilage</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>349454</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Fyhrie</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Articular cartilage provides key biomechanical functions for joint motion, such as load bearing, energy absorption and lubrication. Osteoarthritis, a chronic disease causing cartilage dysfunction, affects more than 27 million Americans and represents a significant societal burden. To restore cartilage function and alleviate joint pain in osteoarthritis patients, it is necessary to understand the structure and mechanical properties of healthy cartilage as a benchmark. Cartilage is mainly composed of collagen and proteoglycan (protein attached with negatively charged sugar chains). The direct contribution of collagen and the large proteoglycan, aggrecan, to cartilage biomechanics is well understood.  Small proteoglycans do not contribute directly to cartilage biomechanical properties; however, they may regulate the structural assembly of cartilage by interacting with both collagen and aggrecan. Combining novel nanotechnology and gene modification tools, this project aims to determine how the most abundant small proteoglycan in cartilage, decorin, modifies the structure and biomechanics of cartilage. The outcomes will have a broader impact by identifying a new molecular mechanism that governs cartilage structural integrity, which can enable the development of novel strategies for restoring cartilage function and attenuating cartilage degradation in osteoarthritis.  New outreach programs will be established to increase the participation of minority students in STEM education and career paths. Specific outreach activities include workshops for Philadelphia inner city high school teachers and students, as well as the development of science museum exhibition displays.&lt;br/&gt;&lt;br/&gt;The cartilage of decorin knockout mice develops substantially reduced aggrecan content and impaired mechanical properties. This project will determine whether decorin governs the structural assembly of aggrecan. We hypothesize that decorin regulates the presence of aggrecan in cartilage through interacting with aggrecan in the extracellular matrix, and through influencing the synthesis of aggrecan by chondrocytes. This hypothesis will be tested at a hierarchy of length scales. First, at the molecular level, adhesion between decorin and aggrecan will be quantified by atomic force microscopy (AFM)-based molecular force spectroscopy. Second, at the cellular level, the synthesis and mechanics of aggrecan by normal and decorin knockout chondrocytes will be evaluated by biochemical assays and AFM single cell nanoindentation. Lastly, at the tissue level, the expression of decorin will be ablated at different phases of post-natal joint growth using our novel inducible decorin-knockout murine model. The resulting changes in cartilage biomechanics, including both elastic and poroviscoelastic properties, will be evaluated by our custom-built nanorheometer. In conclusion, this project will elucidate how the small proteoglycan, decorin, regulates the aggrecan assembly in cartilage, thereby ensuring cartilage structural integrity and proper biomechanical functions</AbstractNarration>
+<MinAmdLetterDate>05/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1662544</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Birk</LastName>
+<EmailAddress>dbirk@health.usf.edu</EmailAddress>
+<StartDate>05/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lin</FirstName>
+<LastName>Han</LastName>
+<EmailAddress>lh535@drexel.edu</EmailAddress>
+<StartDate>05/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ling</FirstName>
+<LastName>Qin</LastName>
+<EmailAddress>qinling@mail.med.upenn.edu</EmailAddress>
+<StartDate>05/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Drexel University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191021119</ZipCode>
+<PhoneNumber>2158955849</PhoneNumber>
+<StreetAddress>1505 Race St, 8th Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7479</Code>
+<Text>Biomechanics &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>027E</Code>
+<Text>NANOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

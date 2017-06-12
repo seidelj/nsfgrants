@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Conference on Cognitive Computational Neuroscience (CCN)</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>16560</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Alumit Ishai</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Cognitive Computational Neuroscience (CCN) is an annual scientific meeting for neuroscientists characterizing the neural computations that underlie complex behavior. The goal is to develop computationally defined models of brain information processing that explain rich measurements of brain activity and behavior. Such models will ultimately have to perform feats of intelligence such as perception, internal modelling and memory of the environment, decision-making, planning, action, and motor control under naturalistic conditions. Historically, different disciplines have met subsets of these goals. Cognitive science has developed computational models at the cognitive level to explain aspects of complex behavior. Computational neuroscience has developed neurobiologically plausible computational models to explain neuronal responses to sensory stimuli and certain low-dimensional decision, memory, and control processes. Cognitive neuroscience has mapped a broad range of cognitive processes onto brain regions. Artificial intelligence has developed models that perform feats of intelligence. The community must now put the pieces of the puzzle together, and CCN is unique in its focus on the intersection between these fields. CCN is envisioned not only as an engine for advancing research, but as a vehicle for making broader impacts on education and society. As evidenced by the recent trend of major corporate acquisitions of AI startups founded by neuroscientists, biological inspiration for electronics and software development is a growing trend with significant economic implications. In its early stages, the broader impact focus of CCN will be on increasing the visibility of women and scientists from underrepresented populations via speaking opportunities and travel awards. In addition, representation on women on the female fractions on the steering and advisory committees exceed those typical in relevant fields, without compromise in qualifications. Conferences will include hands-on tutorials, and materials from these will propagate to various university curricula.&lt;br/&gt;&lt;br/&gt;A central goal of neuroscience is to understand how vast populations of neurons give rise to complex behavior. Today, advances in various domains offer tangible possibilities to make fundamental conceptual breakthroughs. From an experimental point of view, neural recording technologies, such as high-resolution fMRI, dense recording arrays, magnetoencephalography (MEG), and calcium imaging, now provide opportunities to observe neural activity at unprecedented resolution and scale. At the same time, research in cognitive science has become increasingly sophisticated in identifying computational principles that may serve as the basis for human cognition, and machine learning and artificial intelligence have made great strides in building models to autonomously solve complex cognitive tasks. However, interactions among these distinct disciplines remain rare. This new conference may stimulate unifying frameworks that fully realize the cross-disciplinary potential of these individual advances. In more concrete terms, the goal of CCN is to create and foster a community that will develop models of brain information processing with several key features. These models should (1) be fully computationally defined and implemented in computer simulations; (2) be neurobiologically plausible; (3) explain measurements of brain activity (and continue to do so as spatiotemporal resolution and scale improve); (4) explain behavior for naturalistic stimuli and tasks; and (5) perform feats of intelligence such as recognition, internal modelling and representation of the environment, decision-making, planning, action, and motor control. Such models currently do not exist and are unlikely to emerge without greatly improved cross-disciplinary engagement.</AbstractNarration>
+    <MinAmdLetterDate>03/30/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/30/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658493</AwardID>
+    <Investigator>
+      <FirstName>Alyson</FirstName>
+      <LastName>Fletcher</LastName>
+      <EmailAddress>akfletcher@ucla.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Los Angeles</Name>
+      <CityName>LOS ANGELES</CityName>
+      <ZipCode>900951406</ZipCode>
+      <PhoneNumber>3107940102</PhoneNumber>
+      <StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1699</Code>
+      <Text>COGNEURO</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7327</Code>
+      <Text>CRCNS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1699</Code>
+      <Text>COGNEURO</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7327</Code>
+      <Text>CRCNS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8089</Code>
+      <Text>Understanding the Brain/Cognitive Scienc</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8091</Code>
+      <Text>BRAIN Initiative Res Support</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

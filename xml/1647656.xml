@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Wireless Driver Alert System; A Vehicle to Roadside Unit Communication System</AwardTitle>
+<AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2017</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is summarized as follows. (1) Social impact: Transportation is the bloodstream of this nation with its level of importance being second to water. This country?s roadways are public use and the PI?s proposed technology is aimed at maintaining a fair and unbiased information infrastructure that satisfies the needs of both automotive and government agencies to fulfill their roles in public use and safety. (2) Commercial impact: The ability for vehicles to identify roadside regulations and guidance will provide several beneficial factors that will help alleviate driver distraction while aiding in additional cognitive awareness and safety. Additionally, wireless capable road signs can provide additional resources than their static counterparts that will make them more attractive and cost effective to their responsible entity/agency. (3) Technical impact: The project pushes the abilities of ultra low powered devices to extend the idea of location services, thus location dependent information is stored at its source producing almost instantaneous availability.&lt;br/&gt;&lt;br/&gt;The proposed project is working on further advancing and refining a small electronic device with wireless capabilities known as a roadside unit to meet the regulations of the United States Sign Council (USSC) motorist reaction distance for visual street cues to facilitate safe vehicle responses. Satisfying this requirement involves a novel communication protocol structured around efficient message transmission at ultra-low operating power to quickly detect and respond to moving vehicles with minimal energy usage. The projects communication protocol is designed to use minimal power while maximizing the amount of data throughput to ensure an operational lifespan of a battery powered device for a minimum of 10 years while achieving significant transmission distance. Because roadside infrastructure is standardized there is an opportunity for advanced data management techniques to simplify data transmission and decoding. The proposed system integrates and enhances the current vehicle-to-vehicle (V2V) communication platform by offering another layer of sophisticated physical object identification. As vehicles take on autonomous responsibilities, they?ll need reliable, accurate, and authenticatable information about their surroundings with enough notice to facilitate safe responses.</AbstractNarration>
+<MinAmdLetterDate>12/04/2016</MinAmdLetterDate>
+<MaxAmdLetterDate>12/04/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1647656</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Menard</LastName>
+<EmailAddress>tsmenard@sinwaves.com</EmailAddress>
+<StartDate>12/04/2016</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SinWaves, Inc.</Name>
+<CityName>Sunnyvale</CityName>
+<ZipCode>940871621</ZipCode>
+<PhoneNumber>9079473450</PhoneNumber>
+<StreetAddress>1109 Heatherstone Way</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

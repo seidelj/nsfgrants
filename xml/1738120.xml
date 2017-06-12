@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Contextual Communication for Emergency Notification Services</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project potentially include dramatically improved emergency-response systems for public safety in a number of different scenarios ranging from active shooter threats in college or enterprise campuses, emergencies involving fire or police departments, medical response teams in indoor hospital buildings or outdoor settings. The commercial impact of this effort is to potentially transform the mass alerting market today. The planned customer research will also help inform and enhance the underlying networking and distributed systems technology for agile contextual communication and, in the longer term, fundamentally advance our understanding of how to realize a next-generation Internetwork, research on which contributed to the origins of the underlying contextual communication technology driving this I-Corps project.&lt;br/&gt;&lt;br/&gt;This I-Corps project activity builds upon contextual communication, a technology that enables powerful new mobile communication capabilities that are highly customizable to the needs or preferences of individual users or groups. For example, in the event of a campus emergency, emergency managers can send hyperlocal alerts to specific buildings based on real-time locations of users, and such alerts can be further customized to special needs of users trapped in the building. The underlying research advances making contextual communication practical originated from a "future Internet architecture" project that showed that it is possible to generalize name- or IP-address-based communication in today's Internet to communication based on arbitrary contextual attributes such as geo-location, age, and special needs. Research results show that it is possible to provide contextual communication services in a scalable (or cost-effective), privacy-preserving, and accurate manner for a broad class of mobile applications, including but not limited to emergency notification, an application domain of particular interest to this I-Corps customer research project.</AbstractNarration>
+    <MinAmdLetterDate>03/29/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/29/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1738120</AwardID>
+    <Investigator>
+      <FirstName>Arun</FirstName>
+      <LastName>Venkataramani</LastName>
+      <EmailAddress>arun@cs.umass.edu</EmailAddress>
+      <StartDate>03/29/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Massachusetts Amherst</Name>
+      <CityName>Hadley</CityName>
+      <ZipCode>010359450</ZipCode>
+      <PhoneNumber>4135450698</PhoneNumber>
+      <StreetAddress>Research Administration Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

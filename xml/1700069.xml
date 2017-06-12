@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Loewner Energy and Conformal Welding in Complex Analysis</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>126143</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Kitchens</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project is concerned with the geometry of self-similar structures.  Self-similar sets are sets that look exactly the same at different scales, such as the Koch snowflake fractal curve.  The more flexible notion of conformal self-similarity requires a set only to look roughly the same at different scales, allowing for changes of bounded distortion at each scale, such as is seen in Julia sets. Most sets observed in nature arise from processes involving randomness and satisfy the even weaker notion of "stochastic self-similarity": the random mechanism behind the set is the same at all scales.  This project aims at an understanding of basic properties of stochastically self-similar sets, particularly in relation to our knowledge of conformally self-similar sets.  A central role in the project is played by dendrites and the question of how such branching random fractals can be described using angle-preserving coordinate changes.&lt;br/&gt;&lt;br/&gt;The Loewner differential equation is a basic tool in complex analysis that provides a bijection between two-dimensional (planar) non-self-crossing curves (such as Jordan curves) and real-valued driving functions.  The recently introduced "Loewner energy" of a Jordan curve can be defined as the Dirichlet energy of the driving function. It depends a priori on the initial point of the curve.  During this project several questions related to the regularity properties of curves of finite energy will be investigated, aiming at a more geometric definition of the energy and a proof of the independence of energy from the initial point.  Since curves of finite energy are known to be quasiconformal curves, the questions will be approached by methods from quasiconformal analysis, particularly holomorphic deformations and conformal welding.  A generalization of conformal welding leads to a description of dendrites via laminations.  This generalization will be explored both in the deterministic and in the stochastic setting.</AbstractNarration>
+<MinAmdLetterDate>04/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700069</AwardID>
+<Investigator>
+<FirstName>Steffen</FirstName>
+<LastName>Rohde</LastName>
+<EmailAddress>rohde@math.washington.edu</EmailAddress>
+<StartDate>04/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

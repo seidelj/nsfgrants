@@ -29,7 +29,7 @@
     <Investigator>
       <FirstName>Devarajan</FirstName>
       <LastName>Thirumalai</LastName>
-      <EmailAddress>thirum@umd.edu</EmailAddress>
+      <EmailAddress>dave.thirumalai@gmail.com</EmailAddress>
       <StartDate>03/01/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
@@ -45,8 +45,8 @@
       <StateCode>TX</StateCode>
     </Institution>
     <ProgramElement>
-      <Code>1144</Code>
-      <Text>Molecular Biophysics</Text>
+      <Code>7275</Code>
+      <Text>CROSS-EF ACTIVITIES</Text>
     </ProgramElement>
     <ProgramElement>
       <Code>6881</Code>
@@ -57,8 +57,8 @@
       <Text>PHYSICS OF LIVING SYSTEMS</Text>
     </ProgramElement>
     <ProgramElement>
-      <Code>7275</Code>
-      <Text>CROSS-EF ACTIVITIES</Text>
+      <Code>1144</Code>
+      <Text>Molecular Biophysics</Text>
     </ProgramElement>
     <ProgramReference>
       <Code>8007</Code>

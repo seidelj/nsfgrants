@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Quantifying performance in animals exposed to predictable and unpredictable variation in multiple environmental factors</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>102805</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090300</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Irwin Forseth</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>For most species, we cannot say with certainty if variable temperatures that come with extreme events influence their performance. Using an efficient experimental design, PIs Denny and Dowd will take advantage of the unique life history of the tide-pool copepod Tigriopus californicus to quantify how realistic, simultaneous variation in multiple stressors (temperature, salinity, and the concentrations of oxygen and carbon dioxide) interacts with the animal's physiology to affect its ability to survive and reproduce. Because Tigriopus reproduces rapidly and commonly encounters rapid environmental shifts, it can serve as a model organism for experiments with multiple stressors. Insights from these measurements will enhance our ability to predict the biological and ecological effects of variation in temperature. Other impacts of this research will include the inquiry-based training of undergraduate students, including summer research internships for historically underserved groups; a Postdoctoral Mentoring Plan to prepare a recent doctoral graduate for all aspects of a faculty position at a primarily undergraduate institution, a position that involves a suite of responsibilities, opportunities, and challenges different from those at research-oriented universities; and the development of a portable experimental module designed to introduce underserved K-12 students to ecological physiology by measuring aspects of Tigriopus's life cycle. &lt;br/&gt;&lt;br/&gt;Organisms' abilities to perform the tasks necessary to survive and reproduce dictate species' success or failure, but environmental effects on performance are potentially complex. Biologists often account for organism-environment interactions by measuring individual performance at each of a series of constant levels of a single variable, thereby constructing a performance curve. For example, by taking into account the effects of nonlinear averaging (Jensen's inequality), thermal performance curves constructed under static conditions have been used to forecast biological consequences of changes in temperature mean and variance. However, this mathematical approach overlooks several important factors: (1) Compensatory physiological mechanisms may modify the strictly mathematical predictions of performance. For example, brief exposure to stressful temperatures can prime physiology for future events. (2) Environmental variation in nature is often unpredictable, particularly when rare, extreme events are considered. However, this unpredictability only rarely has been considered empirically. (3) The response to variation in one environmental factor may depend on patterns of variation of other stressors. The results of these interactions could be synergistic or antagonistic depending on the underlying physiology. Furthermore, variation can have disparate effects on instantaneous vs. lifetime-integrative performance metrics. By using a new model species and a novel, efficient experimental design, this project explicitly addresses these factors to develop a more robust, environmentally relevant approach to quantifying performance in a variable, unpredictable, and changing world.</AbstractNarration>
+    <MinAmdLetterDate>02/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655529</AwardID>
+    <Investigator>
+      <FirstName>Mark</FirstName>
+      <LastName>Denny</LastName>
+      <EmailAddress>mwdenny@stanford.edu</EmailAddress>
+      <StartDate>02/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Stanford University</Name>
+      <CityName>Palo Alto</CityName>
+      <ZipCode>943041212</ZipCode>
+      <PhoneNumber>6507232300</PhoneNumber>
+      <StreetAddress>3160 Porter Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7657</Code>
+      <Text>Integrative Ecologi Physiology</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

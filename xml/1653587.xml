@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Increasing Catalytic Selectivity for Isomerization of Glucose to Fructose using Paired Lewis Acid Sites</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>529732</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robert McCabe</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The study targets design of heterogeneous catalysts for the liquid-phase isomerization of glucose to fructose, a key step in the valorization of biomass to chemicals and fuels. The authors utilize a bio-inspired catalyst design approach that has the potential to reduce cost of bio-renewable processing, increasing the economic competitiveness with fossil fuel sources of bio-derived chemicals and fuels. Integrated into the catalyst design approach is an educational outreach program that will increase participation of women and underrepresented minorities in STEM fields.&lt;br/&gt;&lt;br/&gt;Specifically, the PI seeks to synthesize catalytic materials containing well-defined paired catalytic sites on a solid silica support to increase the catalytic activity and selectivity for the isomerization of glucose to fructose. The paired site design utilizes a bio-inspired approach, translating the paired catalytic site of enzymes into a heterogeneous catalytic material. The proposed work will focus on developing a hydrothermal synthesis method that will incorporate paired sites into the zeolite framework. The work will seek to tune the catalytic performance through changing the composition of the pairs to demonstrate the mechanistic impact of paired sites. The study will also develop advanced spectroscopic methods to help identify the formation of paired catalytic sites. The technological impact of the project can be substantial since it will add a new dimension to the ability to tune catalytic performance and provide a method to increase the selectivity for biomass conversion to fructose and decrease associated energy costs. Overall, this would create a more economically viable route than currently available to produce high fructose corn syrup, biomass-derived polymers, or commodity chemicals. The work will be performed by a diverse team of students that will be trained in advanced catalytic material synthesis and testing. In addition to undergraduate and graduate education opportunities, the project will interface with several existing programs at Ohio State University to create a classroom module for students and a project to introduce the concepts of size-selective separation of zeolitic materials ? a critical feature of these materials ? to elementary school children to inspire future generations to pursue education in STEM-related fields. The filtration module will be made available through the PI website to expand the impact of the outreach efforts.</AbstractNarration>
+    <MinAmdLetterDate>02/01/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/01/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653587</AwardID>
+    <Investigator>
+      <FirstName>Nicholas</FirstName>
+      <LastName>Brunelli</LastName>
+      <EmailAddress>brunelli.2@osu.edu</EmailAddress>
+      <StartDate>02/01/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Ohio State University</Name>
+      <CityName>Columbus</CityName>
+      <ZipCode>432101016</ZipCode>
+      <PhoneNumber>6146888735</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1401</Code>
+      <Text>Catalysis</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

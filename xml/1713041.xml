@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Group Travel to Attend 7th International Symposium on Advances in Computational Heat Transfer (CHT-17), Naples, Italy, May 28 - June 1, 2017</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>15000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jose Lage</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The 7th International Symposium on Advances in Computational Heat Transfer (CHT-17)is part of a long and traditional series of events focused on the advances and future trends in numerical heat and mass transfer and fluid flow. Located in Italy, the symposium will naturally attract participants from Europe and surroundings, propitiating interactions between upcoming and established US and foreign researchers. Plenary and keynote presentations will review existing information, present the current state-of-the-art and discuss future needs in different areas, providing an excellent mechanism to guide future improvements in existing and new academic programs. &lt;br/&gt;&lt;br/&gt;The topics covered in the symposium are very broad, including fundamentals (algorithms, coding, software developments, validation, data analysis and visualization, etc.) and applications (engineering based efforts involving numerical simulations, such as in biological systems, manufacturing, environmental heat transfer, combustion, cooling of electronic systems, data centers and energy systems). The broad range of applications covered by the Symposium has been an additional attractive point, especially to young researchers interested in numerical thermal transport processes. The presentations will be disseminated broadly, not only through the preparation of a proceedings, but also through the publication of selected papers in top-quality journals.</AbstractNarration>
+    <MinAmdLetterDate>04/12/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/12/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1713041</AwardID>
+    <Investigator>
+      <FirstName>Yogesh</FirstName>
+      <LastName>Jaluria</LastName>
+      <EmailAddress>jaluria@jove.rutgers.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Rutgers University New Brunswick</Name>
+      <CityName>Piscataway</CityName>
+      <ZipCode>088543925</ZipCode>
+      <PhoneNumber>8489320150</PhoneNumber>
+      <StreetAddress>33 Knightsbridge Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1406</Code>
+      <Text>THERMAL TRANSPORT PROCESSES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

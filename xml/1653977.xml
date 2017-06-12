@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Mass Transport and Fluid-Rock Reactions Driven by Multicomponent Aqueous Fluids</AwardTitle>
+    <AwardEffectiveDate>01/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2021</AwardExpirationDate>
+    <AwardAmount>296746</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06030000</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Earth Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sonia Esperanca</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Fluids are the most efficient agents for transporting heat and material in Earth's crust. Fluids and fluid-rock reactions exert strong controls on the compositions of crustal rocks, formation of mineral deposits, and global geochemical cycles such as those of water (H2O) and carbon. These processes occur from ambient temperatures and pressures at Earth's surface to extreme temperatures and pressures in Earth's deep interior. Therefore, to understand and predict how these processes operate, detailed knowledge of the physical and chemical properties of fluids are needed over wide range of conditions. The fluids in question are commonly complex solutions of H2O plus various dissolved salts, minerals and gases. This proposed research focuses on developing methods to quantify the compositions of geologic fluids from analytical data, and to predict the fluid densities and mineral solubilities over crustal pressure-temperature conditions. These new methods and data will contribute to develop new research directions and to better understand geologic processes from Earth's surface to its deep interior, as well as Earth's chemical evolution. The methods developed here will help quantify processes related to mineral deposit formation by hot aqueous fluids, thus benefiting society by contributing to resource development. As part of this project, new computer programs for data analysis will be developed and linked to web-based training modules, and short courses in geochemical analysis and data interpretation will be run, which will both contribute to education and promote scientific progress.&lt;br/&gt;&lt;br/&gt;Most recent models for fluid-mediated mass and energy transfer in geologic systems are based on simple systems such as dilute H2O or H2O-NaCl. This proposed research will extend such modeling to complex fluid compositions involving a suite of additional salts, ions and volatile solutes. The approach adopted here involves combining data obtainable from geochemical analyses (particularly, analyses of fluid inclusions in minerals) with thermodynamic modeling. Compositional properties of fluids will be assessed using ion-activity relations according to Pitzer's formalism. The volumetric properties of fluids will be described as functions of temperature, pressure and composition (including complex brines) using a combined approach of partial-molar volumes and excess volumes of mixing. The solubilities of minerals in fluids will be quantified according to a new density-dependent solubility model, targeting complex brines as well as geologic vapors. These new methods will better approximate geologic fluids and therefore have a positive impact on future geochemical modeling of fluid-driven processes. These methods are also projected to have a positive impact on chemical engineering and process design involving high-temperature aqueous fluids.</AbstractNarration>
+    <MinAmdLetterDate>01/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653977</AwardID>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Steele-MacInnis</LastName>
+      <EmailAddress>steelemacinnis@email.arizona.edu</EmailAddress>
+      <StartDate>01/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Arizona</Name>
+      <CityName>Tucson</CityName>
+      <ZipCode>857194824</ZipCode>
+      <PhoneNumber>5206266000</PhoneNumber>
+      <StreetAddress>888 N Euclid Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1573</Code>
+      <Text>PETROLOGY AND GEOCHEMISTRY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1575</Code>
+      <Text>EDUCATION AND HUMAN RESOURCES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

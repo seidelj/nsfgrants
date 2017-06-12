@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Cross-Domain Urban Data Mining</AwardTitle>
+    <AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2022</AwardExpirationDate>
+    <AwardAmount>102576</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Aidong Zhang</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>According to U.S. 2010 Census, about 80.7% of the U.S. population live in urban area. Urbanization has modernized people's lives but also generated many urban issues such as traffic congestion, air pollution, health, education, and life quality. In the meantime, with the rapid progress in sensing technologies and widely-used digital documentation, increasing amount of urban data are being accumulated in the digital form, including human traces, traffic, air quality, local events, vehicle collisions, noise reports, and many more. Many cities in the U.S. (e.g., New York City, Chicago, and Los Angeles) have joined the open data initiative and created websites to release the city data to the public. Such big data implies rich knowledge about a city and could empower us to address many critical urban challenges.&lt;br/&gt;&lt;br/&gt;This project develops novel data mining techniques to help people uncover the complicated correlations in the big urban data. While each type of urban data has been previously analyzed in its own domain, we lack a principled approach to integrate and analyze the data collected from different domains in order to better understand the urban issues from multiple aspects. The project investigates systematic solutions to integrate and model the urban data, discover the hidden patterns, and present and visualize the results in an interpretable way. The key innovation lies in how to effectively harness the heterogeneous urban data and learn mutually reinforced knowledge from such data. The project explores motivating real-world problems from other research fields such as social science, transportation, ecology, and urban planning, and promises interdisciplinary impacts in these fields. Ultimately, this project strives to advance the techniques in urban computing, a nascent interdisciplinary research field that addresses the challenges and opportunities in the fast-evolving urban environments.</AbstractNarration>
+    <MinAmdLetterDate>03/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652525</AwardID>
+    <Investigator>
+      <FirstName>Zhenhui</FirstName>
+      <LastName>Li</LastName>
+      <EmailAddress>jessieli@ist.psu.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Pennsylvania State Univ University Park</Name>
+      <CityName>UNIVERSITY PARK</CityName>
+      <ZipCode>168027000</ZipCode>
+      <PhoneNumber>8148651372</PhoneNumber>
+      <StreetAddress>110 Technology Center Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7364</Code>
+      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7364</Code>
+      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

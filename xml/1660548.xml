@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Assessing student attentional engagement from brain activity during STEM instruction</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2020</AwardExpirationDate>
+    <AwardAmount>709321</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11090000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Research On Learning</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joan Walker</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>When a teacher is presenting new material during class or online, are students actually paying attention? The ambitious goal of this project is to objectively measure students' attentional engagement during learning using electroencephalography (EEG). Specifically, it measures students' brain activity as they watch online educational videos, and then compares their neural activity to how well they perform on traditional measures of learning such as tests and quizzes. If successful, this project will develop a tool that can assess student attentional engagement at the neural level and predict learning performance. Providing a concrete and practical educational application for brain imaging is important because it can be used to inform the effectiveness of teaching approaches and instructional materials, or intervene in real-time when individual students fail to engage with the material. Such a tool may be particularly important in the context of online education where teachers and students often do not immediately interact with one another. The educational video material will focus on natural sciences and math with the goal of improving STEM education. The project is funded by the EHR Core Research (ECR) program which funds basic research that seeks to understand, build theory to explain, and suggest interventions (and innovations) to address persistent challenges in STEM interest, education, learning, and participation. It is co-funded by the Perception, Action, and Cognition program in the Social, Behavioral, and Economics Sciences Directorate. &lt;br/&gt;&lt;br/&gt;Effective learning requires attention to the instructional material. By measuring attention from brain signals, both the efficacy of instruction and the performance of individual students may be assessed. Knowing whether and when students fail to engage attention is crucial for designing better instructional materials or to assist students on an individual basis. The basic hypothesis of this project is that effective instructional materials will generate similar EEG responses across attentive students. The investigators test this hypothesis for STEM educational videos to determine if learning can indeed be predicted. Participants include ~180 undergraduates enrolled in City College of New York's Division of Science and School of Engineering. Educationally, participants also include 30 high school seniors from four diverse New York City high schools. Similarity among students' responses to educational video will be measured as inter-subject correlation (ISC) of EEG activity. The project has three specific aims: (1) Validate ISC using instructional videos; (2) Test the link between ISC and traditional learning outcome measures; and (3) Develop a mobile application to help transfer ISC measures from the laboratory to the classroom setting.</AbstractNarration>
+    <MinAmdLetterDate>03/16/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/16/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660548</AwardID>
+    <Investigator>
+      <FirstName>Richard</FirstName>
+      <LastName>Steinberg</LastName>
+      <EmailAddress>steinberg@ccny.cuny.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Lucas</FirstName>
+      <LastName>Parra</LastName>
+      <EmailAddress>parra@ccny.cuny.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>CUNY City College</Name>
+      <CityName>New York</CityName>
+      <ZipCode>100319101</ZipCode>
+      <PhoneNumber>2126505418</PhoneNumber>
+      <StreetAddress>Convent Ave at 138th St</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7980</Code>
+      <Text>Core R&amp;D Programs</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7252</Code>
+      <Text>PERCEPTION, ACTION &amp; COGNITION</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8089</Code>
+      <Text>Understanding the Brain/Cognitive Scienc</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8212</Code>
+      <Text>Broaden Particip STEM Resrch</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8816</Code>
+      <Text>Workforce Development</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8817</Code>
+      <Text>STEM Learning &amp; Learning Environments</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

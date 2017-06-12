@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Dissecting the mechanisms of FERONIA and related receptor kinase-mediated pollen-pistil interactions</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2021</AwardExpirationDate>
+    <AwardAmount>210000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090300</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Michael L. Mishkind</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project addresses how flowering plants achieve fertilization so seeds are produced. Achieving this requires intimate interactions between male (pollen) and female (pistil) to enable growth of a pollen tube to deliver sperm to the embryo sac inside an ovule (the precursor of a seed) for fertilization. The project utilizes the model plant Arabidopsis to understand the molecular designs and biochemical reactions behind these interactions. The focus is on two classes of molecules, one is a family of low molecular weight proteins called, Rapid Alkanization Factors, the other is a class of proteins called receptor kinases and includes a molecule called FERONIA and related proteins. Rapid Alkanization Factors are believed to serve as signals to instruct how these receptor kinases should react in successful pollination and fertilization processes. The goal is to identify the interacting pairs of the Alikinazation Factor and receptor kinase, understand how they interact and their importance to the reproductive process. Given reproduction underlies agricultural yields as well as survival of the species, results from this study should contribute to rational designs aiming at protecting plant species as well as ensuring food supply. The project will provide training opportunities for undergraduates, graduate and postdoctoral students. Findings and materials produced will be shared with the scientific community through publications, with the broader public by being introduced as topics in STEM workshops for high school teachers. &lt;br/&gt;&lt;br/&gt;Pollen grains germinate on the receptive surface of the pistil, each producing a tube to transport two sperm cells to an embryo sac where the egg cell is located inside an ovule (the precursor organ for a seed). The embryo sac induces rupture of the penetrating pollen tube to release sperm rendering them available for fertilization. This project will rely on biochemical and genetic approaches to examine how RALF-FER and RALF-FER related receptor kinase interactions underlie pollen tube growth and rupture. Several pollen- or ovule-expressed Rapid Alkanization Factors (RALFs), the female-expressed FERONIA (FER) and three related pollen-expressed receptor kinases are selected for the study here. Biochemical efforts will focus on producing pure and active RALFs for testing their activity in pollen tube growth behavior in defined culture medium. Genetic efforts will center on determining the precise temporal and spatial expression pattern of the RALFs and generating mutations in individual RALFs, or combinatorially in multiple RALFs, to determine the impact of their loss on pollination and fertilization. Though some functional roles are emerging for RALFs and the FER family of proteins, e.g. in growth, development, reproduction, defense and symbiosis, most remain unknown. While important in its own right, especially given the impact agricultural production to society, the functional relationship established here could provide a model for studies that extend beyond pollen-pistil and plant reproduction to almost all aspects of plant growth, development and survival.</AbstractNarration>
+    <MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1645858</AwardID>
+    <Investigator>
+      <FirstName>Alice</FirstName>
+      <LastName>Cheung</LastName>
+      <EmailAddress>acheung@biochem.umass.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Hen-ming</FirstName>
+      <LastName>Wu</LastName>
+      <EmailAddress>hmwu@biochem.umass.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Massachusetts Amherst</Name>
+      <CityName>Hadley</CityName>
+      <ZipCode>010359450</ZipCode>
+      <PhoneNumber>4135450698</PhoneNumber>
+      <StreetAddress>Research Administration Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>047Y</Code>
+      <Text>Plant-Biotic Interactions</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

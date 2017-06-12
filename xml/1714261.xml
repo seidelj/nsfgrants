@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Targeted Infusion Project: Developing a Cloud-based Cryptographic Simulator for Enhancing Undergraduates' Learning Experience in Cybersecurity Education</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>399755</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Claudia M. Rankins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP) through Targeted Infusion Projects supports the development, implementation, and study of evidence-based innovative models and approaches for improving the preparation and success of HBCU undergraduate students so that they may pursue science, technology, engineering or mathematics (STEM) graduate programs and/or careers. The project at Bowie State University seeks to enhance cybersecurity undergraduate education by strengthening students' learning experiences through cryptography.  The activities and strategies are evidence-based and a strong plan for formative and summative evaluation is part of the project.&lt;br/&gt;&lt;br/&gt;The objectives of the project are to: (1) develop an interactive cryptographic simulator with real-world scenarios and deploy the cryptographic simulator to a cloud-based platform; (2) infuse the cloud-based cryptographic simulation modules for academic training in the cybersecurity courses; and (3) build a cloud-based platform to share the instructional materials online. Additionally, workshops are being held to build capacity in cryptography education for high school teachers and college faculty. This project will have an impact on enhancing cybersecurity education by providing a platform for interactive real life scenario simulations in the context of cryptography. It is expected that over 200 undergraduate students will be impacted by this project annually.</AbstractNarration>
+<MinAmdLetterDate>04/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714261</AwardID>
+<Investigator>
+<FirstName>Chaobin</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>cliu@bowiestate.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Weifeng</FirstName>
+<LastName>Xu</LastName>
+<EmailAddress>wxu@bowiestate.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jie</FirstName>
+<LastName>Yan</LastName>
+<EmailAddress>jyan@bowiestate.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bowie State University</Name>
+<CityName>BOWIE</CityName>
+<ZipCode>207159465</ZipCode>
+<PhoneNumber>3018604399</PhoneNumber>
+<StreetAddress>14000 Jericho Park Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

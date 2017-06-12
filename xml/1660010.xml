@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Multifunctional Additives with Controlled Release Agents</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2018</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is to create additives that can replace hazardous and toxic corrosion inhibitors with more environmentally friendly alternatives. Direct costs of corrosion are enormous both financially and also by impacting health and safety. Examples of such health and safety impacts are due to the breakdown of the structural integrity of buildings, the deterioration of infrastructure and the leaching of heavy metals into water supplies. While the demand for corrosion inhibitors is growing, some common and effective solutions are being phased out due to their hazardous effect on environmental and human health. The corrosion inhibitor replacements developed in this project will potentially reduce the amount of harmful corrosion protection materials currently used to protect a large variety of metal-based structures, such as buildings, bridges, pipelines, ships, cars, trucks, and airplanes.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims to advance a novel encapsulation system for controlled release of inhibitors that provides smart corrosion protection to metal coatings. The encapsulation enables the use of environmentally friendly inhibitor alternatives that are currently incompatible with coatings. It achieves this by preventing contact between the inhibitor and the coating during coating application and providing controlled release during corrosion-triggered events, allowing on-demand corrosion protection. Consequently, the environmental impact of corrosion protection systems can be decreased through the use of more environmentally friendly materials and the reduction of the required amount of inhibitive compounds. Further, they can be incorporated into existing corrosion protection systems without significant changes in coating formulation or application method.</AbstractNarration>
+    <MinAmdLetterDate>10/25/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/25/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660010</AwardID>
+    <Investigator>
+      <FirstName>Thomas</FirstName>
+      <LastName>O'Neal</LastName>
+      <EmailAddress>oneal@ucf.edu</EmailAddress>
+      <StartDate>10/25/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Central Florida</Name>
+      <CityName>ORLANDO</CityName>
+      <ZipCode>328168005</ZipCode>
+      <PhoneNumber>4078230387</PhoneNumber>
+      <StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

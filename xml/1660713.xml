@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Building the Educational Infrastructure with Scholarships for STEM Teachers to Transform the Economy of West Virginia</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>768998</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Teri Murphy</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>With funding from the NSF Robert Noyce Teacher Scholarship Program, a team at West Virginia University (WVU), partnering with Doddridge and Marion County School Districts, will recruit and prepare mathematics and science majors for careers in teaching secondary mathematics or science. Specifically, this project will recruit six to seven new Scholars per year for four years, with each Scholar receiving up to two years of support, for a total of at least 25 new teachers prepared. West Virginia is one of the poorest states in the nation and has one of the lowest percentages of citizens with bachelor's degrees. As the state faces continuing economic challenges, this project recognizes the pressing need to increase the number of highly-qualified secondary mathematics and science teachers to prepare the state's youth to be college-ready and prepared to pursue science, technology, engineering, and mathematics careers through post-secondary education. &lt;br/&gt;&lt;br/&gt;This project will leverage the internal expertise in the WVU Center for Excellence in STEM Education and capitalize on the existing WVUteach program, which is an adaptation of the successful UTeach program. A hallmark of this program is a curriculum that is rigorous in STEM content but also enables students to complete both the STEM degree and the requirements for teacher licensure within four years. The WVUteach-Noyce Scholars will participate in activities specifically designed to prepare them to teach in the high-need Appalachian schools. Based on the UTeach model, the WVUteach program will offer preparation in relevant cultural competence and pedagogical knowledge, as well as mentorship from experienced teachers who will support them as they learn to teach in these high-need settings. Results from external evaluation and lessons learned from this adaptation will be broadly disseminated through the existing UTeach network as well as through national organizations and other relevant venues.</AbstractNarration>
+    <MinAmdLetterDate>02/08/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/08/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660713</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Stewart</LastName>
+      <EmailAddress>jcstewart1@mail.wvu.edu</EmailAddress>
+      <StartDate>02/08/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Campbell</LastName>
+      <EmailAddress>mpcampbell@mail.wvu.edu</EmailAddress>
+      <StartDate>02/08/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Nancy</FirstName>
+      <LastName>Spillane</LastName>
+      <EmailAddress>nancy.spillane@mail.wvu.edu</EmailAddress>
+      <StartDate>02/08/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Gay</FirstName>
+      <LastName>Stewart</LastName>
+      <EmailAddress>gbstewart@mail.wvu.edu</EmailAddress>
+      <StartDate>02/08/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jeffrey</FirstName>
+      <LastName>Carver</LastName>
+      <EmailAddress>jeffrey.carver@mail.wvu.edu</EmailAddress>
+      <StartDate>02/08/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>West Virginia University Research Corporation</Name>
+      <CityName>Morgantown</CityName>
+      <ZipCode>265066845</ZipCode>
+      <PhoneNumber>3042933998</PhoneNumber>
+      <StreetAddress>P.O. Box 6845</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>West Virginia</StateName>
+      <StateCode>WV</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1795</Code>
+      <Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Understanding Local Dynamical Gradients Near Dissimilar Polymer-Polymer Interfaces</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>266000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew J. Lovinger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY:&lt;br/&gt;&lt;br/&gt;The creation of new materials necessary for technologies such as drug delivery, advanced filtration, ion conduction for batteries, or photoelectric generation for solar cells requires the understanding of how localized properties  at the nanoscale are affected near interfaces between different components.  This research aims to address the fundamental understanding behind why dynamical gradients in local properties may be particularly long-ranged near interfaces of dissimilar polymers.  Experiments measuring the local temperature at which the material solidifies from a liquid to a glass using a localized fluorescence method will be performed as a function of depth on several systems designed to separate, isolate, and test several factors that may make such polymer-polymer interfaces unique. Additional methods to probe this effect will also be explored.  The research efforts will be carried out by graduate and undergraduate students who will be exposed to this interdisciplinary field bridging physics, chemistry, and materials science.  The PI fosters training and scientific growth in these students by engaging them in various educational and outreach activities designed to promote science, research, and participation of women and minorities.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY:  &lt;br/&gt;&lt;br/&gt;Understanding how the properties of materials are perturbed by interfacial interactions is an issue that has widespread impact across numerous nanostructured polymeric materials such as thin films, nanocomposites, nanostructured blends, and block copolymers.  Existing studies have shown that interfacial perturbations can propagate anywhere from a few nanometers to tens and even hundreds of nanometers from the interface depending on the material property in question, with glassy materials appearing to be particularly sensitive to interfacial perturbations.  This research aims to build on our understanding of how the local properties of polymer materials change as a function of distance from a given interface to try to address why interfaces between two dissimilar polymers show dynamical gradients that can span hundreds of nanometers and are unexpectedly asymmetric with respect to the composition profile.  Experiments will focus on testing the underlying causes for this unexpected behavior by measuring detailed dynamical profiles of local glass transition temperature as a function of depth near various interfaces via fluorescence that can be used to test current theoretical efforts in the field, as well as assessing such long range behavior with other experimental techniques.  Direct comparisons will be made between several different systems designed to separate, isolate, and test several factors that may make such polymer-polymer interfaces unique:  molecular chain connectivity across the interface, breadth of interface, interfacial roughness, modulus, domain size and cooling rate.  Such efforts should be able to deconvolve various factors believed to be responsible for how interfaces alter local material properties and dynamics.</AbstractNarration>
+<MinAmdLetterDate>05/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709132</AwardID>
+<Investigator>
+<FirstName>Connie</FirstName>
+<LastName>Roth</LastName>
+<EmailAddress>cbroth@emory.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Emory University</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303224250</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress>1599 Clifton Rd NE, 4th Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1773</Code>
+<Text>POLYMERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: SC2: PHY-Layer-Integrated Collaborative Learning in Spectrum Coordination</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>99877</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>With the explosion of wireless devices, spectrum is becoming a scarce resource that wireless systems fiercely compete for. To ensure that future civilian and military systems, ranging from connected Internet of Things (IoT) devices to battlefield ad-hoc networks, continue to support services with growing quality, systems must evolve beyond the traditional spectrum licensing model and towards an intelligent spectrum sharing paradigm, in which networks nodes collaborate to efficiently share the spectrum. This radical paradigm shift requires the integration of the latest machine learning advances with the more recent progress in software defined radio, in order to endow wireless devices with the intelligence and agility necessary to realize the vision of efficient unsupervised spectrum sharing. The proposed research aims at addressing this fundamental issue, and will offer ample opportunities to provide interdisciplinary training of students at the intersection of machine learning and communications engineering.&lt;br/&gt;&lt;br/&gt;The project envisions a paradigm shift in radio design, which will intertwine agile communications engineering techniques with advanced machine learning algorithms to fuse the traditional physical-layer and link layers into a "collaboration layer". Specifically, the approach comprises three key elements: (1) a multi-carrier modulation format at the physical layer that provides the required agility to react to interfering signals; (2) a high-performing modulation recognition software that exploits the latest advances in deep learning and convolutional neural networks to accurately classify the radio frequency signals in the environment; and (3) a decision module exploiting the latest advances in regret minimization online algorithms to achieve high exploration versus exploitation performance in the wireless environment.</AbstractNarration>
+    <MinAmdLetterDate>03/20/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/20/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1737842</AwardID>
+    <Investigator>
+      <FirstName>Matthieu</FirstName>
+      <LastName>Bloch</LastName>
+      <EmailAddress>matthieu@gatech.edu</EmailAddress>
+      <StartDate>03/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Sebastian</FirstName>
+      <LastName>Pokutta</LastName>
+      <EmailAddress>sebastian.pokutta@isye.gatech.edu</EmailAddress>
+      <StartDate>03/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Georgia Tech Research Corporation</Name>
+      <CityName>Atlanta</CityName>
+      <ZipCode>303320420</ZipCode>
+      <PhoneNumber>4048944819</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1714</Code>
+      <Text>SPECIAL PROJECTS - CISE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

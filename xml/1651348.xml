@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>International Conference on Plant Synthetic Biology and Bioengineering</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>20000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Peretti</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>PI: Medford, June I. &lt;br/&gt;Proposal Number: 1651348 &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Plant synthetic biology uses enabling approaches from engineering and plants as platforms to produce self-sustaining and photosynthetic driven bioproducts. The emerging field requires computational modeling and mathematical analysis for designing predictable biological function. Applications include biofuels, agriculture, bio-materials, biopharmaceuticals, sustainability and others. There are no forums, however, whose primary goal is to bring together biologists, scientists and engineers from the plant synthetic biology and plant bioengineering field to discuss ways in which their disciplines can collaborate to find novel solutions in such fields ad health, environment and energy. In response to this need, a Plant Synthetic Biology and Bioengineering (ICPSBB) conference is being organized with the aims to provide a venue for: developing the scientific exchange among plant synthetic biology and bioengineering researchers, interactions between academic and industry researchers, active participation and networking of graduate students and postdoctoral researchers, and bringing scientists and engineers together for providing an venue to discuss their disciplines and approaches, and to motivate new research into barriers limiting the development of engineered plant-based technologies.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The field of Plant Synthetic Biology and Bioengineering has emerged as an important multidisciplinary area of research, that require engineering approaches for producing self-sustaining and photosynthetic-driven bio-production. The field relies on several engineering tools such as computational modeling, mathematical analysis to design predictable biological function and sustainable traits. Conference technical sessions will bring together scientists of various disciplines and engineers for examining applications in agriculture, biopharmaceuticals, biofuels and others.</AbstractNarration>
+    <MinAmdLetterDate>11/22/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/22/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651348</AwardID>
+    <Investigator>
+      <FirstName>June</FirstName>
+      <LastName>Medford</LastName>
+      <EmailAddress>June.Medford@colostate.edu</EmailAddress>
+      <StartDate>11/22/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Gabriel</FirstName>
+      <LastName>Levesque-Tremblay</LastName>
+      <EmailAddress>gabrl@aiche.org</EmailAddress>
+      <StartDate>11/22/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>American Institute of Chemical Engineers</Name>
+      <CityName>New York</CityName>
+      <ZipCode>100054020</ZipCode>
+      <PhoneNumber>6464951350</PhoneNumber>
+      <StreetAddress>120 Wall Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1491</Code>
+      <Text>Cellular &amp; Biochem Engineering</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1112</Code>
+      <Text>GENES AND GENOME SYSTEMS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1757</Code>
+      <Text>Quantitative sys bio and biotech</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8248</Code>
+      <Text>SusChEM</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Volatile Product Formation and Atmospheric Lifetimes of Biogenic Organic Aerosols</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>122688</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia A. Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is focused on developing a better understanding of how reactive carbon evolves in the atmosphere.  Highly controlled environmental chamber experiments will be conducted to evaluate the aging chemistry of organic aerosol.  Experiments will help to determine the extent to which aerosol aging depends on particle characteristics (such as liquid water, inorganic composition, pH, organic composition, and surface area) as well as environmental conditions (such as temperature and relative humidity).&lt;br/&gt;&lt;br/&gt;The objectives of the research are to: (1) Quantify the production of oxygenated volatile organic compounds (OVOC) and the oxidative lifetimes from hydroxyl radical (OH)-initiated oxidation of suspended organic aerosol (OA); (2) Characterize how physical, chemical, and environmental parameters affect the OH lifetime and OVOC production of the biogenic OA under investigation; (3) Investigate the difference in mechanism between aqueous OH and heterogeneous OH oxidation; and (4) Study the effects of direct photolysis on OA.  &lt;br/&gt;&lt;br/&gt;This research will provide important new data inputs and constraints for atmospheric models that simulate reactive carbon in the atmosphere.  The results are expected to significantly improve the understanding of how semi-volatiles and particles affect climate, air quality, and health.</AbstractNarration>
+<MinAmdLetterDate>05/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1656889</AwardID>
+<Investigator>
+<FirstName>Tran</FirstName>
+<LastName>Nguyen</LastName>
+<EmailAddress>tbn@ucdavis.edu</EmailAddress>
+<StartDate>05/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

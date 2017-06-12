@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CHESS Workshop on Emerging Frontiers in Biology</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Engin Serpersu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Title: CHESS Workshop on Emerging Frontiers in Biology&lt;br/&gt; &lt;br/&gt;This workshop will identify most compelling and significant challenges in biology where x-ray synchrotron source would provide unique abilities to tackle with such challenges.  Biological sciences encompasses studies of systems from atomistic resolution to whole cells and organisms with processes covering a wide range of  time and length scales. Deeper understanding of biological processes requires development of complementary techniques to provide a multiscale interdisciplinary approach. This workshop is designed to develop broader outlook in the application of high-energy x-rays to challenging biological problems and to facilitate wider involvement in biological community in such studies.</AbstractNarration>
+<MinAmdLetterDate>05/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743946</AwardID>
+<Investigator>
+<FirstName>Ernest</FirstName>
+<LastName>Fontes</LastName>
+<EmailAddress>ef11@cornell.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1144</Code>
+<Text>BIOMOLECULAR SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

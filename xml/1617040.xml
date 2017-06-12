@@ -27,17 +27,17 @@
     <ARRAAmount/>
     <AwardID>1617040</AwardID>
     <Investigator>
-      <FirstName>Martin</FirstName>
-      <LastName>Tsui</LastName>
-      <EmailAddress>tmtsui@uncg.edu</EmailAddress>
+      <FirstName>Tanju</FirstName>
+      <LastName>Karanfil</LastName>
+      <EmailAddress>tkaranf@clemson.edu</EmailAddress>
       <StartDate>03/08/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>Shaowu</FirstName>
-      <LastName>Bao</LastName>
-      <EmailAddress>sbao@coastal.edu</EmailAddress>
+      <FirstName>Martin</FirstName>
+      <LastName>Tsui</LastName>
+      <EmailAddress>tmtsui@uncg.edu</EmailAddress>
       <StartDate>03/08/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
@@ -51,9 +51,9 @@
       <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>Tanju</FirstName>
-      <LastName>Karanfil</LastName>
-      <EmailAddress>tkaranf@clemson.edu</EmailAddress>
+      <FirstName>Shaowu</FirstName>
+      <LastName>Bao</LastName>
+      <EmailAddress>sbao@coastal.edu</EmailAddress>
       <StartDate>03/08/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
@@ -63,7 +63,7 @@
       <CityName>CLEMSON</CityName>
       <ZipCode>296340001</ZipCode>
       <PhoneNumber>8646562424</PhoneNumber>
-      <StreetAddress>300 BRACKETT HALL</StreetAddress>
+      <StreetAddress>230 Kappa Street</StreetAddress>
       <CountryName>United States</CountryName>
       <StateName>South Carolina</StateName>
       <StateCode>SC</StateCode>

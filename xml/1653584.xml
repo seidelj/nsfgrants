@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Papertronic Sensors for Concurrent Bioelectrical and Sweat-based Diagnostics</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2022</AwardExpirationDate>
+    <AwardAmount>500000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07010000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Usha Varshney</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project on wearable, paper-based sensors for measuring bioelectrical signals and sweat will work toward devices for safe working environments and bring society closer to budget-friendly personalized medicine. The results will complement both commercial and academic efforts to develop non-implantable, highly sensitive, portable instrumentation and algorithms for electroencephalography and sweat-based diagnostics. Using the science and engineering outcomes of this study, techniques for monitoring human alertness and stress will have the potential to improve the safety of individuals and their surrounding environments. The material processing methods and simple-to-share simulations will also impact commercial development of portable immunoassays, brain-computer interfaces for bridging the gaps between machines and humans, and scalable processing of renewable paper products. Students and future generations of engineers will have opportunities to engage in emerging papertronic technologies through active learning in seminars for first-year undergraduate students, summer programs for high school students, and entrepreneurial mentorship.&lt;br/&gt;&lt;br/&gt;The research objectives of this five-year proposal are to (1) design novel devices for bioelectrical and sweat-based diagnostics with high sensitivity and low cost; (2) leverage embossing techniques for patterning hydrophobicity and conductivity in paper-based electronics; and (3) model the electro-chemo-mechanical physics in constructs of liquid/gel, functionalized fibers, and porous paper. If successful, this work will reduce the impedance between electrodes and skin for bioelectrical signals, improve sensitivity to biomarkers embedded in sweat, and provide detailed, simple-to-share simulations to model the electro-chemo-mechanical behavior of porous and liquid-filled electrodes in papertronic sensors. The hypothesis for this proposal is that increased sensitivity in paper-based electrochemical measurements will depend on tunable porosity and functionalized, conductive fibers in paper. Support for this hypothesis will come through building multi-functionality into paper capable of holding liquid and having tuned electrochemical properties along the fibers. For bioelectrical sensors, the research team will demonstrate new material processing techniques to make electrolytic conductive sheets with embedded silver nanowires for low-impedance transduction between papertronic sensors and human skin. For sweat-based diagnostics, the team will pioneer advanced techniques for functionalizing cellulosic fibers before and after casting them into sheets. These sheets with functionalized zinc oxide nanowires will capture cortisol hormones and measure their concentration with electrochemical impedance spectroscopy. Detailed, simple-to-share simulations for the electro-chemo-mechanical physics of the papertronic systems will also facilitate prediction and new sensing devices. This effort will mark progress toward concurrent measurements of bioelectrical signals and sweat. This work will also lead to wearable hardware for performing electrochemical impedance spectroscopy. This system has the potential to enable human test studies to evaluate how brain waves and cortisol correlate with states of alertness and stress.</AbstractNarration>
+    <MinAmdLetterDate>12/16/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/16/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653584</AwardID>
+    <Investigator>
+      <FirstName>Aaron</FirstName>
+      <LastName>Mazzeo</LastName>
+      <EmailAddress>aaron.mazzeo@rutgers.edu</EmailAddress>
+      <StartDate>12/16/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Rutgers University New Brunswick</Name>
+      <CityName>Piscataway</CityName>
+      <ZipCode>088543925</ZipCode>
+      <PhoneNumber>8489320150</PhoneNumber>
+      <StreetAddress>33 Knightsbridge Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1517</Code>
+      <Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>108E</Code>
+      <Text>Bioelectronics</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

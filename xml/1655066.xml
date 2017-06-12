@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Exploratory Syntheses of Borometallic Molecular Wheels and Borospherenes</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2018</AwardExpirationDate>
+    <AwardAmount>150000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03070000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Materials Research</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Birgit Schwenzer</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Non-Technical Summary: This EAGER proposal is aimed at proof-of-principle syntheses of novel boron-based nanoclusters in solid forms using laser ablation in the liquid phase. If the prove-of-concept efforts are successful, better synthetic route using wet chemistry may be found to improve the synthetic yields. Development of effective large-scale synthetic methods of these novel boron nanostructures would represent significant advances in materials science. The boron nanostructures in bulk form will provide new classes of materials with potentially interesting electronic, magnetic, and catalytic properties. The EAGER project will also provide research training for undergraduate and graduate students across disciplines. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical Summary: Studies on size-selected boron clusters over the past decade have led to a variety of interesting nanostructures from planar clusters to borophenes and borospherenes. Borophenes (or atomic thin boron layers) have recently been synthesized on silver substrates as a new class of 2D materials. This EAGER project seeks to explore bulk syntheses in solid forms of borospherenes (all-boron cage clusters), as well as transition metal centered boron ring type clusters, M©Bn (n = 8-10), which are aromatic borometallic molecular wheels. Due to the electron deficient nature of boron, the edge or surface atoms of the borometallic clusters and borospherenes have empty 2p orbitals and are expected to be reactive with Lewis base types of ligands, such as amides or phosphines, which will be used to protect the clusters. The M©Bn type clusters and borospherenes will be produced by laser ablation of appropriate boron/metal composite or pure boron targets in solutions, which contain the appropriate ligands. The ligands will coordinate to the nascent boron nanoclusters to allow their isolation and subsequent structural and property characterization. The laser ablation can also take place outside the solution, which can then capture the nascent clusters. The synthetic method will be a combination of physical and chemical approach, unlike the fullerene synthetic method, which is a completely physical method (carbon arc in He).</AbstractNarration>
+    <MinAmdLetterDate>10/21/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/21/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655066</AwardID>
+    <Investigator>
+      <FirstName>Lai-Sheng</FirstName>
+      <LastName>Wang</LastName>
+      <EmailAddress>Lai-Sheng_Wang@brown.edu</EmailAddress>
+      <StartDate>10/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Brown University</Name>
+      <CityName>Providence</CityName>
+      <ZipCode>029129002</ZipCode>
+      <PhoneNumber>4018632777</PhoneNumber>
+      <StreetAddress>BOX 1929</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Rhode Island</StateName>
+      <StateCode>RI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1762</Code>
+      <Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7237</Code>
+      <Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8614</Code>
+      <Text>Nanomaterials</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

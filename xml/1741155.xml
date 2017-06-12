@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Symposium on Trust: Psychology and Technology Conference</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>27021</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tamera Schneider</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The purpose of this project is to support a symposium focusing on the influence of human trust on technology use. This one-day symposium, held during the Psychology and Technology Conference, will bring together psychologists and computer/information scientists, and includes advanced graduate students in these disciplines. The symposium focuses on the ways that people may or may not use technology. The extent to which people trust hardware and software platforms, and the people and organizations with whom they interact, influences their use and misuse. Trust can influence whether people may use reliable technologies, but also can lead to cybersecurity breaches and other detrimental outcomes. This symposium will focus on the psychological and sociological dimensions of trust and the linkages of trust to security, privacy and trustworthy systems. &lt;br/&gt;&lt;br/&gt;Trust plays a key role in determining whether humans will rely on technology. What facilitates trust calibration and reliance? Over or under trusting technology can have dire consequences, including cybersecurity breaches and accidents, loss of data including identity data, and intrusions on privacy. This symposium addresses a gap between basic research on the predictors and consequences of trust as manifested in cyberspace. There will be both theoretical and practical foci. The focus on theory will include presentations and discussions of new models for understanding when people trust information, organizations, and artifacts online as well as contexts that moderate these phenomena. The focus on practical application will include presentations and discussions of vulnerabilities to abuses of trust. Four keynotes will be invited to present with an estimated 80 attendees, at this symposium to be held at UC Berkeley. The implications include arriving at a better understanding of whether or when people would be willing to allow machines to manage their security or to assist with their daily routines such as driving cars. Cybersecurity institutions, companies trying to market new technology to users, and government officials trying to prevent hacking are constituencies that will find this topic informative and useful. Moreover, as the human-technology frontier continues to expand, this topic of this symposium will have continued relevance for U.S. productivity, well-being, and security.</AbstractNarration>
+<MinAmdLetterDate>05/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741155</AwardID>
+<Investigator>
+<FirstName>Juliana</FirstName>
+<LastName>Schroeder</LastName>
+<EmailAddress>jschroeder@berkeley.edu</EmailAddress>
+<StartDate>05/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1332</Code>
+<Text>SOCIAL PSYCHOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

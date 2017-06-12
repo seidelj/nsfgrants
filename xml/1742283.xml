@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Special Year Workshops on Combinatorics and Complexity</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>96000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Special Year Workshops on Combinatorics and Complexity award supports four workshops at the interface of the two fields during the periods of 2-6 October 2017, 13-17 November 2017, 5-9 February 2018, and 9-13 April 2018 at the Harvard Center of Mathematical Sciences and Applications (CMSA) in Cambridge, Massachusetts.  Combinatorics and Computational Complexity have enjoyed a rich history of interaction leading to many significant developments in the two fields, such as the theories of NP-completeness, expander graphs, pseudorandomness, and property testing.  Lately these fields have seen many new points of intersection such as in the development of the polynomial method (used, for example, in recent advances on the cap-set problem as well as in development of optimal list-decodable codes), the method of interlacing families of polynomials (yielding Ramanujan graphs and the resolution of the Kadison-Singer problem), and the theory of randomness extractors (yielding explicit constructions of Ramsey graphs. The base funding for the workshops will be provided by the Harvard CMSA and will enable the participation of senior visitors and a core group of leaders in the fields. Additional funding provided by this award will support the travel and local arrangements of graduate students, postdocs, junior researchers, members of underrepresented groups, and those without other forms of support. &lt;br/&gt;&lt;br/&gt;Topics to be covered by the workshops include: &lt;br/&gt;(1) Additive Combinatorics (organized by Ben Green, Swastik Kopparty, Ryan O'Donnell and Tamar Zeigler). &lt;br/&gt;(2) Algebraic Methods in Combinatorics (organized by Zeev Dvir, Larry Guth and Shubhangi Saraf). &lt;br/&gt;(3) Probabilistic and Extremal Combinatorics (organized by David Conlon and Benjamin Sudakov) and &lt;br/&gt;(4) Coding and Information Theory (organized by Alexander Barg, Venkatesan Guruswami, and Mary Wootters). &lt;br/&gt;Further information on the workshops and other special year activities may be found at http://cmsa.fas.harvard.edu/combinatorics/.</AbstractNarration>
+<MinAmdLetterDate>05/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1742283</AwardID>
+<Investigator>
+<FirstName>Madhu</FirstName>
+<LastName>Sudan</LastName>
+<EmailAddress>madhu@cs.harvard.edu</EmailAddress>
+<StartDate>05/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7970</Code>
+<Text>Combinatorics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

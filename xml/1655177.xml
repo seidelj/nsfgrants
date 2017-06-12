@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: The interplay between fluctuating selection on symbionts and life cycle evolution in sap-sucking insects</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>269806</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010207</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Colette St.Mary</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Insects that feed on the sap of their host plants, including many crop and forest pests, have within them beneficial bacteria that provide the insects with essential nutrients that are missing from their diet. This research quantifies how the properties of those bacteria have been affected by evolutionary changes in insect diets; it further explores the role that the bacteria have played in how the insects use new host plants and in the insect's life cycle. This knowledge is important because it highlights bacteria as hidden players in major aspects of insect ecology and evolution. Information from this project may also assist in the control of several forest pest insects. This project will provide training for graduate students, undergraduates, and high-school students, including individuals from groups that are underrepresented in the sciences, and will promote public events to enhance scientific literacy and appreciation for research.&lt;br/&gt;&lt;br/&gt;This project studies Adelgidae insects that feed on conifer trees, and their dual symbionts. It tests the hypothesis that fluctuating demands for nutrient provisioning in insects has led to symbiont replacements, which in turn have precipitated new host-plant acquisitions and life-cycle complexity. Specific objectives include (1) establishing a family-wide pattern of the unusual role allocations between dual symbionts; (2) quantifying the contributions of symbionts and insect hosts to nutrient provisioning as a measure of adjustment to nutrient availability; (3) quantifying rates of evolution in symbiont genomes under different insect feeding modes. These objectives will be accomplished through DNA and RNA sequencing of symbiont genomes and expressed insect genes that support symbiont functions.</AbstractNarration>
+    <MinAmdLetterDate>03/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655177</AwardID>
+    <Investigator>
+      <FirstName>Gaelen</FirstName>
+      <LastName>Burke</LastName>
+      <EmailAddress>grburke@uga.edu</EmailAddress>
+      <StartDate>03/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Georgia Research Foundation Inc</Name>
+      <CityName>ATHENS</CityName>
+      <ZipCode>306021589</ZipCode>
+      <PhoneNumber>7065425939</PhoneNumber>
+      <StreetAddress>310 East Campus Rd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7377</Code>
+      <Text>EVOLUTIONARY ECOLOGY</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

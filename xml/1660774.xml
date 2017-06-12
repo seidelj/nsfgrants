@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>The Virginia Mathematics Specialist Initiative: An Online Program to Prepare K-8 Mathematics Teacher Leaders for High-Need School Districts</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2022</AwardExpirationDate>
+    <AwardAmount>1499991</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sandra Richardson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Track 3: Master Teaching Fellowships project, The Virginia Mathematics Specialist Initiative: An Online Program to Prepare K-8 Mathematics Teacher Leaders for High-Need School Districts, will prepare 20 K-8 mathematics teachers to be mathematics teacher leaders in high-need school districts throughout Virginia. In addition to preparing 20 new mathematics teacher leaders for partnering school districts throughout Virginia, the project will: (1) help retain K-8 mathematics teachers in the partnering districts due to the availability of daily in-school professional development and (2) develop a sustainable, rigorous, interactive online program for preparing mathematics teacher leaders that will be accessible to teachers in Virginia and in other states across the country. Research has shown that preparing and deploying mathematics specialists is an effective way to provide professional development for K-8 teachers of mathematics and ultimately increase student achievement. The project's 20 mathematics teacher leaders will provide ongoing, professional development for K-8 teachers to help them develop a deep understanding of the mathematics content and effective pedagogical strategies needed to help students understand mathematics and make connections to other STEM disciplines.&lt;br/&gt;&lt;br/&gt;This Noyce Master Teaching Fellowships project is a collaboration between Virginia Commonwealth University, the MathScience Innovation Center, the Virginia Mathematics and Science Coalition, and 20 high-need school districts across Virginia. This innovative project will advance the research of preparing and implementing mathematics teacher leaders in K-8 schools throughout Virginia by: (1) advancing knowledge about providing online professional development for teacher leaders and developing a framework for analyzing online professional development programs; (2) producing a highly effective online mathematics specialist preparation program that will be ready for future cohorts of teachers from districts inside and outside of Virginia and inform others interested in developing online professional development programs; (3) producing an online mentoring program for mathematics teacher leaders in high-need school districts that will help teacher leaders be successful in their early years and inform others interested in developing online mentorship programs; and (4) collaborating with high-need school districts in Virginia, many of which have not been part of previous efforts to prepare and implement mathematics specialists.</AbstractNarration>
+    <MinAmdLetterDate>04/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660774</AwardID>
+    <Investigator>
+      <FirstName>Christine</FirstName>
+      <LastName>Trinter</LastName>
+      <EmailAddress>ctrinter@vcu.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Aimee</FirstName>
+      <LastName>Ellington</LastName>
+      <EmailAddress>ajellington@vcu.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Joy</FirstName>
+      <LastName>Whitenack</LastName>
+      <EmailAddress>jwwhitenack@vcu.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Virginia Commonwealth University</Name>
+      <CityName>RICHMOND</CityName>
+      <ZipCode>232980568</ZipCode>
+      <PhoneNumber>8048286772</PhoneNumber>
+      <StreetAddress>P.O. Box 980568</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1795</Code>
+      <Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7908</Code>
+      <Text>Teaching &amp; Mstr Tchng Fellows</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

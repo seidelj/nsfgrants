@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>RAPID: Preserving Primate Data to Investigate the Relationship Between Skeletal Shape and Hybridization</AwardTitle>
     <AwardEffectiveDate>04/01/2016</AwardEffectiveDate>
-    <AwardExpirationDate>03/31/2017</AwardExpirationDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
     <AwardAmount>78192</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -35,12 +35,12 @@
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>Timothy</FirstName>
-      <LastName>Weaver</LastName>
-      <EmailAddress>tdweaver@ucdavis.edu</EmailAddress>
+      <FirstName>Sreetharan</FirstName>
+      <LastName>Kanthaswamy</LastName>
+      <EmailAddress>Sree.Kanthaswamy@asu.edu</EmailAddress>
       <StartDate>03/31/2016</StartDate>
       <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
       <FirstName>David</FirstName>
@@ -51,12 +51,12 @@
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>Sreetharan</FirstName>
-      <LastName>Kanthaswamy</LastName>
-      <EmailAddress>Sree.Kanthaswamy@asu.edu</EmailAddress>
+      <FirstName>Timothy</FirstName>
+      <LastName>Weaver</LastName>
+      <EmailAddress>tdweaver@ucdavis.edu</EmailAddress>
       <StartDate>03/31/2016</StartDate>
       <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
+      <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>University of California-Davis</Name>

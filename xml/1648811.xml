@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>STTR Phase I: Nondestructive high-resolution measurement of semiconductor carrier density</AwardTitle>
+    <AwardEffectiveDate>01/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>224543</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Debasis Majumdar</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Technology Transfer Phase I project will develop advanced tools for semiconductor metrology that are essential for high accuracy at finer resolution as progress continues to the finer lithography nodes. This progress is essential to satisfy the demand for greater performance in numerous consumer products as well as many other applications. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this project lies in a newly-discovered optoelectronic effect which will provide much finer resolution in measuring the local density of the charge carriers in semiconductors, and this new method shows promise for achieving sub-nanometer resolution. Roadmaps for the semiconductor industry call for finer resolution, and this project is responding to specific needs outlined therein.</AbstractNarration>
+    <MinAmdLetterDate>01/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648811</AwardID>
+    <Investigator>
+      <FirstName>Mark</FirstName>
+      <LastName>Hagmann</LastName>
+      <EmailAddress>mhagmann@newpathresearch.com</EmailAddress>
+      <StartDate>01/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>NewPath Research L.L.C.</Name>
+      <CityName>Salt Lake City</CityName>
+      <ZipCode>841153552</ZipCode>
+      <PhoneNumber>8015739853</PhoneNumber>
+      <StreetAddress>2880 S. Main Street, Suite 214</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Utah</StateName>
+      <StateCode>UT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1505</Code>
+      <Text>STTR PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1505</Code>
+      <Text>STTR PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8035</Code>
+      <Text>Hardware Devices</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

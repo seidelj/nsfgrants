@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Transmedia publishing platform and service system</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project will benefit news and broad media consumers, as well as the publishing and printing industries. The project augments print publications with digital interactive media content, both curated and created collaboratively by users. Media rich reading experience will enhance interest in reading and news media consumption. The data obtained during the project may lead to new approaches on engaging different audiences with news media consumption. The project?s commercial impact stems from extending the viability of print media communication industry by both improving reader retention and increasing circulation. A larger audience and the ability to closely target a market based on hard data increases revenue from advertising. Corporations and their advertising agencies will benefit by providing more relevant advertising to end users, delivering more impact per dollar spent.&lt;br/&gt;&lt;br/&gt;This I-Corps project uses Augmented Reality to integrate multiple information channels including both physical print and digital media. The digital media assets are hosted on a server and accessed by users through an adaptive interface that selectively displays controls based on the available content and user preferences. Scanned publication pages are classified using a machine learning algorithm trained on a document database and further identified using image matching to allow necessary efficiency and precision. The system collects usage data and interaction history to learn about reading habits and media interaction. These data are used for analytics and also as an input for the image matching workflow. The prototype was developed using iterative user-centered design and tested in experiments for preferred functionality and user experience.</AbstractNarration>
+    <MinAmdLetterDate>03/16/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/16/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1734605</AwardID>
+    <Investigator>
+      <FirstName>Andrea</FirstName>
+      <LastName>Hickerson</LastName>
+      <EmailAddress>aahgpt@rit.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Elena</FirstName>
+      <LastName>Fedorovskaya</LastName>
+      <EmailAddress>eafppr@rit.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Rochester Institute of Tech</Name>
+      <CityName>ROCHESTER</CityName>
+      <ZipCode>146235603</ZipCode>
+      <PhoneNumber>5854757987</PhoneNumber>
+      <StreetAddress>1 LOMB MEMORIAL DR</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

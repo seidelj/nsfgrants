@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Groups, Manifolds, and Complexes</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Timothy Hodges</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A question of considerable importance in science concerns the stability of solutions to equations that model systems of interest. A general form of the question asks: Given an approximate solution, is there necessarily also an exact solution that is close to the approximate solution? This question has been studied intensively in many directions, with answers depending on the specific system and the exact meaning of "approximate solution" and "close." The current research project develops such a theory for equations in sets of permutations. This case is of special interest for two reasons: Firstly, it can be interpreted as a "local testability" question, a subject of great interest in computer science. Namely, it is part of a series of problems of the following flavor: a very large string of letters is given, and one wants to check its properties by knowing only a few of the letters. A second reason is that it turns out that the question under study in this project is intimately related to some deep concepts in abstract algebra. It is thus a project of a very interdisciplinary nature, involving a blend of several areas of mathematics and computer science.&lt;br/&gt;&lt;br/&gt;In more detail, the project deals with property testing within group theory. Property testing is a direction of research in computer science that looks for methods to check a property of a given object, say a long vector of 0's and 1's, by looking only at a small number of random bits of it.  The following question is of this type. Given a word w(X,Y) built from elements X and Y of the symmetric group of permutations on a set T, assume that for two permutations A and B, w(A,B) leaves unchanged some randomly selected elements of T. Can it be inferred that w(A,B) is the identity, or at least, that A and B are close to a pair of permutations A' and B' for which w(A',B') is the identity? It turns out that the answer to this question depends only on the structure of the (usually infinite) group whose presentation by generators and relations is given by these words. This suggests a concept of testability (or stability) in group theory. The main objective of this project is to develop a set of tools to determine which groups are testable and which are not. The project will also explore connections with amenability, Kazhdan's Property (T), and sofic groups.</AbstractNarration>
+<MinAmdLetterDate>04/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700165</AwardID>
+<Investigator>
+<FirstName>Hee</FirstName>
+<LastName>Oh</LastName>
+<EmailAddress>hee.oh@yale.edu</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Lubotzky</LastName>
+<EmailAddress>alexander.lubotzky@yale.edu</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Yale University</Name>
+<CityName>New Haven</CityName>
+<ZipCode>065208327</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress>Office of Sponsored Projects</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Nanofluidic Charge Coupled Devices for Molecular Separation and Sensing</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>346680</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Molecular separation is at the heart of molecular diagnosis and analyzing molecular biomarkers in genomics and proteomics studies. Gel and capillary electrophoresis are two dominant molecule separation technologies based on charge/size dispersion. The research objective of this proposal is to explore a novel nanofluidic molecular charge-coupled device (CCD) suitable for integrated electro-fluidic molecular separation and sensing, fundamentally different from the conventional gel and capillary electrophoresis. The proposed nanofluidic molecular CCD is based on the unique field effect coupling in nanofluidic systems, in which new transport behavior and functionality can be developed by leveraging the unique electrostatic coupling at the nanometer. The success of the proposed project will transform the biomolecule sensing and separation by exploring the rich properties of the novel nanofluidic molecular CCD. The project also includes education and outreach activities to tightly integrate the research efforts and results with graduate, undergraduate, and K-12 education and to globally disseminate both research and the education outcomes.&lt;br/&gt;&lt;br/&gt;Molecule transport at nanometer scale plays an important role in many biological, chemical, physical and engineering systems. Nanoscale channels offer a unique platform to explore new phenomena appearing for molecule confined in nanometers scales. New transport behavior and functionalities can be developed by taking advantage of the specific couplings occurring at these scales. Despite the fact that CCD image sensors have been indispensable tools for a variety of applications in various scientific and engineering disciplines, a similar bucket brigade transport and analysis of charged biomolecules in nanochannels has not been explored and realized. The proposed research will explore the field effect controlled bucket brigade transport of charged molecules by rational design, simulation, fabrication, and validation of a novel nanofluidic molecule CCD device. The outcome of the research will enable a paradigm shift in controllable molecule transport and separation. The major challenges in realizing a CCD-like device for bucket brigade transport and analysis are the lack of fundamental understanding of the dynamic electric field coupling to the charged molecules at the nanoscale, and the lack of feasible top-down engineered fabrication methods to produce the metal-insulator-nanochannel (MIN) structure. The proposed research objectives will be achieved through the following three aims: (i) Understand the device physics of nanofluidic molecular CCD, (ii) Explore viable device fabrication and integration techniques, and (iii) Investigate nanofluidic molecular CCDs for biomolecule transport and separation.</AbstractNarration>
+<MinAmdLetterDate>05/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1710831</AwardID>
+<Investigator>
+<FirstName>Weihua</FirstName>
+<LastName>Guan</LastName>
+<EmailAddress>wzg111@psu.edu</EmailAddress>
+<StartDate>05/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>108E</Code>
+<Text>Bioelectronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

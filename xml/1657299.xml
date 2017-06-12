@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: SHF: Understanding The Role of Software Test Adequacy Criteria in Search-Based Test Generation</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2019</AwardExpirationDate>
+    <AwardAmount>173528</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computing and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sol J. Greenspan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Software testing ensures that software is robust and reliable. As testers cannot know what faults exist apriori, dozens of metrics---ranging from the measurement of structural coverage to the detection of synthetic faults---have been proposed to judge test case adequacy. In theory, if such metrics are fulfilled, tests should be adequate at detecting faults. To alleviate the high cost of testing, optimization algorithms can be used to automatically generate test suites. These adequacy metrics are well-suited for guiding automated test creation. However, there is no adequacy metric known to universally correspond to "effective fault detection.'' Testers are left with a bewildering number of testing options, and there is little guidance on when to use one criterion over another. These metrics are a solid starting point for test case generation. Many faults cannot be detected until the code has been executed. However, merely executing code does not ensure adequate testing. How code is executed is important. It is clear that testers do not yet understand which adequacy metrics actually correspond to a high probability of fault detection, or under what situations these metrics can be applied.&lt;br/&gt;&lt;br/&gt;Therefore, it is clear that improving automated test generation requires gaining a better understanding of the circumstances where particular metrics are effective, isolating the features of such metrics that correlate to fault detection in such circumstances, and establishing and evaluating guidelines for the use and combination of metrics - perhaps tied to particular system types or domains - that will result in real-world fault detection. Large-scale empirical investigations will be performed into the nature of the relationship between adequacy criteria and the probability of fault detection in order to understand the efficacy and applicability of the criteria that are used to guide test creation. This work will have broader impacts on industrial practices, software engineering education, and - through dissemination to and collaborations with industrial partners and regulatory agencies - public safety and security.</AbstractNarration>
+    <MinAmdLetterDate>01/25/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/25/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657299</AwardID>
+    <Investigator>
+      <FirstName>Gregory</FirstName>
+      <LastName>Gay</LastName>
+      <EmailAddress>ggay@cse.sc.edu</EmailAddress>
+      <StartDate>01/25/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of South Carolina at Columbia</Name>
+      <CityName>COLUMBIA</CityName>
+      <ZipCode>292080001</ZipCode>
+      <PhoneNumber>8037777093</PhoneNumber>
+      <StreetAddress>Sponsored Awards Management</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>South Carolina</StateName>
+      <StateCode>SC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7798</Code>
+      <Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7944</Code>
+      <Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

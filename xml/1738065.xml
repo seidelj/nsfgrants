@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: SC2: Intelligent spectrum collaboration via a dynamically reconfigurable radio architecture</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>99363</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Current engineering practices and regulatory approaches on the use of the radio frequency (RF) spectrum are too antiquated to meet the ever&lt;br/&gt;surging demand on the RF spectrum. A promising new solution to tackle this spectrum scarcity problem is to equip radio networks with artificial intelligence so that they can learn and predict the RF environment, as well as be social by interacting with other radio networks, leading to more collaborative use of the RF spectrum. This project will develop a software-defined radio system that can intelligently sense and adapt to others' use of the radio spectrum and collaborate with other radio networks in sharing the common RF spectrum. The developed system will be characterized by its flexibility to quickly and agile adaptability to changes in how others are using the RF spectrum. It will be also be characterized by how it uses machine-learning techniques to both extract the most relevant information about how the RF spectrum is being used and to adapt the communication strategies based on this information.&lt;br/&gt;&lt;br/&gt;A dynamically reconfigurable system architecture will be developed in this project to make most efficient use of all the available computational resources in order to support all radio and ML functionalities. This highly flexible software-defined structure takes advantage of the learned knowledge about the RF environment by adapting the physical and medium access control layers use of spectrum and coordinating this utilization through carefully designed network protocols. A machine learning system is developed to identify the key information about the evolution of the communication scenario, and autonomously learn the state of the model. Reinforcement learning will be used to generate appropriate adaptive communication strategies based on the system state.</AbstractNarration>
+    <MinAmdLetterDate>03/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1738065</AwardID>
+    <Investigator>
+      <FirstName>Tan</FirstName>
+      <LastName>Wong</LastName>
+      <EmailAddress>twong@ece.ufl.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Shea</LastName>
+      <EmailAddress>jshea@ece.ufl.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Florida</Name>
+      <CityName>GAINESVILLE</CityName>
+      <ZipCode>326112002</ZipCode>
+      <PhoneNumber>3523923516</PhoneNumber>
+      <StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

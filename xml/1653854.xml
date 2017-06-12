@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Promoting Engineering Innovation Through Increased Neurodiversity by Encouraging the Participation of Students with ADHD</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2021</AwardExpirationDate>
+    <AwardAmount>519967</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Elliot Douglas</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Challenges facing engineers are large-scale, complex, and multifaceted and their solutions require radical advancements. Therefore, there is a need to investigate and capitalize on the potential of nontraditional, divergent thinkers in order to promote radical technological breakthroughs. There is ample evidence that diversity in gender, sexual orientation, race, and ethnicity, improve productivity and creativity of teams. However, there is little awareness of the potential of neurodiversity to support creative, productive teams of engineers by diversifying the approaches, problem solving, and ways of thinking in the field. Too often, nontraditional thinkers struggle within the confines of traditional engineering education programs, while their unique potential to contribute to the field remains untapped. This CAREER project aims to promote neurodiversity by increasing the participation of students with Attention Deficit (Hyperactivity) Disorder (ADHD) in engineering fields. While the creative potential of individuals with ADHD is extensively supported by literature, they are extremely underrepresented in engineering programs. There is an urgent need to understand the challenges and potential of students with ADHD characteristics in engineering programs in order to promote cognitive diversity in the field. Generating knowledge that supports the significance of neurodiversity on creative productivity may lead to transforming engineering education and engineering practice. This project will inform and stimulate future research on neurodiversity, personalized education, and broadening participation. The outcomes of this project will hopefully be at the forefront of a paradigm shift in how neurodiverse individuals are perceived, by both society and education programs.&lt;br/&gt;&lt;br/&gt;The significance of this project is grounded in its commitment to broadening the participation of underrepresented students who have high potential, but currently face barriers to participation and retention in traditional engineering programs. A main goal of this CAREER project is to generate a foundational research base for transforming engineering education to include students with ADHD through the integration of research and education. The research objectives of this project are to determine: (1) the cognitive constructs related to ADHD characteristics that can predict creative potential, (2) the factors and features of educational systems that mediate or moderate the academic performance of engineering students with ADHD characteristics, and (3) the extent to which the engineering products of neurodiverse teams of students are more creative than the products of homogenous teams. These goals will be met though a mixed quantitative/qualitative research design. The integrated education objectives of the project focus on broadening the participation of students with ADHD in engineering. To accomplish this, the research team will: (1) design and provide a summer research program for high school students with ADHD to attract them to pursue engineering and disseminate it to other schools for scale-up, and (2) develop and implement an academic year program for undergraduate students with ADHD in engineering to improve their experience and provide encouragement to pursue graduate studies. The impact of this project will be broadened by disseminating the findings to the engineering education community and organizations providing accommodation to students with ADHD.</AbstractNarration>
+    <MinAmdLetterDate>11/30/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/30/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653854</AwardID>
+    <Investigator>
+      <FirstName>Arash</FirstName>
+      <LastName>Esmaili Zaghi</LastName>
+      <EmailAddress>zaghi@engr.uconn.edu</EmailAddress>
+      <StartDate>11/30/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Connecticut</Name>
+      <CityName>Storrs</CityName>
+      <ZipCode>062691133</ZipCode>
+      <PhoneNumber>8604863622</PhoneNumber>
+      <StreetAddress>438 Whitney Road Ext.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Connecticut</StateName>
+      <StateCode>CT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1340</Code>
+      <Text>ENGINEERING EDUCATION</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>110E</Code>
+      <Text>EDUCATION RESEARCH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1340</Code>
+      <Text>ENGINEERING EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

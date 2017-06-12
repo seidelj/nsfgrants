@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Growth of Supermassive Black Holes and Their Co-evolution with Galaxies since Cosmic Dawn</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>444651</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph E. Pesce</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Supermassive black holes (SMBH) are thought to be at the center of many, if not most, galaxies.  They can provide information about how galaxies and black holes (BHs) form, and provide a laboratory for testing fundamental physics. The work proposed here will enhance our knowledge of how SMBHs form and advance our understanding of the early Universe.  The research will measure the masses of BHs in distant quasars by studying the spectra of the objects.  The work will provide constraints on the physical properties of newly-formed SMBHs.  The results will aid researchers in interpreting data from upcoming facilities such as the James Webb Space Telescope (JWST).&lt;br/&gt;&lt;br/&gt;Through single-epoch spectroscopy, the investigators will use the technique of reverberation mapping to estimate BH mass in distant quasars.  They will significantly improve quasar BH mass estimation over a wider range of distances (hence, ages).  The statistics derived will help guide future investigations on early-stage BHs using JWST, 30-meter telescopes, and upcoming time-domain multi-object spectrograph projects.</AbstractNarration>
+<MinAmdLetterDate>05/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1715579</AwardID>
+<Investigator>
+<FirstName>Yue</FirstName>
+<LastName>Shen</LastName>
+<EmailAddress>shenyue@illinois.edu</EmailAddress>
+<StartDate>05/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

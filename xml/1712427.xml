@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Probabilistic Methods in Geometry and Analysis</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>210000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Stochastic processes such as Brownian motion appear in many fields of science and applications.  They are used to model complex systems in biology, financial markets, and social networks. In many cases the system has natural constraints which can be described as an underlying  geometric structure. This project is devoted to a study of such stochastic processes, and how their properties reflect their geometric or structural environment. Sometimes the space on which the stochastic processes live is assumed to be not just curved, but infinite-dimensional, which is a natural setting for many physical or large data environments. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project includes several directions combining probability, geometry, analysis and representation theory. One of the directions of research is to study Cameron-Martin type quasi-invariance in elliptic and subelliptic settings, and its applications to functional inequalities, smoothness of probability laws for subelliptic and singular diffusions, and unitary representations of infinite-dimensional groups such as path groups. Another direction is applying coupling techniques to hypoelliptic stochastic processes, including gradient estimates and connections with geometric and analytic techniques for hypoelliptic diffusions. Some of the proposed research is motivated by physics, especially the quantum field theory (QFT), as infinite-dimensional spaces such as loop groups and path spaces appear in the QFT.</AbstractNarration>
+<MinAmdLetterDate>04/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712427</AwardID>
+<Investigator>
+<FirstName>Maria</FirstName>
+<LastName>Gordina</LastName>
+<EmailAddress>maria.gordina@uconn.edu</EmailAddress>
+<StartDate>04/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>Storrs</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 Whitney Road Ext.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1263</Code>
+<Text>PROBABILITY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

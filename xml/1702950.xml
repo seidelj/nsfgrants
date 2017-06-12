@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>WiFiUS: IoCT-CARE: Internet of Cognitive Things for Personalized Healthcare</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>300000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Wenjing Lou</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Recent advances in Internet-of-Things (IoT) and cognitive computing promise new modalities for delivering and improving healthcare solutions, both for in-hospital and everyday settings. The ubiquitous computing nature of IoT enables continuous monitoring and management of all healthcare vitals. However, these real-time mission-critical IoT applications demand both a consistent Quality of Experience (QoE), as well as personalization for individual health care contexts. Additionally, there is a need for long-lasting battery-powered wireless sensors, reliable network connectivity, and cloud services. This project aims to solve these challenges via personalization and holistic coupling of the IoT infrastructure and the services provided to end users. The approach utilizes a novel self-aware cognitive architecture that delivers efficient and customized services by learning from end user behavior and adapting the IoT infrastructure to a person's current state, daily life routine, and environment. The project's exemplar application - efficient early detection of life-threatening signs - can potentially save lives through better quality of care, and timely delivery of critical/urgent health indicators. While the project will be validated in the healthcare domain, the project's framework and services are applicable to a broad range of other IoT application domains. The international collaborative nature of this project will enrich the learning experience of students and researchers by exposing them to the challenges of developing IoT services for delivering life-critical services in the healthcare domain.&lt;br/&gt;&lt;br/&gt;Quality of Experience (QoE) is a key metric for successful delivery of end-user services for IoT-enabled applications. Achieving consistent end-user QoE poses tremendous challenges in the face of resource constraints and dynamic variations at multiple scales of the IoT system stack: at the application, network, resource, and device levels. Personalization - through holistic coupling of both the IoT infrastructure, as well as end-user services - provides a key opportunity to manage and exploit these variations and deliver customized QoE under resource constraints. This proposal outlines a self-aware Internet of Cognitive Things (IoCT) architecture that leverages edge (i.e., Fog) computing architectures to introduce intelligence and adaptability in integrated multi-scale IoT systems. The objective is to efficiently manage information acquisition, communication and processing across different scales of the IoT systems, while synergistically coupling learning of end-user behaviors to deliver efficient and customized services. The compelling use case of personalized healthcare will be used as an exemplar for a large class of IoT-enabled applications that can exploit and benefit from personalization empowered by a multi-layered, self-aware IoCT architecture.</AbstractNarration>
+    <MinAmdLetterDate>04/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1702950</AwardID>
+    <Investigator>
+      <FirstName>Nikil</FirstName>
+      <LastName>Dutt</LastName>
+      <EmailAddress>dutt@uci.edu</EmailAddress>
+      <StartDate>04/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Marco</FirstName>
+      <LastName>Levorato</LastName>
+      <EmailAddress>levorato@uci.edu</EmailAddress>
+      <StartDate>04/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Irvine</Name>
+      <CityName>Irvine</CityName>
+      <ZipCode>926173213</ZipCode>
+      <PhoneNumber>9498247295</PhoneNumber>
+      <StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1714</Code>
+      <Text>SPECIAL PROJECTS - CISE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8229</Code>
+      <Text>WiFiUS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

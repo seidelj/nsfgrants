@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Travel Grants for 2017 N^2Women Workshop and Meetings</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>18000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Brassil</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project supports students at U.S. institutions to attend meetings of the Networking Networking Women (N^2Women) organization.  &lt;br/&gt;The purpose of the N^2 Women meetings and workshops is to foster connections among women in the communications and networking&lt;br/&gt;research fields. Each meeting will be co-located with a premier networking conference in 2017:&lt;br/&gt;IEEE INFOCOM 2017 in Atlanta, GA, ICCCN 2017 in Vancouver, Canada, and ACM SIGCOMM 2017 in Los Angeles, CA.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this activity resides in the contributions that the student participants will make to&lt;br/&gt;(1) the N^2Women meetings, (2) the premier co-located conferences, and (3) the future scientific progress of the student's research.&lt;br/&gt;Participant support funds will allow these graduate students to attend high-quality technical presentations,&lt;br/&gt;be exposed to state-of-the-art research, and interact with leading researchers and fellow graduate students.</AbstractNarration>
+<MinAmdLetterDate>04/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1742700</AwardID>
+<Investigator>
+<FirstName>Wenye</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>wwang@ncsu.edu</EmailAddress>
+<StartDate>04/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>RES IN NETWORKING TECH &amp; SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7363</Code>
+<Text>RES IN NETWORKING TECH &amp; SYS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

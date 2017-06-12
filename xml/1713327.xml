@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Optimizing the Performance of Perovskite-Silicon Tandem Solar Cells</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The objective of this work is to integrate next generation perovskite thin-film photovoltaics and commercially available silicon photovoltaics with a modified tunnel junction. This research will be conducted in collaboration with Dr. Udo Bach at Monash University in Melbourne, Australia. Bach's expertise with perovskite materials, specifically for transparent, tandem devices, will allow the PI to evolve the PV device enormously with this 8-week program. Low-cost, ubiquitous, environmentally sustainable solar cells with high efficiencies could transform the world in which we live. In addition to providing access to high-efficiency, sustainable energy devices, the award provides opportunities for the integration of research and education in technologies of societal significance.&lt;br/&gt; &lt;br/&gt;The synergy between the PI's knowledge and background on perovskite photovoltaics and the Bach Group's knowledge and expertise on tandem devices increases the likelihood that a high efficiency device will be developed in a timely manner. This work will continue after the East Asia and Pacific Summer Institutes program with the PI optimizing the tunnel junction with his thesis project, and the Bach group optimizing the transparent perovskite layer. The silicon component will be provided by Dr. Ajeet Rohatgi, CTO of Suniva®, Inc. Dr. Rohatgi has positioned Suniva as a U.S. leader in the research, development, and manufacturing of high-efficiency, low-cost crystalline silicon cells using unique technology that spawned from his work at the University Center of Excellence for Photovoltaic Research and Education. The advanced electrical interconnecting layer between the top and bottom subcells will be deposited in Georgia Tech?s Institute for Electronics and Nanotechnology Cleanroom. Followed by the perovskite photovoltaic component, which will be fabricated using techniques developed by the Bach Group. The use of theoretical models to predict optimized efficiencies for various device architectures and materials to attain even higher overall efficiencies is currently underway. &lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the Australian Academy of Science.</AbstractNarration>
+<MinAmdLetterDate>05/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713327</AwardID>
+<Investigator>
+<FirstName>Giovanni</FirstName>
+<LastName>DeLuca</LastName>
+<EmailAddress/>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>DeLuca                  Giovanni</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303185339</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5912</Code>
+<Text>AUSTRALIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

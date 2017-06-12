@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research in Economics: Urban Transit Infrastructure and the Growth of Cities</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>18240</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Seung-Hyun Hong</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project investigates how the provision of urban transportation infrastructure affect growth within cities and property values. Quantifying the effect of transportation projects on city growth and property values has proven difficult for at least two reasons. First, transportation infrastructure may produce growth and a rise in property values, but the latter may also lead to transportation projects. Second, some of the largest and most interesting transportation projects were undertaken long before the advent of computers, so that the associated data has been locked up in disparate paper records. To address these issues, the investigator exploits a unique historical setting in the introduction of the mass-public transit infrastructure in New York City, and further creates novel datasets that have not existed in machine-readable form. These new datasets provide a very high level of geographic resolution and enable the study of spatial economic interactions at a similarly high level of resolution within the city. This extensive database helps shed light on the evolution of spatial development in the city as transportation infrastructure is developed. &lt;br/&gt;&lt;br/&gt;This project develops a structural model describing the expansion of the transit network and associated reorganization of economic activities within the city. To achieve this goal, the investigator (1) constructs an integrated spatial framework that explicitly models the impact of transit shocks on location choices of households and firms; (2) digitizes and creates a novel dataset of the late nineteenth and twentieth century New York City and its surrounding areas; (3) takes the data to the model and applies the framework to measure the impact of urban transit infrastructure; (4) develops an identification strategy that allows the estimated impacts to have a causal interpretation. This project provides an integrated framework that can be applicable to many fields where spatial linkages are present, contributing to integrate the fields of trade, economic geography, and urban economics in a unified framework. Results and tools developed from this proposal can be readily incorporated to other circumstances, enabling more theoretically-grounded empirical analyses. Using this structural estimation approach, researchers can conduct both retrospective and prospective policy analysis. Finally, the database created from this project can allow researchers to investigate complex general equilibrium effects in the presence of multiple spatial linkages.</AbstractNarration>
+    <MinAmdLetterDate>01/26/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/26/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658827</AwardID>
+    <Investigator>
+      <FirstName>Sun Kyoung</FirstName>
+      <LastName>Lee</LastName>
+      <EmailAddress>sun.lee@columbia.edu</EmailAddress>
+      <StartDate>01/26/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Donald</FirstName>
+      <LastName>Davis</LastName>
+      <EmailAddress>drd28@columbia.edu</EmailAddress>
+      <StartDate>01/26/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Columbia University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100276902</ZipCode>
+      <PhoneNumber>2128546851</PhoneNumber>
+      <StreetAddress>2960 Broadway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1320</Code>
+      <Text>ECONOMICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1320</Code>
+      <Text>ECONOMICS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

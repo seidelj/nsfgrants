@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RET Site:  SECURE:  Secure Teacher Education on Cybersecurity by Utilizing Research Experiences</AwardTitle>
+<AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harriet G. Taylor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award establishes a new Research Experiences for Teachers (RET) Site focused on cybersecurity research at Texas A&amp;M University. Cohorts of high school teachers and community college faculty in the areas of Science, Technology, Engineering, and Mathematics (STEM) will participate in summer research projects with Texas A&amp;M faculty mentors who are actively involved in leading-edge research on cybersecurity.  The participating teachers will translate their research experiences and knowledge into classroom practice by developing instructional modules and course materials that they will introduce in their classrooms and share with others. These activities all contribute to the formation of a community of practice between Texas A&amp;M faculty and local educators that has the potential to significantly enhance and improve STEM education in the school districts around the university.&lt;br/&gt;&lt;br/&gt;RET participants will attend a 6-week summer institute to participate in cutting-edge research projects with mentoring from computer science faculty who lead cybersecurity research programs. The RET Site research topics focus on software, network security, cryptography, and malware. These are all topics that are of current interest and important to our nation. The RET Site project will provide a platform for the participating teachers to develop effect practical problem-based instructional materials and laboratory modules that they will share with teachers in their school districts as well as teachers from across the state of Texas. The excitement of learning about cybersecurity can inspire the K-12 and community college students to pursue further computing education and related careers.  The SECURE program will strengthen ongoing partnerships between Texas A&amp;M University and the surrounding schools and lay the foundation for quality computing education in the schools and provide for the future computing workforce needs of the community.</AbstractNarration>
+<MinAmdLetterDate>04/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1711919</AwardID>
+<Investigator>
+<FirstName>Valerie</FirstName>
+<LastName>Taylor</LastName>
+<EmailAddress>taylor@cs.tamu.edu</EmailAddress>
+<StartDate>04/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shelly</FirstName>
+<LastName>Tornquist</LastName>
+<EmailAddress>stornquist@tamu.edu</EmailAddress>
+<StartDate>04/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454645</ZipCode>
+<PhoneNumber>9798477635</PhoneNumber>
+<StreetAddress>TEES State Headquarters Bldg.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1359</Code>
+<Text>RES EXP FOR TEACHERS(RET)-SITE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1359</Code>
+<Text>RES EXP FOR TEACHERS(RET)-SITE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

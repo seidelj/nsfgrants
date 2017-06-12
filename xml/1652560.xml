@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  Quantifying Noisy Quantum Resources</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardAmount>210705</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Maslov</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>While quantum mechanics was originally developed to describe the realm of the very small, it has become increasingly clear over the past decades that quantum theory is at bottom a theory of information. This realization opens the door for a more complete understanding of both quantum theory and information theory.  Asking how to best store, transmit, and process information allows the identification of key features of quantum theory and enables the identification of the fundamental limits applying to all information technologies.&lt;br/&gt;&lt;br/&gt;This project aims to identify, quantify, and ultimately understand the fundamental resources in quantum information theory.  It studies optimal interconversion rates of noisy resources, such as quantum communication links and noisy quantum states. Understanding how such noisy resources can be combined to generate quantum synergies is a key challenge to be tackled, as is identifying potential application of such synergies.  Just as crucially, determining when such synergies (aka non-additivities) are ruled out is a key challenge to be tackled: This project seeks to determine which resources are additive, and how they can be quantified.  Finally, the project seeks to use techniques developed to address additivity and non-additivity to build bridges between quantum information theory and computational complexity theory.&lt;br/&gt;&lt;br/&gt;The research will be carried out by the PI together with a graduate student, who will learn methods and ideas from physics, information theory, theoretical computer science, and mathematics.</AbstractNarration>
+<MinAmdLetterDate>06/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1652560</AwardID>
+<Investigator>
+<FirstName>Graeme</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>gsbsmith@gmail.com</EmailAddress>
+<StartDate>06/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7281</Code>
+<Text>QIS - Quantum Information Scie</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7928</Code>
+<Text>QUANTUM COMPUTING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7928</Code>
+<Text>QUANTUM COMPUTING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Large Facilities Cyberinfrastructure Workshop</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>65118</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NSF large facilities are major science and engineering research platforms that serve whole research communities. Cyberinfrastructure (CI) comprises advanced computing, data and software infrastructure, networking, related cybersecurity, and related training and workforce development -- all also designed to broadly serve the research community. NSF facilities are increasingly depending on CI -- including that within a facility as well as existing CI resources and capabilities located outside the facility. This award supports the conduct of a National Science Foundation Large Facilities Cyberinfrastructure Workshop in Alexandria, Virginia on September 6 and 7, 2017. The workshop has the overall goal of enabling direct and synergistic interactions among the NSF large facilities community and the cyberinfrastructure (CI) community to jointly address the CI needs and sustainability of existing and future large facilities.  &lt;br/&gt;&lt;br/&gt;Objectives of the workshop include developing a common understanding of current and evolving large facilities CI architectures, design and operational practices, issues and gaps; and identifying common CI requirements, solutions and opportunities for interoperability and sharing elements across facilities. Desired outcomes include disseminating practices that can aid future large facilities in developing and sustaining CI; enabling CI developers to most effectively target facility needs; exploring means for continuing and sustaining the community conversation and activities initiated at the workshop; and generating input that can inform future NSF planning for CI-related programs.  The report from the workshop will be publically posted, and this activity is anticipated to have broad impacts in advancing the needs of large scale science and engineering research.</AbstractNarration>
+<MinAmdLetterDate>05/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1742969</AwardID>
+<Investigator>
+<FirstName>Manish</FirstName>
+<LastName>Parashar</LastName>
+<EmailAddress>parashar@rutgers.edu</EmailAddress>
+<StartDate>05/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>Piscataway</CityName>
+<ZipCode>088543925</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>33 Knightsbridge Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7684</Code>
+<Text>CESER-Cyberinfrastructure for</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

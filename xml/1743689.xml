@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Travel Support for the FMCAD Student Forum 2017;Vienna, Austria; October, 2017</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal supports student travel to attend the 2017 Formal Methods in Computer Aided Design (FMCAD) to be held in Vienna, Austria in October 2017. FMCAD 2017 is one of the leading conferences on theory and applications of formal methods in hardware and system verification. It provides a forum to researchers in academia and industry for presenting ground-breaking methods, technologies, theoretical results, and tools for reasoning formally about computing systems. This travel grant will enable career development and learning opportunities for US-based and/or US citizen graduate students. Attending conferences is an important component of graduate school education for our society's future computer security researchers. Students have the opportunity to discuss leading edge research with world-class computer security researchers, and establish networks, connections, and mentoring relationships that will serve them well during their research careers.</AbstractNarration>
+<MinAmdLetterDate>05/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743689</AwardID>
+<Investigator>
+<FirstName>Warren</FirstName>
+<LastName>Hunt, Jr.</LastName>
+<EmailAddress>hunt@cs.utexas.edu</EmailAddress>
+<StartDate>05/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787121532</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>101 E. 27th Street, Suite 5.300</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+</Award>
+</rootTag>

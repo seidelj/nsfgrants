@@ -27,14 +27,6 @@
     <ARRAAmount/>
     <AwardID>1601644</AwardID>
     <Investigator>
-      <FirstName>Rajesh</FirstName>
-      <LastName>Rajamani</LastName>
-      <EmailAddress>rajamani@me.umn.edu</EmailAddress>
-      <StartDate>04/06/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Zongxuan</FirstName>
       <LastName>Sun</LastName>
       <EmailAddress>zsun@umn.edu</EmailAddress>
@@ -49,6 +41,14 @@
       <StartDate>04/06/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Rajesh</FirstName>
+      <LastName>Rajamani</LastName>
+      <EmailAddress>rajamani@me.umn.edu</EmailAddress>
+      <StartDate>04/06/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>University of Minnesota-Twin Cities</Name>

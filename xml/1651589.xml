@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Magnetic Resonance Imaging thermometry using ferromagnetic particles</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2018</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is a high efficiency, affordable and aesthetically pleasing solar product. Not only would this product make solar energy more affordable, it might also accelerate the migration to renewable energy. The proposed solar product could be integrated into residential roofing or perhaps another building integrated solution. The ultimate aim is to provide a solar solution that has the utility of ordinary solar panels but is lower cost and has improved aesthetic. Potential applications for lower cost, lighter, solar panels will be explored. Also, solar shingles and other building integrated solutions will be investigated.&lt;br/&gt;&lt;br/&gt;This I-corps project aims at realizing high efficiency and affordable solar by fabricating hybrid solar devices using a simple and low cost surface treatment for the silicon light absorber with a low cost polymer coating to complete the cell. Initial modeling suggests that high power efficiencies are attainable with this device structure. A fundamental innovation is the development of a unique carrier selective contact that can be fabricated at low temperatures with simple, earth-abundant technology. In addition to its advantage of simple processing and high efficiency, other advantages include the use of lower cost silicon substrates, and low-cost local manufacture without toxic by-products. Because of the simplicity of the fabrication, including module fabrication, this technology can be rapidly scaled. Because modules made using this technology will also be substantially lighter in weight than conventional modules, they may also provide another market opportunity by substantially reducing the installation costs.</AbstractNarration>
+    <MinAmdLetterDate>11/18/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/18/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651589</AwardID>
+    <Investigator>
+      <FirstName>Zbigniew</FirstName>
+      <LastName>Celinski</LastName>
+      <EmailAddress>zcelinsk@mail.uccs.edu</EmailAddress>
+      <StartDate>11/18/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Janusz</FirstName>
+      <LastName>Hankiewicz</LastName>
+      <EmailAddress>jhankiew@uccs.edu</EmailAddress>
+      <StartDate>11/18/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Colorado at Colorado Springs</Name>
+      <CityName>Colorado Springs</CityName>
+      <ZipCode>809183733</ZipCode>
+      <PhoneNumber>7192553153</PhoneNumber>
+      <StreetAddress>1420, Austin Bluffs Parkway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

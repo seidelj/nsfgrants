@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Data Science of Risk and Human Activity</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>287377</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rahul Shah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Research Experiences for Undergraduates (REU) program at Indiana University Purdue University Indianapolis (IUPUI) will provide eight undergraduate students from across the United States with the opportunity to conduct research on the data science of human activity.  The students will spend ten weeks during the summer working with IUPUI faculty on projects related to predictive modeling and estimation of risk with applications to crime, conflict, political instability and daily routine activity.  The students will also attend a data science bootcamp as part of the program that will provide training in the foundations of data science (statistics, machine learning, and software development).  Data science is a rapidly growing field due to increases in the volume and variety of data being generated.  Graduates with skill sets at the intersection of mathematics, statistics, computing, data analysis, and data modeling are in high demand, both in industry and academia.  The REU site will increase undergraduate student awareness, preparation, and interest in pursuing graduate degrees in STEM fields where data science is becoming a larger focus.  Students choosing to pursue a career in industry upon graduation will also be better prepared to meet the data challenges of the increasing number of companies where data science is a high priority. &lt;br/&gt;  &lt;br/&gt;The REU projects address new challenges in the data science of risk and human activity.  Students working in problem area 1 will focus on learning to rank problems for space-time crime prediction.  Machine learning models for ranking crime hotspots according to risk will be developed that will be tailored to ranking based loss functions that arise in criminology.  The second project will focus on classifying types of activity from mobile sensor time series.  The students will compare existing techniques to deep learning algorithms employing architectures developed specifically for 3d data from the accelerometer and gyroscope.  The third area of research will focus on point process models of heterogeneous grievance data.  In particular, students will develop spatio-temporal models for conflict data in Sub-Saharan Africa coupled with geolocated, relevant Tweets from the same time period.</AbstractNarration>
+<MinAmdLetterDate>03/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1659488</AwardID>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Mohler</LastName>
+<EmailAddress>georgemohler@gmail.com</EmailAddress>
+<StartDate>03/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

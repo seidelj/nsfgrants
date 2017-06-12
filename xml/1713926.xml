@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Do Symbiodinium Exhibit Species-specific Responses to Iron Availability?</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The mutualistic symbiosis between reef-building corals and their photosynthetic symbionts in the genus Symbiodinium form the basis of many shallow water tropical marine ecosystems. Episodes of severe ocean warming linked to climate change has driven largescale declines of coral populations in many tropical and subtropical regions. While many symbioses are susceptible to heat stress, various species and colonies appear unaffected visually, spurring many investigations into learning the underlying biological attributes that explain this resistance. The persistence and growth of Symbiodinium and host coral requires trace metals which are essential to vital processes such as photosynthesis and nitrogen assimilation. Previous studies have shown that the availability of trace metals, most notably iron, influences marine phytoplankton growth and assists in stress responses. The possibility that trace metal availability affects resistance to thermal stress in symbiotic corals is currently unexplored. The host scientist, Dr. Tung-Yuan Ho (Academia Sinica, Taiwan) recently described the trace metal requirements for growth by Symbiodinium kawagutii finding that increased iron availability was positively correlated with algal growth. To build upon this study, this project will expand upon this study by evaluating iron requirements among distantly and closely-related species of Symbiodinium and capitalize upon my access to Dr. Ho's trace metal clean laboratory. Knowledge of iron requirements for a diversity of Symbiodinium species (in culture) will lay the foundation for future investigation on whether the availability and subsequent acquisition of iron affects corals in symbiosis during periods of thermal stress.&lt;br/&gt;&lt;br/&gt;During this experiment, ten species of Symbiodinium will be grown in ambient conditions and exposed to various trace iron concentrations. Growth rates will be quantified and compared using cell density. To determine the iron requirement of Symbiodinium spp., cellular iron levels will be quantified using elemental analysis at multiple points during the growth experiment. Examining how trace iron availability alters the growth kinetics of numerous Symbiodinium species will determine whether iron requirements follow phylogenetic patterns and are unique in hot- and cold-water adapted Symbiodinium spp.&lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the Ministry of Science and Technology of Taiwan.</AbstractNarration>
+<MinAmdLetterDate>05/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713926</AwardID>
+<Investigator>
+<FirstName>Hannah</FirstName>
+<LastName>Reich</LastName>
+<EmailAddress/>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Reich                   Hannah         G</Name>
+<CityName>Matunuck</CityName>
+<ZipCode>028796621</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5924</Code>
+<Text>TAIWAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

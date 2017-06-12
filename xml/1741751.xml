@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Nanomaterial-Enhanced Lithium Ion Batteries</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is focused on assessing and meeting the demand for a domestic source of high efficiency lithium ion batteries for custom electronic applications. The project investigates the commercialization potential of nanomaterial-enhanced high-performance lithium ion batteries for such applications as small satellites, remote sensing devices, and unmanned vehicle applications, where performance is paramount.  The desired use of these specific applications is often severely limited by the mass or volumetric energy density of commercial-of-the-shelf batteries.  Providing a rechargeable battery with improved energy density would enable longer missions, expanded sensing capability, and a larger communication range in these applications, and presumably a host of other portable electronic systems. An initial focus of the investigation with be within the U.S. defense and intelligence communities, whose use of such technologies has expanded dramatically over the past several years.  Successful commercialization of these batteries will provide the U.S. with improved protection and monitoring systems.&lt;br/&gt;&lt;br/&gt;This I-Corps project exploits the use of nanomaterials to enhance the performance of conventional lithium ion batteries. The project further develops energy dense lithium ion battery electrodes through the combination of carbon nanotubes (CNTs), high capacity active materials, and high areal capacity loadings.  This combination increases the relative mass of active to inactive materials that can store lithium in the cell, thus increasing its energy density.  In addition, the technology offers ancillary improvements in cycle life and suppression of the fading that occurs with increased charge/discharge rates.  This performance relies on the incorporation of CNTs as a conductive additive at a lower weight loading than conventional carbons, like carbon black and graphite, enabling improved mechanical properties and a more effective means of providing electrical percolation. The use of CNTs additives enables thicker electrodes, with more active material by volume, and a more efficient use of the active materials.</AbstractNarration>
+<MinAmdLetterDate>05/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741751</AwardID>
+<Investigator>
+<FirstName>Ryne</FirstName>
+<LastName>Raffaelle</LastName>
+<EmailAddress>rprsps@rit.edu</EmailAddress>
+<StartDate>05/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rochester Institute of Tech</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress>1 LOMB MEMORIAL DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

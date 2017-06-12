@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Measurement, Analysis, and Novel Applications of Blockchains</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2022</AwardExpirationDate>
+    <AwardAmount>121571</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sara Kiesler</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This research seeks to develop the science of blockchains. A blockchain is a distributed append-only database containing cryptographically linked records. The technology is the basis of cryptocurrencies (e.g., bitcoin). Principled methods for analyzing blockchain data will be developed in order to answer key questions about the economics, security, privacy, and anonymity of cryptocurrencies. The project envisions blockchains as the pillar of a new breed of decentralized applications and Internet security mechanisms. The project will develop a new open-source blockchain analysis tool, BlockSci, and use it to answer research questions including: How should we model cryptocurrency participants? How well do decentralized markets work, and how do they fail? How private are cryptocurrencies in practice? Can blockchains serve as the foundation for a secure, decentralized Internet? The research outputs of the project will be integrated into Princeton's Massive Online Open Course on cryptocurrencies, student projects, and a new course on the economics of security. The project will inform the cryptocurrency industry and developer community through conferences and release of open-source software.&lt;br/&gt;&lt;br/&gt;This project will combine computer science research on cryptocurrencies with cutting-edge techniques from game theory and mechanism design. The project could validate the applicability of powerful machine learning methods, including spectral graph analysis, to the rich data in blockchains. The system design and deployment component will contribute to important ongoing debates on the different approaches to scaling of big data analytics techniques. The PI will continue his engagement with policy makers and regulators to ensure that government agencies are informed by the results of this project.</AbstractNarration>
+    <MinAmdLetterDate>02/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651938</AwardID>
+    <Investigator>
+      <FirstName>Arvind</FirstName>
+      <LastName>Narayanan</LastName>
+      <EmailAddress>arvindn@princeton.edu</EmailAddress>
+      <StartDate>02/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Princeton University</Name>
+      <CityName>Princeton</CityName>
+      <ZipCode>085442020</ZipCode>
+      <PhoneNumber>6092583090</PhoneNumber>
+      <StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8060</Code>
+      <Text>Secure &amp;Trustworthy Cyberspace</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>025Z</Code>
+      <Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7434</Code>
+      <Text>CNCI</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

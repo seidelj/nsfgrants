@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1601524</AwardID>
     <Investigator>
-      <FirstName>John</FirstName>
-      <LastName>Kominoski</LastName>
-      <EmailAddress>jkominos@fiu.edu</EmailAddress>
-      <StartDate>03/28/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Sean</FirstName>
       <LastName>Charles</LastName>
       <EmailAddress>schar056@fiu.edu</EmailAddress>
       <StartDate>03/28/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Kominoski</LastName>
+      <EmailAddress>jkominos@fiu.edu</EmailAddress>
+      <StartDate>03/28/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Florida International University</Name>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A Paleoclimatic Examination of Tropical Cyclone-Related Precipitation Variability and Atmospheric-Oceanic Controls Inferred from Longleaf Pine in the Coastal Carolinas</AwardTitle>
+<AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>118417</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas J. Baerwald</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will analyze the variability of rainfall resulting from tropical cyclones, such as tropical storms and hurricanes, that impacted the coastal regions of North Carolina and South Carolina during the last 300 years.  Because an accurate instrumental record of precipitation from tropical cyclones along the southeastern Atlantic Coast exists only from about 1950 to the present, the new approach refined through the conduct of this project will expand the understanding of the long-term variability of tropical cyclone precipitation and tropical cyclone frequency.  Preliminary research has indicated that longer periods of minimal tropical cyclone precipitation exceeded previously identified recurrence intervals, thereby indicating that the variability in tropical cyclone precipitation is greater than has been experienced recently.  Although this project focuses on several sites in the coastal Carolinas, the proxy record contained in tree-rings of longleaf pine trees that occur throughout the range of land-falling tropical cyclones from Texas to North Carolina offers a viable means to expand basic understanding of the long-term variability of tropical cyclones and their precipitation along the far southeast Atlantic and Gulf coasts.  Project findings and methods will have value for linking paleoclimates with current conditions with observed increases in both flooding and drought events.  Project findings will be shared with governmental agencies and other groups.  An enhanced understanding of variability in total precipitation volume from tropical cyclones will assist planners and management personnel engaged in flood- and drought-mitigation projects.  In addition to providing education and training opportunities for graduate and undergraduate students, high school seniors engaged in North Carolina's Summer Ventures in Science and Mathematics program will have opportunities to learn about the project.&lt;br/&gt;&lt;br/&gt;Tropical cyclone precipitation is critical to groundwater recharge.  It can abruptly end droughts, and it serves an important ecological role.  Tropical cyclone precipitation also causes inland flooding resulting in multiple fatalities, widespread power outages, and billions of dollars in damages.  The investigators engaged in this project will develop a method to determine variations in tropical cyclone precipitation for multiple centuries.  The pattern of longleaf pine tree growth will be determined using a method called cross-dating, and the annual latewood ring width, which develops during tropical cyclone season, will be measured and statistically matched with the instrumental climate record of tropical cyclone precipitation.  The investigators will extend the record of tropical cyclone precipitation more than 200 years beyond that available using the instrumental record.  They will document long-term spatio-temporal variability of tropical cyclone precipitation, and they will examine the bivariate sensitivity of tropical cyclone precipitation to modes of climate variability, such as the North Atlantic Oscillation and Atlantic Multidecadal Oscillation.  They also will determine the potential suite of interactive and multivariate influences of these large-scale atmospheric modes on tropical cyclone precipitation. Tree-ring data will be collected non-destructively from live trees and from remnant stumps.  Using statistical regression, mathematical models will reconstruct the historical volume of tropical cyclone precipitation.  Multi-century patterns of tropical cyclone precipitation will be examined for trends, periodicities, and regime shifts using regression-based and wavelet analysis techniques.</AbstractNarration>
+<MinAmdLetterDate>03/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1660432</AwardID>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Maxwell</LastName>
+<EmailAddress>maxweljt@indiana.edu</EmailAddress>
+<StartDate>03/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Knapp</LastName>
+<EmailAddress>paknapp@uncg.edu</EmailAddress>
+<StartDate>03/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Soule</LastName>
+<EmailAddress>soulept@appstate.edu</EmailAddress>
+<StartDate>03/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina Greensboro</Name>
+<CityName>GREENSBORO</CityName>
+<ZipCode>274125013</ZipCode>
+<PhoneNumber>3363345878</PhoneNumber>
+<StreetAddress>1111 Spring Garden Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1304</Code>
+<Text>EARTH SYSTEM HISTORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1325</Code>
+<Text>WATER &amp; ENERGY: ATMO, VEG, EARTH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9196</Code>
+<Text>NATURAL DISASTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

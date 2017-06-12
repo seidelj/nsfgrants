@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Quick Detection for Streaming Data Over Dynamic Networks</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>176353</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computing and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>John Cozzens</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Streaming data over networks have become ubiquitous in today?s world. A fundamental question is how to detect change-points (over time and space) from network streaming data as quickly as possible. This arises from a wide range of applications including geophysical exploration, social network surveillance, power network monitoring, multi-sensor systems for smart cities, as well as cyber security. Currently, not much is known about how to model these data, how to design an algorithm through a rigorous theoretical framework, how to implement algorithms efficiently online, and how fast we can detect the change with false alarms under control. The proposed research will address these fundamental theoretical and algorithmic questions. The efforts will lead not only to novel technological advances but also help with a much wider interdisciplinary audience in related fields.&lt;br/&gt;&lt;br/&gt;The overarching research objective of this project is to develop a modeling and algorithmic framework with theoretical performance guarantees for sequential change-point detection over networks. This bridges the fundamental gap between the statistical and computational approaches. Regarding modeling, the proposed work aims to capture complex dependence of network streaming data and exploit the structure of changes in the network setting. Regarding algorithm design, the goals include efficient online implementation, scalability to high dimensionality, and adaptiveness to data dynamics. Regarding theory, the goals are to establish optimality and to characterize the fundamental performance tradeoff between false alarms and detection delay. The proposed research will build on recent progress in modeling complex network data such as network point processes and correlation networks, algorithmic development such as sequential optimization, sketching, community detection, and subspace tracking, as well as theoretical advances in studying tail probabilities and extremal value theory.</AbstractNarration>
+    <MinAmdLetterDate>02/09/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/09/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650913</AwardID>
+    <Investigator>
+      <FirstName>Yao</FirstName>
+      <LastName>Xie</LastName>
+      <EmailAddress>yao.xie@isye.gatech.edu</EmailAddress>
+      <StartDate>02/09/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Georgia Tech Research Corporation</Name>
+      <CityName>Atlanta</CityName>
+      <ZipCode>303320420</ZipCode>
+      <PhoneNumber>4048944819</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7797</Code>
+      <Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7936</Code>
+      <Text>SIGNAL PROCESSING</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

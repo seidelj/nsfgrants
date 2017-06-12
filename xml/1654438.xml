@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER:Deformation Mechanism in Concentrated Alloys from Multiscale Simulations</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2022</AwardExpirationDate>
+    <AwardAmount>192590</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03070000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Materials Research</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Diana Farkas</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>NON-TECHNICAL ABSTRACT&lt;br/&gt;&lt;br/&gt;The next generation of structural alloys for energy and transportation systems (i.e. electrical power plants, automobiles, space and naval related applications) will require new materials capable of functioning reliably and as intended under harsh operating conditions. Concentrated alloys have a number of desirable characteristics that would lead to more efficient and safer systems. However, a limited understanding of the deformation mechanisms of these materials constrains their use and broader application. This proposed research will reveal the underlying mechanisms that imbue concentrated alloys with desirable characteristics; generate a mechanism map of the impact of composition, temperature, and strain rates on material deformation; and develop a computational methodology to study and evaluate concentrated alloys. Successful completion of these objectives will empower materials engineers to design superior alloys for future needs. This research will form the basis for new project-based learning curricula targeting high school students to provide real-world experience with metallurgy and stimulate interest in materials science careers. Undergraduate students from underrepresented groups will be actively engaged in this research to promote and provide preparation for graduate school or industry, and the computational models will be incorporated into a graduate course to train the next generation of interdisciplinary computational materials scientists. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL ABSTRACT&lt;br/&gt;&lt;br/&gt;This CAREER award supports a research project to understand dislocation properties in concentrated alloys, a set of alloys with alloying element concentrations that are substantially larger than the dilute limit. This research effort is driven by the hypothesis that compositional effects may substantially modify dislocation properties and corresponding mechanical response. The researchers will use multiscale simulations and modelling techniques, including first principles calculations, molecular dynamics, and self-evolving atomistic kinetic Monte Carlo simulations (SEAKMC). This SEAKMC methodology will enable direct comparison with some of the experiments and allow simulating physical processes or phenomena with atomistic fidelity but on a much longer time scale, which can be employed to address many critical issues in materials science and physics. The fundamental understanding and insights provided by this project contribute to development of new strategies to strengthen and toughen materials as well as to lay a foundation for new theories and principles that can guide alloy design for various fields such as energy-related applications.</AbstractNarration>
+    <MinAmdLetterDate>01/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1654438</AwardID>
+    <Investigator>
+      <FirstName>Haixuan</FirstName>
+      <LastName>Xu</LastName>
+      <EmailAddress>xhx@utk.edu</EmailAddress>
+      <StartDate>01/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Tennessee Knoxville</Name>
+      <CityName>KNOXVILLE</CityName>
+      <ZipCode>379960003</ZipCode>
+      <PhoneNumber>8659743466</PhoneNumber>
+      <StreetAddress>1 CIRCLE PARK</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Tennessee</StateName>
+      <StateCode>TN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1765</Code>
+      <Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1771</Code>
+      <Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7433</Code>
+      <Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8084</Code>
+      <Text>CDS&amp;E</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

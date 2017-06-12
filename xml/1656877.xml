@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: SHF: Toward Sustainable Software for Science - Implementing and Assessing Systematic Testing Approaches for Scientific Software</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>157006</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computing and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sol J. Greenspan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Scientific software is widely used in science and engineering. In&lt;br/&gt;addition, results obtained from scientific software are used as evidence in&lt;br/&gt;research publications. Despite the critical usage of such software, many&lt;br/&gt;studies have pointed out a lack of systematic testing of scientific software.&lt;br/&gt;As a result, subtle program errors can remain undetected. There are numerous&lt;br/&gt;reports of subtle faults in scientific software causing losses of billions of&lt;br/&gt;dollars and the withdrawal of scientific publications. This research aims to develop&lt;br/&gt;automated techniques for test oracle creation, test case selection, and develop&lt;br/&gt;methods for test oracle prioritization targeting scientific software. The intellectual&lt;br/&gt;merits of this research are the following: (1) It advances the understanding of&lt;br/&gt;the scientific software development process and investigates methods to&lt;br/&gt;incorporate systematic software testing activities into scientific software&lt;br/&gt;development without interfering with the scientific inquiry, (2) It forges new&lt;br/&gt;approaches to develop automated test oracles for programs that produce complex&lt;br/&gt;outputs and for programs that produce outputs that are previously unknown, (3)&lt;br/&gt;It develops new metrics to measure the effectiveness of partial test oracles&lt;br/&gt;and uses them for test oracle prioritization, (4) It extends the boundaries of&lt;br/&gt;current test case selection to effectively work with partial or approximate&lt;br/&gt;test oracles. The project's broader significance and importance are (1)&lt;br/&gt;produces a publicly available, easy to use testing tool that can be incorporated&lt;br/&gt;into the scientific software development culture such that the testing&lt;br/&gt;activities will not interfere with ?doing science,? (2) recruits Native Americans&lt;br/&gt;and women into computer science research, (3) develops a new higher level&lt;br/&gt;undergraduate course titled ?Software development methods for Scientists?&lt;br/&gt;targeting senior level undergraduate students in non-CS disciplines.&lt;br/&gt;&lt;br/&gt;This project develops METtester: an automated testing framework that can effectively&lt;br/&gt;test scientific software. This testing framework analyzes the source code of&lt;br/&gt;the program under test and utilizes machine learning techniques in order to&lt;br/&gt;identify suitable test oracles called metamorphic relations (MRs). Then, it automatically&lt;br/&gt;generates effective test cases to conduct automated testing based on the&lt;br/&gt;identified MRs using a mutation based approach. After that, it creates a&lt;br/&gt;prioritized order of MRs to be used with testing in order to identify faults as&lt;br/&gt;early as possible during the testing process. Finally, METtester conducts&lt;br/&gt;testing on the program under test using the prioritized order of MRs with the generated&lt;br/&gt;test cases.</AbstractNarration>
+    <MinAmdLetterDate>02/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/20/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656877</AwardID>
+    <Investigator>
+      <FirstName>Upulee</FirstName>
+      <LastName>Kanewala</LastName>
+      <EmailAddress>upulee.kanewala@cs.montana.edu</EmailAddress>
+      <StartDate>02/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Montana State University</Name>
+      <CityName>BOZEMAN</CityName>
+      <ZipCode>597172470</ZipCode>
+      <PhoneNumber>4069942381</PhoneNumber>
+      <StreetAddress>309 MONTANA HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Montana</StateName>
+      <StateCode>MT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>6892</Code>
+      <Text>CI REUSE</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7944</Code>
+      <Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7798</Code>
+      <Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

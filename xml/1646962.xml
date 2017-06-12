@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Testing and Optimizing Digital Tools Aimed at Promoting Parent/Caregiver-Mediated Dialogic Reading from Infancy to Kindergarten Entry</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Glenn H. Larsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Phase I project will test and optimize a software system and digital tools designed to promote parent/caregiver-mediated dialogic reading routines in children ages 6 months to 5 years. Early exposure to dialogic reading has been shown to foster virtually all school-readiness indicators from cognitive and social-emotional development to vocabulary attainment and concepts about print. Research demonstrates that science learning should also be cultivated before kindergarten entry, so children begin formal schooling with age-appropriate content and conceptual knowledge and the capacity to observe, experiment, and problem solve. The increase of income inequality in the US underscores the urgency of closing ever-widening achievement gaps between children living in poverty and more affluent peers. Investments in early childhood have been shown to remediate educational deficits, so a cost-effective, home-based method of guiding parents and caregivers in a dialogic reading process can make a substantial contribution to ending school-readiness gaps, the precursor to persistent achievement gaps, and the cycle of economic and societal disadvantages they perpetuate. The market for early-education digital products is sizable and growing. Purchasers in this market include institutions (e.g., preschools, Head Start, social-service agencies, libraries), community initiatives, healthcare professionals working with families of young children, as well as individual families.&lt;br/&gt;&lt;br/&gt;This project will build a complex technology systems architecture to sell, distribute, manage, and evaluate educative materials on commonly available digital devices of all form factors. The product uses a proprietary system to build hybrid reading selections with separate visible layers targeted for the two audiences - children and the adults reading to them. This approach engages both audiences, while providing actionable and effective guidance for caregivers for whom dialogic reading may be a new or not yet habitual practice. Along with layered selections, a key innovation employed by this project will be a set of proprietary algorithms that learns from user behavior and tailors the program to the needs of each individual. To further increase efficacy, this project will include a secure data-sharing portal to allow institutional clients to evaluate school readiness among their constituencies and to manage their programs accordingly. A robust content management system will support a variety of sales options and allow for dynamic updates and additions to the system content. Finally, an engagement system based on behavioral psychology will be developed to promote application stickiness aimed at building routines of reading and dialogic thinking.</AbstractNarration>
+    <MinAmdLetterDate>12/01/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/01/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1646962</AwardID>
+    <Investigator>
+      <FirstName>Alice</FirstName>
+      <LastName>Letvin</LastName>
+      <EmailAddress>alice@readaskchat.net</EmailAddress>
+      <StartDate>12/01/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Read, Ask, Chat, Ltd.</Name>
+      <CityName>Chicago</CityName>
+      <ZipCode>606155977</ZipCode>
+      <PhoneNumber>8474945113</PhoneNumber>
+      <StreetAddress>1755 E 55th St Ste 1003</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>118E</Code>
+      <Text>GRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8031</Code>
+      <Text>Education Products</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8039</Code>
+      <Text>Information, Communication &amp; Computing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9177</Code>
+      <Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

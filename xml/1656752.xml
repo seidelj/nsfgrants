@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>The Molecular Basis for Skeletal Patterning</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>323000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090100</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Matthew Buechner</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>During development, a single cell, the fertilized egg, gives rise to a complete animal. Understanding how tissues are formed and shaped during development is important for the prevention of birth defects and to understand how to repair wounded tissues, yet this remains largely unknown since the problem is very complex. Because the mechanisms underlying development are well-conserved in evolution, much can be learned from studying the development of simple organisms such as sea urchins. The proposed research focuses on the mechanisms underlying the patterning of the sea urchin larval skeleton, which is produced by one type of cell (mesodermal cells), reacting to signals from other cells on the surface of the embryo (ectodermal cells). Previous work by this PI uncovered a number of ectodermal signals that serve as instructions for the skeletal pattern. The PI now proposes to determine how four of those signals each change the mesodermal cells to direct their movement within the embryo. This work will discover the sequence of all the RNA inside single cells in order to understand how these four signals alter which RNA and proteins are made in each of the sixty mesodermal. It will also identify and test the response to the four signals by receptor proteins in the mesodermal cells. In addition to performing scientific outreach in the Boston area, the PI will train students in scientific research, including female high school students in summer internships, undergraduate students performing independent studies, and graduate students seeking Ph.D.s. &lt;br/&gt;&lt;br/&gt;The proposed research focuses on the mechanism underlying skeletal patterning during sea urchin development. The skeleton is secreted by primary mesenchymal cells (PMCs), while the patterning information is contained within the ectoderm, and sensed by the migrating PMCs. The PI previously identified numerous novel ectodermal cues that pattern the skeleton, and here proposes to determine how four distinct and conserved cues (sulfated proteoglycans, 5-HETEs, VEGF, and Univin) modulate gene expression within the PMCs to promote their diversification by using single-cell mRNA sequencing on individual PMCs in control embryos and in embryos in which specific patterning cues are inhibited. The combined results from time-course and perturbation analyses will be integrated into a temporal network model for PMC diversification; this network will extend the previously determined early specification network for PMCs. Key genes in the new diversification network will be functionally tested using knockdown approaches combined with in vitro PMC migration analyses. A novel approach will be used to fix cells following in vitro migration while preserving their spatial positions, which will allow determination of the behavior of specific PMC subsets following migration toward or away from specific cues.</AbstractNarration>
+    <MinAmdLetterDate>03/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656752</AwardID>
+    <Investigator>
+      <FirstName>Cynthia</FirstName>
+      <LastName>Bradham</LastName>
+      <EmailAddress>cbradham@bu.edu</EmailAddress>
+      <StartDate>03/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Trustees of Boston University</Name>
+      <CityName>BOSTON</CityName>
+      <ZipCode>022151300</ZipCode>
+      <PhoneNumber>6173534365</PhoneNumber>
+      <StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1119</Code>
+      <Text>ANIMAL DEVELOPMENTAL MECHANSMS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

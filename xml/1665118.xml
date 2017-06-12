@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>U.S. Participation in the Centre de Recerca Matematica Research Program Operator Algebras: Dynamics and Interactions</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>43500</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kevin Clancey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The proposal requests funding to help defray the expenses of U.S. participants in the research program "Operator Algebras: Dynamics and Interactions" that will be held at the Centre de Recerca Matematica (CRM) in Barcelona, Spain from March 1 - July 21, 2017. Additional information is available on the CRM website http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/IRP-OAL.aspx&lt;br/&gt;&lt;br/&gt;The CRM program is motivated by an important and recent complete classification, in K-theoretic data, of a broad class of C*-algebras with finite noncommutative topological dimension. The program will capitalize on this development by concentrating efforts on those nuclear C*-algebras arising from and with applications to topological dynamical systems and related areas such as topological groupoids. It is important that the next generation of U.S. researchers be informed of the state-of-the art and future of this field. This award will enable the participation of graduate students, junior researchers, underrepresented groups and other U.S. based researchers without support to participate in this meeting. This program will have significant impact in the field of C*-algebras and the future careers of junior investigators.</AbstractNarration>
+    <MinAmdLetterDate>01/04/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/04/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1665118</AwardID>
+    <Investigator>
+      <FirstName>Nathanial</FirstName>
+      <LastName>Brown</LastName>
+      <EmailAddress>nbrown@math.psu.edu</EmailAddress>
+      <StartDate>01/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Pennsylvania State Univ University Park</Name>
+      <CityName>UNIVERSITY PARK</CityName>
+      <ZipCode>168027000</ZipCode>
+      <PhoneNumber>8148651372</PhoneNumber>
+      <StreetAddress>110 Technology Center Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

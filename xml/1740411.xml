@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2017 IEEE International Conference on Data Engineering (ICDE)</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>25849</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nan Zhang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This National Science Foundation award funds Student Travel Fellowships for US students attending ICDE 2017, the 2017 IEEE International Conference on Data Engineering, the main goal of which is the sharing of scientific information and knowledge among participants. The Student Fellowships helps cover the travel costs for US students, making it possible for them to attend the conference and interact with other members of the community.&lt;br/&gt;&lt;br/&gt;The ICDE conference has a multi-faceted program that includes keynote addresses, technical paper presentations, application track sessions, industry track sessions, demonstrations, PhD symposium, tutorials, panels and poster sessions.  All these activities are opportunities for students to share their research work and knowledge with researchers from both academia and industry.</AbstractNarration>
+<MinAmdLetterDate>05/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740411</AwardID>
+<Investigator>
+<FirstName>Alexandros</FirstName>
+<LastName>Labrinidis</LastName>
+<EmailAddress>labrinid@cs.pitt.edu</EmailAddress>
+<StartDate>05/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152132303</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>University Club</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

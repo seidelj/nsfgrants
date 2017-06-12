@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Seismological probes of Earth's outer core</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2020</AwardExpirationDate>
+    <AwardAmount>94552</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06030000</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Earth Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robin Reichlin</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The outer core, the source of Earth's magnetic field and much of the heat that powers mantle convection, and ultimately plate tectonics, is thought to be the most dynamic region of our planet's interior. While the change in properties with depth of many other regions of the Earth is relatively well known, there is still no consensus on the depth variation of physical properties in the uppermost outer core, especially with regard to the possible existence of a stratified, light element enriched layer. The presence of such a layer is important for understanding the thermal relationship between the well-mixed outer core and the mantle; the layer could also affect the geodynamo and geomagnetic observables. This project will use two complementary seismic tools, body-waves and low-frequency whole Earth vibrations, to investigate the properties of the uppermost outer core. Education, training and research experience for STEM students at the undergraduate and graduate level will be provided as part of this project as well as support for a PI who is a member of an underrepresented group in geophysics, encouraging diversity.&lt;br/&gt;&lt;br/&gt;This multi-method project will exploit both body-waves and the Earth's normal modes of oscillation to better understand the uppermost outer core. Using multiple SmKS phases, sensitive to fine velocity structure, will allow for the resolution of compressional-wave velocity structure at the top outer core, where a stratified layer of light elements has been proposed by several researchers. Previous body-wave studies have suggested a range of layer thickness, radial profiles and degree of difference from a well-mixed outer core. Some body-wave studies have reported that the layer is seismically slower than expected, which would normally be expected to correspond to dense, rather that light, material at the top of the outer core. By adding information from whole Earth oscillation center frequencies, which are sensitive to both velocity and density in the outer core, this work will provide new insights into the apparently paradoxical uppermost outer core without having to make any assumptions about the mineralogical properties of the liquid present. The project will also use a combination of body-wave observations to investigate any seismologically observable distinction across the outer core's tangent cylinder, a matter of previous disagreement. This project will have implications not only for our understanding of the seismic properties of this layer, but also for geomagnetic phenomena, such as MAC and Rossby waves, for examining the heat budget of the planet, including the power sources for mantle convection and the geodynamo. It will also permit the comparison of the observed properties of the outer core with predictions from mineral physics to better understand the chemical composition of the liquid iron alloy present there.</AbstractNarration>
+    <MinAmdLetterDate>11/28/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/28/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1644399</AwardID>
+    <Investigator>
+      <FirstName>Jessica</FirstName>
+      <LastName>Irving</LastName>
+      <EmailAddress>jirving@princeton.edu</EmailAddress>
+      <StartDate>11/28/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Princeton University</Name>
+      <CityName>Princeton</CityName>
+      <ZipCode>085442020</ZipCode>
+      <PhoneNumber>6092583090</PhoneNumber>
+      <StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1574</Code>
+      <Text>GEOPHYSICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1031</Code>
+      <Text>STUDIES OF THE EARTH'S DEEP INTERIOR</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

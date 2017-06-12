@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EPIC-N International Training and Development Workshop</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>177432</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06010000</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>ICER</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maria L. Uhle</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award provides support for a workshop designed to enable US based institutions to work with their international counterparts to expand a unique partnership to address resiliency issues. The EPIC-N model partners colleges and universities paired with local communities in an effort to help make cities sustainable. Presently, approximately 30 US-based universities are implementing this model for connecting students and faculty to real-world projects that address the pressing needs of local municipalities and communities as they contend with real-life challenges of becoming more sustainable and resilient. The workshop will provide an opportunity for these institutions to develop partnerships with their international counterparts and to further develop the framework for universities and local communities to work together on real-world challenges and opportunities.&lt;br/&gt;&lt;br/&gt;The EPIC-N model is designed to advance the knowledge of both academicians and local community practitioners. The partnership that forms the basis of the model is designed to address the broad spectrum of sustainability-related needs of local communities by strategically matching community needs with university capacity to provide research, creative designs and solutions in ways that benefit all parties, with lasting benefits and implications for all involved. Most importantly, students gain experience working on real issues confronting local communities and at the same time, local communities gain access to valuable data that can better inform critical decisions.</AbstractNarration>
+    <MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1725613</AwardID>
+    <Investigator>
+      <FirstName>Jessica</FirstName>
+      <LastName>Johnston</LastName>
+      <EmailAddress>JJohnston@icma.org</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>International City/County Management Association</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200024239</ZipCode>
+      <PhoneNumber>2029623547</PhoneNumber>
+      <StreetAddress>777 North Capitol St NE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7313</Code>
+      <Text>REGIONAL INST FOR GLOBAL CHANG</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1679</Code>
+      <Text>INTERNATIONAL COORDINATION ACT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7313</Code>
+      <Text>REGIONAL INST FOR GLOBAL CHANG</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>EGCH</Code>
+      <Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

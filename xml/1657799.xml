@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The quality control of oceanic carbon dioxide measurements: preparation and distribution of reference materials</AwardTitle>
+<AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>166115</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henrietta N. Edmonds</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to continue to provide a mechanism for the quality control of ocean carbon dioxide measurements, in particular those that are made as part of international global programs. This will help to ensure that such measurements are comparable and accurate although made in different laboratories at different times, and will be an important factor in the design of a Global Ocean Observing System such as the proposed Global Ocean Acidification Observation Network, as well as playing a significant role in the quality control of ocean acidification measurements. &lt;br/&gt;&lt;br/&gt;To achieve this goal, the Scripps laboratory will prepare and certify reference materials for the following parameters of the oceanic carbon dioxide system in seawater: total dissolved inorganic carbon, total alkalinity, and hydrogen ion concentration, pH. The reference materials for total dissolved inorganic carbon and for total alkalinity will be based on natural seawater, sterilized, bottled, and analyzed using appropriate reference methods for these parameters. Reference materials for pH will be based on Tris buffers in synthetic seawater whose pH is directly related to measurements using classical Harned cells. In addition, the laboratory will distribute calibrated acid titrant for alkalinity measurements. The provision of reference materials to the international community helps to improve the overall quality of oceanic carbon data around the world both for field studies of the distribution of oceanic carbon, as well as for studies related to ocean acidification. Thus this effort is a significant US contribution to research infrastructure in this field.</AbstractNarration>
+<MinAmdLetterDate>03/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1657799</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Dickson</LastName>
+<EmailAddress>adickson@ucsd.edu</EmailAddress>
+<StartDate>03/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego Scripps Inst of Oceanography</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930210</ZipCode>
+<PhoneNumber>8585341293</PhoneNumber>
+<StreetAddress>8602 La Jolla Shores Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1670</Code>
+<Text>CHEMICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1382</Code>
+<Text>OCEAN ACIDIFICATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Decision Support System For Risk Reduction in Health Care Facilities</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is the improvement of patient outcomes in long-term care facilities. As America ages, the need for effective care of the elderly becomes more pressing, with more than 50000 facilities caring for more than 3.5 million patients at any one time. This I-Corps project can lead to the adoption of the new decision-making technology that incorporates unique predictive algorithms to help management teams in long-term care facilities maximize the information from their currently collected safety and clinical data. By adopting this new technology, management teams will be able to predict where there may be deficiencies, prioritize key drivers associated with specific patient outcomes, and prevent adverse events. The new technology can be adopted as a cloud based information and data delivery system.&lt;br/&gt;&lt;br/&gt;This I-Corps project supports customer discovery of an innovation using a unique predictive modeling algorithm that identifies key drivers of specific patient outcomes and produces meaningful benchmarks for each driver that management teams can use to guide quality improvement efforts. The algorithm determines where a facility is on each key driver in relation to each benchmark and produces a prioritized list of actions needed for continuous improvement. The algorithm provides a stable framework for improvement that is not sensitive to data imperfections and does not allow those imperfections to distract decision-making from real priorities. The algorithm was developed based on extensive research and practice of applying the Rasch model and objective standard-setting process in different settings, including health, psychology and transportation. The most extensive of these applications were the development of rigorous risk and defensibility assessments for long-term care facilities and hospitals, and the development of differentiation algorithms for passenger experience in the airline industry.</AbstractNarration>
+    <MinAmdLetterDate>03/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1735683</AwardID>
+    <Investigator>
+      <FirstName>Fox</FirstName>
+      <LastName>Christine</LastName>
+      <EmailAddress>chris.fox@utoledo.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Svetlana</FirstName>
+      <LastName>Beltyukova</LastName>
+      <EmailAddress>Svetlana.Beltyukova@utoledo.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Toledo</Name>
+      <CityName>TOLEDO</CityName>
+      <ZipCode>436063390</ZipCode>
+      <PhoneNumber>4195302844</PhoneNumber>
+      <StreetAddress>2801 W Bancroft St., MS 944</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

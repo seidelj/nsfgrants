@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>The Twentieth Riviere-Fabes Symposium</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>26000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Bruce P. Palka</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award provides funding to help defray the expenses of participants in "The Twentieth Riviere-Fabes Symposium" that will be held April 28-30, 2017, on the twin-cities campus of the University of Minnesota. The bulk of the support is directed at graduate students and postdocs.&lt;br/&gt;&lt;br/&gt;This annual conference, of which the 2017 meeting will be the twentieth rendition, honors the mathematical legacies of the late Nestor M. Riviere and Eugene B. Fabes by focusing on recent developments in analysis, especially in the field of partial differential equations. The 2017 program will feature four principal speakers (Manuel del Pino, Philip Isett, Sylvia Serfaty, and Luis Silvestre), each of whom will deliver a two-hour lecture. The program allows ample time for informal discussion among the participants. More details about the symposium are forthcoming on http://www.math.umn.edu/conferences/riv_fabes/.</AbstractNarration>
+    <MinAmdLetterDate>12/01/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/01/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1665006</AwardID>
+    <Investigator>
+      <FirstName>Vladimir</FirstName>
+      <LastName>Sverak</LastName>
+      <EmailAddress>sverak@math.umn.edu</EmailAddress>
+      <StartDate>12/01/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Minnesota-Twin Cities</Name>
+      <CityName>Minneapolis</CityName>
+      <ZipCode>554552070</ZipCode>
+      <PhoneNumber>6126245599</PhoneNumber>
+      <StreetAddress>200 OAK ST SE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Minnesota</StateName>
+      <StateCode>MN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

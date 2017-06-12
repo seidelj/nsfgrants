@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Practical Large-Scale Sum-of-Squares Optimization</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>55146</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rosemary Renaut</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Polynomial optimization is a fundamental computational technique, with applications in a wide variety of fields that include power systems engineering, signal processing, statistics, geometry, and medicine. There are several existing computational approaches for polynomial optimization; however, they all share a few core ideas that limit both their efficiency and stability. As the size and complexity of the models arising from modern applications continues to increase, these existing approaches are increasingly limiting. This research project is aimed toward the development of novel computational methods that are simultaneously more reliable and more efficient than the existing techniques. To assure the relevance of the research, the approaches will be implemented as easily usable computational tools, which will be disseminated widely to the scientific and engineering community.&lt;br/&gt;&lt;br/&gt;One of the most common approaches to the solution of global polynomial optimization problems utilizes semi-definite programming (SDP) hierarchies. These arise from combining the algebraic theory of sum-of-squares polynomials and the observation that sum-of-squares polynomials are semi-definite representable. While theoretically satisfactory, the translation of sum-of-squares optimization problems to SDPs is not always practical. First, the SDP representation of sum-of-squares polynomials roughly squares the number of optimization variables, increasing the time and memory complexity of the solution algorithms by several orders of magnitude. The second problem is numerical. In the common SDP formulation, the dual variables are semi-definite matrices whose condition numbers grow exponentially with the degree of the polynomials involved. This is detrimental for a floating-point implementation. This project builds on recent results in non-symmetric conic optimization and multivariate interpolation to derive the algorithmic theory and practical computational tools needed to circumvent the need to use the standard SDP-based approach to sum-of-squares optimization. The aim is to provide algorithms for these problems that are both efficient and computationally effective. The principal investigator will investigate the impact of the novel algorithm developments for a diverse set of applications, including the design of optimal radiotherapy treatments.</AbstractNarration>
+<MinAmdLetterDate>06/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719828</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Papp</LastName>
+<EmailAddress>dpapp@ncsu.edu</EmailAddress>
+<StartDate>06/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>006y</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

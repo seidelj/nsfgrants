@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SusChEM: Theoretical Studies of Inorganic, Organometallic, and Bioinorganic Systems</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>156111</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tingyu Li</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In this project funded by the Chemical Structure, Dynamics, and Mechanisms B Program of the Division of Chemistry, Professor Michael B. Hall at Texas A&amp;M University, College Station, investigates important problems in catalytic chemistry by using modern computational techniques. The project studies the naturally occurring hydrogenase enzymes and related model complexes, as these systems hold promise for low-cost replacements for expensive platinum electrodes that are now used for the development of hydrogen as an energy resource. Additional studies are on the activation and formation of chemical bonds by reactions with inexpensive metal catalysts rather than precious metals, developments that are important for the chemical industry. In addition to the education of students and postdoctoral associates at Texas A&amp;M University, a number of experimental collaborators bring the educational aspects to a broader audience. The Laboratory for Molecular Simulation, directed by Professor Hall, provides researchers across campus with access to the latest atomistic modeling software and hardware. The Laboratory also supports the free world-wide distribution of the Fenske-Hall method. This method, with its simple graphical user interface and ability to run large transition metal calculations on a laptop, allows it to be easily used by a wide audience and to be incorporated into teaching courses. &lt;br/&gt;&lt;br/&gt;Full-gradient geometry optimizations with non-local density-functional theory (DFT) and ab initio energy calculations, primarily coupled cluster, complete active space and multireference configuration interaction, are being used to solve problems of current interest in inorganic, organometallic, and bioinorganic chemistry. Specific systems include: (1) non-innocent thiolate ligands in alkene and hydrogen activation, where the metal-sulfur pi bonding is sufficiently weak, such that the substantial multireference character cannot be handled by DFT; (2) cobalt catalyzed borylation reactions (in collaboration with Paul Chirik), where development of abundant first-transition-row metals as catalysts are needed, but where the mechanism appears to be different from those for second-transition-row metals; (3) unexpected non-innocent behavior in nickel phosphine complexes (in collaboration with Morris Bullock), where the ligands that are well known to assist in providing protons for proton reduction become active in other transformations; (4) regioselective functionalization of unactivated sp3 carbon-hydrogen bonds; (5) fluoroalkane metathesis (in collaboration with Tom Baker), where the formation and stability of the metallocycle competes with its further transformation to the final metathesis products; (6) Nickel iron hydrogenase studies to include more of the protein backbone, where there are still several competing mechanisms in the literature, but where there is insufficient calibration of the functionals; (7) modeling new nickel iron hydrogenases and their mutants (in collaboration with David Barondeau), where changes in the residues near the bridging carbonyl site change the reactivity; and (8) hydrogenase synthetic models (in collaboration with Marcetta Darensbourg), where exploration of new ligands opens up unexpected new mechanisms.</AbstractNarration>
+    <MinAmdLetterDate>03/30/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/30/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1664866</AwardID>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Hall</LastName>
+      <EmailAddress>hall@mail.chem.tamu.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas A&amp;M University Main Campus</Name>
+      <CityName>College Station</CityName>
+      <ZipCode>778454375</ZipCode>
+      <PhoneNumber>9798626777</PhoneNumber>
+      <StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9102</Code>
+      <Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7433</Code>
+      <Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8060</Code>
+      <Text>SEES Unsolicited</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8084</Code>
+      <Text>CDS&amp;E</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8248</Code>
+      <Text>SusChEM</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8396</Code>
+      <Text>Clean Energy Technology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8397</Code>
+      <Text>Hydrogen Storage or Generation</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8650</Code>
+      <Text>Sustainable Chemistry</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9263</Code>
+      <Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

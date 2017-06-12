@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>The 2017 John Barrett Memorial Lectures -- Mathematical Foundations of Data Science</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>16000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robert Lund</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The 2017 Barrett Lectures, entitled "Mathematical Foundations of Data Sciences," will be held May 1-3, 2017 at the University of Tennessee in Knoxville, Tennessee. Data science has experienced rapid recent development, largely in response to the challenges associated with massive data sets. The enhanced ability to collect and store data requires a fundamental change in approaches to data analysis. Today's big data challenge presents a unique opportunity to discover new scalable approaches and to expand current theoretical and computational algorithms. The conference features keynote lectures by Andrea Bertozzi and Aad van der Vaart. Additionally, a dynamic group of U.S. and international researchers at different career stages will give invited plenary talks and poster presentations. This project utilizes NSF funding to support travel and other participation costs for approximately forty researchers, giving priority to graduate students, postdoctoral scholars, and early career faculty members. &lt;br/&gt;&lt;br/&gt;The 2017 Barrett Lectures will be the 47th installment of a lecture series that began as a tribute to the distinguished scientist John H. Barrett, head of the Mathematics Department at the time of his death in 1969. The Lectures are one of the longest-running mathematical lecture series in the country and are delivered by distinguished speakers. The focus of the 47th Lectures is the application of several mathematical methods in topics of data analysis and the growing penetration of complex physical phenomena and formidable engineering problems related to big data. A dynamic group of prominent researchers will expose several research avenues for integrating aspects of our respective (but seemingly disparate) big data perspectives. These connections will ultimately deepen our understanding of the emerging methodologies, which are vital for solving the scientific and engineering problems of the 21st century. Young researchers, especially, will benefit from exposure to the wide array of approaches presented at the meeting. More information about the conference is available at http://www.math.utk.edu/barrett/</AbstractNarration>
+    <MinAmdLetterDate>03/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1700494</AwardID>
+    <Investigator>
+      <FirstName>Jan</FirstName>
+      <LastName>Rosinski</LastName>
+      <EmailAddress>rosinski@math.utk.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Steven</FirstName>
+      <LastName>Wise</LastName>
+      <EmailAddress>swise@math.utk.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Vasileios</FirstName>
+      <LastName>Maroulas</LastName>
+      <EmailAddress>maroulas@math.utk.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Clayton</FirstName>
+      <LastName>Webster</LastName>
+      <EmailAddress>webstercg@math.utk.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Tennessee Knoxville</Name>
+      <CityName>KNOXVILLE</CityName>
+      <ZipCode>379960003</ZipCode>
+      <PhoneNumber>8659743466</PhoneNumber>
+      <StreetAddress>1 CIRCLE PARK</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Tennessee</StateName>
+      <StateCode>TN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8069</Code>
+      <Text>CDS&amp;E-MSS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1263</Code>
+      <Text>PROBABILITY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1269</Code>
+      <Text>STATISTICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

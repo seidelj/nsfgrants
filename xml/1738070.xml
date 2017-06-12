@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: SC2: Team Dragon Radio</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>99978</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project on collaborative spectrum sharing brings together multiple research areas not typically considered together on to a single radio platform, where a successful implementation promotes potentially transformative advances in communications and networking. From an educational perspective, this program develops new undergraduate and graduate teaching laboratories and projects. Human capital is developed through these coursework and laboratory experiences, and the students also benefit through collaboration with both industrial and international partners.&lt;br/&gt;&lt;br/&gt;This project uses its Dynamic Time Division Multiple Access (D-TDMA) technology for synchronizing radio nodes for optimal collaboration. GPU programming is also leveraged for low-latency, wide-band RF spectrum awareness. Reconfigurable FPGA design for OFDM and the use of machine learning algorithms are used for decision-making and ad-hoc routing. The team also uses an Observe Orient Decide and Act (OODA) cycle for coordinating with the radio environment and other participating nodes/networks. All development takes place on dedicated Linux-based machines connected to USRP X310 software-defined radio nodes.</AbstractNarration>
+    <MinAmdLetterDate>03/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1738070</AwardID>
+    <Investigator>
+      <FirstName>William</FirstName>
+      <LastName>Mongan</LastName>
+      <EmailAddress>wmm24@drexel.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Geoffrey</FirstName>
+      <LastName>Mainland</LastName>
+      <EmailAddress>gbm26@drexel.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Steven</FirstName>
+      <LastName>Weber</LastName>
+      <EmailAddress>sweber@ece.drexel.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Kapil</FirstName>
+      <LastName>Dandekar</LastName>
+      <EmailAddress>dandekar@coe.drexel.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Nagarajan</FirstName>
+      <LastName>Kandasamy</LastName>
+      <EmailAddress>kandasamy@coe.drexel.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Drexel University</Name>
+      <CityName>Philadelphia</CityName>
+      <ZipCode>191021119</ZipCode>
+      <PhoneNumber>2158955849</PhoneNumber>
+      <StreetAddress>1505 Race St, 8th Floor</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1714</Code>
+      <Text>SPECIAL PROJECTS - CISE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

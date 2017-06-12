@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Singularities in General Relativity</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2020</AwardExpirationDate>
+    <AwardAmount>120000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Edward Taylor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This research project studies spacetime singularities in the solutions to the Einstein vacuum equations, a system of nonlinear partial differential equations that describes gravity in locations devoid of matter. Solutions to this system of equations can develop singularities from regular initial data; some such singularities are inside a black hole event horizon. A fundamental mathematical question concerns understanding how such singularities arise from generic initial data. In particular, this project explores questions that include: What does the boundary of the interior of black holes look like? Are they always singular? Are there singularities that are not in the black hole regions? These are questions that the strong and weak cosmic censorship conjectures in general relativity seek to address -- study of those conjectures is the central motivation for this project.&lt;br/&gt;&lt;br/&gt;A particular focus of the project is to understand the singular boundary of the interior of black holes and also to understand sharp criteria under which trapped surfaces (structures closely related to black holes) may form. Recent work of the investigator and collaborators provides a resolution of the strong cosmic censorship conjecture for the Einstein-Maxwell (real) scalar field in spherical symmetry, showing that solutions arising from generic data have singular black hole interiors, in the sense that the spacetime metric cannot be extended in a suitably regular manner. This project aims to extend these results to settings without symmetry assumptions, in particular to give a complete description of the boundary of black holes that arise from perturbations of the explicit Kerr solutions. In a different direction, this project also aims to establish criteria that guarantee that trapped surfaces form, as a step towards understanding the weak cosmic censorship conjecture in general relativity.</AbstractNarration>
+    <MinAmdLetterDate>04/18/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/18/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1709458</AwardID>
+    <Investigator>
+      <FirstName>Jonathan</FirstName>
+      <LastName>Luk</LastName>
+      <EmailAddress>jluk@stanford.edu</EmailAddress>
+      <StartDate>04/18/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Stanford University</Name>
+      <CityName>Palo Alto</CityName>
+      <ZipCode>943041212</ZipCode>
+      <PhoneNumber>6507232300</PhoneNumber>
+      <StreetAddress>3160 Porter Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

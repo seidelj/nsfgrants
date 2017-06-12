@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>Evaluating the Fitness of a Pre-RNA World Polymer by Darwinian Evolution</AwardTitle>
     <AwardEffectiveDate>10/01/2015</AwardEffectiveDate>
-    <AwardExpirationDate>05/31/2016</AwardExpirationDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
     <AwardAmount>103066</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -37,12 +37,40 @@
     <Institution>
       <Name>University of California-Irvine</Name>
       <CityName>Irvine</CityName>
-      <ZipCode>926173067</ZipCode>
-      <PhoneNumber>9498244768</PhoneNumber>
-      <StreetAddress>5171 California Avenue, Ste 150</StreetAddress>
+      <ZipCode>926173213</ZipCode>
+      <PhoneNumber>9498247295</PhoneNumber>
+      <StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
       <CountryName>United States</CountryName>
       <StateName>California</StateName>
       <StateCode>CA</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>6883</Code>
+      <Text>Chemistry of Life Processes</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7275</Code>
+      <Text>CROSS-EF ACTIVITIES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>144E</Code>
+      <Text>Synthetic biology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1982</Code>
+      <Text>BIOLOGICAL CHEMISTRY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8007</Code>
+      <Text>BioMaPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9183</Code>
+      <Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>BIOT</Code>
+      <Text>BIOTECHNOLOGY</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

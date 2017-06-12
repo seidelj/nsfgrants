@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>RAPID: GPS Observations of Co- and Post-seismic Deformation in the Argentine Andes, Precordillera, and Sierras Pampeanas from the 16 Sep 2015, Mw 8.3, Illapel, Chile, Earthquake</AwardTitle>
     <AwardEffectiveDate>12/01/2015</AwardEffectiveDate>
-    <AwardExpirationDate>11/30/2016</AwardExpirationDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
     <AwardAmount>32924</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -44,5 +44,17 @@
       <StateName>Tennessee</StateName>
       <StateCode>TN</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>7571</Code>
+      <Text>DEEP EARTH PROCESSES SECTION</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1576</Code>
+      <Text>NATIONL EARTHQK HZRD REDCT PRG</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7914</Code>
+      <Text>RAPID</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Medium: Developing for Differential Privacy with Formal Methods and Counterexamples</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>1200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Differential privacy is an elegant formulation of conditions an algorithm must meet in order to avoid leaking personal information contained in its inputs. It is becoming mainstream in many research communities and has been deployed in practice in the private sector and some government agencies. Accompanying this growth is an unfortunate, but expected, difficulty: many algorithms that are claimed to be differentially private are incorrect. This phenomenon affects both new-comers and seasoned veterans of the differential privacy field because of the difficulty and subtlety of developing new differentially private algorithms.&lt;br/&gt;&lt;br/&gt;This proposal outlines a research plan for the development of a system called DevDP, whose purpose is to enable novice and expert users to develop prototypes and explore differentially private algorithms. In particular, the project will develop program analysis tools and theory that leverage both programming language and machine learning technology to aid the development of correct differentially private programs by automating much of the verification and reasoning about errors. As part of broader impacts, DevDP also has the potential to help educate students and less-technical members of the scientific community by providing interactive software tools. A solid understanding of differential privacy will become crucial as it makes its way into public policy.</AbstractNarration>
+<MinAmdLetterDate>05/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702760</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Kifer</LastName>
+<EmailAddress>duk17@psu.edu</EmailAddress>
+<StartDate>05/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Danfeng</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>zhang@cse.psu.edu</EmailAddress>
+<StartDate>05/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

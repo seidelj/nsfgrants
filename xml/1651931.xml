@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER:Novel interactions in novel conditions: consequences of disrupting historical plant-fungal interactions for tree responses to environmental variation</AwardTitle>
+    <AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2022</AwardExpirationDate>
+    <AwardAmount>155092</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010208</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maria Gonzalez</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>When a plant species is stressed by warming or drying climates in an area it has three options: move to a new location that has a suitable climate, develop tolerance to the new climate through evolution or acclimation, or go extinct in the area. However, we now know that all plants exist in association with a highly diverse community of microorganisms (i.e. fungi), which can help plants access water and nutrients in soil. This research will investigate whether tree species can utilize the fungi associated with their root zones to increase their tolerance to drying conditions. The study will also test whether disrupting the historical relationships between plants and the fungi associated with their roots, will benefit or harm tree seedlings as they establish in new areas. Additionally, this project will establish a network of citizen scientists who will aid in collecting root samples from several tree species across the eastern United States. These samples will then be used in a new undergraduate course in which the students use emerging molecular biology and computational tools to identify and map the current distribution of fungal species in forest soils. Together, this new knowledge may help predict how temperate forests will respond to changing environments, and potentially lead to new tools to promote forest health by conserving or manipulating soil microbes. &lt;br/&gt;&lt;br/&gt;For plants, microbial communities in and around roots can mediate access to soil moisture and nutrients. Alterations of these communities may provide an alternative source of phenotypic variation in plant tolerance to environmental changes. As both plant and microbial populations shift their distributions, historical relationships between plant populations, microbial taxa, and abiotic conditions will be disrupted. This project will investigate how novel plant-microbial interactions may affect tree establishment within and beyond current ranges. To accomplish this, the investigator will use a combination of experiments in the field and controlled settings which manipulate tree seedling source population and soil microbial communities, along with and molecular characterization of rhizosphere fungal communities. Specifically, the project will 1) determine whether tree populations are adapted to local microbial communities, and how this compares with adaptation to climatic and edaphic gradients, 2) test whether root-associated microbial communities mediate range expansion and contraction in the face of changing environments, and 3) document how rhizosphere microbial taxa are currently distributed across host ranges, and how these distributions may shift under rapid environmental changes.</AbstractNarration>
+    <MinAmdLetterDate>03/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651931</AwardID>
+    <Investigator>
+      <FirstName>Richard</FirstName>
+      <LastName>Lankau</LastName>
+      <EmailAddress>lankau@wisc.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Wisconsin-Madison</Name>
+      <CityName>MADISON</CityName>
+      <ZipCode>537151218</ZipCode>
+      <PhoneNumber>6082623822</PhoneNumber>
+      <StreetAddress>21 North Park Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Wisconsin</StateName>
+      <StateCode>WI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1182</Code>
+      <Text>POP &amp; COMMUNITY ECOL PROG</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

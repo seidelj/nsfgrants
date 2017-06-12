@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>A design for a study that will determine whether an outreach project that has been supported by NSF TCUP has impacted math learning among Native Americans</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2018</AwardExpirationDate>
+    <AwardAmount>178311</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Lura J. Chase</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Tribal Nations Research Group (TNRG), a federally recognized and Tribal 501c3 non-profit organization, is proposing an 18-month planning project that will gather the necessary information to design a study to determine the effectiveness and the impact of a Tribal Colleges and Universities Program (TCUP) funded outreach project, the Sunday Academy Model (SAM). Sunday Academy is a collaborative and culturally sensitive STEM learning outreach model that from 2001 to 2015 was partially supported with funding from TCUP. The North Dakota Tribal Colleges in partnership with North Dakota State University (NDSU) administered the project. Additionally, the proposed project will explore ways to explain the role the NSF Tribal College Rural Systemic Initiative (1994-2005) had in establishing the necessary and preliminary environmental and academic atmosphere for the Sunday Academy project at the participating tribal colleges and the American Indian communities being served.</AbstractNarration>
+    <MinAmdLetterDate>12/14/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/14/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1637000</AwardID>
+    <Investigator>
+      <FirstName>Paul</FirstName>
+      <LastName>Dauphinais</LastName>
+      <EmailAddress>pdauph@gmail.com</EmailAddress>
+      <StartDate>12/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Anita</FirstName>
+      <LastName>Parisien Frederick</LastName>
+      <EmailAddress>anitabfrederick@gmail.com</EmailAddress>
+      <StartDate>12/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Tribal Nations Research Group</Name>
+      <CityName>Belcourt</CityName>
+      <ZipCode>583161906</ZipCode>
+      <PhoneNumber>7014775526</PhoneNumber>
+      <StreetAddress>4370 US HWY 281</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Dakota</StateName>
+      <StateCode>ND</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1744</Code>
+      <Text>TRIBAL COLLEGE &amp; UNIVERS PROGR</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1744</Code>
+      <Text>TRIBAL COLLEGE &amp; UNIVERS PROGR</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

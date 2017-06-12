@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Frequency-Translational Quadrature-Hybrid Transceivers for Small-Cell Wireless Infrastructure</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>221206</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Muralidharan S. Nair</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this project is to enable flexible carrier aggregation in mobile wireless networks using frequency-translational quadrature-hybrid (FTQH) technology. The customer demand for wireless connectivity keeps increasing both in terms of more connected devices and higher data rates. Carrier aggregation is a critical technology to further increase data rates for next-generation heterogeneous wireless networks. It lets mobile network operators and neutral hosts make more effective use of their fragmented spectral resources. Mobile communications are now an essential part of our personal and professional lives and impact all aspects of our society from business, to government, to education and the non-profit sector. The small business concern will generate OEM RF front-end products for the small-cell base station market which is growing rapidly with more than 10 million small-cell base station shipments estimated in 2020. This will strengthen the US commercial technology base and generate US employment opportunities as it grows its workforce.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will demonstrate the technical and commercial feasibility of the FTQH technology. This technology promises to enable the design of modular, flexible RF front ends for small-cell base stations. FTQH is a novel architectural approach that leverages existing RF filtering, RF switching and RF routing technologies while enabling low cost, high performance, modular RF front ends for flexible carrier aggregation.</AbstractNarration>
+    <MinAmdLetterDate>12/07/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/07/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647850</AwardID>
+    <Investigator>
+      <FirstName>Jianxun</FirstName>
+      <LastName>Zhu</LastName>
+      <EmailAddress>jianxun@concurrentwireless.com</EmailAddress>
+      <StartDate>12/07/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Concurrent Wireless Inc.</Name>
+      <CityName>Summit</CityName>
+      <ZipCode>079013616</ZipCode>
+      <PhoneNumber>9082946456</PhoneNumber>
+      <StreetAddress>11 Franklin Place</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>4096</Code>
+      <Text>COMMUNICATIONS RESEARCH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8034</Code>
+      <Text>Hardware Components</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8035</Code>
+      <Text>Hardware Devices</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>HPCC</Code>
+      <Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

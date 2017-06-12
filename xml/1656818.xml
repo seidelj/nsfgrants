@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Genetic change and genetic accommodation allow singing insects to adapt to temperature change</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>150000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090500</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jodie Jawor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Non-technical Abstract: &lt;br/&gt;Temperature affects all living organisms, from the speed of cellular processes to their behavior. However, little is known about how temperature influences animal reproduction and behavior, particularly in insects. Insects play critical roles in the health and welfare of human society from pollination of food crops, to nutrient cycling, and movement of diseases; understanding their responses to temperature variation is critical for understanding their impact on people. Because insects often live and mate within specific temperature ranges, daily and yearly changes in temperature could reduce mating activity at critical times; for example, during times when food is abundant. Furthermore, insect songs and behavior used to attract mates vary with temperature, thus increasing the difficulty of identifying potential mates. This project investigates these challenges in treehoppers. These insects create plant stem vibrations to communicate, a behavior very sensitive to changes in temperature. The project combines controlled laboratory experiments that manipulate temperature, detailed behavioral observations, and breeding outcomes to understand the role of genetics in insect responses to temperature changes. The results will allow for unprecedented tests of how insects deal with temperature, and the impact on population and species health and function. A creative broader impact of this work includes a collaboration with an artist to create sound installations that demonstrate how insect vibrational songs vary with temperature, paired with artist-scientist public talks. Additionally, this work provides training for students and a postdoctoral researcher with a strong focus on supporting diversity in STEM.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical Abstract: &lt;br/&gt;This project explores two major reproductive challenges that ecothermic animals face under variable temperature conditions. First, mating often occurs only within critical temperature windows, and changes and fluctuations in temperature can restrict the availability of this window. Second, the signals males produce to attract females can vary dramatically with temperature, posing challenges to females attempting to identify mates, and even the potential to identify the right species. This project uses Enchenopa treehoppers, insects that communicate through songs that travel through plant stems. The main goals are to determine how populations along a latitudinal gradient have evolved in response to temperature variation, and to determine the potential for individual populations to adapt to temperature changes and fluctuations. To achieve these goals, this project will combine classic quantitative genetics breeding designs with controlled behavioral assays to measure phenotypic and genetic variation in thermally-sensitive reproductive traits. The results will allow insight into how current patterns of variation have been shaped by past selection, and identify thermally-sensitive traits that are most likely to allow the insects to adapt to temperature changes. This work provides independent and collaborative training for students and a postdoctoral scholar in a laboratory with a strong focus on supporting diversity in STEM. The team of researchers will work together with a sound artist, the Saint Louis Zoo, and a media expert to create two immersive sound installations, Insectarium exhibits, and online videos and resources that educate the public about vibrational songs, and how temperature affects behavior and reproduction in animals.</AbstractNarration>
+    <MinAmdLetterDate>03/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656818</AwardID>
+    <Investigator>
+      <FirstName>Kasey</FirstName>
+      <LastName>Fowler-Finn</LastName>
+      <EmailAddress>fowlerfinn@slu.edu</EmailAddress>
+      <StartDate>03/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Saint Louis University</Name>
+      <CityName>St Louis</CityName>
+      <ZipCode>631032006</ZipCode>
+      <PhoneNumber>3149773925</PhoneNumber>
+      <StreetAddress>221 N. Grand Blvd.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7659</Code>
+      <Text>ANIMAL BEHAVIOR</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9251</Code>
+      <Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>RAPID: Characterizing the Chemical and Physical Signature of the 2015-16 El Nino in the Quelccaya Ice Cap Snow and Ice to Calibrate Past ENSO Reconstructions</AwardTitle>
     <AwardEffectiveDate>12/01/2015</AwardEffectiveDate>
-    <AwardExpirationDate>11/30/2016</AwardExpirationDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
     <AwardAmount>96299</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -52,5 +52,13 @@
       <StateName>Ohio</StateName>
       <StateCode>OH</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1530</Code>
+      <Text>PALEOCLIMATE PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7914</Code>
+      <Text>RAPID</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

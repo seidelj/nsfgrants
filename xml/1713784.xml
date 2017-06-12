@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Computational Microscope</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Cells are the building blocks of life, yet they are themselves a collection of proteins, small molecules, and solvent, none of which, when taken in isolation, would be considered alive. How living things can arise from the "behavior" of molecules, which are simply obeying the laws of physics, is the essential conundrum of modern biology. The rise of scientific supercomputing has offered the chance to study living systems at the level of atoms, cells, and all levels in between.  Now, in the era of petascale computing, with computational resources like Blue Waters, it is becoming possible to take the most critical step from inanimate to animate matter by describing assembly and cooperation of thousands of macromolecules made of billions of atoms.&lt;br/&gt;&lt;br/&gt;The projects in this proposal will use Blue Waters to study the chemo-mechanical properties of motor proteins, and the structure and function of the macromolecular complexes central to bacterial chemotaxis and plant fiber metabolism. Notably, all the projects build on extensive previous work. The first project will study the mechanisms of two motor systems: protein unfolding by ClpX unfoldase and cytoskeletal cargo transport by cytoplasmic dynein. The chemosensory array project seeks to answer how input from many chemical sensors on the bacterial surface are transduced across hundreds of nanometers in the array, leading the cell to decide if it should continue swimming or change direction, to adapt to changing environments. The cellulosome project aims to answer why human gut bacteria produces such an elaborate cellulosome when compared to the cellulosomes produced by other bacteria.  All the projects will leverage computational methods to combine structural data from multiple sources of differing resolutions (X-ray crystallography of individual proteins, medium-resolution cryo-EM of multi-protein systems, and low-resolution cryo-EM tomography of subcellular organelles) yielding atomic-resolution structural models of structures on the order of 100 nm in size, containing 10-100 million atoms. &lt;br/&gt;&lt;br/&gt;The broader impacts of the project is the ongoing development of the hugely popular (over 300,000 registered users) NAMD and VMD software, which, combined with the longstanding training efforts of the PIs, will enable researchers worldwide to address key health and energy needs of mankind.</AbstractNarration>
+<MinAmdLetterDate>05/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713784</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Phillips</LastName>
+<EmailAddress>jcphill@illinois.edu</EmailAddress>
+<StartDate>05/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Stone</LastName>
+<EmailAddress>johns@ks.uiuc.edu</EmailAddress>
+<StartDate>05/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Emad</FirstName>
+<LastName>Tajkhorshid</LastName>
+<EmailAddress>emad@life.illinois.edu</EmailAddress>
+<StartDate>05/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Juan</FirstName>
+<LastName>Perilla</LastName>
+<EmailAddress>jperilla@illinois.edu</EmailAddress>
+<StartDate>05/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rafael</FirstName>
+<LastName>Bernardi</LastName>
+<EmailAddress>rbernar@illinois.edu</EmailAddress>
+<StartDate>05/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>PETASCALE - TRACK 1</Text>
+</ProgramElement>
+</Award>
+</rootTag>

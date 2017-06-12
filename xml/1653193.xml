@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Cardiac Ischemia On-a-Chip: Probing Mechanisms Underlying Molecular, Cellular and Tissue-Level Adaptive Responses After Injury</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2022</AwardExpirationDate>
+    <AwardAmount>500000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Peretti</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>PI: Nikkhah, Mehdi&lt;br/&gt;Proposal No: 1653193&lt;br/&gt;&lt;br/&gt;Heart attack (Myocardial infarction) is a leading cause of death, but its underlying biological mechanisms are not well understood. In this work, a novel well-designed experimental study is proposed with cells from the heart (cardiomyocytes and cardiac fibroblasts) with the associated biological and structural features for uncovering the underlying biological mechanisms. Successful completion of the project will result in an improved understanding of what causes heart diseases. The educational and outreach of this CAREER program have been designed to benefit high school teachers and stimulate long-term interest in K-12 students towards science, technology, engineering and mathematics (STEM).&lt;br/&gt;&lt;br/&gt;Cardiac ischemia, including acute myocardial infarction (MI, ?heart attack?) and chronic ischemic heart disease (chronic IHD), are highly progressive biological disorders that can ultimately lead to catastrophic heart failure and death. Hypoxia has been implicated as the major regulator of ischemia-induced cardiac injury, through triggering of a multitude of molecular and cellular signaling cascades, leading to contractile dysfunction and adverse remodeling of the myocardium. While the pathophysiological responses of the heart, specifically during MI, have been the subject of intensive studies using gold standard animal models, the lack of precise control over the microenvironmental cues and the inability to fully recapitulate human physiology have led to a major knowledge gap in biological understating of ischemia-induced cardiac injury. This CAREER program aims to meet the critical need for the development of an alternative platform technology that addresses the limitations of current in vitro assays and has translational advantages over animal models. The goal of this five-year program is to develop a native-like three dimensional (3D) myocardial tissue model on-a-chip and mimic ischemia induced cardiac diseased conditions to provide a fundamental framework on the underlying complex biological and pathophysiological events following injury. Insights derived are expected to open new avenues for the development of enabling technologies to elucidate molecular and cellular mechanisms governing ischemic heart disease. Additionally, the proposed study has the potential to advance multimodal pharmacological based therapies for repair and regeneration of the heart in particular, and other complex organs/tissues, in general. The educational and outreach of this CAREER program have been designed to benefit high school teachers and stimulate long-term interest in K-12 students towards science, technology, engineering and mathematics (STEM). The proposed initiatives will also provide interdisciplinary training for the next generation of undergraduate and graduate students in STEM fields. Furthermore, this CAREER program will bring collaborative synergy among bioengineering scientists and clinicians in cardiovascular medicine.</AbstractNarration>
+    <MinAmdLetterDate>02/01/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/01/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653193</AwardID>
+    <Investigator>
+      <FirstName>Mehdi</FirstName>
+      <LastName>Nikkhah</LastName>
+      <EmailAddress>mnikkhah@asu.edu</EmailAddress>
+      <StartDate>02/01/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Arizona State University</Name>
+      <CityName>TEMPE</CityName>
+      <ZipCode>852816011</ZipCode>
+      <PhoneNumber>4809655479</PhoneNumber>
+      <StreetAddress>ORSPA</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1491</Code>
+      <Text>Cellular &amp; Biochem Engineering</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

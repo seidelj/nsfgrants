@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Bayesian Approaches for Inference on Brain Connectivity</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2020</AwardExpirationDate>
+    <AwardAmount>200000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Cheryl L. Eavey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This collaborative research project will develop new statistical methods for the analysis and interpretation of brain imaging data. Statistical methods that improve signal detection and that lead to clinically relevant insights into the patterns of brain functions are needed. This research will advance understanding of how the different regions of the brain interact and share information with each other during a task or at rest. The statistical methods to be developed will have the potential to impact both statistics and neuroimaging and will apply generally to studies where multiple types of neuroimaging data are measured on groups of subjects. From a societal perspective, the acquired knowledge will guide clinicians in the selection of optimally targeted treatments to improve the quality of life of individuals. The project will include educational and training activities for graduate students. Findings will be disseminated to the research community and used to further interdisciplinary collaborative efforts in neuroimaging. Software and code will be developed and deposited in public repositories.&lt;br/&gt;&lt;br/&gt;The new statistical methods to be developed will integrate the information provided by multiple imaging modalities collected on groups of subjects. A particular focus of the proposed research is to characterize the heterogeneity of brain functioning both within and between subjects. This research will produce flexible Bayesian statistical methods that can share information across subjects and take into account available knowledge on brain structure and functional mechanisms. New integrative spatio-temporal models will allow for the presence of highly connected and persistent hubs in the brain networks. Dynamic graphical model approaches will increase understanding of the dynamic nature of functional brain connectivity and how connectivity is disrupted when subjects are completing tasks. The investigators will apply the new methods to imaging data from subjects with a neurological disorder (epilepsy or schizophrenia) and data from healthy individuals who will serve as controls. Understanding the role that abnormalities in the brain connectome play in various neurological diseases has been a major focus in connectivity studies. Comparative analyses of data from healthy individuals serving as controls will allow the identification of differences in connectivity across groups of subjects and how they affect multiple cognitive domains.</AbstractNarration>
+    <MinAmdLetterDate>04/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659921</AwardID>
+    <Investigator>
+      <FirstName>Michele</FirstName>
+      <LastName>Guindani</LastName>
+      <EmailAddress>micheleguindani@gmail.com</EmailAddress>
+      <StartDate>04/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Irvine</Name>
+      <CityName>Irvine</CityName>
+      <ZipCode>926173213</ZipCode>
+      <PhoneNumber>9498247295</PhoneNumber>
+      <StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1333</Code>
+      <Text>METHOD, MEASURE &amp; STATS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

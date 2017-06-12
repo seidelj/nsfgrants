@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Advancing Teachers of Mathematics to Advance Learning for All</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2022</AwardExpirationDate>
+    <AwardAmount>1674989</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sandra Richardson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Advancing Teachers of Mathematics to Advance Learning for All (ATMALA) will serve the national interest in strengthening mathematics teaching and learning for underserved students and communities in urban areas in and near Orange County in southern California. The primary focus of the project will be at the middle school and early high school level, a pivotal time during which students' self-concepts about and interest in pursuing mathematics are crystallized. To this end, through funding from Track 3: Master Teacher Fellowships of the Robert Noyce Teacher Scholarship program, ATMALA will create a cadre of 20 Master Teaching Fellows. The project's Master Teaching Fellows will be teacher-leaders in high impact districts serving a significant population of English language learners, who will not only model effective instructional practice but will also support their peers in learning to do so. ATMALA will offer a model for supporting instructional shifts in schools where students historically have had less access to deep mathematics learning. The Master Teaching Fellows will become experts in their use of culturally responsive mathematics teaching (CRMT)- an approach that values students' cultural assets and focuses on authentic and relevant mathematical experiences - and the eight Mathematics Teaching Practices (MTPs) identified by the National Council of Teachers of Mathematics. As a result, they will become leaders in their districts who support current and future colleagues in their use of CRMT and the MTPs. To accomplish these goals, each Master Teaching Fellow will: (1) work to earn National Board Certification; (2) demonstrate competency in using CRMT and the MTPs; (3) support colleagues' professional growth by creating and facilitating engagement with microcredential modules, each focused on a well-defined skill related to CRMT and the MTPs; and (4) support future teachers as cooperating teachers.&lt;br/&gt;&lt;br/&gt;Project ATMALA is a collaboration between California State University, Fullerton (CSUF), the Anaheim Union High School District, and National Board for Professional Teaching Standards (non-profit organization). This Track 3 project supporting 20 carefully selected and prepared Master Teaching Fellows will build on the success of CSU Fullerton's Mathematics Teaching and Master Teaching Fellows project (NSF Award #1035315, 2010-2016) and Transforming Academic and Cultural Identidad through Bilteracy project (NSF Award #1321339, 2013-2016). The implementation of project ATMALA will result in a model of teacher-led professional development in high impact districts built around National Board Certification, principles of culturally responsive teaching, research-based mathematics teaching practices, and microcredential modules that promote competency-based teacher development. Project activities will be documented and evaluated in formative and summative reports. Qualitative and quantitative methods will be used to identify evidence-based outcomes related to teacher practices including examining students' perceptions of the mathematics learning environment in their classrooms. ATMALA leaders and participants will produce substantive dissemination works, including national presentations, refereed journal articles, and microcredential modules made widely available through collaboration with CSUF's University Extended Education.</AbstractNarration>
+    <MinAmdLetterDate>04/04/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/04/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660809</AwardID>
+    <Investigator>
+      <FirstName>Mark</FirstName>
+      <LastName>Ellis</LastName>
+      <EmailAddress>mellis@fullerton.edu</EmailAddress>
+      <StartDate>04/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Martin</FirstName>
+      <LastName>Bonsangue</LastName>
+      <EmailAddress>mbonsangue@fullerton.edu</EmailAddress>
+      <StartDate>04/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ruth</FirstName>
+      <LastName>Yopp-Edwards</LastName>
+      <EmailAddress>ryopp@fullerton.edu</EmailAddress>
+      <StartDate>04/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>California State University-Fullerton Foundation</Name>
+      <CityName>Fullerton</CityName>
+      <ZipCode>928313014</ZipCode>
+      <PhoneNumber>6572782106</PhoneNumber>
+      <StreetAddress>1121 North State College Blvd.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1795</Code>
+      <Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7908</Code>
+      <Text>Teaching &amp; Mstr Tchng Fellows</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

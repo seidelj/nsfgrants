@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1601288</AwardID>
     <Investigator>
-      <FirstName>Allison</FirstName>
-      <LastName>MacKay</LastName>
-      <EmailAddress>mackay.49@osu.edu</EmailAddress>
-      <StartDate>03/04/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>William</FirstName>
       <LastName>Arnold</LastName>
       <EmailAddress>arnol032@tc.umn.edu</EmailAddress>
       <StartDate>03/04/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Allison</FirstName>
+      <LastName>MacKay</LastName>
+      <EmailAddress>mackay.49@osu.edu</EmailAddress>
+      <StartDate>03/04/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Gordon Research Conferences</Name>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>DISSERTATION RESEARCH: Exploring novel leaf phenology of invading shrubs</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2018</AwardExpirationDate>
+    <AwardAmount>20436</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010208</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Betsy Von Holle</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Invasive shrubs are a major concern in eastern U.S. forests where their success is at the cost of native species diversity and tree regeneration. One of the reasons invasive shrubs may impact native ecosystems so greatly is that they have an extended period with leaves, as compared to native woody species, also called extended leaf phenology (ELP). Phenology is the timing of biological phenomena that correspond to climatic conditions. This earlier leaf emergence in the spring and/or later leaf fall in the autumn creates shade at unique times of the year. So far, studies comparing ELP of invasive compared to native shrubs have been done at single locations. However, we know that cues that drive leaf phenology, for example temperature, vary greatly from region to region and from year to year. So, when we compare regions across the eastern U.S., will we find differences in leaf phenology between native and invasive shrubs? Are there regions where it is important to focus management efforts because ELP of invading shrubs is greater? How will leaf phenology change with temperature changes? To address these questions, researchers have developed a citizen science campaign called "Shady Invaders" to collect leaf phenology observations across the eastern U.S. Through participant training and eNewsletter and webinar updates, both the public and scientific research are enriched from this collaboration. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Species-specific leaf phenology data are impossible to collect simultaneously across a regional scale without numerous observers. Fortunately, data collection is straightforward, allowing the growing efforts of citizen scientists to be applied to this problem. Regional citizen science phenology observations for native and invasive shrubs will provide insight into the spatial extent and consistency of the novel leaf phenology of invasive shrubs across eastern U.S. and will contribute to our understanding of the broader applicability of local-scale research on this topic. The landscape-scale, multi-year approach can be used to predict the potential implications of climate change for leaf phenology by developing a predictive model for phenology. Through collaboration with researchers from China, phenology data are being incorporated from the native range of the shrub species invading forests of eastern U.S. to understand whether novel phenology arose as a product of evolutionary pressures in the native range (pre-adaptation), or more recently in the introduced range (rapid adaptation with range expansion). This will contribute to pressing research questions as well as informing whether leaf phenology is a useful tool for predicting and preventing future invasions.</AbstractNarration>
+    <MinAmdLetterDate>04/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1701470</AwardID>
+    <Investigator>
+      <FirstName>Margot</FirstName>
+      <LastName>Kaye</LastName>
+      <EmailAddress>mwk12@psu.edu</EmailAddress>
+      <StartDate>04/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Erynn</FirstName>
+      <LastName>Maynard</LastName>
+      <EmailAddress>eem212@psu.edu</EmailAddress>
+      <StartDate>04/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Pennsylvania State Univ University Park</Name>
+      <CityName>UNIVERSITY PARK</CityName>
+      <ZipCode>168027000</ZipCode>
+      <PhoneNumber>8148651372</PhoneNumber>
+      <StreetAddress>110 Technology Center Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1182</Code>
+      <Text>POP &amp; COMMUNITY ECOL PROG</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

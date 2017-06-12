@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Monolithic integrated-photonic sensors in the molecular fingerprint region</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shubhra Gangopadhyay</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is to develop a materials platform for mid-infrared integrated photonics and create mid-infrared photonic crystal sensors with parts per billion sensitivity. Such a platform and sensors do not currently exist. High sensitivity will be achieved by targeting strong fundamental vibrational absorption lines of chemical components in the mid-infrared spectral range, also known as the molecular fingerprint region, and employing the principle of slow light in slotted photonic crystal waveguides. The photonic crystal waveguides will be monolithically integrated with mid-infrared quantum cascade lasers and detectors using epitaxial transfer techniques to produce highly compact integrated-photonic chemical sensors operating in the mid-infrared spectral region for a wide range of applications, such as chemical and biomedical sensing, environmental monitoring, and security applications.&lt;br/&gt;&lt;br/&gt;The scientific objective of this project to investigate a mid-infrared photonic waveguideing platform spanning molecular fingerprint region (3-14 micrometer) and develop integrated-photonic sensors in the molecular fingerprint region. Silicon-on-insulator devices cannot be operated beyond 3.5 micrometer wavelength range owing to mid-infrared absorption in SiO2, silicon-on-sapphire platform is limited to wavelengths below 5 micrometer owing to sapphire absorption, and silicon itself is only transparent down to 7-8 micrometers. The lack of a suitable photonic waveguiding platform currently limits the realization of a portable absorption spectrometer surrogate of benchtop infrared spectroscopic systems that can effectively probe the molecular fingerprint region below 1500 cm-1. Epitaxially-grown GaAs/AlGaAs waveguides offer a well-established lattice-matched, very low defect density and high index contrast platform for low loss optical circuits in the entire 3-14 micrometer wavelength range. This project aims at developing a GaAs/AlGaAs integrated photonics platform for on-chip mid-infrared photonics spanning the entire mid-infrared spectral range, including the molecular fingerprint region, and using this platform to demonstrate high sensitivity low parts per billion on-chip absorption sensing in the molecular fingerprint region.  High sensitivity will be achieved using slotted photonic crystal waveguide devices. The proposed platform is expected to have a detection limit of 0.3 parts per billion for CO2 and 1 part per billion for toluene at their respective peak absorbance wavelengths at 4.23 micrometer and at 13.8 micrometer, respectively.</AbstractNarration>
+<MinAmdLetterDate>05/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1711824</AwardID>
+<Investigator>
+<FirstName>Ray</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>chen@ece.utexas.edu</EmailAddress>
+<StartDate>05/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mikhail</FirstName>
+<LastName>Belkin</LastName>
+<EmailAddress>mbelkin@ece.utexas.edu</EmailAddress>
+<StartDate>05/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787121532</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>101 E. 27th Street, Suite 5.300</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+</Award>
+</rootTag>

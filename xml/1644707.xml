@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps Sites - Type I: Mass-I-Corps at UMass Lowell</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2022</AwardExpirationDate>
+    <AwardAmount>99969</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Anita J. LaSalle</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project establishes an I-Corps Site at the University of Massachusetts Lowell&lt;br/&gt;(UMass Lowell). The Site builds on existing programs while establishing/strengthening existing collaborations with The University of Massachusetts Medical School, University of Massachusetts Boston, and Middlesex Community College. Activities of the site will include: training teams, nurturing and mentoring teams, awarding grants for customer discovery, and facilitating follow-on support.&lt;br/&gt;&lt;br/&gt;NSF Innovation Corps (I-Corps) Sites are NSF-funded entities established at universities whose purpose is to nurture and support multiple, local teams to transition their technology concepts into the marketplace. Sites provide infrastructure, advice, resources, networking opportunities, training and modest funding to enable groups to transition their work into the marketplace or into becoming I-Corps Team applicants. &lt;br/&gt;&lt;br/&gt;Some of the strengths that this institution brings to the I-Corps Site Program are: UMass Lowell has a percentage of 1st time in college students that is significantly higher than most private universities; the programs that will be associated with the I-Corps Site have a track record for attracting women and minorities into their programming; a clear methodology for tracking and evaluating team success is provided that captures various aspects of performance and other programmatic characteristics; and, based on the description of existing programs and initiatives at the institution, there appears to be adequate resources in place to carry out the proposal. The project plans to engage a wide variety of institutional partners while also targeting women, first-generation students and students of color for participation in the Sites program. The potential to realize broader impacts is a definite strength of the proposal.</AbstractNarration>
+    <MinAmdLetterDate>02/01/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/01/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1644707</AwardID>
+    <Investigator>
+      <FirstName>Nancy</FirstName>
+      <LastName>Saucier</LastName>
+      <EmailAddress>Nancy_Saucier@uml.edu</EmailAddress>
+      <StartDate>02/01/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Steven</FirstName>
+      <LastName>Tello</LastName>
+      <EmailAddress>Steven_Tello@uml.edu</EmailAddress>
+      <StartDate>02/01/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Massachusetts Lowell</Name>
+      <CityName>Lowell</CityName>
+      <ZipCode>018543643</ZipCode>
+      <PhoneNumber>9789344170</PhoneNumber>
+      <StreetAddress>600 Suffolk Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8046</Code>
+      <Text>I-Corps - Sites</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

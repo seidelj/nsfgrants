@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Kokes Awards for the 25th North American Catalysis Society Meeting</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>30000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robert McCabe</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The project will support graduate and undergraduate participation in the 25th meeting of the North American Catalysis Society (NACS) to be held in Denver, Colorado June 4-9, 2017. Specifically, the funds will provide assistance to 30 students from U.S. universities for registration fees and travel related expenses as administered through the Kokes Travel Award program sponsored by the NACS. The students will present their research at the conference, attend lectures by leaders in the field of catalysis, and provide assistance to the organizers in running the meeting. &lt;br/&gt;&lt;br/&gt;The biennial NACS meetings are the largest North American meetings dedicated to catalysis. Student participation helps train young researchers in this vital aspect of science and engineering that supports advances in environmental pollution control, energy utilization, sustainability, and greenhouse gas reduction, thereby building the next generation of catalytic scientists and engineers working to ensure competitiveness of our Nation's chemical and petroleum industries.</AbstractNarration>
+    <MinAmdLetterDate>02/02/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/02/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1664872</AwardID>
+    <Investigator>
+      <FirstName>Svitlana</FirstName>
+      <LastName>Pylypenko</LastName>
+      <EmailAddress>spylypen@mines.edu</EmailAddress>
+      <StartDate>02/02/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Colorado School of Mines</Name>
+      <CityName>Golden</CityName>
+      <ZipCode>804011887</ZipCode>
+      <PhoneNumber>3032733000</PhoneNumber>
+      <StreetAddress>1500 Illinois</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1401</Code>
+      <Text>Catalysis</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Medium: WHOLEPRO: An Online, Holistic Job Scheduling and Resource Provisioning Framework for Datacenter Architectures and Applications</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>359245</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tao Li</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The ultimate design goal of datacenter services is to enable user-centric services that meet diverse Quality-of-Experience (QoE) requirements for individual users, while allowing for optimized and fair computing and networking resource sharing among users. However, achieving this goal is by no means easy. Existing datacenter job scheduling and resource provisioning mechanisms are bottom-up, point solutions, addressing partial aspects of the related design challenges only, and hence, fail to achieve the above goal.  &lt;br/&gt;     &lt;br/&gt;The proposed research will develop a top-down, holistic approach concerning the entire datacenter systems stack, aiming at achieving the dual goal. It starts from the very top, i.e., the QoE or user utility requirements at the user application level. It then works its way downward, by mapping user-level requirements into datacenter system-level resource demands, which, together with the datacenter computing and networking resource constraints, set the boundary conditions for a proposed user-utility-aware optimization framework. Finally, an example software-based design and implementation of the proposed solution will be developed for a state-of-the-art, distributed datacenter. Successfully achieving this goal will provide significant improvement in performance guarantees and resource utilization in current and future datacenters for a wide range of applications with diverse QoE requirements. Moreover, the proposed approach promotes fundamental analysis in guiding the design of robust complex systems and may give rise to new theories for datacenter and cloud computing in general. The involvement of underrepresented minority and women students, and students with disability in this proposed research through existing course offerings and a REU program will enhance their competitiveness in the future job market.</AbstractNarration>
+<MinAmdLetterDate>05/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1704504</AwardID>
+<Investigator>
+<FirstName>Hong</FirstName>
+<LastName>Jiang</LastName>
+<EmailAddress>hong.jiang@uta.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hao</FirstName>
+<LastName>Che</LastName>
+<EmailAddress>hche@cse.uta.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Arlington</Name>
+<CityName>Arlington</CityName>
+<ZipCode>760190145</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF TEXAS AT</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

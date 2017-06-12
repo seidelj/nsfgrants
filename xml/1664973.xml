@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Transition Metal Complexes with Multiple Ligand Bonds as the Lewis Base Component of Frustrated Lewis Pairs</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>143711</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kenneth Moloy</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The design and discovery of new catalysts, and new catalytic transformations, is critical for the efficient utilization of our natural resources. With this award from the Chemical Catalysis Program of the NSF Division of Chemistry, Professor Ison is developing catalysts that contain a bond between an oxygen atom and a transition metal, specifically rhenium. The rhenium-oxygen bond has unique reactivity that is being used to develop fundamentally new catalytic reactions. For example, new ways to convert carbon dioxide into useful chemicals are being investigated. Dr. Ison is involved in a variety of outreach efforts aimed at recruiting high school and undergraduate students to pursue careers in STEM fields. In addition, Dr. Ison is engaged in the training of high school teachers to incorporate aspects of his research into the high school science curriculum.&lt;br/&gt;&lt;br/&gt;This award from the Chemical Catalysis Program of the Chemistry Division supports research by Dr. Elon Ison who is designing new catalysts that contain a rhenium-ligand multiple bond. In this approach, five-coordinate square pyramidal complexes with a terminal multiple bond to a heteroatom in the apical position are utilized so that the electronic consequences of this geometric arrangement can be used to develop catalysts for the activation of small molecules. Dr. Ison is developing a new type of frustrated Lewis pair (FLP) catalyst, where a transition metal oxo acts as the Lewis base component. These new FLPs are effective as catalysts for hydrogenation, and involve a new mechanism for substrate activation by a transition metal complex where the metal does not directly participate, but instead plays an ancillary role. Fundamental mechanistic studies as well as high-level density functional theory(DFT) calculations are being used to understand the structure and reactivity of these FLPs and to design new catalytic systems In this project, Dr. Ison is developing FLP catalyst for asymmetric hydrogenations and the activation of carbon dioxide. Dr. Ison is involved in a variety of outreach efforts aimed at recruiting high school and undergraduate students to pursue careers in STEM fields. In addition, Dr. Ison is engaged in the training of high school teachers to incorporate aspects of his research into the high school science curriculum.</AbstractNarration>
+    <MinAmdLetterDate>04/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1664973</AwardID>
+    <Investigator>
+      <FirstName>Elon</FirstName>
+      <LastName>Ison</LastName>
+      <EmailAddress>eaison@ncsu.edu</EmailAddress>
+      <StartDate>04/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>North Carolina State University</Name>
+      <CityName>RALEIGH</CityName>
+      <ZipCode>276957514</ZipCode>
+      <PhoneNumber>9195152444</PhoneNumber>
+      <StreetAddress>CAMPUS BOX 7514</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>6884</Code>
+      <Text>Chemical Catalysis</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8037</Code>
+      <Text>Advanced Manufacturing</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

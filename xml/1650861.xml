@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RUI: Interactions between language and cognition in the early acquisition of spatial language</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>500000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>David Moore</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project will provide a better understanding of how preverbal infants represent spatial configurations, and of how linguistic input and experiences with objects in the first four years of life affect early spatial representations. Specifically, in studies of children acquiring spatial language, the project will explore interactions between their understanding of spatial configurations, the language they hear, and their experience with objects. The research will provide detailed understanding of early spatial term development, thus illuminating how these terms might enable the expression of abstract spatial relationships pertinent to STEM-related disciplines. The research also has the potential to contribute to understanding of spatial and language deficits in individuals with developmental disorders (such as autism or William syndrome). Finally, this project will give a diverse set of students from underrepresented groups experience with all aspects of a scientific research project. Mentoring will be conducted by two faculty in different laboratories and Universities, thus offering students exposure to scientific research and instilling in them an appreciation for scientific discovery. &lt;br/&gt;&lt;br/&gt;This project is highly inter-disciplinary. It uses an approach that is motivated by linguistic analyses of spatial terms, it proposes clear hypotheses built on findings from studies of infant cognition and language development, and it utilizes state-of-the art research methods for studying infant cognition and language development. The project will study spatial language development by examining three components likely to play a significant role in spatial language acquisition: (a) core spatial concepts, (b) linguistic input, and (c) specific experiences with objects. To systematically test the interaction of these components, the project will focus on the domain of "support." The core concept of "support from below" will be tested in children 6 months to 4.5 years of age, using infant looking time paradigms and early language comprehension paradigms, as well as spontaneous and elicited language production methods. The influence of linguistic input on children's understanding of support will be tested by relating parents' language of support to children's language development, and by relating specific support language, such as "is on" or "sticks to," to children's spatial representations. The influence of children's experience with objects on their understanding of support will be tested by examining how their experiences with object properties relevant for support, such as "stickiness," influence early support understanding.</AbstractNarration>
+    <MinAmdLetterDate>03/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650861</AwardID>
+    <Investigator>
+      <FirstName>Barbara</FirstName>
+      <LastName>Landau</LastName>
+      <EmailAddress>landau@cogsci.jhu.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Laura</FirstName>
+      <LastName>Lakusta</LastName>
+      <EmailAddress>LakustaL@mail.montclair.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Montclair State University</Name>
+      <CityName>Montclair</CityName>
+      <ZipCode>070431624</ZipCode>
+      <PhoneNumber>9736556923</PhoneNumber>
+      <StreetAddress>1 Normal Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1698</Code>
+      <Text>DS - Developmental Sciences</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1698</Code>
+      <Text>DEVELOP&amp; LEARNING SCIENCES/CRI</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9229</Code>
+      <Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

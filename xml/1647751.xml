@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Development of Broadly Efficacious Ribonucleic Acid Interference Triggers for Pesticides</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ruth M. Shuman</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will be the expansion of the range of applications of safe, selective, and effective ribonuclic acid interference (RNAi) triggers for use as pesticides. If successful, this biotechnology will contribute to sustainable food production and enhance biodiversity with minimal use of non-selective pesticides associated with human health costs and harmful impacts to non-target flora and fauna. The intended first product resulting from this project will be an insecticide to control fire ants. It is estimated that fire ants cause $7 billion in damages in the U.S. annually. There are number of products on the market that control fire ants, but few that customers are confident are environmentally benign and completely safe to humans and pets.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to develop and commercialize topical RNAi-based pesticides. Topical RNAi-based pesticides have been demonstrated in the lab to be very selective with respect to the intended target. They also may be readily modified to combat developed pesticide resistance by target pests. However, due to low efficacy at economically attractive application rates, few pests are currently in the RNAi list of commercial targets. This project specifically addresses the challenges related to 1) RNAi efficacy 2) cost of RNAi triggers. The outcomes of the proposed research would enable 1) lower the cost of topical RNAi-based pesticides by at least four-fold, 2) extend the range of the target insects, and 3) target Solenopsis Invicta Buren (Red Imported Fire Ant, RIFA). Once effective RNAi triggers have been identified, the process will be scaled up for the Phase II proposal. During Phase II, reaction conditions will be optimized at pilot scale to demonstrate the technology's value for production of RNAi triggers needed for field tests on RIFA.</AbstractNarration>
+    <MinAmdLetterDate>12/16/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/16/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647751</AwardID>
+    <Investigator>
+      <FirstName>Juan</FirstName>
+      <LastName>Arhancet</LastName>
+      <EmailAddress>juan.arhancet@apsellc.com</EmailAddress>
+      <StartDate>12/16/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>APSE, Inc</Name>
+      <CityName>St. Louis</CityName>
+      <ZipCode>631082979</ZipCode>
+      <PhoneNumber>2027015532</PhoneNumber>
+      <StreetAddress>4320 Forest Park Ave.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8038</Code>
+      <Text>Biotechnology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

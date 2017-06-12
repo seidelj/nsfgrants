@@ -44,5 +44,13 @@
       <StateName>Washington</StateName>
       <StateCode>WA</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1640</Code>
+      <Text>INFORMATION TECHNOLOGY RESEARC</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8235</Code>
+      <Text>CPS-Synergy</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

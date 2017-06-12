@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Quantifying the effects of a fungus-mediated termite and bark beetle interaction on wood decomposition.</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>227494</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010209</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Kane</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The health, conservation and management of forests depends on accurate models predicting the rate at which trees die and decompose. Currently, such models assume the rate at which dead wood decomposes is primarily a function of the temperature, tree type and available moisture. Recent evidence suggests that wood-consuming decomposer organisms may be nearly as important in determining the rate of wood decay as these environmental factors. Bark beetle infestations in forests generate massive amounts of dead wood during outbreaks.  During bark beetle epidemics, termites create biological hotspots in and around the dead trees in which they feed.  This, in turn, influences the abundance and diversity of subsequent decomposer organisms.  Preliminary findings from a forest in in the Southeastern USA indicate that fungi carried to trees by bark beetles increase the rate at which termites consume wood containing these fungi. This EAGER project will use intense field studies to determine whether the interaction between bark beetles, fungi and termites is widespread in other forests in North and South America.  This discovery may help solve a critical need to understand why dead wood in forests often decomposes at more variable rates than expected based on temperature. The project will include training opportunities at the undergraduate and graduate levels.  As part of the project, a permanent termite display will be constructed at the Mississippi Entomological Museum, and project findings will be disseminated via a popular social media webpage.&lt;br/&gt;&lt;br/&gt;The objective of this project is to experimentally quantify the importance of this newly-discovered fungus-mediated interaction between bark beetles and subterranean termites on wood decomposition rates in a wide array of coniferous forests (tropical, subtropical, and arid) that contain ongoing bark beetle epidemics and three distinct levels of subterranean termite abundance and diversity. Three field sites will be established, each with an experiment that manipulates presence/absence of the fungus and subsequently quantifies differences in composition of the decomposer communities and rate of wood decay. Meteorological data (temperature, precipitation), termite and other woodboring insect abundance and diversity, fungal community data, wood and soil heterotrophic respiration data, and wood decomposition data we be collected at each site. In this way, this study will determine the relative importance of this biological interaction in mediating wood decomposition across a variety of climactic zones. Ecosystem processes such as decomposition are currently treated as a black box in models, with little focus on interactions among decomposers. The recently discovered link between two ecosystem engineers (bark beetles and termites) may be a significant driver of carbon fluxes in many forest ecosystems, and therefore may have significant impact on the future conceptual frameworks employed to quantify and model wood decomposition rates.</AbstractNarration>
+<MinAmdLetterDate>06/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1660346</AwardID>
+<Investigator>
+<FirstName>Courtney</FirstName>
+<LastName>Siegert</LastName>
+<EmailAddress>courtney.siegert@msstate.edu</EmailAddress>
+<StartDate>06/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Riggins</LastName>
+<EmailAddress>jriggins@entomology.msstate.edu</EmailAddress>
+<StartDate>06/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Natalie</FirstName>
+<LastName>Clay</LastName>
+<EmailAddress>nclay@latech.edu</EmailAddress>
+<StartDate>06/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Juliet</FirstName>
+<LastName>Tang</LastName>
+<EmailAddress>julietdtang@fs.fed.us</EmailAddress>
+<StartDate>06/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Mississippi State University</Name>
+<CityName>MISSISSIPPI STATE</CityName>
+<ZipCode>397629662</ZipCode>
+<PhoneNumber>6623257404</PhoneNumber>
+<StreetAddress>PO Box 6156</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

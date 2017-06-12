@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>West Coast Operator Algebra Seminar 2016</AwardTitle>
+<AwardEffectiveDate>10/15/2016</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2017</AwardExpirationDate>
+<AwardAmount>35750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce P. Palka</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides funding to help defray the expenses of participants in the "West Coast Operator Algebra Seminar 2016" that will be held on October 15 and 16, 2016, on the campus of the University of Wyoming.&lt;br/&gt;&lt;br/&gt;This conference is the twenty-fourth installment of the West Coast Operator Algebra Seminar (WCOAS), a series that annually brings together a diverse group of mathematicians whose primary research interests are in the theory of operator algebras. Some of the foci of the 2016 event are the following: the Elliott classification program for C*-algebras; the Baum-Connes conjecture and its applications; rigidity for actions of countable discrete groups on von Neumann algebras; subfactors and their invariants; graph C*-algebras; free probability and its applications; quantum groups; crossed products, imprimitivity, and duality for C*-algebras. The conference program provides ample opportunity for graduate students, postdocs, and other young scientists to present their work. The seminar website is located at http://www.uwyo.edu/zniu/wcoas2016/index.html.</AbstractNarration>
+<MinAmdLetterDate>10/14/2016</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1642516</AwardID>
+<Investigator>
+<FirstName>Zhuang</FirstName>
+<LastName>Niu</LastName>
+<EmailAddress>zniu@uwyo.edu</EmailAddress>
+<StartDate>10/14/2016</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wyoming</Name>
+<CityName>Laramie</CityName>
+<ZipCode>820712000</ZipCode>
+<PhoneNumber>3077665320</PhoneNumber>
+<StreetAddress>1000 E. University Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<StateCode>WY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

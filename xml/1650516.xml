@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>The Atlanta Backbone Organization Design Workshop: Computer Science Education Collective Impact Initiatives</AwardTitle>
+    <AwardEffectiveDate>11/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2017</AwardExpirationDate>
+    <AwardAmount>249772</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Martha L. James</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The NSF INCLUDES program supports models, networks, partnerships and research to ensure the broadening participation in STEM of women, members of racial and ethnic groups that have been historically underrepresented, persons of low socio-economic&lt;br/&gt;status, and people with disabilities.&lt;br/&gt;&lt;br/&gt;The Georgia Department of Education will convene the "CS in the ATL" conference on inclusion in the computer science discipline during the February/March 2017 timeframe in Atlanta, Georgia. The conference includes several workshops on backbone organization design in support of the National Science Foundation's Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (NSF INCLUDES) initiative.&lt;br/&gt;&lt;br/&gt;Approximately 150 individuals serving a broad cross-section of Georgia's K-12, higher education, public, private and non-profit constituencies as well as representatives of the inaugural NSF Design and Development Launch Pilot projects will participate in 2 days of conference workshops - the results of which will be disseminated via a dedicated website and conference report.</AbstractNarration>
+    <MinAmdLetterDate>11/10/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/10/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650516</AwardID>
+    <Investigator>
+      <FirstName>Caitlin</FirstName>
+      <LastName>Dooley</LastName>
+      <EmailAddress>cdooley@doe.k12.ga.us</EmailAddress>
+      <StartDate>11/10/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Georgia Department of Education</Name>
+      <CityName>Atlanta</CityName>
+      <ZipCode>303349050</ZipCode>
+      <PhoneNumber>4046565957</PhoneNumber>
+      <StreetAddress>2054 Twin Towers East</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>032Y</Code>
+      <Text>NSF INCLUDES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>030Z</Code>
+      <Text>Backbone Org INCLUDES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CI-SUSTAIN: Sustainable Tools for Analysis and Research on Darknet Unsolicited Traffic (STARDUST).</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>732459</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Von Lehmen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Internet is a vast enterprise carrying information to people and devices all over the world.  The University of California San Diego Network Telescope (UCSD-NT) is a unique monitoring system which, for over a decade, has enabled global visibility into Internet behavior that few other data sources can offer.  It has provided relevant data used in a broad set of sub-disciplines in Computer &amp; Information Science &amp; Engineering (CISE) and beyond, from network and systems security and stability, to machine learning and big data processing techniques, and, most recently, for studies of cyberwarfare.  The STARDUST project will help sustain operation and extend the applicability of the UCSD-NT infrastructure.  The stabilized and enhanced infrastructure capabilities will serve a diverse range of academic researchers, the vast majority of whom have no access to any other source of global Internet traffic data.  In addition, the proposed enhancements will support invaluable hands-on experience in operationally relevant network security and traffic analysis research for a wide audience of computer science students.&lt;br/&gt;&lt;br/&gt;STARDUST aims at maintaining continued operation of the UCSD-NT infrastructure while maximizing its utility to researchers from various disciplines.  The scope of work includes upgrading and modernizing the current infrastructure to handle the predicted growth in traffic, leveraging virtualization and NSF-funded High-Performance Computing (HPC) platforms at the San Diego Supercomputer Center for computational data analysis, and introducing meta-data semantics to simplify many tasks researchers typically want to do with UCSD-NT data.  The proposed modifications will leave researchers more time (and available HPC resources) to focus on their specific scientific questions.  Moreover, the project will forge an interdisciplinary collaboration between researchers from the field of computer networks and HPC scientists and engineers to experiment with novel approaches for research on live traffic analysis.  Project results will contribute to advancing knowledge in diverse CISE disciplines, e.g., facilitating the development of efficient strategies for early detection and mitigation of cyber attacks, supporting macroscopic Internet performance and reliability assessments, and opening a new domain for the application of live streaming big data analysis techniques.</AbstractNarration>
+<MinAmdLetterDate>05/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1730661</AwardID>
+<Investigator>
+<FirstName>Alberto</FirstName>
+<LastName>Dainotti</LastName>
+<EmailAddress>aldainotti@ucsd.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alistair</FirstName>
+<LastName>King</LastName>
+<EmailAddress>ajking@ucsd.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Broadening Participation in Materials - 2017 MRS Spring Meeting</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2018</AwardExpirationDate>
+    <AwardAmount>46515</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03070000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Materials Research</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Guebre X. Tessema</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award supports the Materials Research Society(MRS)Broadening Participation in Materials Underrepresented Student Mentoring Program at the 2017 MRS Spring Meeting in Phoenix, AZ, April 17-19, 2017. The workshop pairs underrepresented minority (URM) undergraduate students (mentees) with graduate student mentors from MRS University Chapters to help them navigate the next steps in their education and career. The program is structured to offer opportunities to enhance students' skill in networking, research presentation, and communication. The URM student mentees will participate in a poster competition. The top 3 posters will receive special recognition. The students will also be provided with a one-on-one appointment with a professional career coach and have the opportunity to participate in mock interviews, and resume critiques. Applications are solicited through the MRS web site, outreach to universities, nonprofits, and other organizations with underrepresented student populations. MRS provides complimentary full MRS Spring Meeting registration for the selected URM students, which will include a 1-year MRS student membership. The NSF funds pay for travel grants to students who might not otherwise be able to attend. URM students who have their own travel funding are invited to participate in the program to expand the number of students served.</AbstractNarration>
+    <MinAmdLetterDate>04/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1741838</AwardID>
+    <Investigator>
+      <FirstName>J. Ardie Butch</FirstName>
+      <LastName>Dillen</LastName>
+      <EmailAddress>dillen@mrs.org</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Materials Research Society</Name>
+      <CityName>Warrendale</CityName>
+      <ZipCode>150867573</ZipCode>
+      <PhoneNumber>7247792732</PhoneNumber>
+      <StreetAddress>506 KEYSTONE DR</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7222</Code>
+      <Text>XC-Crosscutting Activities Pro</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7913</Code>
+      <Text>PREM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1711</Code>
+      <Text>MATERIALS EDUCATION AND RESEARCH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7487</Code>
+      <Text>BROADENING PARTICIPATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

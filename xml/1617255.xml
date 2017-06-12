@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>RAPID - Abnormal bleaching in Cliona varians in the Florida Keys: Consequences for coral reef health.</AwardTitle>
     <AwardEffectiveDate>01/01/2016</AwardEffectiveDate>
-    <AwardExpirationDate>12/31/2016</AwardExpirationDate>
+    <AwardExpirationDate>06/30/2017</AwardExpirationDate>
     <AwardAmount>69753</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -45,12 +45,12 @@
       <StateCode>VA</StateCode>
     </Institution>
     <ProgramElement>
-      <Code>1650</Code>
-      <Text>BIOLOGICAL OCEANOGRAPHY</Text>
-    </ProgramElement>
-    <ProgramElement>
       <Code>7657</Code>
       <Text>Integrative Ecologi Physiology</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1650</Code>
+      <Text>BIOLOGICAL OCEANOGRAPHY</Text>
     </ProgramElement>
     <ProgramReference>
       <Code>1650</Code>

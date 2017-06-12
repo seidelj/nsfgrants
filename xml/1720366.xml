@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Parallel Nonlinear Preconditioning Algorithms and Applications in Biomechanics</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>240000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rosemary Renaut</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Computer simulation of fluid-structure interaction problems has many applications in science and engineering, such as the vibration analysis of aircraft, automobiles, and suspension bridges. More recently, the technique has been extended to diagnosing and treatment planning of certain medical problems such as congenital and acquired cardiovascular diseases, and to the design and optimization of medical devices. Solving the fluid-structure interaction problems on supercomputers with a large number of processor cores is challenging because the mathematical model consists of a coupled complicated nonlinear system, and most existing algorithms and software for the solution of problems of this kind do not scale well beyond a few hundred processor cores. The principal investigator will develop highly scalable algorithms and software that are suitable for large scale supercomputers and  applicable for different models of blood flows and material parameters for the arterial wall. &lt;br/&gt; &lt;br/&gt;Mature technologies are available for solving many types of linear problems, but for coupled, highly nonlinear multi-physics problems, robust and scalable techniques are badly needed, especially for implementation on large scale parallel computers. The technical focus of this project is a class of non-linearly preconditioned Newton methods that combines a nonlinear elimination technique with multilevel domain decomposition for parallelization. Through this research the principal investigator will solve non-linear difficult problems modeling a wide range of physical models with different levels of non-linearities. Algorithms that provide a high degree of parallelism will be designed so that large scale parallel computers can be used efficiently.  The target application is a family of fluid-structure interaction problems in biomechanics. For the fluid model, both Newtonian and non-Newtonian models will be studied. For solid models, linear elasticity will be considered for small deformations,  geometric nonlinear elasticity will be considered for large deformations, and hyper-elasticity will be considered for materially nonlinear problems. Two- and many-level versions of the algorithms will be investigated to obtain high scalability on parallel computers with a large number of processor cores.  This research will have a great impact in areas of computational science and engineering where non-linear difficult problems need to be solved. The research is rich in opportunities for both graduate and undergraduate students interested in applications in biomechanics, parallel computing, and general computational science and engineering.</AbstractNarration>
+<MinAmdLetterDate>05/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1720366</AwardID>
+<Investigator>
+<FirstName>Xiao-Chuan</FirstName>
+<LastName>Cai</LastName>
+<EmailAddress>cai@cs.colorado.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FLUID DYNAMICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7454</Code>
+<Text>MSPA-INTERDISCIPLINARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8007</Code>
+<Text>BioMaPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

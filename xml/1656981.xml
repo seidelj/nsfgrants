@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: CPS: Secure-by-Design Synthesis of Cyber-Physical Systems</AwardTitle>
+    <AwardEffectiveDate>01/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2018</AwardExpirationDate>
+    <AwardAmount>174997</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Samee Khan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Cyber-physical systems, including unmanned vehicles, networked medical devices, and smart manufacturing, are expected to autonomously perform complex tasks, while satisfying strict requirements on safety and performance. An emerging approach to designing such systems is to automatically generate a controller that captures the desired functionality of the system. The ability of the system to execute the control, however, may be impacted by malicious adversaries mounting cyber and physical attacks. The goal of this project is to develop a framework for automatically generating control actions that jointly consider safety, performance, and security. &lt;br/&gt;&lt;br/&gt;The proposed effort contains two research thrusts. The first thrust consists of methodologies for integrating security threats into logical specifications for Cyber-physical systems (CPS), and verifying whether a CPS satisfies the specification under a given adversary model. Verification is performed via a new class of behavioral games that we develop. The second thrust consists of approaches for automatic synthesis of secure controllers that satisfy the specifications developed in the first thrust. The project aims to formulate passivity-based rules for composing multiple control laws to ensure security against multi-stage attacks, as well as methods for switching controllers based on the current estimate of the adversary actions.&lt;br/&gt;&lt;br/&gt;This effort will contribute to development of CPS, such as autonomous vehicles and smart homes, that operate safely in the presence of cyber attacks. Algorithms developed in the project will be implemented on mobile platforms in order to demonstrate the practical feasibility of our approach and ensure successful and timely transition to practice. Research will be conducted by graduate student research assistants as part of their training, while implementation will be done in conjunction with undergraduate research projects at Worcester Polytechnic Institute. Results will be disseminated through peer-reviewed publications, intellectual property disclosures, and open-source software release via CPS Virtual Organization (CPS-VO).</AbstractNarration>
+    <MinAmdLetterDate>01/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656981</AwardID>
+    <Investigator>
+      <FirstName>Andrew</FirstName>
+      <LastName>Clark</LastName>
+      <EmailAddress>aclark@wpi.edu</EmailAddress>
+      <StartDate>01/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Worcester Polytechnic Institute</Name>
+      <CityName>WORCESTER</CityName>
+      <ZipCode>016092247</ZipCode>
+      <PhoneNumber>5088315000</PhoneNumber>
+      <StreetAddress>100 INSTITUTE RD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7354</Code>
+      <Text>COMPUTER SYSTEMS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7918</Code>
+      <Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

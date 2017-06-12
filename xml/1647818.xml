@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: High multiplex visual mapping of heterogeneity in FFPE biospecimen</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>213904</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Henry Ahn</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This SBIR Phase I project will address drug resistance in cancer patients through the advanced analysis of biopsies. Not only is each patient unique but their tumor contains a high level of genetic diversity as well. Overlooked diversity within patient tumors can lead to inadequate treatment and consequently acquired drug resistance, and has also been shown to predict therapeutic response to certain drugs. The proposed technology is capable of extracting and correlating tumor gene expression profiles to the spatial information and imaging of a biopsy so that a physical map of genetic diversity can be constructed. The initial application of this method will be in immuno-oncology where the spatial locations of immune cells fighting cancer have been shown to predict response to treatment. The next step will be to elucidate all cell types in the specimen that are usually overlooked with conventional diagnostics and use this information for determining treatment combinations that would affect all types of malignant cells found in this tumor. This directly addresses the Cancer Moonshot Initiative's focus on combination treatments for personalized medicine. Successful commercialization of this method will result in drug biomarker discovery services, precision screening for patients, and fundamental discoveries in biology by researchers using this tool to investigate various diseases. &lt;br/&gt;&lt;br/&gt;The technical innovation in this SBIR Phase I Project is the ability to correlate genomic analysis with spatial information to create an in-situ map of gene expression across the specimen. Imaging and big genomic data such as sequencing have been mutually exclusive, and the ability to correlate them in order to visualize genetic diversity within a specimen would be informative for both screening and research. The goals of this project are to demonstrate the ability to create a visual heat map of gene expression from archived biopsies and to show that this expression map identifies genetic diversity that standard analysis methods do not. Quantification of this diversity and the locations of deviations in the tumor will be the basis of future screenings for drug responsiveness as well as basic research into the causes and treatments of various diseases.</AbstractNarration>
+    <MinAmdLetterDate>12/14/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/14/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647818</AwardID>
+    <Investigator>
+      <FirstName>Dmitry</FirstName>
+      <LastName>Derkach</LastName>
+      <EmailAddress>dderkach@omicascience.com</EmailAddress>
+      <StartDate>12/14/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>BioSyntagma, LLC</Name>
+      <CityName>Scottsdale</CityName>
+      <ZipCode>852573538</ZipCode>
+      <PhoneNumber>6025162199</PhoneNumber>
+      <StreetAddress>1475 N Scottsdale Rd Ste 200</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8038</Code>
+      <Text>Biotechnology</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

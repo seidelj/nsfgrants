@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Broadening Participation in Engineering: A Qualitative Study on Latina/o Persistence In and Beyond the Degree</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2020</AwardExpirationDate>
+    <AwardAmount>456076</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>James Moore</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>A diverse and well-prepared engineering workforce, one that includes Hispanic women and men, can potentially advance the engineering field. Hispanic-serving institutions (HSIs) enroll almost half of Hispanic students attending college. If engineering educators and others are to successfully broaden participation of Hispanics in engineering, it is imperative to understand the role HSIs play and the potential for broadening participation of Hispanics in engineering and computer science. Equally important is the contribution to the understanding of the challenges, barriers, and/or hurdles Hispanics face in seeking engineering and computer science degrees at HSIs. To this end, a team at The University of Texas at El Paso (UTEP) will conduct a qualitative research investigation to understand the persistence of Hispanic mechanical engineering and computer science undergraduate students who are in their senior capstone course; and identify those salient factors contributing to these students' successful trajectories as they seek professional positions in the workplace, and/or make decisions to continue in graduate school during their last year of undergraduate studies. The study will take place at UTEP, an HSI that has been identified as a university with one of the highest upward social mobility rates in the U.S. The project will be using a qualitative research methodology to answer the following overarching research questions: &lt;br/&gt;&lt;br/&gt;1. How do undergraduate Latina/o students who are enrolled in a senior capstone engineering course understand their identities in the context of completing their studies and their transition to the workforce and/or graduate studies? &lt;br/&gt;&lt;br/&gt;2. What institutional conditions in an HSI university facilitate or inhibit Latina/o transition into the engineering workforce and/or graduate studies?&lt;br/&gt;&lt;br/&gt;Understanding the persistence of Hispanic undergraduate engineering and computer science students is particularly imperative, given that Hispanics are the nation's largest minority group and among its fastest growing populations. As such, this research project can contribute to the national conversation on the personal, social, and institutional conditions that facilitate or prevent the increased representation of Hispanics in engineering and computer science.</AbstractNarration>
+    <MinAmdLetterDate>04/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1734967</AwardID>
+    <Investigator>
+      <FirstName>Elsa</FirstName>
+      <LastName>Villa</LastName>
+      <EmailAddress>evilla@utep.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Alberto</FirstName>
+      <LastName>Esquinca</LastName>
+      <EmailAddress>aesquinca@utep.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Erika</FirstName>
+      <LastName>Mein</LastName>
+      <EmailAddress>elmein2@utep.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at El Paso</Name>
+      <CityName>El Paso</CityName>
+      <ZipCode>799680001</ZipCode>
+      <PhoneNumber>9157475680</PhoneNumber>
+      <StreetAddress>ADMIN BLDG RM 209</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7680</Code>
+      <Text>ENG DIVERSITY ACTIVITIES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7680</Code>
+      <Text>ENG DIVERSITY ACTIVITIES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

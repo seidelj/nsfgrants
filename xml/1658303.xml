@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Estimation of Unidentified Cognitive Models with Physiological Data</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>337028</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Alumit Ishai</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Understanding the role of changes in brain activity over time is extremely difficult. Moreover, relating these changes to the psychology of decision making is even more challenging, but important to understand to predict and explain behavior. In particular, brain activity can vary in relationship to the speed of a behavioral response, but these variations are difficult to measure systematically. The goal of this project is to measure brain electrical activity together with behavioral data in order to develop new methods to statistically model the relationships and to aid in detection of subtle brain changes occurring with behavior. The project will result in a new method for analyzing these complex relationships and allow for better combination of different forms of data generally. This will provide a more accurate view of the effect of experimental manipulations and treatments. All analytic procedures will be extensively documented along with the experimental data and these will be freely available online. &lt;br/&gt;&lt;br/&gt;A crucial tool in this project is the new technique of joint modeling of behavioral and physiological data. An advantage of joint modeling that has thus far been underexploited is the capacity to construct genuine neurocognitive models that are informed by both behavioral and neural data. Indeed, joint estimation opens up the possibility to construct new models whose parameters are only estimable given more than one type of information. This project will lead to the development of a multimodal sequential accumulation model that makes predictions about the combination of reaction time, accuracy, and EEG data, and that allows for conclusions not possible from either type of data individually. Specifically, the project involves experimental studies to generate data that will, in combination with the new statistical framework, allow the disentanglement of parameters of a cognitive model that cannot be estimated without the use of both neural and behavioral data. The parametric neurocognitive model will involve specific neural markers that connect behavioral parameters to EEG activity measures. The newly collected data will also provide a direct test of the classical modeling assumption that visual encoding, decision-making, and executing a motor response are sequential processes.</AbstractNarration>
+    <MinAmdLetterDate>02/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658303</AwardID>
+    <Investigator>
+      <FirstName>Ramesh</FirstName>
+      <LastName>Srinivasan</LastName>
+      <EmailAddress>srinivar@uci.edu</EmailAddress>
+      <StartDate>02/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Joachim</FirstName>
+      <LastName>Vandekerckhove</LastName>
+      <EmailAddress>joachim@uci.edu</EmailAddress>
+      <StartDate>02/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Irvine</Name>
+      <CityName>Irvine</CityName>
+      <ZipCode>926173213</ZipCode>
+      <PhoneNumber>9498247295</PhoneNumber>
+      <StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1333</Code>
+      <Text>METHOD, MEASURE &amp; STATS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1699</Code>
+      <Text>COGNEURO</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1333</Code>
+      <Text>METHOD, MEASURE &amp; STATS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1699</Code>
+      <Text>COGNEURO</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

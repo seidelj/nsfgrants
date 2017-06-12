@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: CPS: Information-Constrained Cyber-Physical Systems for Supermarket Refrigerator Energy and Inventory Management</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>175000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Samee Khan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Supermarket refrigeration systems account for 7% of all commercial energy consumption in the United States. Cyber-physical Systems technologies provide new opportunities to improve the energy efficiency of supermarket refrigerators, which also affect power and food supply chain systems, as these technologies allow us to optimize energy consumption and inventory level. However, optimizing refrigeration-energy-food supply chain systems presents challenges regarding: (a) imperfect product demand distributions, (b) security/privacy-preserving information exchanges, and (c) asymmetric information in a supply chain. This project addresses these challenges by developing new control and incentive tools, which also will benefit energy and food systems. &lt;br/&gt;&lt;br/&gt;The methods being pursued will improve refrigeration-energy-food systems with contributions to the following fundamental areas. First, the project aims to establish a theoretical foundation of distributionally robust stochastic control methods given imperfect distributional information about disturbances. Second, the project plans to develop a hierarchical control approach that does not exchange any explicit state information between two layers of a hierarchy using convex envelopes. Third, the project aims to generalize the classical incentive contract or principal-agent theory in the two directions: (a) integrating engineering systems with nontrivial dynamics into contracts and (b) incentivizing a hierarchy of agents. &lt;br/&gt;&lt;br/&gt;The proposed energy management system for supermarkets can provide ancillary services that support the penetration of intermittent wind and solar generation by ensuring sufficient grid balancing capacity. Furthermore, the proposed incentive contracts and data-sharing regulations can facilitate food supply chain coordination. The research outcomes will also be used for: (a) the University of Southern California (USC) Chevron Frontiers in Energy Research Summer Camp that is a K-12 STEM outreach effort; (b) USC Women in Science and Engineering programs that provide hands-on research experiences to female undergraduate students; and (c) open house and workshops in Viterbi Center for Engineering Diversity to train educationally-disadvantaged underrepresented students.</AbstractNarration>
+    <MinAmdLetterDate>01/30/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/30/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657100</AwardID>
+    <Investigator>
+      <FirstName>Insoon</FirstName>
+      <LastName>Yang</LastName>
+      <EmailAddress>insoonya@usc.edu</EmailAddress>
+      <StartDate>01/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Southern California</Name>
+      <CityName>Los Angeles</CityName>
+      <ZipCode>900890001</ZipCode>
+      <PhoneNumber>2137407762</PhoneNumber>
+      <StreetAddress>University Park</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7354</Code>
+      <Text>COMPUTER SYSTEMS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7918</Code>
+      <Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

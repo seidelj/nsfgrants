@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RR: Building a Robust Foundation for Measuring Material Wealth in Low- and Middle-Income Settings</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2019</AwardExpirationDate>
+    <AwardAmount>214609</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jeffrey Mantz</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>A household's economic status is one of the strongest and most consistent predictors of a range of policy-relevant outcomes - including child growth, adult nutritional status, fertility, and cognitive function and development. In high-income settings, household income is frequently used to measure economic status. However, in low-income settings, researchers usually must rely on alternative measures based on what a household owns and what basic services it has access to. Every year, hundreds of studies by social scientists and policymakers use these asset-based measures of wealth to examine how household economic status shapes human development and to evaluate poverty alleviation efforts and economic growth. However, current asset-based measures rely on untested assumptions about how households can reach economic prosperity and whether there are multiple pathways to economic advancement in different contexts. The current project will determine the validity and robustness of different asset-based methods for estimating household wealth using samples representing over 80% of the world's current population. This will provide a robust foundation for the measurement of household wealth in applied social science and public policy fields, including economic development and population health, which frequently rely on asset-based measures for identifying disparities and at-risk populations.&lt;br/&gt;&lt;br/&gt;The proposed project takes a two-pronged approach to assess which measures of household wealth best capture policy-relevant benchmarks of achievement. Such benchmarks will include physical growth, educational attainment, and personal and community assessments of satisfaction and relative economic standing. At a macro-level, the project expands on an ongoing 6-year project compiling and analyzing household wealth measures in over 120 low- and middle-income countries. At a micro-level, the project focuses on several communities that vary in terms of livelihood - farming, fishing, livestock, and rural/urban wage labor - and cultural background. The findings and data tools from the project will build a foundation for future researchers to assess economic resources that are both locally meaningful and broadly comparable and that can improve our understanding of the linkages of material wealth with human outcomes across a range of communities.</AbstractNarration>
+    <MinAmdLetterDate>02/07/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/07/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658766</AwardID>
+    <Investigator>
+      <FirstName>Daniel</FirstName>
+      <LastName>Hruschka</LastName>
+      <EmailAddress>dhruschk@asu.edu</EmailAddress>
+      <StartDate>02/07/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Arizona State University</Name>
+      <CityName>TEMPE</CityName>
+      <ZipCode>852816011</ZipCode>
+      <PhoneNumber>4809655479</PhoneNumber>
+      <StreetAddress>ORSPA</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1390</Code>
+      <Text>CULTURAL ANTHROPOLOGY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>040Z</Code>
+      <Text>Robust and Reliable Science</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1333</Code>
+      <Text>METHOD, MEASURE &amp; STATS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1390</Code>
+      <Text>CULTURAL ANTHROPOLOGY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

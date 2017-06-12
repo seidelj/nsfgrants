@@ -45,12 +45,12 @@
       <StateCode>VA</StateCode>
     </Institution>
     <ProgramElement>
-      <Code>8026</Code>
-      <Text>Sustainable Energy Pathways</Text>
-    </ProgramElement>
-    <ProgramElement>
       <Code>1714</Code>
       <Text>SPECIAL PROJECTS - CISE</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8026</Code>
+      <Text>Sustainable Energy Pathways</Text>
     </ProgramElement>
     <ProgramReference>
       <Code>8026</Code>

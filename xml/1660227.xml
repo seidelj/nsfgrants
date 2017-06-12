@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Large Scale Cultivation of Phytoplankton via Novel Photo-Bioreactor Technology</AwardTitle>
+<AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>747857</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth M. Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to provide a sustainable, low-cost, and replicable method for large-scale production of micro-algal biomass. Microalgae production is a form of aquaculture capable of producing valuable products including:  Nutraceuticals, specialty chemicals, pharmaceuticals, feed for finfish, shellfish, and livestock, as well as food for human consumption.  Moreover, microalgae can be used as a feedstock for biofuels while simultaneously removing CO2 from the environment.   However, for the nascent algae cultivation industry to achieve its full commercial potential, the technology must be improved.  While typical algal cultivation relies on high-density cell growth, this project will focus on the science of low-density algal cultivation to achieve high productivity, while minimizing process requirements for supplemental energy and concentrated CO2.  In addition, the development of a closed-system photo-bioreactor with emphasis on low cost and modular design will allow the process to be easily replicated on a variety of lands with otherwise marginal value. As such, the system can become the basis for a robust aquaculture and biofuels industry, leading to greater economic development in marginal communities and a source of sustainable products for the growing world population. &lt;br/&gt;&lt;br/&gt;This SBIR Phase II project proposes to further optimize the design of the large-scale algal production system developed during the Phase I project to address key challenges in algae cultivation including frequent contamination, low productivity, and increased operating costs due to inefficient use of water and energy. Research activities will focus on four main objectives: 1) Finalize key design specifications for reactor geometry, materials of construction, and system components in order to maximize productivity and minimize capital costs; 2) optimize harvest apparatus design and biomass concentration procedure to further reduce water consumption; 3) develop a new media formulation to allow for stable pH control without the need for concentrated CO2; and 4) refine manufacturing of the reactor bladder to ensure sterility, durability, and product consistency.  In addition to the basic algae cultivation techniques employed in Phase I, Phase II will make greater use of engineering /computational analyses to arrive at optimal designs.  The target outcome of the project is a 120,000-L closed photo-bioreactor capable of sustaining H. pluvialis algae production rates of greater than 9 g/m2/d for a minimum of 4 months without detrimental contamination.  In addition, the system will provide significant reductions in consumption of energy, water, and concentrated CO2.</AbstractNarration>
+<MinAmdLetterDate>04/06/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/06/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1660227</AwardID>
+<Investigator>
+<FirstName>Georgiy</FirstName>
+<LastName>Vozhdayev</LastName>
+<EmailAddress>g.vozhdayev@gmail.com</EmailAddress>
+<StartDate>04/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>PureBiomass LLC</Name>
+<CityName>New Hope</CityName>
+<ZipCode>554283873</ZipCode>
+<PhoneNumber>6122077488</PhoneNumber>
+<StreetAddress>7776 Elm Grove CT</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

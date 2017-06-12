@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2017 Field of Dreams Conference</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>49500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will support student participation in the Field of Dreams Conference, to be held in St. Louis, Missouri, from November 3-5 2017. The Field of Dreams conference is organized by the National Alliance for Doctoral Studies in the Mathematical Sciences (the Alliance), an organization whose goal is to increase the number of students from backgrounds underrepresented in the mathematical sciences who earn doctorates in those fields. Approximately 200 students will attend the conference, and about 75% of those will be underrepresented minorities. More details about the conference activities can be found at the conference website: https://mathalliance.org/2017-field-of-dreams-conference/ &lt;br/&gt;&lt;br/&gt;The conference coordinates with the Alliance's Facilitated Graduate Admissions Process (F-GAP), which has helped place approximately 65 Alliance Scholars in graduate programs each of the last three years. The conference is an essential part of a program to produce a more diverse professional mathematical workforce. The conference will feature scientific talks by prominent mathematical scientists, activities that assist faculty in mentoring practices, and events that help academic departments transform their cultures to be more supportive of student success.</AbstractNarration>
+<MinAmdLetterDate>05/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1742739</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Goldberg</LastName>
+<EmailAddress>goldberg@math.purdue.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edray</FirstName>
+<LastName>Goins</LastName>
+<EmailAddress>egoins@math.purdue.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1260</Code>
+<Text>INFRASTRUCTURE PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

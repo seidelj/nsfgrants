@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Networking Infrastructure: Enabling Data Intensive Science at Cornell University</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>376714</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin L. Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project, CC* Networking Infrastructure: Enabling Data Intensive Science at Cornell University, is upgrading network connectivity from the University's main data center to Internet2 to create a transformative impact on Cornell research that was previously bandwidth limited. The upgraded networking infrastructure is advancing knowledge and discovery by providing Cornell faculty and student researchers with faster and higher volume access to remote data sets, instrumentation, and computational and data analysis resources. Campus researchers in data-driven disciplines - including astronomy, computer science, high energy physics, life sciences, and material science  - are using the upgraded networks to improve time to science and researcher productivity. This upgrade is also preparing Cornell and its national collaborators for future data growth driven by the Internet of Things, more powerful scientific instruments, and cloud computing models that share large-scale data and resources between institutions.&lt;br/&gt; &lt;br/&gt;Research enabled by Cornell's 100G (gigabits per second) components impacts individual health and well-being in analysis of genetic variations in the human genome, water resource management, analysis of atmospheric and aerosol particle data), as well as global health and biodiversity. Campus backbone performance is monitored by the project's perfSONAR infrastructure and that information is available to internal and external users wanting to share data and resources via Internet2. A public web portal provides real-time data on the health of the 100G path. Project success is measured in terms of the myriad research benefits made possible by the availability of this increased bandwidth.</AbstractNarration>
+<MinAmdLetterDate>12/21/2016</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1659088</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Lifka</LastName>
+<EmailAddress>lifka@cac.cornell.edu</EmailAddress>
+<StartDate>12/21/2016</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+</ProgramElement>
+</Award>
+</rootTag>

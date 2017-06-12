@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>2017 Proteins: Exploring the Role of Proteins as Cellular Organizers by Combining Experiment and Theory</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>4115</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08070000</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Molecular and Cellular Bioscience</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Engin Serpersu</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Title: 2017 Proteins: Exploring the Role of Proteins as Cellular Organizers by Combining Experiment and Theory &lt;br/&gt;&lt;br/&gt;This meeting will cover a very broad range of topics relevant to protein science, including protein structure, function and dynamics, from the molecular to the cellular level, using biophysical, biochemical, structural, optical and computational tools. The meeting has evolved with the field, and represents the cutting edge of protein science. This year a Gordon Research Seminar exclusively for young scientists, will be held two days prior to the Gordon Research Conference at the same site. This year's list of speakers has many eminent scientists including one Nobel Laureate. Half of the invited speakers are females and also include members of the underrepresented minorities, young scientists and international scientists. Attendees include graduate students and postdoctoral fellows and junior faculty from primarily undergraduate institutions.&lt;br/&gt;&lt;br/&gt;Two major themes will be highlighted in this meeting. The first theme depicts proteins as cellular organizers from molecular to cellular level using state-of-the-art biophysical approaches. The second theme is integration of theoretical and computational approaches with experiment.</AbstractNarration>
+    <MinAmdLetterDate>11/01/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/01/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1662573</AwardID>
+    <Investigator>
+      <FirstName>Catherine</FirstName>
+      <LastName>Royer</LastName>
+      <EmailAddress>royerc@rpi.edu</EmailAddress>
+      <StartDate>11/01/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Gordon Research Conferences</Name>
+      <CityName>West Kingston</CityName>
+      <ZipCode>028921502</ZipCode>
+      <PhoneNumber>4017834011</PhoneNumber>
+      <StreetAddress>512 Liberty Lane</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Rhode Island</StateName>
+      <StateCode>RI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1144</Code>
+      <Text>Molecular Biophysics</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7465</Code>
+      <Text>NANOSCALE BIO CORE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1144</Code>
+      <Text>BIOMOLECULAR SYSTEMS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

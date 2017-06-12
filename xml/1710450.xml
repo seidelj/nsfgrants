@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Shape Discovery for Convex Bodies: Measures, Invariants, and Applications</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>91791</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas Ivey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project concerns constructing a geometric shape from either indirect measurements or a set of design requirements. Such construction problems arise not only in mathematics, but also in science, engineering, and medicine. Examples include identifying organs and tumors in the human body or designing the shapes of radar antennas or jet airplanes. The Brunn-Minkowski theory is at the heart of the mathematical and computational tools used in such applications. Central to the Brunn-Minkowski theory are isoperimetric inequalities, which express relationships between different types of geometric measurements (such as the surface area and volume) of a body, and Minkowski problems, which ask whether a shape can be reconstructed from a set of geometric measurements (such as the curvature of the boundary). The investigators will continue their work connecting ideas in information theory with Brunn-Minkowski theory. This work has generated interesting questions that are accessible to and can be explored by high school and undergraduate students. Graduate students also are involved in the research.&lt;br/&gt;&lt;br/&gt;The overall theme of the research is to develop both extensions and duals of the classical Brunn-Minkowski theory. In one project, the investigators aim to build upon prior results showing that, for each value of a real parameter p, there is an Lp Brunn-Minkowski theory. Just as the Minkowski problem for the surface area measure is a central focus of the classical Brunn-Minkowski theory, the Minkowski problem for Lp surface area measure is central to the Lp Brunn-Minkowski theory. While most work been limited to when the parameter p is greater than 1, the investigators and collaborator are exploring the singular case, when p is 0, and aim to extend the work to non-positive p.  A second project concerns analogues of Federer's curvature measures within the dual Brunn-Minkowski theory. Surprisingly, this newly discovered family includes two already known but important cases: the cone-volume measure and Aleksandrov's integral curvature measure. For each such dual curvature measure, there is a corresponding dual Minkowski problem, which is a fully nonlinear elliptic partial differential equation. The investigators aim to further explore the dual Minkowski problem.  A third project further investigates Lp analogues of Aleksandrov's integral curvature; the investigators aim to solve completely the Minkowski problems associated with these measures. The investigators will continue their efforts to extend previous work on the parallels between information theory and both the Lp and dual Brunn-Minkowski theories. The investigators will also continue their work toward establishing the log-Brunn-Minkowski inequality, which to date has been established only in the plane.</AbstractNarration>
+<MinAmdLetterDate>05/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1710450</AwardID>
+<Investigator>
+<FirstName>Erwin</FirstName>
+<LastName>Lutwak</LastName>
+<EmailAddress>lutwak@nyu.edu</EmailAddress>
+<StartDate>05/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Deane</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>deane.yang@nyu.edu</EmailAddress>
+<StartDate>05/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gaoyong</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>gaoyong.zhang@nyu.edu</EmailAddress>
+<StartDate>05/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

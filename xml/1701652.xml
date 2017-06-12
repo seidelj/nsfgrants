@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>DISSERTATION RESEARCH: Where Plant Litter Ends and Soil Carbon Begins: The Role of Microbial Physiology in Stabilizing Soil Organic Matter</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>20275</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010209</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Kane</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>More carbon is found in soils than that in the atmosphere and plant life combined. It has long been assumed that the carbon stored in soil represents the "leftovers" - plant-derived compounds that cannot be broken down any further by soil microorganisms. Recent work has shown that, as soil microorganisms decompose plant materials, they can produce compounds that increase carbon storage in soil. Thus, soil microorganisms are important to both the breakdown and the buildup of soil carbon. Many questions, however, remain unanswered.  What controls microbial growth, and which aspects of microbial growth should lead to long-term soil carbon storage? These are the questions to be addressed by research through this Doctoral Dissertation Improvement Grant. Experiments will make use of a novel technique to measure rates of microbial production in both a controlled laboratory experiment, and through studies along natural environmental gradients in forests. Results of this project will further our understanding of soil carbon content, and will enhance our ability to predict when and where carbon storage in soils should be greatest. The investigators will work with high school teachers to develop lesson plans and course materials, as well as with high school students directly, to provide training centered around the project objectives. &lt;br/&gt;&lt;br/&gt;The conversion of organic inputs into microbial products is fundamentally controlled by three processes: microbial growth rate, microbial growth efficiency, and microbial turnover rate. Yet, despite the theoretical importance of these parameters for stable soil organic matter (SOM) formation, little is known about how these parameters vary with resource availability and environmental conditions, and which of these parameters most strongly controls SOM dynamics. This research will address two questions: 1) How do litter quality and soil properties affect microbial growth rate, efficiency, and turnover? 2) To what extent do changes in these parameters influence SOM formation and soil carbon storage? To date, our understanding of microbial growth physiology has been hindered by the inability of common methods to quantify growth on realistic substrates. To overcome this challenge, the researchers will use a new, substrate-independent method - tracking 18O-labeled water into microbial DNA - to quantify microbial growth parameters in temperate forest soils. First, microbial growth rate, efficiency, and turnover will be quantified across natural gradients of resource availability in six temperate forests in order to determine whether these parameters are consistent with previously-collected SOM data from these same sites. Then, using two isotopically labeled litter decay experiments, the importance of litter quality versus soil properties in controlling microbial growth parameters and the conversion of plant inputs into stable SOM will be evaluated.</AbstractNarration>
+<MinAmdLetterDate>05/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701652</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Phillips</LastName>
+<EmailAddress>rpp6@indiana.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Craig</LastName>
+<EmailAddress>maecraig@indiana.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramElement>
+</Award>
+</rootTag>

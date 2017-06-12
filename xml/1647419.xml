@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Personalizing Online Clothing Shopping</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Peter Atherton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to improve the experience of online shopping for clothing, currently the largest segment online in the US with $51 Billion in sales for the last year and a focus for millions of consumers and thousands of companies. The innovation in this project would improve the ability to discover and compare the visual appearance and style of clothing items, allowing more effective shopping over an increasingly large marketplace with millions of items, and improving the efficiency of the online clothing market. In addition, the project will improve the ability of computational algorithms to automatically parse and understand clothing style, part of building computers to understand our daily world.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will develop novel techniques for identifying, comparing, and predicting shopper preferences for clothing styles. These will be based on computer vision to recognize visual features of clothing styles and machine learning to build models of shopper preference from their interactions while shopping. Development will include representation learning for visual appearance of clothing style as well as for the factors that contribute to personal preference for style. These models will be used to automate search and recommendation systems for clothing shopping, opening up new business opportunities for machine-learning enabled personalization.</AbstractNarration>
+    <MinAmdLetterDate>12/12/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/12/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647419</AwardID>
+    <Investigator>
+      <FirstName>Tamara</FirstName>
+      <LastName>Berg</LastName>
+      <EmailAddress>berg.tamara@gmail.com</EmailAddress>
+      <StartDate>12/12/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Shopagon, LLC</Name>
+      <CityName>Carrboro</CityName>
+      <ZipCode>275101728</ZipCode>
+      <PhoneNumber>6465093361</PhoneNumber>
+      <StreetAddress>510 N Greensboro St</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

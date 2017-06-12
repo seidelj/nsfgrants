@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Random Structures and Algorithms</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>177398</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jacques Verstraete</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports foundational research into the concept of randomness in mathematical structures. While the use of randomness in computer science is ubiquitous, many important computational and algorithmic problems remain to be studied using this foundational concept. Despite the complexity of many theoretic as well as practical modern algorithms, randomness is frequently able to remedy the worst-case examples focusing on the average case examples and randomized algorithms which make use of local information. This includes such intensively studied problems as the so-called Travelling Salesperson problem, by concentrating on geometric versions where efficient algorithms are feasible. An important aspect of the project is the involvement of students in the research, which is expected to have a broad impact on mathematics and on computer science beyond the theoretical foundations of the project.&lt;br/&gt;&lt;br/&gt;A special focus of this project is to identify problems that involve random walks on graphs and digraphs. Based on significant recent progress, a thorough investigation of so-called hashing schemes will be undertaken, examining search algorithms on graphs that employ only local information. The classical random walk is a prime example of such an algorithm. The current available analysis for preferential attachment graphs, which are connected to random models of the world-wide web, will be extended to more general models of graphs. A statistical test has been devised for detecting bias in a sample claiming to be from the steady state of a Markov chain. Another line of research is on-line purchasing problems. In such problems, the edges of a graph are given random costs and are presented sequentially and they must be selected or rejected. The accepted edges are used to build a structure, and the goal is to build this structure as economically as possible.</AbstractNarration>
+<MinAmdLetterDate>04/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1661063</AwardID>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Frieze</LastName>
+<EmailAddress>af1p@andrew.cmu.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122689527</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7970</Code>
+<Text>Combinatorics</Text>
+</ProgramElement>
+</Award>
+</rootTag>

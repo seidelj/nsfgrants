@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site:  BioTechnology Sequencing-based Undergraduate Research Experience (BIT SURE)</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>124172</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amanda Simcox</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This REU Site award to North Carolina State University (NCSU), located in Raleigh, NC, will support the training of 10 students for 10 weeks during the summers 2018-2020.  The Biotechnology (BIT) Sequencing-based Undergraduate Research Experience (SURE) immerses students in research that uses next generation sequencing (NGS) to answer important biological questions.  NCSU's interdisciplinary BIT Program, which combines researchers, educators and students from 35 departments, will sponsor BIT SURE. Research mentors will engage students in projects across a variety of fields including microbiology, virology, neuroscience, plant biology, epigenetics, genomics, etc. Trainees will begin with a NGS short course where they will receive laboratory safety training, work on NGS case studies, prepare samples for sequencing, and analyze data using common bioinformatic tools and software. Participants will also attend seminars on NGS research, biotech careers, graduate school, responsible conduct of research, and visit biotech companies in Research Triangle Park.  &lt;br/&gt;&lt;br/&gt;It is anticipated that a total of 30 students, primarily from schools with limited research opportunities, will be trained in the program.  Recruitment will focus on underrepresented groups in STEM, including deaf/hard of hearing students, first generation college students, minorities and students with no prior research experience.  Students will learn how research is conducted, and many will present the results of their work at scientific conferences.  Trainees will also work together to present a deaf accessible K-12 outreach activity to students from the North Carolina School for the Deaf.  Through building accessible educational resources and the recruitment and training of underrepresented groups, BIT SURE aims to inspire and support a diverse group of students in future biotechnology-related research careers.&lt;br/&gt;&lt;br/&gt;A common web-based assessment tool used by all REU Site programs funded by the Division of Biological Infrastructure will be used to determine the effectiveness of the training program. Students will be tracked after the program in order to determine their career paths and be asked to respond to an automatic email sent via the NSF reporting system. More information about the program is available by visiting http://biotech.ncsu.edu or by contacting the PI (Dr. Sabrina Robertson, sedought@ncsu.edu) or the co-PI (Dr. Carlos Goller, ccgoller@ncsu.edu).</AbstractNarration>
+<MinAmdLetterDate>02/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1659225</AwardID>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Goller</LastName>
+<EmailAddress>ccgoller@ncsu.edu</EmailAddress>
+<StartDate>02/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sabrina</FirstName>
+<LastName>Robertson</LastName>
+<EmailAddress>sedought@ncsu.edu</EmailAddress>
+<StartDate>02/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

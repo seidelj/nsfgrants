@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Connections Matter: The Impact of Social Ties and Social Capital for STEM College Students</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2020</AwardExpirationDate>
+    <AwardAmount>162465</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11010000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Graduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>erick jones</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In the higher education settings for Science, Technology, Education and Mathematics (STEM), social ties and social capital contain critical resources that students need to understand through college and beyond. Deeper exploration of social capital and its impact on differing populations and how it may hinder equity in STEM education and workforce advancement is needed. The research examines the effect of social ties and social capital on key outcomes such as retention and job placement for STEM college students. Project activities are addressing the question of how STEM students move from having social ties, to gaining social capital, and how to utilize critical information and resources exchanged within those social ties. Notably, the project is extending theoretical and practical understanding of the impact of social ties not just on academic outcomes, but also on how students transition to the workforce. This project is supported by the Education and Human Resources Core Research Program, which funds fundamental research in STEM learning and learning environments, broadening participation in STEM, and STEM workforce development.&lt;br/&gt;&lt;br/&gt;The project is identifying conditions that facilitate or block the transformation of social ties into social capital, deepening understanding of the mechanisms that support equity and achievement in STEM and the processes that shape social capital formation and deployment. The project is analyzing data from the National Longitudinal Study of Freshmen on student peer groups, experiences with faculty, and information networks. The project team is also conducting interviews with STEM college seniors and individuals working in STEM fields on their social and professional networks to track the formation of social ties and deployment of social capital. The project is advancing NSF's goal of broadening participation in STEM. By identifying inequities related to race/ethnicity, gender, and class, the project is assisting educators in designing interventions to support success for students of diverse backgrounds.</AbstractNarration>
+    <MinAmdLetterDate>03/16/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/16/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660914</AwardID>
+    <Investigator>
+      <FirstName>Julie</FirstName>
+      <LastName>Park</LastName>
+      <EmailAddress>parkjj@umd.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Mark</FirstName>
+      <LastName>Eagan</LastName>
+      <EmailAddress>keagan@ucla.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Young</FirstName>
+      <LastName>Kim</LastName>
+      <EmailAddress>ykkim@apu.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Maryland College Park</Name>
+      <CityName>COLLEGE PARK</CityName>
+      <ZipCode>207425141</ZipCode>
+      <PhoneNumber>3014056269</PhoneNumber>
+      <StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7980</Code>
+      <Text>Core R&amp;D Programs</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8816</Code>
+      <Text>Workforce Development</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

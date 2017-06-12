@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>Doctoral Dissertation Improvement Award: Spatial Manifestations Of Social Identity</AwardTitle>
     <AwardEffectiveDate>03/15/2016</AwardEffectiveDate>
-    <AwardExpirationDate>02/28/2017</AwardExpirationDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
     <AwardAmount>13193</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1616970</AwardID>
     <Investigator>
-      <FirstName>Samantha</FirstName>
-      <LastName>Fladd</LastName>
-      <EmailAddress>sgfladd@email.arizona.edu</EmailAddress>
-      <StartDate>03/10/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>E. Charles</FirstName>
       <LastName>Adams</LastName>
       <EmailAddress>ecadams@email.arizona.edu</EmailAddress>
       <StartDate>03/10/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Samantha</FirstName>
+      <LastName>Fladd</LastName>
+      <EmailAddress>sgfladd@email.arizona.edu</EmailAddress>
+      <StartDate>03/10/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>University of Arizona</Name>

@@ -44,5 +44,17 @@
       <StateName>Rhode Island</StateName>
       <StateCode>RI</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>7643</Code>
+      <Text>ENVIRONMENTAL SUSTAINABILITY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

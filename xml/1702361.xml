@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>2017-2019 Peach State LSAMP Bridge to the Doctorate Program: University of Georgia</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>1074900</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Martha L. James</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Louis Stokes Alliances for Minority Participation (LSAMP) program assists universities and colleges in diversifying the STEM workforce through their efforts at significantly increasing the numbers of students successfully completing high quality degree programs in science, technology, engineering and mathematics (STEM) disciplines. Particular emphasis is placed on transforming STEM education through innovative recruitment and retention strategies and experiences in support of groups historically under-represented in STEM disciplines: African-Americans, Alaskan Natives, American Indians, Hispanic Americans, Native Hawaiians, and Native Pacific Islanders. The Bridge to the Doctorate (BD) Activity provides support for postbaccalaureate studies in STEM programs leading to the STEM doctoral degree. &lt;br/&gt;&lt;br/&gt;The University of Georgia (UGA) is the host site for the 2017-2019 Bridge to the Doctorate (B2D) program for the Peach State Louis Stokes Alliance for Minority Participation (PSLAMP) under the leadership of University of Georgia. This is the first post-baccalaureate program at the institution that supports a graduate student cohort of 12 underrepresented minority (URM) STEM Ph.D. students from LSAMP campuses across the nation. The BD Activity provides extensive training in specific STEM disciplines as well as professional development and guidance that promote peer mentoring and leadership in the scientific community. Students receive rigorous academic and research training experiences that support completion of the Ph.D. and the transition to a competitive career in academia and industry. &lt;br/&gt;&lt;br/&gt;Over the duration of the project and beyond, the BD program at UGA serves to increase the number and quality of students from underrepresented groups completing STEM Ph.D. degrees and entering the STEM workforce. Formative and summative evaluation will occur with the summative evaluation including a comparison group to assess impact of the program interventions on student outcomes. The evaluation question asks: Are PSLAMP completers who participate in B2D more likely than PSLAMP completers who do not participate in B2D to complete doctoral degrees in STEM disciplines?&lt;br/&gt;&lt;br/&gt;The long-term impact of the BD activity is reflected in America's STEM workforce, both in academia and in industrial research and development. By nurturing future STEM leaders, the value added is seen in the visibility of underrepresented minorities in science and engineering, increasing representation and providing role models and motivation for the next generation.</AbstractNarration>
+    <MinAmdLetterDate>04/12/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/12/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1702361</AwardID>
+    <Investigator>
+      <FirstName>William</FirstName>
+      <LastName>Kisaalita</LastName>
+      <EmailAddress>williamk@engr.uga.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Michelle</FirstName>
+      <LastName>Cook</LastName>
+      <EmailAddress>mgcook@uga.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jere</FirstName>
+      <LastName>Morehead</LastName>
+      <EmailAddress>atripp@uga.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Suzanne</FirstName>
+      <LastName>Barbour</LastName>
+      <EmailAddress>sbarbour@uga.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Karen</FirstName>
+      <LastName>DeMeester</LastName>
+      <EmailAddress>karend@uga.edu</EmailAddress>
+      <StartDate>04/12/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Georgia Research Foundation Inc</Name>
+      <CityName>ATHENS</CityName>
+      <ZipCode>306021589</ZipCode>
+      <PhoneNumber>7065425939</PhoneNumber>
+      <StreetAddress>310 East Campus Rd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9133</Code>
+      <Text>ALLIANCES-MINORITY PARTICIPAT.</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

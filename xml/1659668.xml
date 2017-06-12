@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Global Change Ecology at the Smithsonian Environmental Research Center-SERC</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>307507</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08080000</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Biological Infrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sally E. O'Connor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This REU Site award to the Smithsonian Environmental Research Center (SERC), located in Edgewater, MD, will support the training of 10 students for 11 weeks during the summers of 2017- 2019. The REU program focuses on how aspects of global change, including climate change, biological invasions, altered biogeochemical cycling, and native biodiversity loss, are altering the ecological goods and services provided by natural ecosystems. Students in the program participate in field research, laboratory work, and educational training in many areas including ecology, chemistry, microbiology, genetics, quantitative ecology, historical ecology, and environmental communication and education. Students take a series of short courses describing scientific methods, data analysis, scientific communications, ethics, and careers, participate in graduate-level discussion groups, attend seminars by visiting scientists, and take field trips to affiliated research institutions. At the end of the internship, each student will present a formal research seminar describing their project to the SERC science community, and many will publish their results in peer-reviewed journals. Applications from students that are traditionally underrepresented in the sciences are encouraged. Applications include a short essay, unofficial transcripts, two letters of reference, and are reviewed by the full scientific staff. &lt;br/&gt;&lt;br/&gt;It is anticipated that a total of 30 students, primarily from schools with limited research opportunities, will be trained in the program. Students will learn how research is conducted, and many will present the results of their work at scientific conferences and contribute to the publication process. Additionally, students will receive communication training to aid them in effectively sharing their work with a wide variety of audiences.&lt;br/&gt;&lt;br/&gt;A common web-based assessment tool used by all REU Site programs funded by the Division of Biological Infrastructure will be used to determine the effectiveness of the training program. Students will be tracked after the program in order to determine their career paths. Students will be asked to respond to an automatic email sent via the NSF reporting system. More information about the program is available by visiting https://serc.si.edu/pro_training/internships/projectmenu.aspx, or by contacting the PI (Dr. John Parker at parkerj@si.edu) or the co-PI (Dr. Alison Cawood at cawooda@si.edu).</AbstractNarration>
+    <MinAmdLetterDate>02/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659668</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Parker</LastName>
+      <EmailAddress>parkerj@si.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Alison</FirstName>
+      <LastName>Cawood</LastName>
+      <EmailAddress>cawooda@si.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Smithsonian Institution</Name>
+      <CityName>Arlington</CityName>
+      <ZipCode>222023709</ZipCode>
+      <PhoneNumber>2026337110</PhoneNumber>
+      <StreetAddress>Office of Sponsored Projects</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

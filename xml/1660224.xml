@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: AERODYNAMIC FLOW DEFLECTOR FOR CURRENT AND FUTURE WIND TURBINES TO INCREASE THE ANNUAL ENERGY PRODUCTION BY 10% AND REDUCE THE LEVELIZED COST OF ENERGY BY 8%</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>749669</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rajesh Mehta</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is in enabling more efficient Annual Wind Energy Production (AEP) while reducing the cost of energy (COE). This will make wind energy more attractive economically, improve the energy security of the U.S, create jobs, and indirectly help reduce greenhouse gas emissions. A 2% AEP increase is generally considered attractive. Two turbines (5kW and 50kW) tested during Phase I have shown an increase in AEP between 2% to 8% while reducing the COE by 1% to 6%. About 150,000 turbines worldwide can be potentially be retrofitted with this technology.&lt;br/&gt;&lt;br/&gt;This project will address challenges related to aerodynamic efficiency of wind turbines and the cost of wind energy. It is based on a deeper understanding of wind turbine aerodynamics from a more 3-dimensional point of view; most wind turbine designs are based on 2- dimensional theories. The key technical challenge in bringing this technology to market is to demonstrate the increase in AEP of utility scale turbines retrofitted with our deflector technology in realistic field conditions while reducing the COE. This will be addressed by performing testing at a few customer wind farms and NREL testing centers. The R&amp;D plan consists of designing, manufacturing, and installing deflectors on a few utility size turbines (30-100 meters diameter rotors). The tests will include power performance comparison between baseline and retrofitted turbines according to international standards.</AbstractNarration>
+    <MinAmdLetterDate>03/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660224</AwardID>
+    <Investigator>
+      <FirstName>Arturo</FirstName>
+      <LastName>Villegas Vaquero</LastName>
+      <EmailAddress>arturovillegasvaquero@gmail.com</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>XPEED Turbine Technology LLC</Name>
+      <CityName>Bridgewater</CityName>
+      <ZipCode>088072380</ZipCode>
+      <PhoneNumber>7324764599</PhoneNumber>
+      <StreetAddress>33 Linberger Dr</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8029</Code>
+      <Text>Manufacturing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8030</Code>
+      <Text>Chemical Technology</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

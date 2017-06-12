@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Strengthening Communities Through ICT-Enabled Indirect Resource Exchange</AwardTitle>
+<AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>298333</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Bainbridge</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research will combine user-centered design, hardware and software development, and a mix of quantitative and qualitative methods to collect empirical data and user feedback through experimental deployments of a novel indirect resource exchange (IRE) system. Communities in urban environments, particularly underserved communities, could benefit from the positive economic and social outcomes offered via indirect exchange of resources, where individuals provide benefits to others but do not receive direct benefits in return. IRE services have the potential to provide direct and indirect benefits for local communities, particularly underserved communities in urban settings, by supporting economic vitality through reducing expenses and waste, building a greater sense of community, improving social connections between neighbors, and contributing to more resilient communities. Although there have been many prior attempts to create successful IRE services, none have been widely adopted or successfully scaled. However, recent advances in Information and Communication Technologies (ICTs), including the advent of low-resource computing, 3D printing, and laser-cutting, make it feasible to build and deploy low-cost hardware and software systems that could transform the landscape of IRE services. For this potential to be realized, we need to understand and overcome a complex set of technical, social, behavioral, and psychological challenges that will ultimately determine the adoption and use of these services by communities. &lt;br/&gt;&lt;br/&gt;Through experimental deployments of a novel IRE system that we develop with underserved communities in New York City, this research will address three major challenges associated with IRE: (1) understanding and overcoming challenges associated with trust and social friction; (2) learning the best way to coordinate the exchange of resources between individuals; and (3) investigating how to motivate use and incentivize participation. The system will be packaged and released as an open-source platform and set of guidelines that enable communities to construct and deploy their own IRE services. The intellectual contributions of this work include: (1) designing and building novel hardware and software technologies that successfully coordinate IRE in a variety of communities; (2) developing and testing a range of interdisciplinary - social, behavioral, and psychological - mechanisms that influence use and adoption of IRE services; (3) distilling insights and lessons learned from experimental deployments that reveal the benefits and challenges of IRE in different contexts; and (4) contributing empirical data, design guidelines, and concrete software and hardware artifacts that will be useful for advancing both academic research and local communities.</AbstractNarration>
+<MinAmdLetterDate>03/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1665169</AwardID>
+<Investigator>
+<FirstName>Mor</FirstName>
+<LastName>Naaman</LastName>
+<EmailAddress>mor.naaman@cornell.edu</EmailAddress>
+<StartDate>03/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nicola</FirstName>
+<LastName>Dell</LastName>
+<EmailAddress>nixdell@cornell.edu</EmailAddress>
+<StartDate>03/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

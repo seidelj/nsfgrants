@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: Identification of molecular parameters defining the fine line between thermostability and thermophilic properties</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2019</AwardExpirationDate>
+    <AwardAmount>193131</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08070000</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Molecular and Cellular Bioscience</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Anthony Garza</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Enzymes from thermophilic organisms are often more suitable for applications in biotechnology because they are thermostable and have optimal activities at high temperatures. This project will use novel experimental and computational approaches to define the molecular basis for these highly useful properties. Ultimately, these studies will provide important information for the selection of enzymes that are stable and optimally active at high temperatures and for the engineering of such enzymes for applications in biotechnology. This project will contribute to the training of undergraduate and graduate students and will be incorporated into outreach efforts to the public. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The elucidation of molecular principles that render proteins more stable under extreme conditions such as high temperatures has been subject of a large body of research. Earlier work suggested that thermophilic variants of enzymes have more polar interactions or more H-bonds or increased hydrophobic interactions, better packing of hydrophobic core or some combination of them. Other studies showed that some of these properties were not applicable to many other mesophilic to thermophilic comparisons and more subtle and distributed effects and dynamic properties of proteins may play a significant role in attaining thermophilicity. Sequence-based comparisons also failed to explain the basis of thermophilicity and so far no clear and unifying explanation has emerged. This project aims to determine dynamic and thermodynamic properties that separate thermophilic enzymes from their mesophilic counterparts by dissecting the effects of protein dynamics and solvent reorganization on the enzyme ligand interactions. To do this, thermophilic and mesophilic variants of the same protein (aminoglycoside-N3-nucleotidyltransferase) will be used; these variants have minimal differences in the primary sequence.</AbstractNarration>
+    <MinAmdLetterDate>01/18/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/18/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1662080</AwardID>
+    <Investigator>
+      <FirstName>Elizabeth</FirstName>
+      <LastName>Howell</LastName>
+      <EmailAddress>lzh@utk.edu</EmailAddress>
+      <StartDate>01/18/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Tennessee Knoxville</Name>
+      <CityName>KNOXVILLE</CityName>
+      <ZipCode>379960003</ZipCode>
+      <PhoneNumber>8659743466</PhoneNumber>
+      <StreetAddress>1 CIRCLE PARK</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Tennessee</StateName>
+      <StateCode>TN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8011</Code>
+      <Text>Systems and Synthetic Biology</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7465</Code>
+      <Text>NANOSCALE BIO CORE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

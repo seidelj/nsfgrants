@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Lithographic Patterning of Co-Dispersed Nanomaterials for Device Applications</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>302150</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Khershed Cooper</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hybrid inorganic nanoparticle-polymer matrix composite materials that are fabricated into nanoscale pattern arrays on a flexible or rigid substrate offer a wide range of novel optical and electronic properties. New devices can be created from intermediate scale features where transitional properties between molecular and bulk behaviors can be accessed and controlled. To realize nanomanufacturing of such hybrid materials, low-cost, flexible, simple, and scalable methods need to be developed to efficiently organize inorganic and organic species into a large number of features with distinct functions. Self-assembly is prone to defect formation and probe- and e-beam-based lithography techniques are often too slow for mass production. This award investigates a broadly applicable nanoimprint lithography process for patterning nanoparticle-polymer hybrid composite materials and to use them to manufacture nano-scale optical and electronic devices. This is accomplished by using nanoparticles dispersed in organic solvents that can fill nanoimprinted polymer molds quickly and then be consolidated to form patterned features with high nanoparticle loadings. The project provides training to both graduate and undergraduate students. Several outreach activities on the Virginia Tech campus and summer camps at Science Museum of Western Virginia are planned to increase the enrollment of females and minorities in engineering.&lt;br/&gt;&lt;br/&gt;Nanoimprint lithography can transfer nanoscale patterns with high fidelity and repeatability in large scales. However, most of the research has been focused on pure polymeric material systems. This project explores nanoimprint lithography for nanoparticle-polymer hybrid patterning by addressing the key scientific challenges of nanoparticle and polymer (monomer) co-dispersion in organic solvents and patterning the nanoparticle and polymer co-suspensions into nano-scale features using the evaporative nature of dispersing solvents and the polymer chain transition from dispersed and soluble state to solid state. The research work fully explores different methods of nanoparticle dispersion in organic solvents in the presence of polymeric chains. The understanding of nanoparticle-polymer co-dispersion and organic solvent evaporation during lithographic molding promises to push the boundaries of novel hybrid pattern formation. In contrast to traditional nanoimprint lithography, which uses polymer materials only, a new class of hybrid materials with intricate architectures and novel functionalities is expected. The hybrid patterns can offer a wide range of feature arrangements for direct device uses. This holds great scientific and application potentials by combining the knowledge at the boundaries of the particle-solvent-polymer and liquid-solid domains.</AbstractNarration>
+<MinAmdLetterDate>05/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1661564</AwardID>
+<Investigator>
+<FirstName>Richey</FirstName>
+<LastName>Davis</LastName>
+<EmailAddress>rmdavis@vt.edu</EmailAddress>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kathy</FirstName>
+<LastName>Lu</LastName>
+<EmailAddress>klu@vt.edu</EmailAddress>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1788</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>081E</Code>
+<Text>NANO SCALE ASSEMBLY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

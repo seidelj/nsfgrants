@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Human-Computer Cooperation for Word-by-Word Question Answering</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2022</AwardExpirationDate>
+    <AwardAmount>91369</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Donald T. Langendoen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This CAREER project investigates how humans and computers can work together to answer questions. Humans and computers possess complementary skills: humans have extensive commonsense understanding of the world and greater facility with unconventional language, while computers can effortlessly memorize countless facts and retrieve them in an instant. This proposal helps machines understand who people, places, and characters are; how to communicate this information to humans; and how to allow humans and computers to collaborate in question answering using limited information. A key component of this proposal is answering questions word-by-word: this forces both humans and computers to answer questions using information as efficiently as possible. In addition to embedding these skills in question answering tasks, this proposal has an extensive outreach program to exhibit this technology in interactive question answering competitions for high school and college students.&lt;br/&gt;&lt;br/&gt;This research is possible by a new representations of entities in a medium-dimensional embedding that encodes relationships between entities (e.g., the representation of "Goodluck Jonathan" and "Nigeria" encodes that the former is the leader of the latter) to enable the system to answer questions about Nigeria. We validate the effectiveness of these representations both through traditional question answering evaluations and through interactive experiments with human collaboration to ensure that we can visualize these representations effectively. In addition to helping train computers to answer questions, we use opponent modeling and reinforcement learning to help train humans to better answer questions.</AbstractNarration>
+    <MinAmdLetterDate>02/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652666</AwardID>
+    <Investigator>
+      <FirstName>Jordan</FirstName>
+      <LastName>Boyd-Graber</LastName>
+      <EmailAddress>Jordan.Boyd.Graber@colorado.edu</EmailAddress>
+      <StartDate>02/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Colorado at Boulder</Name>
+      <CityName>Boulder</CityName>
+      <ZipCode>803031058</ZipCode>
+      <PhoneNumber>3034926221</PhoneNumber>
+      <StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Detecting offshore seismicity by combining back-projection and matched filter analysis</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>116860</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Luciana Astiz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Most megathrust earthquakes involve significant slip in the offshore area, leading to strong ground shaking and/or tsunami hazards. A better understanding of the offshore deformation is crucial for model evaluation and hazard mitigation of large earthquakes and tsunamis. The episodes of seafloor deformation can be detected by ocean-bottom instruments such as absolute pressure gauges or ocean bottom seismometers. However, due to either the high cost or difficulty in separation of tectonic signals from oceanographic effects, long-term characterizations of offshore deformation with these instruments are still challenging. In this project, we propose to integrate two recently developed methods to improve our understanding of offshore deformation and their relation to megathrust rupture. The project takes full advantage of the increasing availability of global dense seismic networks including the Earthscope USArray, Hinet in Japan and supports the PhD work of a female graduate student. The research results are being shared via conferences and journals, as well as via outreach to public schools and undergraduate classes.&lt;br/&gt;&lt;br/&gt;The role of slow slip in the nucleation stage of large earthquakes remains enigmatic. An important manifestation of the pre-seismic slow slip is the precursory micro-seismicity, which is difficult to detected directly by landward seismic instruments. Recent advances in array-based methods allow to improve the capability of detecting missing events in routine catalogs. To better characterize the offshore seismicity, this research proposes to combine two recently developed detection methods: Back-projection (BP) imaging and Matched-filter (MF) detection. The BP method is effective in retrieving offshore seismicity in the coda wave of large earthquakes. The BP inferred events can be then used as templates to detect even more offshore microseismicity in the MF processing of array seismic data. The goal of this research is to obtain a more complete picture of the long-term seismicity rate and repeating earthquakes (which can be used to infer slow-slip episodes) around recent megathrust earthquake rupture zones. These observations may provide key constraints of the interaction of small events and/or slow slip with megathrust earthquakes.</AbstractNarration>
+<MinAmdLetterDate>06/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723192</AwardID>
+<Investigator>
+<FirstName>Lingsen</FirstName>
+<LastName>Meng</LastName>
+<EmailAddress>meng@ess.ucla.edu</EmailAddress>
+<StartDate>06/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1574</Code>
+<Text>GEOPHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1031</Code>
+<Text>STUDIES OF THE EARTH'S DEEP INTERIOR</Text>
+</ProgramReference>
+</Award>
+</rootTag>

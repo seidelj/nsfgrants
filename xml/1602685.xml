@@ -27,14 +27,6 @@
     <ARRAAmount/>
     <AwardID>1602685</AwardID>
     <Investigator>
-      <FirstName>Yemane</FirstName>
-      <LastName>Asmerom</LastName>
-      <EmailAddress>asmerom@unm.edu</EmailAddress>
-      <StartDate>04/05/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Victor</FirstName>
       <LastName>Polyak</LastName>
       <EmailAddress>polyak@unm.edu</EmailAddress>
@@ -42,9 +34,17 @@
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
+    <Investigator>
+      <FirstName>Yemane</FirstName>
+      <LastName>Asmerom</LastName>
+      <EmailAddress>asmerom@unm.edu</EmailAddress>
+      <StartDate>04/05/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
     <Institution>
       <Name>University of New Mexico</Name>
-      <CityName>ALBUQUERQUE</CityName>
+      <CityName>Albuquerque</CityName>
       <ZipCode>871310001</ZipCode>
       <PhoneNumber>5052774186</PhoneNumber>
       <StreetAddress>1700 Lomas Blvd. NE, Suite 2200</StreetAddress>

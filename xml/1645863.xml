@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CPS: Breakthrough: Mobile Automated Rovers Fly-By (MARS-FLY) for Bridge Network Resiliency</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>498771</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Nilsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal is for research on the Mobile Automated Rovers Fly-By (MARS-FLY) for Bridge Network Resiliency. Bridges are often in remote locations and the cost of installing electricity and a data acquisition system in hundreds of thousands of bridges is prohibitive. The MARS-FLY project will develop a cyber-physical system (CPS) designed to monitor the health of highway bridges, control the loads imposed on bridges by heavy trucks, and provide visual inspectors with quantitative information for data-driven bridge health assessment requiring no electricity and a minimum of data acquisition electronics on site. For fly-by monitoring, GPS-controlled auto-piloted drones will periodically carry data acquisition electronics to the bridge and download the data from the sensors at a close range. Larger Imaging drones carrying infrared (IR) cameras will be used to detect detail damages like concrete delamination. &lt;br/&gt;&lt;br/&gt;The research objectives will be accomplished first, by wireless recharging of remote sensor motes by drone to enhance the sensor operational lifetime whereas wireless recharging of drone battery will extend the operational efficiency, payload, and drone range. The novel multi-coil wireless powering approach will provide an investigation of an engineered material i.e. metamaterial with the resonant link to enhance the power level and link distance, otherwise unachievable. Next, by a major scientific breakthrough in the utilization of small quantities of low quality sensor data and IR images to determine damage information at all levels: detection of a change in behavior, location, and magnitude; streamlining of reliability analysis to incorporate the new information of damage into the bridge's reliability index based on combined numerical and probabilistic approaches such as Ensemble Empirical Mode Decomposition with the Hilbert Transform; and finally detection of nonlinearities in the signals in a Bayesian Updating framework. Moreover, an instrumented drive-by vehicle will complement damage detection on the bridge. A Bayesian updating framework will be used to update the probability distribution for bridge condition, given the measurements. Image processing of the infrared images to distinguish between the environmental effects and the true bridge deterioration (e.g. delamination in concrete) will be used to develop a better method of site-specific and environment-specific calibration.</AbstractNarration>
+<MinAmdLetterDate>05/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1645863</AwardID>
+<Investigator>
+<FirstName>Nasim</FirstName>
+<LastName>Uddin</LastName>
+<EmailAddress>nuddin@uab.edu</EmailAddress>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mohammad</FirstName>
+<LastName>Haider</LastName>
+<EmailAddress>mrhaider@uab.edu</EmailAddress>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama at Birmingham</Name>
+<CityName>Birmingham</CityName>
+<ZipCode>352940001</ZipCode>
+<PhoneNumber>2059345266</PhoneNumber>
+<StreetAddress>AB 1170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8234</Code>
+<Text>CPS-Breakthrough</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

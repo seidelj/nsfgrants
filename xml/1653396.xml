@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Active Cooling of Extreme Heat Fluxes via Transient Fluid Flow and Evaporation in Liquid Thin-films</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2022</AwardExpirationDate>
+    <AwardAmount>510000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jose Lage</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Active Cooling of Extreme Heat Fluxes via Transient Fluid Flow and Evaporation in Liquid Thin-films&lt;br/&gt;&lt;br/&gt;This project entails a research and educational program on transient heat and mass transport at liquid interfaces. Transient heat fluxes in cutting-edge technologies can exceed 50 MW/m2, which is nearly the heat flux radiated by the Sun. To manage extreme thermal loads, the State-of-the-Art is to boil and evaporate liquid coolants on micro- and nano-structured heat sinks. However, modern cooling techniques cannot manage extreme heat fluxes under transient conditions. Thermo-fluid transients due to on/off device operation or intermittent exposure to an extreme environment result in highly unstable thermo-fluid behavior, ultimately placing a liquid-cooled device in danger of catastrophic failure via thermal runaway -- i.e., a rapid, uncontrolled increase in device temperature.&lt;br/&gt;&lt;br/&gt;An integrated research-and-education program is pursued to broaden the institutional curriculum, training, and education on transient processes in modern technologies. A unique summer workshop and academic outreach activities will tap into several well-established STEM programs, facilitating the use of many educational elements -- including in-class projects, demos, videos, and discussions on transient operation and non-equilibrium processes. The technical objective is to identify the fundamental limits of evaporative heat transfer under transient conditions. The main approach is to test if the heat transfer coefficient (HTC) of evaporating thin-films follows the predictions of the kinetic theory of gases. The project will incorporate a combination of time-resolved optical diagnostics to characterize the transient HTC and its dependence on interrelated factors such as vapor quality, superheat, and changes in heater surface structure and chemistry. These transient investigations coupled with steady-state and quasi-steady experiments are expected to reveal previously unexposed key heat transfer processes, increasing both the awareness and knowledge of transient processes in modern technologies, which are vital for new ideas in renewable energy, advanced computing, and nanotechnology.</AbstractNarration>
+    <MinAmdLetterDate>02/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653396</AwardID>
+    <Investigator>
+      <FirstName>Shawn</FirstName>
+      <LastName>Putnam</LastName>
+      <EmailAddress>Shawn.Putnam@ucf.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Central Florida</Name>
+      <CityName>ORLANDO</CityName>
+      <ZipCode>328168005</ZipCode>
+      <PhoneNumber>4078230387</PhoneNumber>
+      <StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1406</Code>
+      <Text>THERMAL TRANSPORT PROCESSES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

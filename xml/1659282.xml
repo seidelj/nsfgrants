@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CC* Storage: The South Dakota Data Store, a Modular, Affordable Platform to Enable Data-Intensive Research and Education</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>198184</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Amy Walton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Expanding opportunities for data-driven research and increasing requirements for data management in sponsored research have resulted in a growing need for retention of both long-term archival data sets that are infrequently accessed, as well as 'active archives' of data that are accessed periodically to revisit, revise, and share experimental results. For this project, the University of South Dakota will acquire, deploy, and maintain the South Dakota Data Store (SDDS), a network-accessible, sharable, multi-campus storage resource integrated with existing campus cyberinfrastructure. Initially, SDDS will support twelve STEM projects across eight departments at four institutions in South Dakota, including 30 faculty, 43 postdocs, and 303 students. SDDS will provide South Dakota researchers with a centralized, efficient, high-performance platform for both archival of and shared access to large quantities of electronic data. &lt;br/&gt;&lt;br/&gt;SDDS includes two major services. The Sharing Tier provides high-reliability, high-availability, network-accessible storage for research requiring persistent access to large quantities of data. The Archival Tier provides long-term offsite archival-grade storage. SDDS will serve all faculty, staff, postdocs, students, and graduate students at the University of South Dakota. Through a partnership of multiple institutions, SDDS will also serve researchers at South Dakota State University, Black Hills State University, and the South Dakota School of Mines and Technology, with access open to further community adoption by all educational and not-for-profit noncommercial researchers. The project leverages prior investments at the University of South Dakota and South Dakota State University in dedicated Science DMZ networks. All participants will be able to access SDDS via existing 10Gb connectivity, and end-to-end performance measurement is ensured using existing PerfSONAR deployments at all involved institutions.</AbstractNarration>
+    <MinAmdLetterDate>02/07/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/07/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659282</AwardID>
+    <Investigator>
+      <FirstName>Dongming</FirstName>
+      <LastName>Mei</LastName>
+      <EmailAddress>dongming.mei@usd.edu</EmailAddress>
+      <StartDate>02/07/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Cynthia</FirstName>
+      <LastName>Anderson</LastName>
+      <EmailAddress>cynthiaanderson@bhsu.edu</EmailAddress>
+      <StartDate>02/07/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Brian</FirstName>
+      <LastName>Burrell</LastName>
+      <EmailAddress>bburrell@usd.edu</EmailAddress>
+      <StartDate>02/07/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Douglas</FirstName>
+      <LastName>Jennewein</LastName>
+      <EmailAddress>Doug.Jennewein@usd.edu</EmailAddress>
+      <StartDate>02/07/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Cheryl</FirstName>
+      <LastName>Tiahrt</LastName>
+      <EmailAddress>Cheryl.Tiahrt@usd.edu</EmailAddress>
+      <StartDate>02/07/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of South Dakota Main Campus</Name>
+      <CityName>Vermillion</CityName>
+      <ZipCode>570692307</ZipCode>
+      <PhoneNumber>6056775370</PhoneNumber>
+      <StreetAddress>414 E CLARK ST</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>South Dakota</StateName>
+      <StateCode>SD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7726</Code>
+      <Text>DATANET</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7433</Code>
+      <Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: Noise Regulation, Municipal Planning, and Urban Development</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>14106</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jeffrey Mantz</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project, which trains a graduate student in methods of empirical, scientific data collection and analysis, explores the relationship between noise regulation and municipal planning in new urban contexts. We know from previous research that acoustic markers can enable and inform sociocultural and ecological relations. But the question remains as to what extent municipal planning and regulation of noise can transform how cities are managed. As the fastest urbanizing area of the world, the global south functions as a laboratory for exploring the role of sound in urban development. Institutions such as the World Bank, UN-Habitat, and Cities Alliance have declared secondary cities the future drivers of the global economy, taking special interest in guiding the orderly development of such cities in the global south. Therefore, understanding how acoustic factors may or may not promote resilience will be critical for achieving goals of sustainability. &lt;br/&gt;&lt;br/&gt;Duke University doctoral candidate, Joella Bitter, supervised by Dr. Louise Meintjes, will undertake 13 months of ethnographic research in order to investigate linkages between noise complaints, urban sound knowledge and practice, and municipal planning in a context of rapid urbanization. The research will take place in Gulu, Uganda, one of the 14 aspiring secondary cities receiving support from World Bank-funded urban infrastructural development programs. Since urbanization occurs not only as a result of these official development efforts, but also through the daily activities of urban residents, the research methods will be focused on participant-observation research with planning experts, audio producers, and transport mechanics, audio recording and mapping of Gulu's urban soundscape, and group listening sessions to discuss raw and edited soundscape recordings. By focusing on both technical and vernacular evaluations of sound across these groups, this research engages the social practices that inform and facilitate the trajectory of urbanization and promotes dialogue between residents, cultural leaders, and policy makers. This research therefore provides tools with which to practically rethink city planning in Africa and beyond.</AbstractNarration>
+    <MinAmdLetterDate>02/06/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/06/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658486</AwardID>
+    <Investigator>
+      <FirstName>Joella</FirstName>
+      <LastName>Bitter</LastName>
+      <EmailAddress>joella.bitter@duke.edu</EmailAddress>
+      <StartDate>02/06/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Louise</FirstName>
+      <LastName>Meintjes</LastName>
+      <EmailAddress>meintjes@duke.edu</EmailAddress>
+      <StartDate>02/06/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Duke University</Name>
+      <CityName>Durham</CityName>
+      <ZipCode>277054010</ZipCode>
+      <PhoneNumber>9196843030</PhoneNumber>
+      <StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7605</Code>
+      <Text>DDRI Cult Anthro</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1390</Code>
+      <Text>CULTURAL ANTHROPOLOGY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

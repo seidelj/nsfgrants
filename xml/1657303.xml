@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: CSR: End-to-End Approach to Ultra-Low Power IoT: From New Nanotechnologies to New System Architectures</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2019</AwardExpirationDate>
+    <AwardAmount>174999</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Yan Solihin</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>While massively distributed sensing and computing nodes - forming the Internet of Things (IoT) - promise to revolutionize our lives, their demands on computing performance and energy efficiency far exceed the capabilities of today's electronics. Moreover, conventional approaches to improve computing systems are yielding diminishing returns. Rather, coordinated advances across the entire computing stack are required. In this proposal, we leverage the unique properties of emerging nanotechnologies to realize both energy-efficient devices as well as novel energy-efficient computing system architectures that are not possible to realize with today's silicon-based systems. This work forms the foundation to build and test hardware prototypes of next-generation IoT computing systems that are radically different than today's systems, encompassing both new technologies and new system architectures.&lt;br/&gt;&lt;br/&gt;The technical objectives are to use emerging nanotechnologies for logic (1D and 2D nanomaterials, such as carbon nanotubes) and memory (non-volatile memories, such as RRAM) to realize monolithic three-dimensional integrated circuits targeting IoT applications. Initial work focuses on addressing the feasibility of realizing these future systems, by developing combined processing and circuit design techniques to overcome the major challenges of imperfections inherent in these emerging nanotechnologies. Simultaneously, the large architectural design space for monolithic three-dimensional integrated circuits is being explored, optimized for IoT applications. This architectural design space includes the emerging nanotechnologies that are simultaneously being developed. Due to these advances, we are designing and fabricating the first hardware demonstration of a future IoT system leveraging emerging nanotechnologies.</AbstractNarration>
+    <MinAmdLetterDate>02/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657303</AwardID>
+    <Investigator>
+      <FirstName>Max</FirstName>
+      <LastName>Shulaker</LastName>
+      <EmailAddress>shulaker@MIT.EDU</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Massachusetts Institute of Technology</Name>
+      <CityName>Cambridge</CityName>
+      <ZipCode>021394301</ZipCode>
+      <PhoneNumber>6172531000</PhoneNumber>
+      <StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7354</Code>
+      <Text>COMPUTER SYSTEMS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

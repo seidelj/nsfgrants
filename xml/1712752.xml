@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Metal-insulator Transitions in 2D and 3D Refractory Nitrides</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>108605</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lynnette D. Madsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is co-funded by two Division of Materials Research programs: (i) Ceramics, and (ii) Electronic and Photonic Materials.&lt;br/&gt;&lt;br/&gt;NON-TECHNICAL DESCRIPTION: This project studies new materials which are expected to combine two key properties: high-temperature stability and electrically semiconducting. The combination of these properties is very promising for various applications, including, for example, devices that convert waste-heat from automobile engines to electricity, low-power devices for mobile applications which dramatically increase the time between battery recharging cycles, and high-speed switching and filtering devices for mobile communication with enhanced data bandwidth. In this research, two specific materials are synthesized by combining the required atoms in a vacuum deposition process. Both of these materials have never been synthesized before, but have been theoretically predicted to exhibit desired electronic properties that may lead to the aforementioned applications. The project determines the process for making these new materials and experimentally quantifies the relevant materials properties to determine their potential applications. Students are trained for careers in the semiconductor and defense industries.&lt;br/&gt;&lt;br/&gt;TECHNICAL DETAILS: This research project studies metal-insulator transitions in unexplored transition-metal nitrides. It is motivated by two recent theoretical predictions: (i) TiMgN2 exhibits a stable ordered phase with a 1.1 eV bandgap and (ii) insulating CrN forms a 2D electron gas for layers of ~4 nm thickness. The project employs epitaxial thin film growth, electron transport measurements, and optical characterization techniques to confirm these predictions and study the composition and quantum-confinement space for the metal-insulator transitions. The two material systems are used as starting points to develop nitrides including ternaries and interface materials with promising opto- and thermo-electric properties. This project has the potential to create a new research field of "semiconducting transition-metal nitrides" with potential for transformative impact on the coatings industry by providing a range of new applications for transition-metal nitrides, ranging from refractory semiconductors for extreme environments to high-temperature thermoelectric and optoelectronic materials to new piezoelectric and spintronic thin films. Graduate and undergraduate students as well as high-school interns are trained on thin film deposition and electronic characterization methods which are very important in the coating and semiconductor industries.</AbstractNarration>
+<MinAmdLetterDate>05/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712752</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Gall</LastName>
+<EmailAddress>galld@rpi.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rensselaer Polytechnic Institute</Name>
+<CityName>Troy</CityName>
+<ZipCode>121803522</ZipCode>
+<PhoneNumber>5182766000</PhoneNumber>
+<StreetAddress>110 8TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1774</Code>
+<Text>CERAMICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+</Award>
+</rootTag>

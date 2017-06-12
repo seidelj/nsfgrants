@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Smart Manufacturing and Resources for Transforming the Future</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>899993</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Olga Pierrakos</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Smart Manufacturing and Resources for Transforming the Future (SMART Future) is promoting STEM exploration and education while strengthening the economies of rural areas through training in new manufacturing technologies. By preparing rural high school students for careers in high-growth fields like manufacturing and information technology, SMART Future is advancing new and innovative methods for producing goods, meeting the nation's changing employment needs, and improving educational and earning opportunities for teachers and youth in rural areas.&lt;br/&gt;&lt;br/&gt;Through its use of a Mobile Simulation Laboratory, SMART Future is preparing technicians for industrial automation and technology careers and increasing the capacity of rural secondary teachers to provide education in the context of the emerging Industrial Internet of Things (IIoT) and Industry 4.0. The project goals are to expand STEM opportunities and prepare technicians for manufacturing and engineering careers through applied education of IIoT and Industry 4.0 concepts; and increase the capacity of rural secondary teachers to provide instruction in industrial automation. Drawing on industry expertise, SMART Future is providing dual credit for learning STEM principles in industrial automation, including programmable logic controllers (PLCs), microcontrollers, robotics, automated processes, machine-to-machine learning, computer networking and programming, applied mathematics, engineering design, precision measurement, physics, and mathematical logic.</AbstractNarration>
+<MinAmdLetterDate>06/06/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/06/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700535</AwardID>
+<Investigator>
+<FirstName>Greg</FirstName>
+<LastName>Slupe</LastName>
+<EmailAddress>gslupe@cvtc.edu</EmailAddress>
+<StartDate>06/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shamus</FirstName>
+<LastName>Funk</LastName>
+<EmailAddress>sfunk1@cvtc.edu</EmailAddress>
+<StartDate>06/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jim</FirstName>
+<LastName>Kroehn</LastName>
+<EmailAddress>jkroehn@cvtc.edu</EmailAddress>
+<StartDate>06/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tim</FirstName>
+<LastName>Tewalt</LastName>
+<EmailAddress>ttewalt@cvtc.edu</EmailAddress>
+<StartDate>06/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Chippewa Valley Technical College</Name>
+<CityName>Eau Claire</CityName>
+<ZipCode>547016162</ZipCode>
+<PhoneNumber>7158336419</PhoneNumber>
+<StreetAddress>620 W Clairemont Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7412</Code>
+<Text>ADVANCED TECH EDUCATION PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

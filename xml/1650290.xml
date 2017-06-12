@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RUI,SBP: The Impact of Classroom Diversity Philosophies on the STEM Performance of Women and Underrepresented Minority Students</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>404974</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tamera Schneider</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In the U.S., women and ethnic minorities are underrepresented in STEM. To take advantage of our entire talent pool, this project bridges disciplinary findings in social psychology, education, and the scholarship of teaching and learning to understand student experiences of diversity in the STEM classroom. The research investigates the influence of environmental cues in the STEM classroom on the persistence and performance of women and underrepresented minorities in STEM. There are two main, contrasting diversity philosophies. One, colorblindness, emphasizes similarities between racial groups and promotes assimilation into the predominate culture. The other, multiculturalism, emphasizes differences between racial groups and values unique aspects of racial groups. Both philosophies are purportedly pro-diversity, yet they differentially affect women and students of color. This project innovatively investigates the impact of the use of these two philosophies by instructors in STEM classrooms. The project investigates the effect of these philosophies on feelings of inclusion, motivation to persist in study, and actual classroom performance across science and math classes. The findings of this research will provide evidence-based practices to replace well-intentioned but problematic practices to enhance diversity in STEM. These findings could help to increase the STEM talent pool in the U.S. by increasing the number of people who are included in and persist in the STEM academy.&lt;br/&gt;&lt;br/&gt;This project tests a model of classroom diversity philosophies that emphasize either colorblind or multiculturalism by STEM instructors, which differently influence the persistence and performance of women and underrepresented minorities in these courses. Five experiments systematically investigate the direct and indirect effects of classroom diversity philosophies on STEM performance among overrepresented and underrepresented students. The experiments investigate the moderating effects of instructor race and gender on student outcomes, as well as the extent to which diversity content is integrated into the course. This project also examines mechanisms that lead to student outcomes including their perceptions of instructor attitudes and behaviors and the overall classroom climate. The experiments will employ simulated online learning environments to test the impact of diversity philosophies, controlling for individual differences in instructor characteristics. The findings of this research can inform the development of evidence-based best practices to increase persistence and performance of women and underrepresented minorities in STEM disciplines, which will expand the U.S. talent pool.</AbstractNarration>
+    <MinAmdLetterDate>04/05/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/05/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650290</AwardID>
+    <Investigator>
+      <FirstName>Jessica</FirstName>
+      <LastName>Good</LastName>
+      <EmailAddress>jegood@davidson.edu</EmailAddress>
+      <StartDate>04/05/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Davidson College</Name>
+      <CityName>Davidson</CityName>
+      <ZipCode>280357149</ZipCode>
+      <PhoneNumber>7048942644</PhoneNumber>
+      <StreetAddress>Box 7149</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1332</Code>
+      <Text>SOCIAL PSYCHOLOGY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7980</Code>
+      <Text>Core R&amp;D Programs</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1544</Code>
+      <Text>GSE: Research on Gender in S&amp;E</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8050</Code>
+      <Text>Science of Broadening Participation</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8212</Code>
+      <Text>Broaden Particip STEM Resrch</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8817</Code>
+      <Text>STEM Learning &amp; Learning Environments</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9229</Code>
+      <Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

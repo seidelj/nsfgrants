@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Characterizing and Finding Faster Algorithms for Hypergraph Cuts</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hypergraphs are a generalization of graphs. Graphs comprise of edges connecting two vertices, while hypergraphs consist of edges connecting any number of vertices. Hypergraphs appear in a wide range of applications, where the edges model relationships between vertices. An example is a social network, where the edges represent clubs, and vertices represent people. Cuts are objects that capture how tightly connected a hypergraph is. This project will consider faster algorithms for various problems involving hypergraphs cuts. This research will be conducted at the National Institute of Informatics, Japan, in collaboration with Professor Ken-ichi Kawarabayashi, an expert in graph theory and graph algorithms.&lt;br/&gt;&lt;br/&gt;Hypergraphs can be dense, therefore, processing the hypergraph incurs substantial cost in both space and time. Finding a sparse hypergraph that approximates all the cuts allows one to use the sparse hypergraph in place of the original hypergraph, which might be much faster. Finding sparse approximation of cuts on graphs has been resolved. For hypergraphs, similar developments are on the mathematical side. However, the algorithms are not efficient. Currently, finding a sparse approximation might take more time than it is worth. This project will generalize the graph techniques to hypergraphs, and lead to faster algorithms. The project will also explore characterizations of hypergraph cuts, including answering questions on uniqueness and recognition.&lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the Japan Society for the Promotion of Science.</AbstractNarration>
+<MinAmdLetterDate>05/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714027</AwardID>
+<Investigator>
+<FirstName>Chao</FirstName>
+<LastName>Xu</LastName>
+<EmailAddress/>
+<StartDate>05/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Xu                      Chao</Name>
+<CityName>Urbana</CityName>
+<ZipCode>618017713</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5921</Code>
+<Text>JAPAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

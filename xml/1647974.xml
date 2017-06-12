@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: A STEM toolkit enabling global air quality experiments</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Glenn H. Larsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This SBIR Phase I project seeks to address the primary pain point for experiential learning of environmental science: it is nearly impossible to conduct engaging experiments on a limited local basis. The ability to collaborate regionally or globally will enable students to participate in meaningful exploration of the impact of natural and human-based events on air quality. This project teaches environmental science in a way that engages students with real-world problems and allows them to harness their own creativity. These methods have been shown to be especially effective for encouraging young women to pursue science, technology, engineering and mathematics (STEM) educational programs and careers. This is particularly important as both minorities and women are highly underrepresented in these fields. Through successful commercialization and integration of this project?s resulting technology with high school and post-secondary curricula, educators will increase the likelihood of their students to pursue STEM careers. Encouraging further education in these fields, particularly for underrepresented groups, will lead to a more diversified work force promoting greater productivity and advancement of scientific discovery.&lt;br/&gt;&lt;br/&gt;This project is innovative in the field of Educational Technology, which has yet to adopt web-connected sensors that generate big data on a global scale. This is primarily due to the fact that current technology is prone to inaccuracy and failure, and is often difficult to use. The proposed project will lead to the creation of educational software, a complement existing hardware, to make the product system fun and easy to install and use. The app will facilitate data-sharing in a global network and include: GIS mapping, continuous logging, time averaging, annotation, and integration with compatible software systems. This project seeks to achieve three key objects. First, a user-friendly tool will be built to view and analyze data. This will be assessed using feedback from a focus group. Second, a curriculum will be constructed through educator-researcher collaboration to ensure educational usefulness for both educators and their students. Lastly, usability and feasibility will be tested through prototype development. For this objective students will be recruited to interact with the prototype and evaluate the user-friendliness of the app and effectiveness of the curriculum. The success of the proposed project includes demonstration of usability, feasibly and educational effectiveness of the developed software.</AbstractNarration>
+    <MinAmdLetterDate>12/12/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/12/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647974</AwardID>
+    <Investigator>
+      <FirstName>Dirk</FirstName>
+      <LastName>Swart</LastName>
+      <EmailAddress>dirk.swart@wickeddevice.com</EmailAddress>
+      <StartDate>12/12/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Wicked Device LLC</Name>
+      <CityName>Ithaca</CityName>
+      <ZipCode>148501294</ZipCode>
+      <PhoneNumber>6077936214</PhoneNumber>
+      <StreetAddress>95 Brown Rd, suite 154</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>118E</Code>
+      <Text>GRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8031</Code>
+      <Text>Education Products</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8039</Code>
+      <Text>Information, Communication &amp; Computing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

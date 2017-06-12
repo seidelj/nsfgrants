@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Advancing Theory and Application in Perceptual and Adaptive Learning to Improve Community College Mathematics</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>576097</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11090000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Research On Learning</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robert Ochsendorf</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Developmental mathematics remains a critical obstacle to college readiness, involving large majorities of community college students and disproportionately impacting groups of students who are underrepresented in STEM - minority, low-income, and first generation college students. This project aims to improve our understanding of important instructional principles emanating from cognitive science that are related to success in community college mathematics. The studies in this project aim both to advance our understanding of learning and to apply learning innovations to known challenges in authentic learning settings, thus testing and extending the generalizability of laboratory findings to consequential mathematics learning with diverse learners. The team will focus on two areas of research in the cognitive science of learning that have that have important implications for learning complex domains like mathematics and science. The first is perceptual learning, which accelerates learners' abilities to quickly and accurately recognize key structures, patterns, and relationships. The second area is the development of adaptive learning algorithms that utilize real-time performance data in conjunction with principles of learning to improve the effectiveness and efficiency of learning by tailoring the learning process to each individual student. This project is designed both to advance the scientific understanding of perceptual and adaptive learning and to assess their potential to improve learning in community college mathematics.&lt;br/&gt;&lt;br/&gt;Several sets of experiments will investigate basic scientific questions regarding 1) whether and how there may be a unified account of the benefits of spacing of learning events that applies across different forms of learning; 2) how intermixing passive and interactive events may improve adaptive learning; and 3) how adaptive methods may be used to enhance the role and benefits of comparisons in perceptual learning. Basic principles will be established through research in controlled laboratory studies. The project will then extend these findings by conducting applied tests of these principles to optimize the effectiveness, efficiency, and durability of learning, and to maintain motivation, with community college students enrolled in remedial mathematics courses. &lt;br/&gt;&lt;br/&gt;This project is supported by NSF's EHR Core Research (ECR) program. The ECR program emphasizes fundamental STEM education research that generates foundational knowledge in the field. Investments are made in critical areas that are essential, broad and enduring: STEM learning and STEM learning environments, broadening participation in STEM, and STEM workforce development. The program supports the accumulation of robust evidence to inform efforts to understand, build theory to explain, and suggest intervention and innovations to address persistent challenges in STEM interest, education, learning and participation.</AbstractNarration>
+    <MinAmdLetterDate>03/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1644916</AwardID>
+    <Investigator>
+      <FirstName>Philip</FirstName>
+      <LastName>Kellman</LastName>
+      <EmailAddress>kellman@cognet.ucla.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Christine</FirstName>
+      <LastName>Massey</LastName>
+      <EmailAddress>cmassey@psych.ucla.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Patrick</FirstName>
+      <LastName>Garrigan</LastName>
+      <EmailAddress>pgarriga@sju.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Garrett</FirstName>
+      <LastName>Kenehan</LastName>
+      <EmailAddress>garrett.kenehan@chaffey.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Los Angeles</Name>
+      <CityName>LOS ANGELES</CityName>
+      <ZipCode>900951406</ZipCode>
+      <PhoneNumber>3107940102</PhoneNumber>
+      <StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7980</Code>
+      <Text>Core R&amp;D Programs</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

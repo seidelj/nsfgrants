@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Synergistic Modeling, Characterization, and Design of Embedded Phase Transforming Sensory Particles</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>390536</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siddiq Qidwai</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The nondestructive evaluation of engineering components to determine the existence of internal damage is a process important to a wide range of engineering sectors. This is especially true in those sectors associated with transportation where safety is critical and the number of load/unload cycles a part might experience can be very high, resulting in internal damage. Excessive internal damage can lead to failure and is unacceptable. While a number of established methods for internal damage measurement do exist, a team of engineers and materials scientists will explore a new approach by which micro-scale damage sensors in the form of small particles are directly embedded into critical parts. These are expected to increase nondestructive evaluation accuracy, thereby increasing the safety of aircraft, vehicles, trains, and potentially other important transportation infrastructure. While the team's approach is applied to a particular engineering challenge (internal damage sensing), the materials science and applied mathematical and mechanics findings are also expected to benefit researchers working on a diverse range of advanced material developments. As part of this research, the team will also expose students to professional opportunities at NASA and Boeing, as well as perform outreach activities to K-12 students and teachers through summer programs. &lt;br/&gt; &lt;br/&gt;This project addresses a novel concept: embedding phase transforming solid sensory particles into metallic structures to detect the initiation and propagation of cracks via strong magnetic signals. A synergistic experimental and computational approach is taken, whereby shape memory alloy particles exhibiting multi-physical magneto-mechanical coupling are processed at low volume fractions into structural components, their magnetic responses characterized, and associated data employed in the formulation and calibration of particle-matrix continuum models. These models will consider the bulk response of the sensory particles, their interface with the surrounding matrix, and the design of optimized particle shape, size, orientation, and distribution for the effective location of damage. The scientific objectives of this work are to: i) demonstrate that sensory particles can be successfully embedded in a metallic matrix and provide magnetic signatures during in-situ experiments, ii) acquire sufficient data regarding particle configuration and emitted response so as to calibrate and validate computational models, iii) produce validated continuum modeling tools specifically tailored to the scale and response of the sensory magnetic particles, and iv) provide structural component-based information regarding how particles should be best distributed in the host component matrix. This work both builds upon and expands an enabling body of preliminary results generated in past efforts while also exploring an entirely new sensing mechanism.</AbstractNarration>
+<MinAmdLetterDate>05/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1663327</AwardID>
+<Investigator>
+<FirstName>Darren</FirstName>
+<LastName>Hartl</LastName>
+<EmailAddress>darren.hartl@tamu.edu</EmailAddress>
+<StartDate>05/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ibrahim</FirstName>
+<LastName>Karaman</LastName>
+<EmailAddress>ikaraman@tamu.edu</EmailAddress>
+<StartDate>05/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454645</ZipCode>
+<PhoneNumber>9798477635</PhoneNumber>
+<StreetAddress>TEES State Headquarters Bldg.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1630</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1637</Code>
+<Text>Structural and Architectural E</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>026E</Code>
+<Text>STRUCTURAL MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

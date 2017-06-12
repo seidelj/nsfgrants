@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Talk, Noise, and Silence in Networks: Obstacles to Information Sharing</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>226422</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kwabena Gyimah-Brempong</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Obstacles to Information Sharing in Networks&lt;br/&gt;&lt;br/&gt;Abstract&lt;br/&gt;&lt;br/&gt;Webs of relationships among individuals, or social networks, help to transmit important information about health care, education, and work, as well as new technologies, laws, and political ideas. Communities where formal institutions are not strong are especially reliant on these networks to carry important information. Yet sometimes these channels fail, and it is not well-understood why they fail. This research investigates the obstacles to information flows in informal networks, with the aim of improving communication, which is an important input into productivity, competitiveness, and growth. Using theory and data, it will investigate the main factors preventing people in informal networks from sharing information, and examine ways to improve information-sharing. The results of this research will help us understand the role of social networks in information transmission but, more importantly, show how networks can be leveraged to spread information about technology, public health, education, the law, politics, and civic life for the betterment of societies. The results of this research are applicable in several fields; they have implications for the developed as well as the developing world.&lt;br/&gt;&lt;br/&gt;This research investigates the main frictions that impede effective information transmission and deter people from benefitting from it. The research has three dimensions: theoretical, survey-based, and experimental. Theoretically, the research will develop models to explain potential obstacles to information transmission. Possibilities include social norms that stigmatize asking questions that are correlated with low ability; informal sanctions associated with passing along information that is later associated with bad outcomes, which in turn deter giving advice; and the possibility that informationally efficient networks are public goods and therefore individuals have no incentives to provide them. Based on the theoretical development, the project will conduct a survey to elicit both narrative and quantitative data on information sharing practices in rural India. Finally, the PIs will conduct a series of field experiments designed to test which of the frictions are most important. The proposed research is novel in the sense that it is the first to provide an in-depth analysis of various frictions that impede information sharing using a methodologically diverse approach. The research has several broader impacts apart from its contribution to the economics of information. The results are applicable in a wide variety of areas including technology adoption, health, politics, business management practices, international trade, and sociology, just to mention a few.</AbstractNarration>
+    <MinAmdLetterDate>03/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658940</AwardID>
+    <Investigator>
+      <FirstName>Arun</FirstName>
+      <LastName>Chandrasekhar</LastName>
+      <EmailAddress>arungc@stanford.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Benjamin</FirstName>
+      <LastName>Golub</LastName>
+      <EmailAddress>bgolub@fas.harvard.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>National Bureau of Economic Research Inc</Name>
+      <CityName>Cambridge</CityName>
+      <ZipCode>021385398</ZipCode>
+      <PhoneNumber>6178683900</PhoneNumber>
+      <StreetAddress>1050 Massachusetts Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1320</Code>
+      <Text>ECONOMICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1320</Code>
+      <Text>ECONOMICS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

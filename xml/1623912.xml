@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Dynamics of Extreme Precipitation in the Northeast United States in Observations and Models</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2019</AwardExpirationDate>
+    <AwardAmount>453807</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ming Cai</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Extreme precipitation and its related impacts, especially flooding, result in significant loss of life, property and infrastructure damage, transportation disruption, and storm water pollution, and have economic costs of more than $8 billion per year for the US. This project will undertake fundamental research into understanding the causes of extreme precipitation in the Northeast US. This is the most economically developed and densely populated region of the country. Improved model representation of these processes is a crucial step in the overall goal of improving forecasts and projections of these high-cost events, thereby mitigating their impacts. &lt;br/&gt;&lt;br/&gt;Processes that cause extreme precipitation over daily to weekly periods in the Northeast US will be identified. The ability of current climate models to reproduce these processes will be examined. The two motivating questions are: What types of storms cause extreme precipitation in the Northeast? Do current models correctly reproduce these storms types and their relationship to extreme precipitation? Using observational data, storm types associated with extreme precipitation will be identified by applying advanced analytic techniques. Characteristic patterns in the jet stream and other storm features that occur in association with extreme precipitation will be identified. This analysis will then be undertaken on the climate model output to identify the storm types that are produced in the models and compare the modeled types to the observed types. The differences will be highlighted for use in model development and for providing context for model forecasts and projections. The physical processes by which the extreme precipitation are generated within each storm type will also be investigated. The relative strength of different factors that are known to influence precipitation, such as the amount of moisture in the lower atmosphere, will be examined within each storm type. After the key factors are identified, their influence will then be further tested in a regional, high resolution model by changing the strength of individual factors and examining how the modeled precipitation changes in response.</AbstractNarration>
+    <MinAmdLetterDate>10/25/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/25/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1623912</AwardID>
+    <Investigator>
+      <FirstName>Mathew</FirstName>
+      <LastName>Barlow</LastName>
+      <EmailAddress>Mathew_Barlow@uml.edu</EmailAddress>
+      <StartDate>10/25/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>JianHua</FirstName>
+      <LastName>Qian</LastName>
+      <EmailAddress>JianHua_Qian@uml.edu</EmailAddress>
+      <StartDate>10/25/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Massachusetts Lowell</Name>
+      <CityName>Lowell</CityName>
+      <ZipCode>018543643</ZipCode>
+      <PhoneNumber>9789344170</PhoneNumber>
+      <StreetAddress>600 Suffolk Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5740</Code>
+      <Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

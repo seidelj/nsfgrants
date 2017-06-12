@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  A Handheld, One Step Paper-Based Device for Rapid Self-Testing of Sexually Transmitted Infections</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>749830</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project is to develop a handheld, one-step paper-based device for rapid self-testing of sexually transmitted infections. The company aims to replace lab-based assays for Chlamydia trachomatis (CT) and expand testing access to previously unreachable settings. The technology combines the ease-of-use and very low cost of rapid point-of-care (POC) diagnostics with the high accuracy of lab-based tests, enabling unprecedented reliability at the POC and at home. CT infection is one of the most prevalent STIs in the US. An estimated three million new cases occur each year with direct annual medical costs of greater than $3.5 billion. Untreated CT, symptomatic or not, may cause long term pregnancy complications, even infertility. Traditional lab-based CT assays prevent the ability to test-and-treat within one patient visit. This delay results in a high number of cases that do not get treatment due to loss-to-follow up (especially for young STI patients) and increased infection transmission. Phase Diagnostics? novel device will be: (1) Fast: Results to the patient in less than 15 minutes; (2) Affordable: Costs less than $1 to manufacture; (3) Accurate: Sensitivity and specificity on par with lab-based assays; (4) Convenient: Handheld with no required equipment or training. &lt;br/&gt;&lt;br/&gt;The key innovation of the company's novel device is to use aqueous two-phase systems (ATPSs) to selectively pre-concentrate the pathogenic bacteria prior to detection, thereby dramatically enhancing the accuracy of conventional rapid LFA POC technology and enabling the use of urine samples for the detection of CT. During Phase I, the company was able to adapt ATPS to urine medium, attain improved limits of detection of its system and make considerable progress in fully integrating all components into a true one-step paper microfluidic strip. The objective of Phase II is to fully develop the company's proposed device to be ready for FDA 510(k) clearance and CLIA waiver enabling clinical studies. The company will first complete the product optimization work initiated in Phase I and perform additional device robustness studies. As these experiments near completion, the company will work with a contract prototyper to design and develop prototypes based on the final optimized device components. At the same time, the company will establish small scale manufacturing processes to ensure that it can generate a reproducible pilot batch. The company will then perform Alpha and Beta product testing to determine the clinical performance of its prototype as well as obtain feedback from end-users to determine areas for optimization.</AbstractNarration>
+<MinAmdLetterDate>04/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1660130</AwardID>
+<Investigator>
+<FirstName>Ricky Yin To</FirstName>
+<LastName>Chiu</LastName>
+<EmailAddress>yichiu@gmail.com</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Phase Diagnostics, Inc.</Name>
+<CityName>Santa Ana</CityName>
+<ZipCode>927046972</ZipCode>
+<PhoneNumber>6267576663</PhoneNumber>
+<StreetAddress>2901 W. MacArthur Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7909</Code>
+<Text>BIOSENSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Improving Science Problem Solving with Adaptive Game-Based Reflection Tools</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>857421</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11090000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Research On Learning</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Amy Baylor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The project is supported by the Education and Human Resources Core Research program, which supports fundamental research in STEM learning and learning environments. Reflection plays a critical role in student learning and encompasses a broad range of cognitive and metacognitive processes enabling students to (1) think critically about their learning processes, (2) integrate new information with prior knowledge, (3) form and adapt learning strategies, (4) view concepts and knowledge from multiple perspectives, (5) generate self-explanations to enrich conceptual understanding, (6) compare learning processes and artifacts to those created by experts and peers, and (7) make metacognitive judgments about knowledge. The National Research Council recently concluded that systematic reflection is essential for deep learning and effective educational practice. This project investigates a suite of theoretically grounded, adaptive game-based reflection tools to scaffold students' cognitive and metacognitive reflection with the overarching objective of improving middle school students' science problem-solving processes. These reflection tools are integrated as part of the existing Crystal Island learning environment.&lt;br/&gt;&lt;br/&gt;In studying middle school students' cognitive and metacognitive reflective processes, three key research questions will be addressed: 1) How do embedded and retrospective reflection scaffolds promote improved learning outcomes including science problem-solving skills, science content knowledge, metacognitive awareness, and reflection skills? 2) How can learning analytics be leveraged to extend models of reflection and self-regulated learning for problem solving within game-based learning environments? and 3) How can we create adaptive scaffolding for game-based learning environments that best foster reflection during and following science problem solving? The project builds upon a theoretical framework of self-regulated learning to inform the development of embedded and retrospective scaffold tools, gathering both process data (e.g., log data, eye tracking, think-aloud) and outcome data (e.g., pre- post- learning, transfer, metacognition, self-efficacy) to inform design principles and descriptive models of the role of reflection in students' problem-solving processes. Key project outcomes include an empirically grounded theoretical framework for reflection-enhanced learning and learning analytic techniques that yield predictive models of reflection in science problem solving.</AbstractNarration>
+    <MinAmdLetterDate>03/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1661202</AwardID>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Lester</LastName>
+      <EmailAddress>lester@csc.ncsu.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Roger</FirstName>
+      <LastName>Azevedo</LastName>
+      <EmailAddress>razeved@ncsu.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>North Carolina State University</Name>
+      <CityName>RALEIGH</CityName>
+      <ZipCode>276957514</ZipCode>
+      <PhoneNumber>9195152444</PhoneNumber>
+      <StreetAddress>CAMPUS BOX 7514</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7980</Code>
+      <Text>Core R&amp;D Programs</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8817</Code>
+      <Text>STEM Learning &amp; Learning Environments</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Graduate Student Conference in Algebra, Geometry, and Topology</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>38135</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports participation in the third Temple University Graduate Student Conference in Algebra, Geometry, and Topology, taking place in Philadelphia, Pennsylvania, on June 3-4, 2017. This conference will involve more than 90 graduate students from the East Coast and beyond, with a variety of backgrounds and research levels. The conference provides an opportunity for graduate students to develop their academic careers at an early stage by presenting mathematics in front of their peers. With thirty graduate student talks on a wide range of topics and a diversity of research interests among the plenary speakers, the conference also provides opportunities for graduate students to learn about areas of mathematical research that are not prevalent at their home universities. The conference provides unique opportunities for young mathematicians to initiate collaborative research projects and to make connections between their fields of study.&lt;br/&gt;&lt;br/&gt;The main topics of this conference are algebra, geometry, and topology broadly construed, with emphasis on interactions between these areas, including: knot theory, geometric group theory, geometric structures on manifolds, differential geometry, homotopy theory, representation theory, homological algebra, quantum invariants of manifolds, quantum groups, and algebraic geometry. The conference will feature over thirty talks by graduate students, both original research talks and expository presentations. It will also include four plenary speakers renowned for both their presentation skills and research work: Renato Bettiol (University of Pennsylvania) in differential geometry, Spencer Dowdall (Vanderbilt University) in low-dimensional topology and group theory, Holly Krieger (University of Cambridge) in arithmetic and algebra of complex dynamical systems, and Emily Peters (Loyola University Chicago) in operator algebras.&lt;br/&gt;&lt;br/&gt;Web site: https://math.temple.edu/events/conferences/gscagt</AbstractNarration>
+<MinAmdLetterDate>04/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1732161</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Futer</LastName>
+<EmailAddress>dfuter@temple.edu</EmailAddress>
+<StartDate>04/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Stover</LastName>
+<EmailAddress>mstover@temple.edu</EmailAddress>
+<StartDate>04/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Temple University</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191405104</ZipCode>
+<PhoneNumber>2157077379</PhoneNumber>
+<StreetAddress>3340 N. Broad Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1260</Code>
+<Text>INFRASTRUCTURE PROGRAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

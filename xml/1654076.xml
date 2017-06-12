@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Nonconvex Optimization and Identifiability with Applications to Medical Imaging</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>76269</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gabor J. Szekely</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Modern large-scale data sets arising in the physical and biological sciences often exhibit complex features that do not fit into the framework of existing methodologies, preventing the information in the gathered data from being fully utilized. In medical imaging, computed tomography (CT) scans and positron emission tomography (PET) scans are often best represented with models that are complex, beyond the scope of most available computational approaches, as existing methodology and theoretical analysis are mostly restricted to simpler classes of optimization problems. Since CT and PET scans come with a cost of a small radiation dose to the patient, better models for the data obtained by these imaging devices would result in a better tradeoff between the risk due to radiation and the benefit of obtaining a precise image for effective diagnosis and treatment. This research project will study a broad framework for complex optimization problems, applicable to medical imaging and across a range of problems in the physical and biological sciences, providing concrete methods and guarantees for many problems arising in these fields. The developed tools will be implemented on specific image reconstruction problems in CT and PET imaging, through collaborations with medical imaging researchers who will provide actual scan data, with the goal of enabling greater diagnostic accuracy for these popular clinical tools. Methods and code developed under this project will all be made publicly available. Throughout, the investigator will mentor students interested in working at the intersection of high-dimensional statistics, optimization, and medical imaging, and will increase interaction and communication across these fields through new courses and new collaborations.&lt;br/&gt;&lt;br/&gt;Statistical problems arising in many modern applied fields often exhibit a range of challenging features, including non-convexity and non-differentiability, that pose significant challenges for high dimensional optimization and theoretical analysis. The proposed research will explore complex non-convex optimization and identifiability problems to develop methodology and theory for a broad range of problems facing applied researchers in practice. The research will study and develop algorithms that adapt techniques such as sparse or low-rank optimization, primal/dual methods, and alternating minimization or alternating descent, with the aim of achieving efficient empirical performance and broad theoretical convergence guarantees. The resulting methods will be adapted to address concrete problems in medical imaging, where noisy side information must be incorporated into the reconstructed image, and where the image representation is confounded by additional parameters modeling the imaging device.</AbstractNarration>
+    <MinAmdLetterDate>03/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1654076</AwardID>
+    <Investigator>
+      <FirstName>Rina</FirstName>
+      <LastName>Barber</LastName>
+      <EmailAddress>rina@uchicago.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Chicago</Name>
+      <CityName>Chicago</CityName>
+      <ZipCode>606375418</ZipCode>
+      <PhoneNumber>7737028669</PhoneNumber>
+      <StreetAddress>5801 South Ellis Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1269</Code>
+      <Text>STATISTICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8048</Code>
+      <Text>Division Co-Funding: CAREER</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Workshop: Translation and Encoding for the Making and Knowing Project</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>33540</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Frederick M Kronz</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>General Audience Summary &lt;br/&gt;&lt;br/&gt;This award is to support a workshop in Toulouse, France, in late June 2017. It is to be held in conjunction with ongoing research at the Center for Science and Society at Columbia University, the Making and Knowing Project. The workshop is the fourth in a series of interdisciplinary transcription, translation, and encoding workshops. The previous three facilitated an accurate encoded transcription of a French historical text, Manuscript Fr. 640. At the conclusion of the last workshop, an optimized translation protocol for collaborative editing was developed, informed by experimental reconstruction evidence and research. The fourth workshop will reconvene international experts, project team members, and returning doctoral students to implement this protocol and complete the digital markup/encoding and the accurate and consistent translation of the manuscript as well as accompanying resources. Outcomes of this workshop will form the final dataset to be hosted by Columbia Libraries as an open-access digital critical edition that is to be launched in 2019. The resulting open-access edition will make the manuscript widely accessible to diverse audiences; the edition will serve as a valuable, widely-available research and pedagogical resource.&lt;br/&gt;&lt;br/&gt;Technical Summary &lt;br/&gt;&lt;br/&gt;Manuscript Fr. 640 contains a huge variety of recipes and instructions in areas as varied as medicine, metalworking, surveying, ballistics, pigment and varnish making, cannon casting, and detailed observations of animal behavior. The Manuscript was never published or extensively studied. Yet, it offers unrivaled first-hand testimony of the craft workshop, and provides a glimpse into the earliest phases of the Scientific Revolution, when nature was investigated primarily by skilled artisans by means of continuous and methodical experimentation in the making of objects. Thus, it forms a crucial missing link in the origins of modern science and represents a pivotal historical moment in the growth of a new mode of gaining empirically-based knowledge, the scientific method. The Making and Knowing Project has been examining the manuscript's assemblage of written and practiced activity by employing interdisciplinary methodologies, including hands-on reconstructions of the recipes (using historically relevant materials, tools, and processes) and new data visualization and analysis from the digital humanities. This workshop will facilitate further articulation and demonstration of the innovative model and standardized methodologies being developed by the Making and Knowing Project for large-scale interdisciplinary, pedagogical, and collaborative research, which is now being applied to other large scale collaborative research projects.</AbstractNarration>
+    <MinAmdLetterDate>01/18/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/18/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656227</AwardID>
+    <Investigator>
+      <FirstName>Pamela</FirstName>
+      <LastName>Smith</LastName>
+      <EmailAddress>ps2270@columbia.edu</EmailAddress>
+      <StartDate>01/18/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Columbia University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100276902</ZipCode>
+      <PhoneNumber>2128546851</PhoneNumber>
+      <StreetAddress>2960 Broadway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7603</Code>
+      <Text>SCIENCE, TECH &amp; SOCIETY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1353</Code>
+      <Text>Hist &amp; Philosophy of SET</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

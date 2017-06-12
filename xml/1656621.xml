@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RUI: Root architecture and phase change, how two seemingly different aspects of plant development tie together</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>161376</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090100</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Philip Becraft</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Non-technical paragraph: &lt;br/&gt;Plant roots function in acquiring moisture and mineral nutrients (fertilizer) from the soil, as well as anchoring the plant and preventing soil erosion. The root system of a plant is typically composed of a main root with multiple branches and the branching pattern has substantive impacts on the plant's performance. This project focuses on discovering the mechanisms that determine where along the main root the branch roots will be placed. The PI recently discovered that the pattern of root branching varies as plants progress through different stages of their life cycle. Coincident with an early change in the pattern of root branching, the arrangement of leaves in the shoot also changes, raising many questions about how the positioning of leaves and roots is controlled and coordinated. The results of this work will enhance the United States' position as a leader in scientific research by adding to the understanding of fundamental principles that guide plant growth and may contribute to the ability to breed plants with higher yields or enhanced acquisition or use of water or nutrients such as nitrogen. The project also will contribute to training the next generation in science and technology by directly involving undergraduate students in the research, a practice that has been shown to be effective in recruiting and retaining students in science. The project will also support laboratory research experiences for area high school students, who will be mentored by the PI and undergraduates, further extending the project's educational and scientific impact.&lt;br/&gt;&lt;br/&gt;Technical Paragraph: &lt;br/&gt;Distinct phases of development have long been recognized in plant shoots. In contrast, the potential for phase-dependent changes in root development receives little attention, although changes in meristem size and root thickness are known to occur. New data from the PI's laboratory show that the positioning of lateral roots varies as the root matures, and that proteins that direct auxin transport affect these stages differently. In addition, loss-of-function of several genes that affect lateral root positioning also affect the time at which plants switch from a juvenile to a mature pattern of leaf arrangement. This project will: (1) establish the timing of developmental changes that take place in the root and test the hypothesis that genes known to control phase change in the shoot also control phase in the root. It will also (2) investigate genetic and molecular interactions between the identified genes and test hypotheses as to how regulation of organ spacing in the root and shoot are coordinated. This project will increase the opportunities for undergraduates to actively participate in science through the PI's laboratory, through a credit-bearing course that will be revised to make involvement in this research the centerpiece of the educational experience, and through opportunities for travel to a leading plant developmental biology laboratory outside of Oberlin. The PI and undergraduates will also partner with the local public high school, bringing multi-day investigative experiments to the high school and creating opportunities for motivated high school students from underrepresented groups to work in the PI's laboratory.</AbstractNarration>
+    <MinAmdLetterDate>04/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1656621</AwardID>
+    <Investigator>
+      <FirstName>Marta</FirstName>
+      <LastName>Laskowski</LastName>
+      <EmailAddress>marta.laskowski@oberlin.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Oberlin College</Name>
+      <CityName>Oberlin</CityName>
+      <ZipCode>440741090</ZipCode>
+      <PhoneNumber>4407758461</PhoneNumber>
+      <StreetAddress>70 N. Professor Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1118</Code>
+      <Text>PLANT FUNGAL &amp; MICROB DEV MECH</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9229</Code>
+      <Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

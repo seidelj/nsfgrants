@@ -15,7 +15,7 @@
         <LongName>Direct For Biological Sciences</LongName>
       </Directorate>
       <Division>
-        <LongName>Division Of Integrative Organismal Sys</LongName>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
       </Division>
     </Organization>
     <ProgramOfficer>
@@ -44,5 +44,25 @@
       <StateName>California</StateName>
       <StateCode>CA</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>7275</Code>
+      <Text>CROSS-EF ACTIVITIES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7298</Code>
+      <Text>COLLABORATIVE RESEARCH</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5918</Code>
+      <Text>FRANCE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7327</Code>
+      <Text>CRCNS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

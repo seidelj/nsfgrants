@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Solar Influences on Tropical Deep Convection and the Madden-Julian Oscillation (MJO): Observational Analyses and Tests of a Proposed Mechanism</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2018</AwardExpirationDate>
+    <AwardAmount>171538</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ming Cai</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The objective of this project is to apply available observations to evaluate whether short-term solar ultraviolet variability (occurring mainly on the ~ 27-day solar rotation time scale) can influence tropical climate variability on time scales from weeks to months. It will specifically explore whether previously reported evidence for such an influence in the tropical Pacific sector is indeed robust. Statistical analyses will employ a total of 20 years of solar ultraviolet radiation measurements under solar maximum conditions when 27-day variations are especially large. Coincident meteorological fields such as temperature and wind near the troposphere will be analyzed to determine whether short-term solar ultraviolet forcing can significantly perturb the stratification of the tropical upper troposphere and thereby modify the environment condition for deep convections. Associated effects on synoptic and large-scale circulations will be investigated. The PI will also explore whether such responses to the 27-day solar depend on season or on the phases of the El-Niño/Southern Oscillation as well as the stratospheric quasi-biennial oscillation. The statistical significance of any detected responses will be assessed using standard methods. &lt;br/&gt;&lt;br/&gt;Confirmation of a significant short-term solar impact on tropical convection and short-time climate variability would (a) provide a new observation for testing climate models that include solar forcing; (b) lead to improvements in extended-range weather forecasting; and (c) improve our understanding of short-time climate variability. The project will support one graduate student and one undergraduate student.</AbstractNarration>
+    <MinAmdLetterDate>03/08/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/08/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1643160</AwardID>
+    <Investigator>
+      <FirstName>Lon</FirstName>
+      <LastName>Hood</LastName>
+      <EmailAddress>lon@lpl.arizona.edu</EmailAddress>
+      <StartDate>03/08/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Arizona</Name>
+      <CityName>Tucson</CityName>
+      <ZipCode>857194824</ZipCode>
+      <PhoneNumber>5206266000</PhoneNumber>
+      <StreetAddress>888 N Euclid Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5740</Code>
+      <Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

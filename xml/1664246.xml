@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RAPID: Acquisition of a Delta Ray Isotope Ratio Spectrometer for Earth Science Research</AwardTitle>
+    <AwardEffectiveDate>11/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2017</AwardExpirationDate>
+    <AwardAmount>60000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06030000</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Earth Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Russell C. Kelz</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Fischer&lt;br/&gt;1664246&lt;br/&gt;&lt;br/&gt;This Grant for Rapid Response Research (RAPID) supports acquisition of a purchase a laser cavity ring down spectrometer that the investigator has been using from the manufacturer on loan for the purpose of making rapid field measurements of the stable carbon isotopic composition and CO2 concentrations in volcanic gases at Mt Erebus volcano in Antarctica and as well as Aleutian volcanoes. The manufacturer is offering a substantial discount for purchase of the spectrometer and purchase will allow the PI to conduct field sampling using this equipment for the rapidly approaching Austral summer field season. &lt;br/&gt;&lt;br/&gt;This award will foster research that informs our understanding of volcanic processes and hazards and thus is congruent with NSF?s mission of promoting the progress of science and advancing the national health, prosperity and welfare given the importance of understanding volcanic processes and for the training of next generation scientific workforce in modern experimental analysis techniques.&lt;br/&gt;&lt;br/&gt;***</AbstractNarration>
+    <MinAmdLetterDate>11/08/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/08/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1664246</AwardID>
+    <Investigator>
+      <FirstName>Tobias</FirstName>
+      <LastName>Fischer</LastName>
+      <EmailAddress>fischer@unm.edu</EmailAddress>
+      <StartDate>11/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of New Mexico</Name>
+      <CityName>Albuquerque</CityName>
+      <ZipCode>871310001</ZipCode>
+      <PhoneNumber>5052774186</PhoneNumber>
+      <StreetAddress>1700 Lomas Blvd. NE, Suite 2200</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Mexico</StateName>
+      <StateCode>NM</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1580</Code>
+      <Text>INSTRUMENTATION &amp; FACILITIES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8076</Code>
+      <Text>GeoPRISMS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1647</Code>
+      <Text>ANTARCTIC INSTRUM &amp; SUPPORT</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5112</Code>
+      <Text>ANTARCTIC EARTH SCIENCES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7914</Code>
+      <Text>RAPID</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

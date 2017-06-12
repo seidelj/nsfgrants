@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>2016 Software Infrastructure for Sustained Innovation (SI2) Principal Investigators Workshop</AwardTitle>
     <AwardEffectiveDate>01/15/2016</AwardEffectiveDate>
-    <AwardExpirationDate>12/31/2016</AwardExpirationDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
     <AwardAmount>104947</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1606994</AwardID>
     <Investigator>
-      <FirstName>Stanley</FirstName>
-      <LastName>Ahalt</LastName>
-      <EmailAddress>ahalt@renci.org</EmailAddress>
-      <StartDate>01/07/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Francis</FirstName>
       <LastName>Timmes</LastName>
       <EmailAddress>fxt44@mac.com</EmailAddress>
       <StartDate>01/07/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Turk</LastName>
+      <EmailAddress>mjturk@illinois.edu</EmailAddress>
+      <StartDate>01/07/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
       <FirstName>Shaowen</FirstName>
@@ -51,9 +51,9 @@
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>Matthew</FirstName>
-      <LastName>Turk</LastName>
-      <EmailAddress>mjturk@illinois.edu</EmailAddress>
+      <FirstName>Stanley</FirstName>
+      <LastName>Ahalt</LastName>
+      <EmailAddress>ahalt@renci.org</EmailAddress>
       <StartDate>01/07/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>

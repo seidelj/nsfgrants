@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Bimodal Ligand Architectures for (Nano)particle Assembly Structures with Increased Strength and Fracture Resistance</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>345000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thomas F. Kuech</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>When matter is confined to a very small volume in the form of "nanomaterials", novel physical properties emerge. For example, nanomaterials have been shown to exhibit tunable optical, electronic or magnetic properties that could transform technologies ranging from energy storage and generation, electronic products, chemical industrial processes or medical diagnostics. It is still difficult, however, to fabricate products or devices out of nanoparticles due to the present rudimentary knowledge of how nanoparticles interact. This difficulty in processing nanomaterials presents a barrier to their industrial utilization in new nanomaterial technologies. This award supports fundamental research to provide the needed knowledge for the fabrication of nanomaterials that can be readily processed into technology relevant form. The research involves the development and modification of particle surfaces that allow particles to form stronger and fracture resistant material products. In collaboration with a PA-based start-up company, such new nanomaterial assemblies will be utilized and tested through the fabrication of luminescent panels that are important for next-generation active displays. The program will broaden the participation of minority students and provide cross-disciplinary training for one graduate and several undergraduate students in the critical area of nanotechnology that is of key strategic relevance for securing the future innovativeness and economic strength of the US. &lt;br/&gt;&lt;br/&gt;The assembly of nanoparticles into solid assembly structures, which are often referred to as "particle solids", plays a central role in the integration of nanoparticle systems into device architectures for applications ranging from photovoltaics to solid state lighting. A major barrier in the scalable production of self-assembled particle solid structures is the brittle nature of particle solids that promotes crack formation during the processing and integration of particle assemblies. The goal of this project is to test the hypothesis that that the grafting of bimodal polymeric ligands provides a path towards particle solids with high inorganic content and significantly enhanced mechanical properties and processibility. The research plan is organized into three subsequent research thrusts that will successively focus on (1) the synthesis of a library of bimodal polymer-tethered particle model systems, (2) the elucidation of the effect of bimodal brush composition and chain asymmetry on the mechanical and structural characteristics of particle solids, and (3) the extension of the bimodal brush approach to quantum dot (QD) systems to facilitate the solventless forming of polymer-embedded quantum dot heterostructures with enhanced structural control. The extension of the bimodal brush particle concept to QD-solids will test the generalizability of results and provide a foundation for the future development of QD/polymer-composite technologies.</AbstractNarration>
+    <MinAmdLetterDate>03/01/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/01/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1663305</AwardID>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Bockstaller</LastName>
+      <EmailAddress>bockstaller@CMU.EDU</EmailAddress>
+      <StartDate>03/01/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Carnegie-Mellon University</Name>
+      <CityName>PITTSBURGH</CityName>
+      <ZipCode>152133815</ZipCode>
+      <PhoneNumber>4122689527</PhoneNumber>
+      <StreetAddress>5000 Forbes Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8092</Code>
+      <Text>Materials Eng. &amp; Processing</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>024E</Code>
+      <Text>MATERIALS DESIGN</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8025</Code>
+      <Text>Advanced Materials Processing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8037</Code>
+      <Text>Advanced Manufacturing</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

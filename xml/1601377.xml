@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>DISSERTATION RESEARCH: Experimental miniaturization of guppy offspring</AwardTitle>
     <AwardEffectiveDate>04/01/2016</AwardEffectiveDate>
-    <AwardExpirationDate>03/31/2017</AwardExpirationDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
     <AwardAmount>17197</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1601377</AwardID>
     <Investigator>
-      <FirstName>Terry</FirstName>
-      <LastName>Dial</LastName>
-      <EmailAddress>Terry_Dial@brown.edu</EmailAddress>
-      <StartDate>03/25/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Elizabeth</FirstName>
       <LastName>Brainerd</LastName>
       <EmailAddress>elizabeth_brainerd@brown.edu</EmailAddress>
       <StartDate>03/25/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Terry</FirstName>
+      <LastName>Dial</LastName>
+      <EmailAddress>Terry_Dial@brown.edu</EmailAddress>
+      <StartDate>03/25/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Brown University</Name>

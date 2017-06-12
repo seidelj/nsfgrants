@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Mobile Platform for Student Goal-Setting &amp; Engagement</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>224145</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Glenn H. Larsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project will develop a platform that leverages Colytix? existing app and user base to create a transformative technology capable of addressing the massive gap in student retention among community college and part-time students. College education is seen as one of the primary drivers of economic success for US citizens and therefore directly impacts on the welfare of citizens and the health of the overall economy. Community colleges received significant attention in 2015 after President Barack Obama proposed to make community college tuition free to many residents of the US in his State of the Union Address. Once implemented, this plan would increase enrollment at community colleges dramatically, but would likely only exacerbate current poor graduation and retention rates if no changes to the status quo are implemented. This project will provide a key technology to help to realize these goals across the country.&lt;br/&gt;&lt;br/&gt;An innovative combination of technology, interaction design, and educational theory will be used to enable collaboration between students as well as their faculty and mentors. The ultimate goal of the project is to create an individualized platform that breaks each student?s long term goals down into manageable, short term, individualized targets while providing a community of other students and faculty to monitor progress, provide encouragement, and provide timely and appropriate interventions when necessary. This approach will address all of the key factors in low student retention and provide a clear pathway to success for each individual student. The initial focus of the project will be on science, technology, engineering and mathematics (STEM) disciplines in community colleges, but the underlying principles of the platform can be applied to any discipline across any geography and/or institution.</AbstractNarration>
+    <MinAmdLetterDate>12/07/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/07/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1646964</AwardID>
+    <Investigator>
+      <FirstName>Lori</FirstName>
+      <LastName>Silverman</LastName>
+      <EmailAddress>lori@colytix.com</EmailAddress>
+      <StartDate>12/07/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Colytix, Inc</Name>
+      <CityName>Los Altos Hills</CityName>
+      <ZipCode>940223235</ZipCode>
+      <PhoneNumber>4083387834</PhoneNumber>
+      <StreetAddress>27791 Edgerton Rd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>118E</Code>
+      <Text>GRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8031</Code>
+      <Text>Education Products</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8039</Code>
+      <Text>Information, Communication &amp; Computing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

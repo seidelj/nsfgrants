@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Geodetic Satellite-Based Observation System</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of the I-Corps project is the development of a prototype geodetic satellite-based gravity observational system and the associated cloud-based computing tools for the rapid remote monitoring of floods, droughts, and freshwater resources availability globally at basin scales. The project is expected to enable efficient, dynamic, big data quantifications of freshwater transport for a wide range of potential commercial applications. The potential commercialization of this tool and the timely availability of the associate data products could provide critical information and impact on commercial applications including precision agriculture, disaster planning and management, as well as general water resources management.&lt;br/&gt;&lt;br/&gt;This I-Corps project will explore the commercialization of a cloud-based satellite temporal gravity observation processing and visualization tool. This is designed for rapid monitoring with up to daily temporal sampling for natural or anthropogenic features. The project builds from prior developments improving the temporal resolution of water storage change and potentially improving its spatial resolution. Current commercially available tools for agricultural and disaster/water resources management services are primarily based on passive remote sensing imaging which are typically limited by cloud cover or are prohibitively expensive for acquiring timely data sets. As Earth satellite gravity mission data sets continue into the next decade, the data underpinning this work is freely available and potentially updated in near real time.</AbstractNarration>
+    <MinAmdLetterDate>04/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1734033</AwardID>
+    <Investigator>
+      <FirstName>C. K.</FirstName>
+      <LastName>Shum</LastName>
+      <EmailAddress>ckshum@osu.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Kun</FirstName>
+      <LastName>Shang</LastName>
+      <EmailAddress>shang.34@osu.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ratnesh</FirstName>
+      <LastName>Bhattacharya</LastName>
+      <EmailAddress>bhattacharya.11@osu.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Ohio State University</Name>
+      <CityName>Columbus</CityName>
+      <ZipCode>432101016</ZipCode>
+      <PhoneNumber>6146888735</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

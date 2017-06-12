@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>RAPID: Patterns of Fluvial Sedimentation and Geomorphic Change Following an Extreme Flood Event</AwardTitle>
     <AwardEffectiveDate>01/15/2016</AwardEffectiveDate>
-    <AwardExpirationDate>12/31/2016</AwardExpirationDate>
+    <AwardExpirationDate>07/31/2017</AwardExpirationDate>
     <AwardAmount>49341</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1615154</AwardID>
     <Investigator>
-      <FirstName>John</FirstName>
-      <LastName>Kupfer</LastName>
-      <EmailAddress>kupfer@sc.edu</EmailAddress>
-      <StartDate>01/11/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Allan</FirstName>
       <LastName>James</LastName>
       <EmailAddress>ajames@sc.edu</EmailAddress>
       <StartDate>01/11/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Kupfer</LastName>
+      <EmailAddress>kupfer@sc.edu</EmailAddress>
+      <StartDate>01/11/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>University of South Carolina at Columbia</Name>
@@ -53,20 +53,16 @@
       <StateCode>SC</StateCode>
     </Institution>
     <ProgramElement>
-      <Code>1352</Code>
-      <Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+      <Code>7458</Code>
+      <Text>GEOMORPHOLOGY &amp; LAND USE DYNAM</Text>
     </ProgramElement>
     <ProgramElement>
-      <Code>7458</Code>
-      <Text>GEOMORPHOLOGY &amp; LAND USE DYNAM</Text>
+      <Code>1352</Code>
+      <Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
     </ProgramElement>
     <ProgramReference>
       <Code>1352</Code>
       <Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
-    </ProgramReference>
-    <ProgramReference>
-      <Code>7458</Code>
-      <Text>GEOMORPHOLOGY &amp; LAND USE DYNAM</Text>
     </ProgramReference>
     <ProgramReference>
       <Code>7914</Code>
@@ -83,6 +79,10 @@
     <ProgramReference>
       <Code>9196</Code>
       <Text>NATURAL DISASTERS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7458</Code>
+      <Text>GEOMORPHOLOGY &amp; LAND USE DYNAM</Text>
     </ProgramReference>
   </Award>
 </rootTag>

@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1602787</AwardID>
     <Investigator>
-      <FirstName>Jingguang</FirstName>
-      <LastName>Chen</LastName>
-      <EmailAddress>jgchen@columbia.edu</EmailAddress>
-      <StartDate>03/21/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Israel</FirstName>
       <LastName>Wachs</LastName>
       <EmailAddress>iew0@lehigh.edu</EmailAddress>
       <StartDate>03/21/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jingguang</FirstName>
+      <LastName>Chen</LastName>
+      <EmailAddress>jgchen@columbia.edu</EmailAddress>
+      <StartDate>03/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Lehigh University</Name>
@@ -54,7 +54,7 @@
     </Institution>
     <ProgramElement>
       <Code>1401</Code>
-      <Text>CATALYSIS AND BIOCATALYSIS</Text>
+      <Text>Catalysis</Text>
     </ProgramElement>
     <ProgramReference>
       <Code>7556</Code>

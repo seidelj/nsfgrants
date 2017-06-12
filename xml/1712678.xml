@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Smart Cities and Connected Communities: A Workshop Bridging Rural, Peri-Urban and Urban Sustainability</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>25000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>David Corman</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This is a workshop sponsored by the National Science Foundation in conjunction with the National Institute of Food and Agriculture. The workshop, "Smart Cities and Connected Communities: A workshop bridging rural, peri-urban, and urban sustainability" brings together leaders in science, technology, and community and economic development to identify research challenges addressing challenges in sustainability in food production and distribution in the context of smart and connected communities. Some of these challenges include increased food and nutritional security through high output and resilient local agriculture technologies and systems.&lt;br/&gt;&lt;br/&gt;The workshop agenda includes a mixture of plenary and targeted short talks, and breakout sessions. Key questions to be addressed include:&lt;br/&gt;&lt;br/&gt;a) What are the commonalties/differences that rural, peri-urban, and urban communities face in building&lt;br/&gt;smart, connected, and sustainable communities?&lt;br/&gt;b) What examples of connected communities focused on food systems security and nutritional security&lt;br/&gt;exist, and what have we learned from them?&lt;br/&gt;c) What strategies will meaningfully increase the resilience and reliability of connected agricultural&lt;br/&gt;communities?&lt;br/&gt;d) What measures can be consulted to assess progress toward smart, connected and sustainable&lt;br/&gt;communities?&lt;br/&gt;&lt;br/&gt;Discussion on these specific questions will help inform new research strategies as we look towards building future smart and connected communities bridging rural and urban settings.</AbstractNarration>
+    <MinAmdLetterDate>03/16/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/16/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1712678</AwardID>
+    <Investigator>
+      <FirstName>Sabine</FirstName>
+      <LastName>O'Hara</LastName>
+      <EmailAddress>Sabine.o'hara@udc.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Richardson</LastName>
+      <EmailAddress>matthew.richardson@udc.edu</EmailAddress>
+      <StartDate>03/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of the District of Columbia</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200081122</ZipCode>
+      <PhoneNumber>2022746260</PhoneNumber>
+      <StreetAddress>4200 Connecticut Ave NW</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>033y</Code>
+      <Text/>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>042Z</Code>
+      <Text>S&amp;CC: Smart and Connected Communities</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

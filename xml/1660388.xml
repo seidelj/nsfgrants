@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI: Assessing the Environmental and Human Drivers and Cultural Dimensions of Changes in Oak Forests of the Eastern U.S.</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2020</AwardExpirationDate>
+<AwardAmount>68752</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Antoinette WinklerPrins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will investigate the changes in abundance of white oak forests in the eastern United States over the past two centuries as well as consider the societal ramifications of these changes.  White oak forests provide numerous material and non-material benefits to society that include commercial timber products, habitat for animal species, and cultural value.  Historically white oaks were an essential component of eastern U.S. forests, being the most abundant tree in forests prior to Euro-American settlement. However, white oak abundance has declined over the past two centuries, motivating this study to understand the reasons for high abundance in the past and the reasons for their decline. The project will investigate two significant processes that likely contributed to white oak abundance in the eighteenth century: vegetation burning by Native Americans to maintain open landscapes, and the occurrence of high-severity droughts that favored drought-tolerant species such as white oak.  The project will analyze present-day forests to understand environmental and historical land-use conditions under which white oak forests persist or decline. To comprehend the human dimensions of oak decline, the project will assess economic and cultural values that stakeholder groups, including Native American communities, ascribe to white oak trees and forests. The research will provide undergraduate student training, including those traditionally underrepresented in the sciences, with field and lab-based educational experiences in STEM fields, specifically in geographic information systems, tree-ring analysis, and statistical modeling. The outcomes of this project will contribute new knowledge for managing oak landscapes to meet economic, ecological, and cultural goals. The framework and methods are scalable to other ecosystems with shared Euro- and Native American land-use legacies. Project findings will be widely shared with entities such as state and federal land management agencies, the Seneca Nation of Indians, and land conservancies. Findings will also be communicated through various means, including a book.&lt;br/&gt;&lt;br/&gt;This research will be conducted in the forests of northern New York state and focuses on three central research questions: (1) Were environmental factors or Native American land-use practices responsible for the high abundance of oak and other xeric (dry-site) tree species in the past? (2) Under what environmental and land-use conditions have white oaks regenerated or declined? (3) What material and non-material benefits do white oak trees and forests provide communities in the eastern United States?  Historical records will provide insight into landscape characteristics and land-use practices during late Native American (ca. 1790) and early Euro-American (ca. 1790-1850) settlement period, and will be used to construct a land-use history. Statistical models will determine relationships between past forest composition, environmental conditions (e.g. topography, soils), and Native American land-use.  Dendrochronological studies will be conducted using tree-core samples extracted from remaining old trees to assess patterns of tree growth in relation to drought patterns and land-use changes. Modern tree species composition will be compared with environmental conditions (e.g. soils) and land-use histories to understand settings under which white oak persisted or declined. Surveys and interviews of stakeholders in the study area will be used to ascertain the present-day economic and cultural values associated with white oaks.</AbstractNarration>
+<MinAmdLetterDate>04/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1660388</AwardID>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Larsen</LastName>
+<EmailAddress>larsen@buffalo.edu</EmailAddress>
+<StartDate>04/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Robertson</LastName>
+<EmailAddress>robertsd@geneseo.edu</EmailAddress>
+<StartDate>04/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Tulowiecki</LastName>
+<EmailAddress>tulowiecki@geneseo.edu</EmailAddress>
+<StartDate>04/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY College at Geneseo</Name>
+<CityName>Geneseo</CityName>
+<ZipCode>144541401</ZipCode>
+<PhoneNumber>5852455547</PhoneNumber>
+<StreetAddress>1 College Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1305</Code>
+<Text>ECOLOGICAL DIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9278</Code>
+<Text>HUMAN DIMENSIONS OF GLOBAL CHANGE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

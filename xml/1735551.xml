@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>6th ASM Conference on Cell-Cell Communication in Bacteria; October 16-19, 2017, Athens, Georgia</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>9100</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Devaki Bhaya</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will support students, postdoctoral researchers and early career investigators at the American Society of Microbiology(ASM) Conference on Cell-Cell Communication in Bacteria (CCCB6) to be held in Athens, Georgia in October, 2017.  The conference showcases innovative new multi-disciplinary and theory-driven research to garner a deeper understanding of the cell-cell communication underpinning coordinated group behaviors in bacteria.  Such signaling within and between species of microbes, often termed ?quorum sensing?, controls a range of microbial behaviors and processes with enormous consequences for human and animal health, agriculture, energy, and the environment.  The budget requested will be used to support travel of early-career investigators, as well as postdoctoral and student researchers, several of whom will be selected for oral presentations based on their submitted conference abstracts. The organizers of the conference have made a particular effort to be broadly inclusive in terms of gender balance and minority participation.&lt;br/&gt;&lt;br/&gt;The conference will bring together leading researchers in the field including international participants.  The organizers present a forward-thinking agenda at this conference, complementing the microbiological focus with presentations by theorists, synthetic biologists, computational biologists, engineers, chemists and physicists.  Sessions cover such topics as the role of bacterial cell-cell communication in disease, the chemical diversity of signals, the evolution of microbial social behavior, bacterial group behaviors, computational modeling of regulatory circuits, ecological perspectives on cell-cell signaling, and applied aspects of signal disruption.</AbstractNarration>
+<MinAmdLetterDate>06/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1735551</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Stabb</LastName>
+<EmailAddress>estabb@uga.edu</EmailAddress>
+<StartDate>06/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Society For Microbiology</Name>
+<CityName>Washington</CityName>
+<ZipCode>200362904</ZipCode>
+<PhoneNumber>2027373600</PhoneNumber>
+<StreetAddress>1752 N STREET NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>144E</Code>
+<Text>Synthetic biology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

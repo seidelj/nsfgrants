@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>LTER: Linking Pelagic Community Structure with Ecosystem Dynamics and Production Regimes on the Changing Northeast US Shelf</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2022</AwardExpirationDate>
+    <AwardAmount>1126998</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040300</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>David L. Garrison</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The northwest Atlantic is renowned for productive fisheries that depend upon a complex food web of planktonic organisms that provide them energy. In these waters -- as in coastal waters around the globe -- human activities, environmental variability, and decadal-scale change intersect to have diverse effects on the planktonic food web. It is crucial to understand the structure of this web, how it functions, and how it responds to seasonal environmental change, in order to respond appropriately to long-term trends that are accelerating in this region. Our understanding, however, has been limited by a lack of systematic and detailed measurements over a sufficient length of time so that we can observe the responses of these webs to environmental perturbations and uncover the underlying causes and implications. The Northeast US Shelf (NES) Long-Term Ecological Research (LTER) project will provide such observations, analyze them with a variety of models, and improve our ability to predict how planktonic food webs change through space and time, and how those changes impact the productivity of higher trophic levels including commercially important fish. In addition, the NES-LTER project will have multifaceted broader impacts, including collaboration with the National Oceanic and Atmospheric Administration's (NOAA), Northeast Fisheries Science Center to support multispecies, ecosystem-based management on the NES. The project includes an education plan that will provide opportunities to a broad range of learners and a far-reaching public outreach component will be developed through NOAA's international Science-On-a-Sphere network. &lt;br/&gt;&lt;br/&gt;While patterns of ecosystem change over seasons to decades have already been documented in this region, the key mechanisms linking changes in the physical environment, planktonic food webs, and higher trophic levels remain poorly understood. For this reason, predictive capability is limited and management strategies are largely reactive. To address these needs, the NES-LTER strategy combines observations that provide regional-scale context, process cruises along a high gradient cross-shelf transect, high-frequency time series at inner- and outer-shelf locations, coupled biological-physical food web models, and targeted population models. The research plan is guided by an overarching science question: How is long-term environmental change impacting the pelagic NES ecosystem and, in particular, affecting the relationship between compositional (e.g., species diversity and size structure) and aggregate (e.g., rates of primary production, and transfer of energy to important forage fish species) variability? By capitalizing on high levels of seasonal and interannual variability in the NES, the research will study short-term responses to change in the environment to a) characterize low and high export food webs, b) understand the linkages and transfer of energy from the phytoplankton to pelagic fish, and c) identify the mechanisms that underlie shifts between high and low export communities. Ultimately, mechanistic knowledge will be scaled up to understand and predict the impacts and feedbacks associated with trends in decadal-scale forcing in the ecosystem.</AbstractNarration>
+    <MinAmdLetterDate>02/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655686</AwardID>
+    <Investigator>
+      <FirstName>Steven</FirstName>
+      <LastName>Lentz</LastName>
+      <EmailAddress>slentz@whoi.edu</EmailAddress>
+      <StartDate>02/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Heidi</FirstName>
+      <LastName>Sosik</LastName>
+      <EmailAddress>hsosik@whoi.edu</EmailAddress>
+      <StartDate>02/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stace</FirstName>
+      <LastName>Beaulieu</LastName>
+      <EmailAddress>sbeaulieu@whoi.edu</EmailAddress>
+      <StartDate>02/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Rubao</FirstName>
+      <LastName>Ji</LastName>
+      <EmailAddress>rji@whoi.edu</EmailAddress>
+      <StartDate>02/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Joel</FirstName>
+      <LastName>Llopiz</LastName>
+      <EmailAddress>jllopiz@whoi.edu</EmailAddress>
+      <StartDate>02/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Woods Hole Oceanographic Institution</Name>
+      <CityName>WOODS HOLE</CityName>
+      <ZipCode>025431041</ZipCode>
+      <PhoneNumber>5082893542</PhoneNumber>
+      <StreetAddress>183 OYSTER POND ROAD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1195</Code>
+      <Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1097</Code>
+      <Text>DIVERSITY: ROLE IN ECOSYSTEMS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1174</Code>
+      <Text>POPULATION DYNAMICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1389</Code>
+      <Text>CARBON CYCLE RESEARCH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1650</Code>
+      <Text>BIOLOGICAL OCEANOGRAPHY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>4444</Code>
+      <Text>INTERDISCIPLINARY PROPOSALS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7398</Code>
+      <Text>OCEAN OBSERVATORY SCI &amp; TECH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8242</Code>
+      <Text>Marine Nitrogen Cycle</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8811</Code>
+      <Text>Marine Microbial Ecology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9117</Code>
+      <Text>MARINE BIOTECHNOLOGY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9177</Code>
+      <Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9251</Code>
+      <Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

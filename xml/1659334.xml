@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Nonlinear Factor and Latent Variable Models</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2020</AwardExpirationDate>
+    <AwardAmount>229997</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Divn Of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Cheryl L. Eavey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This research project will create new nonlinear dimension-reducing data analysis methods. The methods will be designed to extract information regarding a few specific unobserved variables of interest from large amounts of observed but potentially error-contaminated data. This type of nonlinear approach is inherently challenging due to the risk that the data alone may not uniquely identify the features of the variables of interest unless carefully motivated assumptions are made and a detailed formal analysis is performed. The new nonlinear methods will generalize current linear dimension-reducing statistical analysis methods that are widely used in statistical surveys, economics, medical imaging, data compression, machine learning, and internet search engines. Developing efficient nonlinear extensions of these methods will advance data analysis capabilities in these fields considerably by enabling researchers to uncover intricate nonlinear relationships that are currently masked through the lenses of linear approaches. A graduate student will obtain valuable research education and training by playing an important role in the development and implementation of the new methods. Software developed from this project will be made publicly available.&lt;br/&gt;&lt;br/&gt;The idea that the information contained in a large number of even imperfectly measured variables can be summarized by a small number of variables (the "factors" or "principal components") has been widely adopted in economics and statistics and is gathering even more attention with the increasing prevalence of "big data." Some of the methods to be developed can be seen as a unification and generalization of widely used classes of techniques, such as linear latent factor models, multiway array decomposition, and nonclassical measurement error models. Other methods to be developed generalize the widely used linear principal component analysis to nonlinear settings. The main questions addressed in this work are: What reasonable assumptions ensure that the distribution of the many observed variables uniquely determine the distribution of the specific unobserved variables of interest? Can efficient numerical algorithms be devised to find this unique mapping between observed and unobserved distributions? Do the new methods reduce to existing methods in special cases? The approaches used to answer these questions draw from the fields of optimal transport, entropy maximization, operator theory, and measure theory.</AbstractNarration>
+    <MinAmdLetterDate>03/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659334</AwardID>
+    <Investigator>
+      <FirstName>Susanne</FirstName>
+      <LastName>Schennach</LastName>
+      <EmailAddress>smschenn@brown.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Brown University</Name>
+      <CityName>Providence</CityName>
+      <ZipCode>029129002</ZipCode>
+      <PhoneNumber>4018632777</PhoneNumber>
+      <StreetAddress>BOX 1929</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Rhode Island</StateName>
+      <StateCode>RI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1333</Code>
+      <Text>METHOD, MEASURE &amp; STATS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1320</Code>
+      <Text>ECONOMICS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Biomedical Engineering Technology - Pathways to Medical Device Manufacturing, Networking, and Cybersecurity</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>619859</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Olga Pierrakos</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Modern healthcare is defined by its inclusion of rapidly-progressing technology in medical devices used to assess, monitor, and treat patients. Device capabilities such as wireless networking enhance functionality, but increase risks associated with threats to cybersecurity and patient safety. Skilled technicians trained in the manufacturing, installation, repair, networking, and security of medical devices are in high demand throughout the healthcare industry on a national scale. However, current Biomedical Engineering Technology (BMET) education must evolve to capture students at every point along the educational pathway and to address skills gaps for new and emerging medical device technology. To address these needs, St. Petersburg College will leverage connections with national industry advisors to implement the BMET Pathways program. BMET Pathways will expand the current BMET Associate of Science degree at St. Petersburg College to incorporate new stackable certificate pathways, including an innovative Networking and Cybersecurity certification. Embedded in these certificates will be new micro-credentials tied to industry-recognized competencies.  Such certificates allow incoming students with specialized skills, such as veterans, to earn credit for prior learning while also providing current students with verification of skills for rapid employment without a degree. BMET Pathways will also strengthen the employment and training pipeline by supporting education initiatives from K-12 through articulation to multiple baccalaureate degrees.&lt;br/&gt;&lt;br/&gt;BMET Pathways will advance knowledge by addressing two primary goals: 1) establish a sustainable pipeline of trained biomedical engineering technicians and 2) expand educational and career opportunities that are responsive to industry demand. The project will utilize senior faculty from Biomedical Engineering, Engineering Technology and the College of Computer and Information Technology to create: (a) a minimum of 15 micro-credentials, (b) three new college credit courses, (c) three new industry-recognized certificates, and (d) a minimum of three Associate to Bachelor of Science degree articulations to support enhanced learning. A new BMET laboratory will allow students to gain hands-on experience in a simulated healthcare environment. Industry partners will provide internship opportunities and ensure that training and competencies remain responsive to cutting-edge skill needs. Evaluation of the program includes assessment of student retention and completion data both at St. Petersburg College and across other NSF-funded institutions to demonstrate effectiveness of flexible degree pathway options. Results from the project will be disseminated at the local, regional, and national levels through presentations at conferences.  Open-source curriculum sharing with partners will also take place and lead to greater global gains in BMET education and boosting the number of technician degrees in the Tampa Bay area and beyond.</AbstractNarration>
+<MinAmdLetterDate>06/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700649</AwardID>
+<Investigator>
+<FirstName>Natavia</FirstName>
+<LastName>Middleton</LastName>
+<EmailAddress>middleton.natavia@spcollege.edu</EmailAddress>
+<StartDate>06/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lara</FirstName>
+<LastName>Sharp</LastName>
+<EmailAddress>sharp.lara@spcollege.edu</EmailAddress>
+<StartDate>06/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Bell</LastName>
+<EmailAddress>bell.brian@spcollege.edu</EmailAddress>
+<StartDate>06/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Malave</LastName>
+<EmailAddress>malave.laura@spcollege.edu</EmailAddress>
+<StartDate>06/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>St. Petersburg College</Name>
+<CityName>St. Petersburg</CityName>
+<ZipCode>337333489</ZipCode>
+<PhoneNumber>7273413241</PhoneNumber>
+<StreetAddress>P.O. Box 13489</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7412</Code>
+<Text>ADVANCED TECH EDUCATION PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

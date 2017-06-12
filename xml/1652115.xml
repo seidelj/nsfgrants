@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Adaptive Algorithms for Combinatorial Optimization in Stochastic Networks</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>94678</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>John Brassil</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project introduces a new randomized algorithmic framework for solving difficult combinatorial and time-varying problems. The key approach in the proposed framework is to cleverly perturb each objective function to make the problem more tractable while still guaranteeing that the approximate solution is within some constant factor of the solution to the original objective function. The project specifically focuses on tackling scheduling in wireless and data center networks, where solutions to the static problem version are computationally hard. Hence the results could improve the performance of next generation data centers and advanced wireless technologies, thus benefitting the US economy.&lt;br/&gt;&lt;br/&gt;The proposed project will (1) create a coherent mathematical framework for stochastic combinatorial optimization; (2) design scalable algorithms for decentralized medium access control in emerging wireless networks with modern requirements, and high-performance scheduling algorithms for executing jobs in datacenters; and (3) demonstrate the gains in practice, evaluating the performance of the proposed algorithms over prior approaches using a combination of simulations and experiments.</AbstractNarration>
+    <MinAmdLetterDate>02/08/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/08/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652115</AwardID>
+    <Investigator>
+      <FirstName>Javad</FirstName>
+      <LastName>Ghaderi</LastName>
+      <EmailAddress>jg3465@columbia.edu</EmailAddress>
+      <StartDate>02/08/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Columbia University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100276902</ZipCode>
+      <PhoneNumber>2128546851</PhoneNumber>
+      <StreetAddress>2960 Broadway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Enchancing the Reliability of Mixed-Signal Integrated Circuits</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Silicon-based integrated circuit technologies, both at the cutting edge today and those that are predicted to emerge in the future, are based on the use of three-dimensional transistor structures with multiple gates, such as finFETs, trigate transistors, or gate-all-around devices. The semiconductor industry faces a new set of challenges with these structures, particularly in relation to reliability and failures. This project will research effective solutions to overcome these challenges so as to facilitate the design of the next generation of high-performance integrated circuits. In addition to research, the project has an educational component that includes the development of instructional material for the undergraduate and graduate curriculum on reliability in mixed-signal circuits, and in training future scientists/engineers to learn creative problem solving skills.&lt;br/&gt;&lt;br/&gt;Specifically, this project addresses the use of multigate transistor technologies in the design of mixed-signal integrated circuits with both digital and analog parts, using the case of input/output (I/O) circuits as a testbed for evaluating a set of proposed approaches that proactively model and mitigate circuit aging in transistors and interconnect wires. Specific aging mechanisms that will be investigated include bias temperature instability, hot carrier injection, gate oxide breakdown, and electromigration. These effects are accentuated by the increased thermal effects and thermal nonuniformities seen in multigate transistor technologies, and it is important to develop methods that tightly integrate reliability computations with thermal analysis. The work will link the impact of such effects at the transistor level to the mixed-signal block level, and then up to the system level. The proposed techniques will act in conjunction with on-chip compensation techniques that make circuits more robust to aging-induced performance drifts.</AbstractNarration>
+<MinAmdLetterDate>05/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714805</AwardID>
+<Investigator>
+<FirstName>Sachin</FirstName>
+<LastName>Sapatnekar</LastName>
+<EmailAddress>sachin@umn.edu</EmailAddress>
+<StartDate>05/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+</Award>
+</rootTag>

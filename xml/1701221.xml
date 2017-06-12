@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>DISSERTATION RESEARCH: King of the hill? How competitive interactions affect biogeographical pattern and species responses to environmental variability.</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2019</AwardExpirationDate>
+    <AwardAmount>19683</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010208</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Betsy Von Holle</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Plants are moving up mountainsides into cooler climates as temperatures have increased. An understudied consequence of this movement is that alpine species, which cannot move further up mountains, may become rarer because of more competition with the upward migrating species. Could this intensified competition be strong enough to cause species extinctions? This research will provide one of the few experimental tests of this scenario, using alpine plant communities of the southern Rocky Mountains, CO, USA. This project expands upon past work by coupling competition experiments with mathematical models to predict population growth into the future and to generalize the results to other ecosystems. This research will provide new insights for the management of alpine and other ecosystems under variable temperature and precipitation patterns, specifically for species important in wildlife management, recreation, and restoration. In addition, this project will provide research opportunities for undergraduate students and the public by utilizing the Rocky Mountain Biological Laboratory's Science Festival and Kids Nature Camp outreach programs.&lt;br/&gt;&lt;br/&gt;The researchers have used niche models to inform an experiment that transplanted alpine species into the low elevation plant communities expected to encroach upslope. Results suggest that focal alpine species performance is reduced more by low elevation plant communities than by resident alpine communities. The researchers are combining demographic data from natural populations with field manipulations of competition to parameterize integral projection models. These models are aimed at long-term predictions of focal species population growth under experimental conditions to determine their viability in a competitive environment altered by increased temperatures. This project will generalize these results to a wider set of systems and species. The researchers will collect plant trait and environmental data on focal species and competing communities to parameterize a new trait-based model aimed at predicting competitive interaction outcomes from differences in species traits. By predicating the competitive environment on newly measured trait-environment relationships, this project will produce a priori predictions of plant performance in various physical and competitive environments.</AbstractNarration>
+    <MinAmdLetterDate>04/06/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/06/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1701221</AwardID>
+    <Investigator>
+      <FirstName>Joshua</FirstName>
+      <LastName>Lynn</LastName>
+      <EmailAddress>jslynn@unm.edu</EmailAddress>
+      <StartDate>04/06/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jennifer</FirstName>
+      <LastName>Rudgers</LastName>
+      <EmailAddress>jrudgers@unm.edu</EmailAddress>
+      <StartDate>04/06/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of New Mexico</Name>
+      <CityName>Albuquerque</CityName>
+      <ZipCode>871310001</ZipCode>
+      <PhoneNumber>5052774186</PhoneNumber>
+      <StreetAddress>1700 Lomas Blvd. NE, Suite 2200</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Mexico</StateName>
+      <StateCode>NM</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1182</Code>
+      <Text>POP &amp; COMMUNITY ECOL PROG</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Analysis of Partial Differential Equations in Moving Interface Problems</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>106834</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Pedro Embid</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Moving interfaces in multi-phase fluid flow are of significant importance, as they occur in a huge range of natural phenomena at scales from microscopic to cosmic. Blood flow in elastic arteries, the surface of a cup of coffee, ocean waves, and solar plasma meeting the vacuum of space are just a few examples. Fluid interfaces also play a key role in industrial and technological applications, from bubble formation in industrial emulsion manufacturing to Rayleigh-Taylor instabilities in fusion reactors. This project aims to contribute to the understanding of these diverse and important phenomena through the mathematical analysis of the nonlinear systems of partial differential equations (PDEs) underlying these models. The main goals of the project are two-fold. First, the investigator will develop new mathematical tools and techniques for studying the PDEs associated with several specific models. Second, the investigator will foster the development of a new generation of researchers through the development of an undergraduate collaborative reading and research program, as well as through course development and graduate research mentoring.&lt;br/&gt;&lt;br/&gt;This project focuses on several specific models of viscous fluid flow: contact line dynamics, surfactant-driven flows, and gaseous stars and related models in astrophysics. The mathematical aim in studying these models is to prove well-posedness (existence, uniqueness, and estimates of solutions), determine the stability or instability of special equilibrium configurations, and to determine the long-time behavior of solutions in the stable regime. Analysis of each model presents novel difficulties that require the development of new techniques, schemes of a priori estimates, and basic ideas for dealing with coupled PDE systems of different type.</AbstractNarration>
+    <MinAmdLetterDate>03/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653161</AwardID>
+    <Investigator>
+      <FirstName>Ian</FirstName>
+      <LastName>Tice</LastName>
+      <EmailAddress>iantice@andrew.cmu.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Carnegie-Mellon University</Name>
+      <CityName>PITTSBURGH</CityName>
+      <ZipCode>152133815</ZipCode>
+      <PhoneNumber>4122689527</PhoneNumber>
+      <StreetAddress>5000 Forbes Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1266</Code>
+      <Text>APPLIED MATHEMATICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8048</Code>
+      <Text>Division Co-Funding: CAREER</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8037</Code>
+      <Text>Advanced Manufacturing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8396</Code>
+      <Text>Clean Energy Technology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8611</Code>
+      <Text>Energy Efficiency and End Use</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

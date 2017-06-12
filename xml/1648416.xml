@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: STEM Finest Hour</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Glenn H. Larsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This SBIR Phase I project will produce a Virtual Reality (VR)-based multiplayer game in which high school-aged players must collaboratively think through and solve complex, authentic Science-Technology-Engineering-Mathematics (STEM)-based problems. The United States faces a shortage of degreed STEM workers. More than half of high school students have indicated that they aren't pursuing STEM degrees or careers because they feel unprepared for or unaware of the opportunities available to them. Further, many students indicate they're interested in science and crave engaging, real-world experiences, but feel that they have limited authentic STEM opportunities in school. There is a need for experiences that engage students in authentic collaborative STEM thinking, and this project seeks to provide them with a compelling virtual problem space using VR. This project also seeks to provide educators with an accessible technology pathway to bring premium VR hardware into schools. Though VR has been heralded as a transformative technology, it currently faces expense and scalability hurdles for in-school use. By leveraging a mixture of technologies and role-based multiplayer, this project will create the virtual context to help players see problems as solvable through reason, experimentation, and collaboration - the heart of STEM philosophy. Players will work together, sharing their knowledge and expertise, running experiments, and solving difficult, compelling science problems.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The core technical innovation of this project is the design and deployment methodology that will make premium Virtual Reality (VR) experiences a practical tool for schools. The project will result in a multiplayer experience in which one player uses the VR headset to act as the field agent, supported by 5-25 other students using traditional devices with role-based interfaces to act as mission control. By developing asymmetrical (but equally compelling) play experiences, the project will engage all students in collaborative Science-Technology-Engineering-Mathematics (STEM) problem-solving. There are three main problems that this project must solve for educators: the hardware problem (VR hardware is expensive, difficult to scale to more than one student at a time, and requires installation and maintenance); the ambitious pedagogy problem (providing hands-on discovery and inquiry experiences that allow for meaningful collaboration and problem-solving); and the embodiment problem (students need to feel personally invested in the problems we devise if the experience is to be meaningful and transformational). The research goals are 1) To determine whether STEM-based scenarios can be generated with sufficient depth to engage a group of high school-age students in collaborative, interdisciplinary thought and problem-solving across both field agent and mission control roles; and 2) To determine whether the multiplayer role-play experiences produce significant improvements in STEM content knowledge and disposition among players. In order to measure these goals, multiple usability and feasibility tests will be conducted in authentic formal educational environments. Each test will be accompanied by a pre- and post-test that measures both content knowledge and disposition.</AbstractNarration>
+    <MinAmdLetterDate>12/02/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/02/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648416</AwardID>
+    <Investigator>
+      <FirstName>Daniel</FirstName>
+      <LastName>White</LastName>
+      <EmailAddress>white@filamentgames.com</EmailAddress>
+      <StartDate>12/02/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Filament Games, LLC</Name>
+      <CityName>MADISON</CityName>
+      <ZipCode>537033432</ZipCode>
+      <PhoneNumber>6084167773</PhoneNumber>
+      <StreetAddress>316 WEST WASHINGTON AVE, SUITE 1</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Wisconsin</StateName>
+      <StateCode>WI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>079E</Code>
+      <Text>VISUALIZATION &amp; VIRTUAL DESIGN</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8031</Code>
+      <Text>Education Products</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8039</Code>
+      <Text>Information, Communication &amp; Computing</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

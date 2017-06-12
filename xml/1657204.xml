@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: SHF: Certified Byzantine Fault-tolerant Systems</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2019</AwardExpirationDate>
+    <AwardAmount>174999</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computing and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Anindya Banerjee</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project investigates a new approach to verification of reliability and security of distributed systems where faulty or malicious nodes exhibit arbitrary or misleading behavior. Distributed systems are widely used in increasingly important applications ranging from finance to aircraft control to gain fault-tolerance, throughput and responsiveness. Unfortunately, they are notoriously complicated and prone to bugs. Nodes may not only crash but also be hacked and controlled by malicious agents. The so-called Byzantine nodes can impersonate other nodes or send confusing messages. Formal security guarantees of Byzantine fault-tolerant systems have not been specified and verified yet. This project undertakes research leading to such guarantees through a novel programming, verification and runtime framework. The intellectual merits of the project are fundamental advances in the semantics of networks and representation, composition, and proof methodologies for distributed systems. The project's broader significance is a publicly available open-source library of certified distributed systems that can lead to faster evolution of secure and trustworthy distributed systems.&lt;br/&gt;&lt;br/&gt;This project includes the following key components: (1) Precise representation and composition of layers of distributed implementations. An event-based model represents and composes layers of distributed implementations. An implementation is programmed and verified modularly against the specification of the lower-level implementation. (2) The semantics of the Byzantine synchronous network and the specifications of implementations. This project presents a novel operational semantics for Byzantine synchronous networks that is parametric in terms of the implementation. Hence, the safety and liveness specification of an implementation can be stated as conditions on the external traces of the semantics when instantiated with the implementation. (3) Proof principles for the Byzantine semantics and proof automation. This research develops proof principles for the semantics that abstract the common parts of the proofs and facilitate proof automation. To automate the proofs, this project searches for decision and semi-decision procedures for the proof obligations of the principles. (4) Building of accessible Byzantine fault-tolerant replicated objects. This project builds a certified library of executable Byzantine fault-tolerant replicated objects and makes it available to a wide range of researchers and practitioners through an accessible interface.</AbstractNarration>
+    <MinAmdLetterDate>02/09/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/09/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657204</AwardID>
+    <Investigator>
+      <FirstName>Mohsen</FirstName>
+      <LastName>Lesani</LastName>
+      <EmailAddress>lesani@cs.ucr.edu</EmailAddress>
+      <StartDate>02/09/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Riverside</Name>
+      <CityName>RIVERSIDE</CityName>
+      <ZipCode>925211000</ZipCode>
+      <PhoneNumber>9518275535</PhoneNumber>
+      <StreetAddress>Office of Research</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7798</Code>
+      <Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7943</Code>
+      <Text>PROGRAMMING LANGUAGES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

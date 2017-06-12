@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: CHS: Dark Patterns, Pragmatist Ethics, and User Experience</AwardTitle>
+<AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>183290</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Bainbridge</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research investigates ethical implications of information technology user experience (UX) practice, and the identification of methods which can be used to effectively surface ethical concerns in education and practice domains. The specific focus is "dark patterns," a term for UX design practices where user experiences are manipulated, using knowledge of human behavior and the desires of end users in order to implement deceptive functionality that is not in the user's best interest. The research will investigate how professional UX designers and students employ or avoid ethical forms of decision making, resulting in intentional or unintentional use of dark patterns in their final designs. The goal is to document how designers make decisions in relation to ethical concerns, and to understand what degree of awareness they have of the immediate and broader impacts of the designs they create. The work will result in identification of a toolkit of methods that increase ethical awareness in professional practice, while also informing the formal education of UX designers.&lt;br/&gt;&lt;br/&gt;Studies will include professional UX designers and students working in differing settings on varied problems. A triangulation of artifact analysis, field studies, user surveys and interviews, and cognitive protocols will be used to improve generalization to real world settings. Two phases of research will identify the nature of ethical awareness in relation to dark patterns. In Phase 1, corpora will be created that comprehensively document ethically-centered design methods, tools, and approaches alongside critically-focused and everyday designs that exemplify dark patterns. Phase 2 will build upon this comprehensive understanding of dark patterns, and document how UX practitioners and students perceive ethical issues in their design processes and output. In addition, we will document how end users experience dark patterns.  The resulting understandings of ethical awareness will be used to identify areas for practitioner and pedagogical focus. These studies will expand our understanding of the potential impact of using value-centered design methods to increase awareness of the ethical implications of design decisions.</AbstractNarration>
+<MinAmdLetterDate>03/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1657310</AwardID>
+<Investigator>
+<FirstName>Colin</FirstName>
+<LastName>Gray</LastName>
+<EmailAddress>gray42@purdue.edu</EmailAddress>
+<StartDate>03/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>026Y</Code>
+<Text>CRII CISE Research Initiation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

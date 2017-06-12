@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Characterizing the Stars and Galaxies that Drove Reionization</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harshal Gupta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Adam Beardsley is awarded an NSF Astronomy and Astrophysics Postdoctoral Fellowship to conduct a program of research and education at Arizona State University.  Beardsley will analyze data from large arrays of radio telescopes to detect hydrogen atoms from a time when the first stars formed in the Universe.  Studying that period in cosmic history is important because it influenced the formation of objects such as galaxies and black holes.  Alongside this research, Beardsley will train college students to design a low-cost radio telescope adaptable to high school and college classrooms, and he will conduct public outreach about radio astronomy with participation from these students.&lt;br/&gt;&lt;br/&gt;Beardsley proposes to detect the highly redshifted 21-cm line of intergalactic hydrogen from the Epoch of Reionization (EoR).  By developing an imaging-based analysis pipeline for the Hydrogen Epoch of Reionization Array experiment, Beardsley seeks to obtain the first 21-cm EoR power spectrum detection and thus constrain models of reionization.  Beardsley will also identify other probes of reionization by combining the 21-cm measurements with infrared galaxy surveys.  For the educational component of his work, Beardsley will train undergraduate students to update the Very Small Radio Telescope (VSRT) program.  He will also conduct astronomy outreach events featuring the students' work with the VSRT.</AbstractNarration>
+<MinAmdLetterDate>05/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701440</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Beardsley</LastName>
+<EmailAddress/>
+<StartDate>05/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Beardsley               Adam           P</Name>
+<CityName>Tempe</CityName>
+<ZipCode>852871404</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1609</Code>
+<Text>NSF ASTRON &amp; ASTROPHY PSTDC FE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7480</Code>
+<Text>ARCHIVAL DATA ANALYSIS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

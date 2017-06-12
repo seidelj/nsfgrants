@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Air-Quality Effects of Atmospheric Chlorine Chemistry</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2022</AwardExpirationDate>
+    <AwardAmount>112666</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sylvia A. Edgerton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This CAREER award includes laboratory experiments, ambient measurements, and modeling studies to investigate the role of chlorine chemistry in the formation of particulate matter and ozone in ambient air. The latest developments in mass spectrometric techniques will be used to investigate the formation of highly oxidized molecules as a result of ambient chlorine chemistry. Results from this project can be used in air quality models to make better-informed decisions about environmental policies. &lt;br/&gt;&lt;br/&gt;Detailed analyses and measurements of highly oxidized molecules (HOM) in the gas and particle phases formed from different precursors, with and without the addition of Cl, will be performed in the laboratory chamber using a state-of-the-art high-resolution chemical ionization mass spectrometer (HR-CIMS). The principal investigator hypothesizes that Cl significantly enhances concentrations of HOM, ozone and organic particulate matter. She also plans to investigate changes in the concentration and composition of alkyl nitrates formed from different precursors and under different experimental conditions due to the presence of Cl. Ambient measurements will be conducted to observe Cl chemistry and quantify chlorine-containing species in an oil and gas production region. &lt;br/&gt;&lt;br/&gt;The principal investigator recommends to model laboratory chamber experiments to quantify the fraction of the initial hydrocarbon reacting with Cl versus OH, as well as the extent to which the succeeding chemistry (e.g. continued oxidation of product species) proceeds due to reaction with Cl or OH. This will enable the evaluation of the relative importance of direct oxidation by Cl versus its effect through secondary OH production. She also plans to develop parameterizations that can be used in chemical transport models to account for formation of secondary organic aerosol from Cl-initiated oxidation of hydrocarbons.</AbstractNarration>
+    <MinAmdLetterDate>03/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653625</AwardID>
+    <Investigator>
+      <FirstName>Lea</FirstName>
+      <LastName>Hildebrandt Ruiz</LastName>
+      <EmailAddress>lhr@che.utexas.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at Austin</Name>
+      <CityName>Austin</CityName>
+      <ZipCode>787121532</ZipCode>
+      <PhoneNumber>5124716424</PhoneNumber>
+      <StreetAddress>101 E. 27th Street, Suite 5.300</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1524</Code>
+      <Text>ATMOSPHERIC CHEMISTRY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

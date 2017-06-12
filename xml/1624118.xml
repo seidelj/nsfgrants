@@ -45,24 +45,24 @@
       <StateCode>WA</StateCode>
     </Institution>
     <ProgramElement>
-      <Code>7364</Code>
-      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
     </ProgramElement>
     <ProgramElement>
-      <Code>7495</Code>
-      <Text>ROBUST INTELLIGENCE</Text>
+      <Code>7364</Code>
+      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
     </ProgramElement>
     <ProgramReference>
       <Code>7364</Code>
       <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
-    </ProgramReference>
-    <ProgramReference>
-      <Code>7495</Code>
-      <Text>ROBUST INTELLIGENCE</Text>
     </ProgramReference>
     <ProgramReference>
       <Code>7556</Code>
       <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
     </ProgramReference>
   </Award>
 </rootTag>

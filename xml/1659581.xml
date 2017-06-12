@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Spectroscopy at Coe College</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>278776</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen V. McCloud</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Research Experiences for Undergraduates (REU) site at Coe College provides eight undergraduate students each summer the opportunity to participate in research on topics in optics, glass science, acoustics, molecular biology, detector physics, modeling, and biomaterials, all under the common focus of spectroscopy. In addition to participating in research with an experienced and dedicated mentor, the REU students will engage in activities such as seminars and lectures and give two oral presentations, one at mid-term and then a final twenty minute talk. &lt;br/&gt;&lt;br/&gt;This project includes a Research Experiences for Teachers (RET) site, where each summer two high school teachers from nearby school districts participate in a research project. During the academic year, the teachers are invited to bring their students to Coe College to learn about the work they carried out. The teachers will use their experience to motivate their students to better understand the physical world and prepare them to become the future generation of scientists. &lt;br/&gt;&lt;br/&gt;The participants will be exposed and trained in a variety of techniques and equipment, including Fourier transform infrared spectroscopy (FTIR), Raman spectroscopy, Nuclear Magnetic Resonance, Scanning Electron Microscope, absorption and fluorescence spectroscopies, x-ray fluorescence, calorimetry, and others. The projects are designed to be suitable for undergraduates, but also challenging and leading to results of interest to external researchers.</AbstractNarration>
+<MinAmdLetterDate>04/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1659581</AwardID>
+<Investigator>
+<FirstName>Mario</FirstName>
+<LastName>Affatigato</LastName>
+<EmailAddress>maffatig@coe.edu</EmailAddress>
+<StartDate>04/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Coe College</Name>
+<CityName>Cedar Rapids</CityName>
+<ZipCode>524025008</ZipCode>
+<PhoneNumber>3193998000</PhoneNumber>
+<StreetAddress>1220 First Avenue NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7222</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9134</Code>
+<Text>Integrative Activities in Phys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1359</Code>
+<Text>RES EXP FOR TEACHERS(RET)-SITE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1711</Code>
+<Text>MATERIALS EDUCATION AND RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

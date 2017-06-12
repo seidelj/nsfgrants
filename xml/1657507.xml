@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: ACI: Unveiling the Origin of the Highest Energy Particles in the Universe with Large-Scale First-Principle Fully-Kinetic Simulations</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2019</AwardExpirationDate>
+    <AwardAmount>170680</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Advanced Cyberinfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sushil Prasad</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The long-term objective of this project is to unveil the origin of the highest energy particles in the Universe - the so-called ultra-high-energy cosmic rays (UHECRs) --- charged ions whose energies can exceed the energy of a tennis ball. Since the highest energy ions are extremely rare, their origin still remains elusive. One of the leading candidates for UHECR production are blazars, a class of galaxies with relativistic jets emerging from supermassive black holes. However, the processes that can accelerate UHECRs in blazar jets are not fully understood. Most models attempt to infer the properties of the accelerated particles by fitting the observed emission from blazars. Due to the large number of free parameters, the models are not uniquely constrained by the observations and, therefore, have little predictive power. In fact, there is no reliable theory built from first principles for the mechanism that transfers the jet energy to the highest energy particles, and so there is no definite answer to whether UHECRs originate from blazar jets. This proposal aims to address this fundamental problem - thus, serving NSF's mission to promote the progress of science - by studying the physics of particle acceleration in blazar jets from first principles. The proposed program will also create research opportunities for undergraduate students of Astronomy, Computer Science and Physics departments. In the process, the students will be exposed to an active research environment and trained in the scientific method. An interactive website will be developed with the goal of providing the public an easy access to this exciting field of multidisciplinary research (at the interface between computing, physics and astronomy). The website will also provide a portal for high school teachers interested in updating their lectures with current scientific findings. &lt;br/&gt;&lt;br/&gt;The proposed project will investigate the origin of UHECRs by studying self-consistently the physics of particle acceleration in the relativistic jets of blazars. The research will explore particle acceleration in magnetic reconnection - a process by which magnetic field lines of opposite polarity annihilate, releasing their energy to the particles. The physics of particle acceleration is highly non-linear - the reconnection process affects the overall jet dynamics, which in turn changes the efficiency of energy dissipation via reconnection - and therefore hard to model with analytical tools. The project takes advantage of the enormous growth of computing power in the last few years and the development of powerful Particle-In-Cell (PIC) codes that can model collisionless plasmas from first principles. The investigation of particle acceleration will be performed via a suite of 2D and 3D PIC simulations in unprecedentedly large domains, so that the results can be properly extrapolated from the microscopic scales of PIC simulations to the macroscopic scales of astrophysical accelerators. As the plasma composition in blazar jets is not well constrained, project will investigate the efficiency of proton acceleration in both electron-proton and electron-positron-proton plasmas. A novel cooling module for the particles will be implemented in the PIC code, to account self-consistently for the effect of radiative losses on the electron and proton dynamics (i.e., synchrotron radiation and photohadronic interactions with radiation fields in the jet). This will be of significant importance to assess whether blazar jets can accelerate ions up to ultra-high energies.</AbstractNarration>
+    <MinAmdLetterDate>12/21/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/21/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657507</AwardID>
+    <Investigator>
+      <FirstName>Lorenzo</FirstName>
+      <LastName>Sironi</LastName>
+      <EmailAddress>lsironi@astro.columbia.edu</EmailAddress>
+      <StartDate>12/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Columbia University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100276902</ZipCode>
+      <PhoneNumber>2128546851</PhoneNumber>
+      <StreetAddress>2960 Broadway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

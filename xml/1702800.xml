@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>WiFiUS: Millimeter Wave-Based Wearable Networks in High-End IoT Applications</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>297519</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Richard Brown</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Wearable electronic devices for advanced applications like augmented or virtual reality typically generate large amounts of data. Using wireless links to deliver such data avoids the need for cumbersome cables, yet conventional wireless technologies do not support the gigabits per second throughput envisioned by these emerging applications. Millimeter wave communication is one solution to provide wearable electronic devices with higher data rates and lower latency. This research is aimed at providing a rigorous and systematic design of the key aspects of a millimeter wave wearable network. The emphasis is placed on designing important aspects of the system that will permit operation in crowded areas with many people using wearable devices. Broader impacts include teaching, mentoring, participation of underrepresented groups, community outreach through demonstrations and videos, and technology transfer through collaborations with industry partners.&lt;br/&gt;&lt;br/&gt;This research project addresses the fundamentals of communication in millimeter wave wearable links at the physical layer and medium access control layers. On the theoretical side, this project develops new mathematical tools for estimating millimeter wave channels and devises new algorithms for communicating in millimeter wave multiple antenna channels incorporating array constraints. It also creates new protocols, which are designed from the ground up to include multiple antenna capabilities not found in existing millimeter wave medium access control protocol work. On the practical side, this project creates channel models that incorporate array geometry, orientation, and blockage effects tailored to the wearable setting. It also implements key aspects of the algorithms in a testbed to validate the theoretical hypotheses and provide refinements to models. Outcomes of this research include rapidly re-configurable and robust high bandwidth millimeter wave communication links for wearable devices.</AbstractNarration>
+    <MinAmdLetterDate>04/04/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/04/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1702800</AwardID>
+    <Investigator>
+      <FirstName>Robert</FirstName>
+      <LastName>Heath</LastName>
+      <EmailAddress>rheath@ece.utexas.edu</EmailAddress>
+      <StartDate>04/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at Austin</Name>
+      <CityName>Austin</CityName>
+      <ZipCode>787121532</ZipCode>
+      <PhoneNumber>5124716424</PhoneNumber>
+      <StreetAddress>101 E. 27th Street, Suite 5.300</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1714</Code>
+      <Text>SPECIAL PROJECTS - CISE</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>2878</Code>
+      <Text>SPECIAL PROJECTS - CCF</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8229</Code>
+      <Text>WiFiUS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

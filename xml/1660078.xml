@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Thin crystalline technologies for advanced power transistors</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>750000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Richard Schwerdtfeger</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project seeks to de-risk the volume manufacturability and reliability of thin crystalline power MOSFETs fabricated with a novel exfoliation technology demonstrated in Phase 1. The broader impact/commercial potential of this project is to enable lower cost and better performance for power devices in switching or transferring electricity under varying power requirements across the voltage spectrum in a variety of applications ranging from consumer, to communications, automotive and industrial applications. In all of these applications, the ON resistance of the power MOSFET and IGBTs can be reduced and the switching speed and performance further improved by reducing the device thickness. Additionally, in consumer and mobile applications, reducing the form factor of the power MOSFET devices can enable slimmer and lighter products. A significant broader impact of this technology will be the reduction of expensive and environmentally hazardous waste treatment processes associated with wafer grinding technology used in the power MOSFET industry. While the power MOSFETs developed using this technology can have broad commercial and societal impact, the use of this thin crystalline technology can have even broader impact across all modern semiconductor devices such as LED, PV, flexible CMOS and passive devices.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project addresses challenges to further scaling of Power MOSFETs which are one of the key building blocks of the electronic revolution over the last few decades. While the feature size of transistors has been constantly shrinking, the substrate thickness has been increasing. These substrates are currently mechanically thinned to minimize the negative impact of this increased thickness on performance and form-factor. There are significant challenges to continue this trend and the thin crystalline technology and device architecture proposed here can enable continued scaling of device metrics over the next decade with favorable cost structures. During phase I, functional power MOSFETs were demonstrated with this thin crystalline technology to establish the feasibility of this technology for power devices. This phase II effort will focus on the following specific technical challenges to bring it to market. (1) Develop power MOSFETs with improved switching characteristics using the thin crystalline technology (2) High voltage high current characterization of the thin crystalline power MOSFETs (3) Process yield and reliability characterization of package thin crystalline power MOSFET parts and (4) Convert existing process line to use thin crystalline exfoliation technology in high volume manufacturing flow.</AbstractNarration>
+    <MinAmdLetterDate>04/06/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/06/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660078</AwardID>
+    <Investigator>
+      <FirstName>leo</FirstName>
+      <LastName>mathew</LastName>
+      <EmailAddress>leomathew@yahoo.com</EmailAddress>
+      <StartDate>04/06/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>applied novel devices</Name>
+      <CityName>Austin</CityName>
+      <ZipCode>787173005</ZipCode>
+      <PhoneNumber>5127757991</PhoneNumber>
+      <StreetAddress>15844 garrison circle</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>093E</Code>
+      <Text>System fab/packaging &amp; assembly</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>123E</Code>
+      <Text>CENTERS: ADVANCED MATERIALS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

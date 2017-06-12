@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>IRES: Sustainable Development of a Tropical Agroforestry Program in the Rural Borneo Highlands</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2020</AwardExpirationDate>
+    <AwardAmount>218891</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01090000</Code>
+      <Directorate>
+        <LongName>Office Of The Director</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office Of Internatl Science &amp;Engineering</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joseph Miller</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project will collect baseline ecological data to record the response of a degraded tropical forest in the Bornean highlands to the introduction of an agroforestry system. The highlands were returned to indigenous (Kadazan) persons in Malaysian Borneo following two clear-cuttings over the last century; and the agroforestry system is designed to restore the forest canopy. Eleven undergraduate and two Master of Science students from underrepresented groups in STEM disciplines will collect data in paid 8-week summer ecological field research experiences. Data include soil properties (organic matter, chemical content, pH, water holding capacity, fungi to bacteria ratio), arthropod diversity (beetles, ants and butterflies) and fructivorous and insectivorous bat communities. &lt;br/&gt;&lt;br/&gt;The data record ecological changes at producer sites and will be compared to sites at the same elevation in an adjacent and protected national forest range for ecological benchmarking. Benchmarking serves to help qualify agroforestry practices for international green product labelling, which would substantially elevate producer incomes. Results will improve scientific understanding of the linkages among ecological communities in tropical forests from soil to canopy; and, finally, students will gain professional experience in designing ecological field experiments, collecting and analyzing data, and communicating results to stakeholders from different cultures and academics at professional conferences.</AbstractNarration>
+    <MinAmdLetterDate>03/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658711</AwardID>
+    <Investigator>
+      <FirstName>Robin</FirstName>
+      <LastName>Verble-Pearson</LastName>
+      <EmailAddress>robin.verble@ttu.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Tigga</FirstName>
+      <LastName>Kingston</LastName>
+      <EmailAddress>tigga.kingston@ttu.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Farmer</LastName>
+      <EmailAddress>michael.farmer@ttu.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas Tech University</Name>
+      <CityName>Lubbock</CityName>
+      <ZipCode>794091035</ZipCode>
+      <PhoneNumber>8067423884</PhoneNumber>
+      <StreetAddress>349 Administration Bldg</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7727</Code>
+      <Text>IRES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5927</Code>
+      <Text>EAST ASIA, OTHER</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7639</Code>
+      <Text>IRES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

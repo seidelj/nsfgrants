@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>STTR Phase I: Development and Validation of the SafeClose Mesh Augmentation System for Hernia Prevention</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Henry Ahn</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This STTR Phase I project looks to create a solution to the vast problem that hernia has become in the United States by developing a system that prevents hernia before it occurs. There are an estimated 300,000 hernia repairs performed each year in the US. Incisional hernia (IH) occurs in up to 70% in high-risk populations. The hernia epidemic is significant and is linked to reduced quality of life and $3.2 billion/year in healthcare expenditures for hernia repair. IH can be prevented using prophylactic mesh, which involves placement of tensioned mesh to reinforce abdominal fascia closures before herniation occurs. Prophylactic mesh has been shown to reduce the risk of IH from 35.9% to 1.5%. However, although prophylactic mesh produces outstanding results, it has not become widely adopted in part due to the technical challenge that the procedure poses and added operative time. This project aims to create a system that makes the prophylactic mesh procedure simpler, more reliable, and faster. This project offers an efficient solution to the hernia epidemic by addressing key surgeon-level barriers to adoption of prophylactic mesh and therefore will foster more widespread use of the procedure. Broader use of hernia prevention will improve outcomes, quality of life, and reduce the costs associated with IH.&lt;br/&gt;&lt;br/&gt;This project proposes the development of a hand-held system that simplifies and reduces the time to perform prophylactic mesh augmentation by integrating multiple discrete operative tasks including locating, tensioning, and affixing mesh onto the abdominal fascia. The system provides an optimized strategy for prophylactic mesh placement by leveraging biomechanical principles of both the abdominal wall and mesh to provide a quick, standardized, and reliable method to strengthen abdominal incisions and as a result minimize the risk of herniation. The system is comprised of three main components: the applicator, the fastener-anchor, and the mesh itself. The fastener-anchor represents a core functionality of the technology while serving two purposes: (1.) interaction/engagement and subsequent tension-setting of the mesh via the applicator system; and (2.) penetration of the fascia and affixation of the mesh onto the fascia. The applicator is a simple, ergonomic tool that interfaces with the fastener-anchors, allowing the surgeon to control the spatial position, tension, and placement of the mesh. This project aims to accomplish two main goals: (1.) to refine the device design, including achieving optimal security and reliability of engagement between the applicator and the fastener-anchors and (2.) to assess the biomechanical strength and speed of the proposed technology compared to current standards of care. Through iterative device prototyping, testing, and refinement, a fully functional device will be developed.</AbstractNarration>
+    <MinAmdLetterDate>12/16/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/16/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648854</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Fischer</LastName>
+      <EmailAddress>john.fischer2@uphs.upenn.edu</EmailAddress>
+      <StartDate>12/16/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Marc-Alan</FirstName>
+      <LastName>Levine</LastName>
+      <EmailAddress>marcalan1294@gmail.com</EmailAddress>
+      <StartDate>12/16/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Paradigm Surgical LLC</Name>
+      <CityName>Philadelphia</CityName>
+      <ZipCode>191462701</ZipCode>
+      <PhoneNumber>2156626156</PhoneNumber>
+      <StreetAddress>3401 Grays Ferry Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1505</Code>
+      <Text>STTR PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1505</Code>
+      <Text>STTR PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8038</Code>
+      <Text>Biotechnology</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

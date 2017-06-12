@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Automated Pairing and Provisioning</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2018</AwardExpirationDate>
+    <AwardAmount>727647</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Richard Schwerdtfeger</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project will be focusing on automatic pairing and provisioning of Internet of Things (IoT) for the Multi-Family-Home (MFH) industry, to help them increase revenue potential by digitizing their apartments. It is estimated that the Smart Home Automation industry will reach $71B by 2018. If installation and setup of IoT devices could be automated and simplified then the MFH industry could roll out Smart Apartments quickly and in large scale. Being able to gather data and insights on buildings could lead to increased revenue from more efficient use of labor and materials and through better management of energy. It also gives them the opportunity to create new revenue streams from software and services targeted at the data output. The MFH industry can also get insights on their entire building portfolio versus a single building and more efficiently manage their entire portfolio. The MFH industry implementing Smart Home Automation technology has huge societal benefits by integrating with smart grids and utility demand response programs. The potential energy savings of 18M Smart Apartments could be hundred thousand gigawatt hours or $7.3B in savings.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project seeks to enable the deployment of a scalable and maintainable infrastructure through the use of mechanisms including automatic pairing, tiered authentication, and network isolation in low cost, resource-constrained Internet of Things (IoT) devices. The problem with existing IoT pairing methods is that they are targeted at Single-Family-Home deployments and the number of nodes that needs to be paired are relatively minimal. However, this is not a scalable model when trying to address the needs of the Multi-Family-Home (MFH) industry. In the multi-family dwelling, the sheer density of nodes creates new problems. The technical challenge that remains for this phase is to ensure that all the devices will easily pair and to differentiate the nodes so that they authenticate and provision to the right apartment in a dense, RF noisy environment. Developing a cost effective, scalable solution for this high-density scenario is a key component to fulfilling the value proposition of mass deployment in the Multi-Family-Home industry. The anticipated result of this project is to solve the issue of pairing large quantities of end nodes and authenticating them appropriately to the correct apartment.</AbstractNarration>
+    <MinAmdLetterDate>04/06/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/06/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655520</AwardID>
+    <Investigator>
+      <FirstName>Sce</FirstName>
+      <LastName>Pike</LastName>
+      <EmailAddress>sce@iotashome.com</EmailAddress>
+      <StartDate>04/06/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>IOTAS, Inc.</Name>
+      <CityName>Portland</CityName>
+      <ZipCode>972124231</ZipCode>
+      <PhoneNumber>8584498316</PhoneNumber>
+      <StreetAddress>2547 NE 16th Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Oregon</StateName>
+      <StateCode>OR</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>152E</Code>
+      <Text>Cyber-Physical Systems</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8033</Code>
+      <Text>Hardware Software Integration</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

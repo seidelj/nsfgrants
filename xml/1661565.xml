@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>GOALI: Electrochemistry-based Atomic Layer Etching of Metals for Integrated Circuits</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>320000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Khershed Cooper</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Microprocessors and memory devices are central to electronic gadgets used in virtually every aspect of modern life. At the heart of a microprocessor is a complex integrated circuitry, which consists of billions of intricately fabricated nanostructures. Miniaturization of micro-circuit structures and ensuing exponential increase in computing speed and processing power has followed the predictions of "Moore's Law". Such aggressive miniaturization necessitates a paradigm shift from traditional manufacturing approaches to newer nanomanufacturing technologies for atomically precise manipulation, deposition and etching of materials. In spite of numerous efforts, a versatile technology for atomically precise etching that meets the requirements of cost and atomic-level control is presently unavailable. This Grant Opportunity for Academic Liaison with Industry (GOALI) project advances knowledge in scalable, low-cost electrochemical processes with the creation of pathways for tailoring and etching of metals with atomic precision. The project bridges various disciplines in science and engineering, including chemistry, electrochemical engineering, process design, and materials characterization. The research provides educational experiences, industrial traineeships and fellowships to graduate and undergraduate students including students from underrepresented groups. Engagement with industry helps develop a model platform for industry-university collaboration on cutting-edge electrochemical technologies for next generation integrated circuits. &lt;br/&gt;&lt;br/&gt;To date, much progress has been made in the atomic layer etching of semiconductors. However, atomic layer etching of metals is still in its infancy. Plasma-assisted approaches to etch metals have encountered many technical hurdles including surface contamination by volatile byproducts and lack of atomic-level precision. The project investigates a new liquid-phase electrochemical approach for the atomic layer etching of metals. Through the use of novel self-limiting electrochemical reactions and selective etching chemistries, this research advances knowledge in atomically precise etching of metals such as copper. Fundamental aspects of the chemistry of atomic layer etching are investigated leading to the identification of process parameters for precision etching of integrated circuits. To assess the scale-up potential of the atomic layer etching process, nano-patterned geometries on large area silicon wafers are created with in situ diagnostics and process monitoring and studied. The resulting process could become an enabler of atomically precise manufacturing of structures in future nanoelectronics circuits.</AbstractNarration>
+<MinAmdLetterDate>04/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1661565</AwardID>
+<Investigator>
+<FirstName>Rohan</FirstName>
+<LastName>Akolkar</LastName>
+<EmailAddress>rna3@case.edu</EmailAddress>
+<StartDate>04/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yezdi</FirstName>
+<LastName>Dordi</LastName>
+<EmailAddress>yezdi.dordi@lamrc.com</EmailAddress>
+<StartDate>04/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>keren</FirstName>
+<LastName>kanarik</LastName>
+<EmailAddress>Keren.Kanarik@lamresearch.com</EmailAddress>
+<StartDate>04/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Case Western Reserve University</Name>
+<CityName>CLEVELAND</CityName>
+<ZipCode>441064901</ZipCode>
+<PhoneNumber>2163684510</PhoneNumber>
+<StreetAddress>Nord Hall, Suite 615</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1788</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>081E</Code>
+<Text>NANO SCALE ASSEMBLY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1788</Code>
+<Text>Nanomanufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

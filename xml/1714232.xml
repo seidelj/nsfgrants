@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Summer School on Model Predictive Control</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2017</AwardExpirationDate>
+<AwardAmount>33500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Triantafillos Mountziaris</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant is to provide travel support for four leading US-based researchers/instructors and forty US-based graduate students to attend the summer school on Model Predictive Control (MPC). MPC has emerged as both a leading industrial technology for advanced control, as well as an academic discipline for graduate level research. On the industrial applications side, the scope of the technology has increased steadily during the last 30 years from its roots in process control to encompassing many industrial sectors including: aerospace, energy systems, automotive, robotic systems, etc. During the same time period, the scope of MPC research has also widened considerably and includes both theoretical and computational components.  &lt;br/&gt;&lt;br/&gt;The purpose of the summer school is to bring researchers and practitioners together to provide state-of-the-art overviews and tutorials on the latest MPC research and applications. Because of its use in real time applications, the computational aspects of the many forms of MPC formulations have been the focus of intense research efforts resulting in improvements in both online and offline versions of MPC algorithms. The topics that will be covered in the summer school include classical MPC (regulation, estimation, and disturbance models), robust MPC, stochastic MPC, economic MPC, MPC for sampled-data systems, online optimization for MPC, and industrial applications of MPC. The summer school approach to graduate-level education in MPC offers several significant advantages. The one-week time investment is relatively modest, making the class available to a much larger numbers of US-based graduate students. By engaging leading experts in the different MPC topics, the graduate students will be exposed to more expertise than is available in a single semester university course offered by a single instructor. By illustrating the MPC concepts with state-of-the-art and freely available software, the attendees can take home with them the computational tools required for implementation of MPC on challenging applications. The ultimate objective is to raise the technology standard of American manufacturing and operations in a variety of industries.</AbstractNarration>
+<MinAmdLetterDate>05/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714232</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Rawlings</LastName>
+<EmailAddress>rawlings@engr.wisc.edu</EmailAddress>
+<StartDate>05/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1403</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

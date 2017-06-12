@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Manufacturing of Natural Isoeugenol and Ferulate from non-food biomass as a precursor to biobased vanillin.</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>224992</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Anna Brady-Estevez</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovative Research Phase I project is the development of a process for the sustainable production of high value chemicals (HVCs) from non-food biomass. The resulting HVCs, isoeugenol and ferulate, are the starting materials used in the flavor and fragrance industry for the manufacture of natural vanillin. Today, only a small percentage of the 18,000 metric tons of vanillin used annually is produced from natural sources. The clear majority of vanillin is produced by harsh chemical derivatization of petroleum feedstock. Using the innovative technology developed by Spero Energy, Inc., non-food biomass can be used to produce the starting materials for natural vanillin production. Sustainable manufacturing of natural isoeugenol and ferulate from non-food biomass will serve to advance the US bioeconomy while supplying essential starting materials to the $600 million a year and growing vanillin industry.&lt;br/&gt;&lt;br/&gt;The technical objectives of this Small Business Innovation Research Phase I project are to demonstrate the scalability of Spero?s technology for production of natural isoeugenol and ferulate from non-food biomass. Increasing consumer demand for products containing natural flavors and fragrances, and the associated premium prices relative to artificial alternatives, offers a promising venue to advance the US bioeconomy. Spero Energy, Inc. has developed natural and sustainable methods to produce isoeugenol and ferulate, key starting materials for the synthesis of natural vanillin. Vanillin is one of the most widely utilized flavors with a market value of over $600 million per year. Key research objectives include scaling production volumes of ferulate and isoeugenol, followed by a detailed study of purification methods, biochemical conversion to natural vanillin, and validation of the organoleptic properties of the resulting vanillin. This work is anticipated to yield key reaction and purification data which will be analyzed with ASPEN modeling in preparation for pilot scale production in Phase II.</AbstractNarration>
+    <MinAmdLetterDate>12/10/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/10/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647923</AwardID>
+    <Investigator>
+      <FirstName>Ian</FirstName>
+      <LastName>Klein</LastName>
+      <EmailAddress>iklein@speroenergy.com</EmailAddress>
+      <StartDate>12/10/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Spero Energy, Inc.</Name>
+      <CityName>Thousand Oaks</CityName>
+      <ZipCode>913201207</ZipCode>
+      <PhoneNumber>7654303266</PhoneNumber>
+      <StreetAddress>1176 Tourmaline Dr.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8030</Code>
+      <Text>Chemical Technology</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

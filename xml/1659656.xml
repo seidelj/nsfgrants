@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Coastal Marine Science Research Opportunities for Undergraduates at the Virginia Institute of Marine Science (VIMS)</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>91247</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Elizabeth Rom</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Summer Intern Program at the College of William and Mary's Virginia Institute of Marine Science (VIMS) introduces undergraduate students to the complex environmental issues facing coastal ocean and estuarine systems globally. With funding from the Division of Ocean Sciences, VIMS will host twelve students each summer for a ten-week internship. Student participants are recruited from throughout the United States and include individuals from underrepresented groups and those from colleges and universities where research experiences are limited. Students who are accepted into the program contribute to the advancement of scientific knowledge through independent research projects and participation in ongoing long-term research. They receive a stipend, housing and travel expenses to attend the program. In addition to conducting independent research, students receive training in professional skills such as communication, scientific writing, public presentations and scientific ethics. Through this intern program, a total of thirty-six U.S. students will have opportunities to participate in coastal ocean science research and career development activities. &lt;br/&gt;&lt;br/&gt;Within the coastal ocean science theme, internships are available in the areas of marine ecology, biological and chemical oceanography, biogeochemistry, geological and physical oceanography, and marine policy. The coastal ocean is an accessible natural laboratory, faces significant environmental pressures and is of high socio-economic and aesthetic value to the nation. A high percentage of the students who have participated in prior REU programs at VIMS are enrolled in graduate school, have obtained advanced degrees in science and/or continue to work in a scientific or technical career. Thus, the program provides an important contribution to the nation's scientific and technical workforce.</AbstractNarration>
+    <MinAmdLetterDate>03/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659656</AwardID>
+    <Investigator>
+      <FirstName>Linda</FirstName>
+      <LastName>Schaffner</LastName>
+      <EmailAddress>linda@vims.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Rochelle</FirstName>
+      <LastName>Seitz</LastName>
+      <EmailAddress>seitz@vims.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>College of William &amp; Mary Virginia Institute of Marine Science</Name>
+      <CityName>Gloucester Point</CityName>
+      <ZipCode>230621346</ZipCode>
+      <PhoneNumber>8046847000</PhoneNumber>
+      <StreetAddress>P.O. Box 1346</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1690</Code>
+      <Text>EDUCATION/HUMAN RESOURCES,OCE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

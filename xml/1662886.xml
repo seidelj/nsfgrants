@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Shear-Buckling Mechanics for Enhanced Performance of Thin Plates</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>366137</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Y. Grace Hsuan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Thin steel plates are commonly used as structural elements in buildings, bridges, towers, aircrafts, etc.  Due to their slenderness, these plates are susceptible to buckling under shear loading, thus limiting their capacity.  The recent research shows that many existing models do not represent the true mechanics of ultimate shear buckling. This project will investigate and advance the knowledge of shear buckling response, thus leading to improved economy, durability, and safety of structures that use thin plates.  The focus of this study is on steel plates, but it lays the foundation for other materials such as aluminum and composites that can be considered in future work.  This project also addresses the grand challenges recently issued by the American Society of Civil Engineers (ASCE): (a) significantly enhance the performance and value of infrastructure projects over their life cycles by 2025, and (b) foster the optimization of infrastructure investments for society.  The results will  increase cost efficiency  via decreased material usage; enhance robustness via increased ultimate shear strength; and reduce occurrence of buckling and increased resilience to unexpected loads (e.g. with fewer required repairs) via increased buckling load capacity. &lt;br/&gt;&lt;br/&gt;The overall objective of this project is to comprehensively investigate the mechanics of shear buckling behavior in steel plates, thus leading to (a) new predictive models that capture the true mechanics, and (b) design modifications that increase economy, robustness, and life-cycle performance.  The research plan involves both nonlinear finite element studies and experimental tests.  A detailed examination of the stress patterns and load redistribution from the elastic buckling stage to the ultimate postbuckling capacity will be the primary focus.  Physical tests will explore new panel configurations, and potential material optimizations will be identified based on finite element mechanics studies.  Experiments will be conducted using facilities at Lehigh University to examine the shear buckling performance of steel plate girder specimens, both with and without bending moment. The data from these tests will be used to directly validate the computational modeling approaches.</AbstractNarration>
+<MinAmdLetterDate>05/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1662886</AwardID>
+<Investigator>
+<FirstName>Maria</FirstName>
+<LastName>Garlock</LastName>
+<EmailAddress>mgarlock@princeton.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1637</Code>
+<Text>Structural and Architectural E</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>039E</Code>
+<Text>STRUCTURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>040E</Code>
+<Text>Haz mitigation of structural sys</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Summer School on Cognitive Robotics</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>34943</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reid Simmons</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal will support a week-long summer school on Cognitive Robotics to be held in Boston, Ma in June 2017.  The summer school will be a combination of invited talks and tutorials, which are designed to introduce students to issues in planning and execution from perspectives of both Robotics and Cognitive Artificial Intelligence, and daily labs, which are designed to give students hands-on experience with robotic hardware and state-of-the-art software tools for developing robotic behaviors.  The summer school will help expose graduate students to cutting-edge ideas at the intersection of Robotics and Cognitive Systems and will help to form a new community of researchers in this interdisciplinary area.</AbstractNarration>
+<MinAmdLetterDate>05/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1733809</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Williams</LastName>
+<EmailAddress>williams@mit.edu</EmailAddress>
+<StartDate>05/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

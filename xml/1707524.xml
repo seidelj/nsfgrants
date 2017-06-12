@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Conference on low-dimensional topology and geometry</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>35000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Swatee Naik</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This National Science Foundation award provides travel support for speakers and participants in the Conference on Low-dimensional Topology and Geometry held at Vanderbilt University from May 15 to May 19, 2017. Topology and geometry are central areas of mathematics that have been the focus of active research for centuries. Topology concerns the mathematical properties of spaces ranging from the physical, like the surface of a doughnut, to the abstract, like the space of configurations of robots in a factory or the space of functions that satisfy a differential equation. Geometry concerns abstract or concrete notions distance or length, such as the amount of energy to move between two configurations of robots. Topology and geometry enjoy particularly rich interactions in low dimensions, and these connections have been a source of profound discoveries in both fields. The main objective of the conference is to bring together leading experts who have made substantial contributions in low-dimensional topology and geometry and to provide a platform to present recent results and propose future directions of research. The conference is organized in conjunction with the 32nd Shanks Lecture, which will be delivered by Professor Ian Agol (University of California, Berkeley). This award provides opportunities for mathematicians from underrepresented groups and researchers that are early in their career or lack other sources of travel support to attend and participate in the conference.&lt;br/&gt;&lt;br/&gt;The conference will focus on important developments in low-dimensional topology and geometry, with emphasis on the powerful negative curvature and combinatorial techniques that have driven many recent advances. Topics will include, but are not limited to, hyperbolic 3-manifolds, moduli spaces of Riemann surfaces, mapping class groups, the geometry and topology of curves on surfaces, surface bundles, Gromov-hyperbolic simplicial complexes, and CAT(0) cube complexes. The activities will include nineteen keynote talks and the Shanks lecture, with ample time for questions and discussion. The combination of topics and speakers will attract numerous participants and will afford students and recent PhDs an excellent opportunity to interact with and learn from leaders in these fields. More information is available at the conference website: https://my.vanderbilt.edu/shanks2017/</AbstractNarration>
+    <MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1707524</AwardID>
+    <Investigator>
+      <FirstName>Spencer</FirstName>
+      <LastName>Dowdall</LastName>
+      <EmailAddress>spencer.dowdall@vanderbilt.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Vanderbilt University</Name>
+      <CityName>Nashville</CityName>
+      <ZipCode>372350002</ZipCode>
+      <PhoneNumber>6153222631</PhoneNumber>
+      <StreetAddress>Sponsored Programs Administratio</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Tennessee</StateName>
+      <StateCode>TN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1267</Code>
+      <Text>TOPOLOGY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

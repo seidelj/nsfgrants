@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>New Approaches To Modularity</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>109153</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anatoly  Libgober</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Throughout the history of number theory, a common theme is the unexpected link between arithmetic and analysis. A key unifying concept that links arithmetic and analysis is the notion of an L-function. There are two fundamentally different ways to define L-functions. One way is to count the number of solutions to certain polynomial equations modulo primes, and then to put the resulting numbers into a certain generating function. The other way is to start with highly symmetric solutions to certain differential equations on symmetric manifolds (automorphic forms) and then to define L-functions in terms of these solutions using analysis. The idea of reciprocity in the Langlands program is the conjecture that all L-functions defined in terms of polynomial equations can also be defined in terms of automorphic forms. This conjectural link is expected to have deep implications in both number theory and harmonic analysis.  This research project aims to further explore the reciprocity conjecture and its implications.&lt;br/&gt;&lt;br/&gt;Some of the most basic interesting classes of L-functions in arithmetic arise from polynomial equations with integer coefficients in two variables (algebraic curves over the rational numbers). Associated to such a polynomial is an invariant g (the genus) which is a non-negative integer. If the genus g is zero, then the resulting L-function can be expressed in terms of the Riemann zeta function, and reciprocity in this case follows from Riemann's work. If the genus g is one, then the reciprocity conjecture is equivalent to the Taniyama-Shimura conjecture, now verified. The goal of this project is to make significant progress on the case when the genus g is two.</AbstractNarration>
+<MinAmdLetterDate>05/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701703</AwardID>
+<Investigator>
+<FirstName>Francesco</FirstName>
+<LastName>Calegari</LastName>
+<EmailAddress>fcale@math.uchicago.edu</EmailAddress>
+<StartDate>05/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>5801 South Ellis Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

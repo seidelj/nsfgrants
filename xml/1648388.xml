@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Fingertip Ranging with Micro Light-Field Cameras</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>224900</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Muralidharan S. Nair</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this project lies in its provision of a novel ranging capability whose quality, ease of placement, and scale in deployment will introduce new opportunities in robot operation in situations where there is uncertainty in the relative positions of parts and robots. These include small-batch production (where fixturing cannot be made cost effective), inspection and repair in confined spaces (where 3D sensing must be carried aboard the actuator), hazardous situations (where human presence incurs risk to life), and collaborative interaction with people (where inadvertent contact must be avoided). In the proposed development, robot grasp will be empowered with dynamic 3D range mapping at each fingertip, enabling direct computation of trajectories and velocities tailored to the geometry and structure about to be manipulated. Extension of the technology to the larger challenge of 3D vision and object modeling offers economic impact in diverse applications. These include autonomous and semi-autonomous vehicle navigation (drones, cars), virtual reality and augmented reality interfaces, 3D teleconferencing and communication, cultural site modeling, and immersive cinema. Each is an area where increases in reliability and precision with decreases in power and computational cost can bring an application over the threshold in price/performance, into viability.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will establish a new level of real-time passive visual perception in near-range for robot operation, providing 3D data for accurate, precise and rapid grasp. Binocular imaging systems have not demonstrated success in near range robotics due to the inability of their match-based methods to deliver reliable depth measures in complex settings where disparity range is large. Current methods using a few cameras are based on matching so make mistakes, use search that is exponential in covered range so are expensive, and deliver parsimonious descriptions of the world (point clouds) so are weak in descriptive power. All of these diminish the reliability of their processing and the utility of their analysis in real-world applications. The technology of this project combined with recent wafer-level integration module packages overcomes these limitations through use of dense sampling, extended baselines, and maintaining and exploiting image spatial continuity. The technical challenge involves mechanical and electrical design to enable micro light-field ranging with analysis on an embedded processor, near-field calibration of imagers/optics/system, and coordination of these with robot control for assessing measurement accuracy and precision. The project will result in high-quality frame-rate light-field ranging on a robot fingertip.</AbstractNarration>
+    <MinAmdLetterDate>12/02/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/02/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648388</AwardID>
+    <Investigator>
+      <FirstName>Henry</FirstName>
+      <LastName>Baker</LastName>
+      <EmailAddress>harlyn@epiimaging.com</EmailAddress>
+      <StartDate>12/02/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>EPIImaging, LLC</Name>
+      <CityName>Los Altos</CityName>
+      <ZipCode>940243827</ZipCode>
+      <PhoneNumber>6509491052</PhoneNumber>
+      <StreetAddress>414 Paco Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>6840</Code>
+      <Text>ROBOTICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8034</Code>
+      <Text>Hardware Components</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8035</Code>
+      <Text>Hardware Devices</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>HPCC</Code>
+      <Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -27,30 +27,6 @@
     <ARRAAmount/>
     <AwardID>1608269</AwardID>
     <Investigator>
-      <FirstName>Sue</FirstName>
-      <LastName>Rosser</LastName>
-      <EmailAddress>srosser@sfsu.edu</EmailAddress>
-      <StartDate>04/12/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
-      <FirstName>Carmen</FirstName>
-      <LastName>Domingo</LastName>
-      <EmailAddress>cdomingo@sfsu.edu</EmailAddress>
-      <StartDate>04/12/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
-      <FirstName>Diane</FirstName>
-      <LastName>Harris</LastName>
-      <EmailAddress>dharris@sfsu.edu</EmailAddress>
-      <StartDate>04/12/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Sally</FirstName>
       <LastName>Pasion</LastName>
       <EmailAddress>pasion@sfsu.edu</EmailAddress>
@@ -66,11 +42,35 @@
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
+    <Investigator>
+      <FirstName>Carmen</FirstName>
+      <LastName>Domingo</LastName>
+      <EmailAddress>cdomingo@sfsu.edu</EmailAddress>
+      <StartDate>04/12/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Sue</FirstName>
+      <LastName>Rosser</LastName>
+      <EmailAddress>srosser@sfsu.edu</EmailAddress>
+      <StartDate>04/12/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Diane</FirstName>
+      <LastName>Harris</LastName>
+      <EmailAddress>dharris@sfsu.edu</EmailAddress>
+      <StartDate>04/12/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
     <Institution>
       <Name>San Francisco State University</Name>
       <CityName>San Francisco</CityName>
       <ZipCode>941321722</ZipCode>
-      <PhoneNumber>4154053943</PhoneNumber>
+      <PhoneNumber>4153387090</PhoneNumber>
       <StreetAddress>1600 Holloway Ave</StreetAddress>
       <CountryName>United States</CountryName>
       <StateName>California</StateName>

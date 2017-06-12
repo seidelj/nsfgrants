@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Student Travel and Activities Support for 2017 International Semantic Web Conference (ISWC 2017)</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>30000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maria Zemankova</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award will support about twenty U.S.-based graduate students attending the 16th International Semantic Web Conference (ISWC 2017). The conference, which will be held October 21-25, 2017 in Vienna, Austria, is the premier major international forum for state-of-the-art research on all aspects of the Semantic Web and fostering new directions in the future generation of the World Wide Web. Student support helps cover the travel costs for US students, making it possible for them to attend the conference. This allows students to meet key members the Semantic Web research community, it gives them the opportunity to disseminate their work, and it provides a venue for them to interact with future national and international scientific collaborators. Doctoral students will participate in the Doctoral Consortium - a full day event where students can get critical, but encouraging, feedback on their work from senior members of the community. They can also benefit from the career mentoring lunch, where experienced members of the community from both academia and industry answer questions in an informal setting.&lt;br/&gt;&lt;br/&gt;The International Semantic Web Conference, which is now in its sixteenth year, is an interdisciplinary conference that includes work on: Data Management, Natural Language Processing, Knowledge Representation and Reasoning, Ontologies and Ontology Languages, Semantic Web Engineering, Linked Data, User Interfaces and Applications. It regularly has several hundred attendees. In addition to the main technical tracks, the conference includes a variety of events that provide opportunities for deeper interaction among researchers at different institutions or industries, at different stages of their research careers, and researchers who are interested in many different aspects of Semantic Web Research. Additional information can be accessed at the ISWC 2017 conference web site (http://iswc2017.semanticweb.org/).</AbstractNarration>
+    <MinAmdLetterDate>04/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1738247</AwardID>
+    <Investigator>
+      <FirstName>Lalana</FirstName>
+      <LastName>Kagal</LastName>
+      <EmailAddress>lkagal@csail.mit.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Massachusetts Institute of Technology</Name>
+      <CityName>Cambridge</CityName>
+      <ZipCode>021394301</ZipCode>
+      <PhoneNumber>6172531000</PhoneNumber>
+      <StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7364</Code>
+      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7364</Code>
+      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

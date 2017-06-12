@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU SITE: Physics and Astrophysics at TCU</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>45000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03010000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Physics</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kathleen V. McCloud</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Research Experiences for Undergraduates (REU) site at Texas Christian University provides six undergraduate students the opportunity to participate in research on topics in atomic, molecular, bio, chemical, and statistical physics, as well as astronomy and planetary science in the summer of 2017. The main goal of the program is to provide a memorable and potentially career-defining experience for student participants, who may not have a clear direction of career path upon entering the program. Thoughtfully-selected field trips, weekly discussions with other students and faculty, and workshops on career-planning are vital components of the REU program, providing opportunities for students to consider a broad range of career possibilities and professions in physics and engineering-related fields extending beyond the focused summer research project.&lt;br/&gt;&lt;br/&gt;In addition to participating in research with an experienced mentor, the REU students will engage in weekly activities to ensure not only that their research stays on track but that they have an engaging collegial and scholarly experience. By the end of the program, every student will have given a formal presentation about their work and prepared a conference poster and a 10-page report.</AbstractNarration>
+    <MinAmdLetterDate>04/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659444</AwardID>
+    <Investigator>
+      <FirstName>Peter</FirstName>
+      <LastName>Frinchaboy</LastName>
+      <EmailAddress>p.frinchaboy@tcu.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Hana</FirstName>
+      <LastName>Dobrovolny</LastName>
+      <EmailAddress>h.dobrovolny@tcu.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas Christian University</Name>
+      <CityName>Fort Worth</CityName>
+      <ZipCode>761290001</ZipCode>
+      <PhoneNumber>8172577516</PhoneNumber>
+      <StreetAddress>2800 South University Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9134</Code>
+      <Text>Integrative Activities in Phys</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

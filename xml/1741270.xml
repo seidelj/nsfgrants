@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Mass spectrometry signal processing</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project entails increasing the ability of commercial users of mass spectrometry to bring better products to market through the use of technology that better molecular identification and quantification. Commercial users of mass spectrometry include pharmaceutical companies, biotechnology firms, and other companies that have a direct impact on public health and wellbeing and are currently limited in social impact and revenue, in part, due to the inability to accurately identify and quantify molecules in mass spectrometry samples.  Specific applications for the technology includes research and development on a variety of products, including diagnostic tests, novel drugs, and personalized medicine.&lt;br/&gt;&lt;br/&gt;This I-Corps project will investigate the commercial delivery of mass spectrometry data processing services. The underlying technology advances current capabilities by combining advanced statistical methods, additional information present in mass spectrometry signals but not used by current approaches, and novel methods for interpretation to identify more molecules than current mass spectrometry approaches with more quantitative accuracy than current approaches. The research is particularly capable of detecting low abundance molecules, which are exceptionally difficult to detect with current methods, and are more likely to have biological significance than high abundance molecules. Corporate mass spectrometry users can use accurate identifications and quantifications of low abundance molecules to shorten time-to-market, reduce development costs, and increase the production throughput and significance of innovations across a broad spectrum of pharmaceutical and biotechnology products.</AbstractNarration>
+<MinAmdLetterDate>05/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741270</AwardID>
+<Investigator>
+<FirstName>Rob</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>robert.smith@mso.umt.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Orest</FirstName>
+<LastName>Pilskalns</LastName>
+<EmailAddress>orest.pilskalns@mso.umt.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Savage</LastName>
+<EmailAddress>Jeff.savage@moore.sc.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Montana</Name>
+<CityName>Missoula</CityName>
+<ZipCode>598120001</ZipCode>
+<PhoneNumber>4062436670</PhoneNumber>
+<StreetAddress>32 CAMPUS DRIVE MAIN HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

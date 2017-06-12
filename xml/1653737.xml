@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Neonatal Imitation and Early Social Skills in Infancy</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>146260</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>David Moore</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The project will analyze the development of social behavior from birth through the first year of life, focusing on imitation in newborn babies. This project aims to enhance the understanding of the development of sociality in infants and pave the way for future research aimed at identifying infants at risk for neurodevelopmental disorders. It will expand knowledge about the nature of early imitation and whether it may be used to predict later social interest, abilities, and physiology. Furthermore, to further advance research in this domain, project resources and data will be shared with the broader research community. A mentoring program designed to increase the research participation of women and underrepresented minorities will inspire young students to pursue science careers by introducing them to the scientific method. Finally, this project integrates research and education across disciplines, linking the diverse fields of animal behavior and developmental science.&lt;br/&gt;&lt;br/&gt;Using longitudinal designs with behavioral and physiological measures, this project will explore links between neonatal imitation and later social development. Neonatal imitation is an early capacity to match others' actions, such as facial expressions. The findings of earlier studies have suggested that by measuring imitation in newborn babies, we may become better able to predict their developmental trajectories. To increase measurement sensitivity and improve replicability, neonatal imitation of facial gestures will be assessed using automated facial analysis. Eye tracking will measure infants' visual attention to social and nonsocial stimuli. Infant saliva will be collected to track developmental changes in levels of oxytocin, a neuropeptide associated with social behavior. Infants will participate in semi-structured assessments of their nonverbal communicative skills. The investigator will test whether neonatal imitation can be used to better understand individual differences in early sociability and to predict healthy social development.</AbstractNarration>
+    <MinAmdLetterDate>02/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653737</AwardID>
+    <Investigator>
+      <FirstName>Elizabeth</FirstName>
+      <LastName>Simpson</LastName>
+      <EmailAddress>simpsone@miami.edu</EmailAddress>
+      <StartDate>02/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Miami</Name>
+      <CityName>CORAL GABLES</CityName>
+      <ZipCode>331462926</ZipCode>
+      <PhoneNumber>3052843924</PhoneNumber>
+      <StreetAddress>1320 S. Dixie Highway Suite 650</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1698</Code>
+      <Text>DS - Developmental Sciences</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1698</Code>
+      <Text>DEVELOP&amp; LEARNING SCIENCES/CRI</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

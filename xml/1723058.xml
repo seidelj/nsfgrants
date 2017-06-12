@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>2017 Midwest Thermodynamics and Statistical Mechanics Conference (MTSM)</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>12000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Triantafillos Mountziaris</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This grant is to provide partial support for the 2017 Midwest Thermodynamics and Statistical Mechanics (MTSM) Conference to be held on the campus of the University of Notre Dame on June 4-6, 2017. The MTSM Conference has historically provided a forum for researchers working on theoretical and experimental aspects of Thermodynamics and Statistical Mechanics to come together, present their work and exchange ideas. Most participants will be from chemical engineering and chemistry departments, although students and faculty from physics, materials science, mechanical engineering, and computer science departments have also participated in this conference in the past. &lt;br/&gt;&lt;br/&gt;Thermodynamics and Statistical Mechanics are an important area of research that has a wide spectrum of applications in chemical, biological and natural systems. The MTSM Conference series has a 29-year history and attracts participants from academic institutions, industry and national laboratories. Most attendees are from institutions located in the Midwest region of the US, which has a large concentration of researchers working in the field of Thermodynamics and Statistical Mechanics. The Conference participants will have the opportunity to attend state-of-the-art invited presentations by leading experts in the field and debate controversial points with their peers. The conference participants supported by this grant will have the opportunity to network with peers from other institutions and exchange ideas about the current status and future directions in research and education in an important area of research: Thermodynamics and Statistical Mechanics. A distinctive feature of The MTSM Conference is its focus on researchers in the early stages of their academic careers, such as undergraduate and graduate students, postdocs, and junior faculty. Because the meetings are regional and organization costs are kept to a minimum, faculty members are often able to travel with their entire group to the meeting.</AbstractNarration>
+    <MinAmdLetterDate>04/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1723058</AwardID>
+    <Investigator>
+      <FirstName>Jonathan</FirstName>
+      <LastName>Whitmer</LastName>
+      <EmailAddress>jwhitme1@nd.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Notre Dame</Name>
+      <CityName>NOTRE DAME</CityName>
+      <ZipCode>465565708</ZipCode>
+      <PhoneNumber>5746317432</PhoneNumber>
+      <StreetAddress>940 Grace Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Indiana</StateName>
+      <StateCode>IN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1403</Code>
+      <Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

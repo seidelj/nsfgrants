@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Methods for Addressing Student Success in Totality</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>350000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Claudia M. Rankins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Implementation projects provide support to Historically Black Colleges and Universities (HBCUs) to design, implement, and assess strategies that can lead to comprehensive institutional efforts to increase the number of students receiving undergraduate degrees in science, technology, engineering and mathematics (STEM) and enhance the quality of their preparation by strengthening STEM education and research. The project at Grambling State University seeks to establish the foundation for building STEM student success, particularly for mathematics and physics students. The goal of the project is to prepare students for graduate school and careers.&lt;br/&gt;&lt;br/&gt;Activities that are part of this project are: to redesign selected mathematics and physics courses by infusing problem-based learning; to support peer mentoring, mentoring and social integration of mathematics and physics undergraduate students; to develop interdisciplinary big data science courses; to infuse big data science concepts into existing chemistry courses; to provide professional development to faculty who will implement the new strategies; and to conduct an outreach program to high school students focusing on big data. The activities and strategies are evidence-based  and what is learned through this project can serve as a model for other small liberal arts institutions.</AbstractNarration>
+<MinAmdLetterDate>05/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719523</AwardID>
+<Investigator>
+<FirstName>Yenumula</FirstName>
+<LastName>Reddy</LastName>
+<EmailAddress>ybreddy@gram.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Connie</FirstName>
+<LastName>Walton</LastName>
+<EmailAddress>waltoncr@gram.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Danny</FirstName>
+<LastName>Hubbard</LastName>
+<EmailAddress>hubbard_danny@hotmail.com</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pedro</FirstName>
+<LastName>Derosa</LastName>
+<EmailAddress>derosap@gram.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stacey</FirstName>
+<LastName>Duhon</LastName>
+<EmailAddress>duhons@gram.edu</EmailAddress>
+<StartDate>05/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Grambling State University</Name>
+<CityName>Grambling</CityName>
+<ZipCode>712452715</ZipCode>
+<PhoneNumber>3182746117</PhoneNumber>
+<StreetAddress>P.O.Drawer 607</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

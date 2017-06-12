@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Milli-electrode Array as Next Generation Profiling Technology for Biochemical Reaction Systems</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is to apply the compelling features "heterogeneity profiling" and "high spatial and temporal resolution" of the newly developed all-in-one milli-electrode array to solve the urgent need of real-time monitoring in a broad spectrum of biochemical reaction systems ranging from water/wastewater treatment units to food/pharmaceutical biofermentors. The commercialization of milli-electrode array as a new class of real-time in situ profiling technology will have substantial impacts on biochemical system market, specifically to obtain "head-to-toe" profiling and visualize biochemical heterogeneity, which will fundamentally change system monitoring and control, and optimize system operation at the lowest capital cost. The I-Corps funding will enable the team to establish a better understanding of biochemical system market and the needs of consumers, and thereby, maximizing the commercial success of this novel sensing technology.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims at determining the commercial potential of milli-electrode array technology and exploring the customer needs. Currently, all the biochemical waste treatment (e.g. municipal wastewater, food waste, and industrial wastewater) systems are monitored using single point probes without obtaining a whole picture of system heterogeneity. With over 15,000 wastewater treatment plants to be retrofitted and 11,000 anaerobic digestion systems to be developed in the US by 2035, durable inexpensive rapid sensing device capable of simultaneously monitoring multiple parameters is of great significance to achieve high treatment efficiency and operational stability at lowest energy consumption, and thus yielding enormous social, environmental, and economic value. The innovation of the core milli-electrode array technology lies in precise patterning multiple types of mm-sized electrodes on a single flexible film and the capability of real-time profiling multiple biochemical parameters at high spatiotemporal resolution. The state of the art milli-electrode array possesses breakthrough properties compared to existing single-point sensors: sturdy configuration with long lifetime, simple measurement procedure, low cost, highly durable material, easy deployment and replacement, and profiling multiple parameters spatiotemporally.</AbstractNarration>
+    <MinAmdLetterDate>11/18/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/18/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655451</AwardID>
+    <Investigator>
+      <FirstName>Baikun</FirstName>
+      <LastName>Li</LastName>
+      <EmailAddress>baikun@engr.uconn.edu</EmailAddress>
+      <StartDate>11/18/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Connecticut</Name>
+      <CityName>Storrs</CityName>
+      <ZipCode>062691133</ZipCode>
+      <PhoneNumber>8604863622</PhoneNumber>
+      <StreetAddress>438 Whitney Road Ext.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Connecticut</StateName>
+      <StateCode>CT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

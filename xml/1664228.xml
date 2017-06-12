@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Learning from Engineers to Develop a Model of Disciplinary Literacy in Engineering</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2020</AwardExpirationDate>
+    <AwardAmount>317971</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Elliot Douglas</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Many students, especially those from underrepresented groups, opt out of engineering-related coursework because they do not believe that engineering is for them. Consequently, more effective K-16 instructional approaches are needed to help make engineering accessible and interesting to broader populations. This study draws from previous research in disciplinary literacy instruction, a promising teaching approach that has led to positive outcomes among underrepresented students in disciplines such as history and science. Under a model of disciplinary literacy instruction in engineering, students learn to read and write like an engineer through guided practice in evaluating and creating authentic texts in the service of engineering design activity. The purpose of this foundational research is to advance knowledge by developing a robust model of disciplinary literacy in engineering. To achieve this goal, the study will identify the common literacy practices used by engineers from four different sub-disciplines (aerospace/mechanical, biological, civil/environmental, and electrical/computer) who each work at different engineering companies. This study will describe the ways in which these engineers use shared frameworks to evaluate and create texts. This study will use these findings to develop a model of disciplinary literacy and curricular materials for use in K-16 classrooms. The exploration will establish the foundation for a trajectory of future research that will ultimately test the model of disciplinary literacy in engineering in diverse K-16 classrooms.&lt;br/&gt;&lt;br/&gt;Although disciplinary literacy instruction has been shown to produce positive outcomes for underrepresented students in several academic disciplines, empirically-based models of disciplinary literacy instruction have not been developed and tested in the discipline of engineering. The purpose of this early stage design and development research is to advance knowledge by developing a robust model of disciplinary literacy in engineering that can be tested in diverse K-16 classrooms. A multiple, comparative case study will describe how eight engineers from varied companies and sub-disciplines (aerospace/mechanical, biological, civil/environmental, and electrical/computer) use literacy practices to solve problems through engineering. A constant comparative analysis of think-alouds, observations, and interviews with each engineer will result in the identification of common cognitive frameworks that engineers use while they interpret and generate core texts. These findings will be translated into a model of disciplinary literacy in engineering, with accompanying leveled classroom materials, designed to support K-16 students in thinking like an engineer as they read and write authentic genres in the service of engineering design activity. This instructional approach is expected to broaden participation by providing underrepresented students with literacy instruction designed to support their engagement with engineering. Future studies will test whether disciplinary literacy instruction leads to positive outcomes, such as an improved ability to engage in complex engineering design processes, among underrepresented K-16 students.</AbstractNarration>
+    <MinAmdLetterDate>02/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1664228</AwardID>
+    <Investigator>
+      <FirstName>Angela</FirstName>
+      <LastName>Minichiello</LastName>
+      <EmailAddress>angie.minichiello@usu.edu</EmailAddress>
+      <StartDate>02/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Amy</FirstName>
+      <LastName>Wilson-Lopez</LastName>
+      <EmailAddress>amyalexandra.wilson@usu.edu</EmailAddress>
+      <StartDate>02/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Utah State University</Name>
+      <CityName>Logan</CityName>
+      <ZipCode>843221415</ZipCode>
+      <PhoneNumber>4357971226</PhoneNumber>
+      <StreetAddress>Sponsored Programs Office</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Utah</StateName>
+      <StateCode>UT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1340</Code>
+      <Text>ENGINEERING EDUCATION</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>110E</Code>
+      <Text>EDUCATION RESEARCH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1340</Code>
+      <Text>ENGINEERING EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

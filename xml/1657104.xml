@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: III: Algorithms for Causal Inference on Networks</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>175000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maria Zemankova</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Randomized experiments (sometimes called "A/B tests") play increasingly fundamental roles in the design and refinement of modern online systems that drive the internet economy. Common design decisions include: What headline should be used with a news article; What prices should an item be offered at; or How should search results be ranked? However, modern web platforms exist atop strong networks of information flow and social interactions that mar the statistical validity of traditional experimental designs and analyses. This project aims to design graph clustering algorithms that can be used to administer experimental treatments in network-aware randomization designs and yield practically useful results. The project will train new graduate and undergraduate students in cutting-edge data science as they develop and deploy new research algorithms and software for causal inference at the intersection of modern computational and statistical research. The project will ultimately deliver new technical tools that increase the certainty of experiments that feature network interference, helping designers of online systems, both in industry and in government, make better decisions and craft better policies for an increasingly networked world.&lt;br/&gt;&lt;br/&gt;This project aims to develop algorithmic tools for causal inference under network interference that go beyond mere proof-of-concepts, placing a specific focus on developments that will make network experimentation tools practical and provide significant and relevant results. The project will develop tools that harness graph metadata for variance reduction, and also develop techniques for running experiments in marketplaces, bipartite graphs rife with interference. In considering graph metadata, the goal is to develop stratified graph sampling methods that balance graph structure directly against latent traits. The deliverable assets of this project, which include algorithmic research as well as software for designing experiments, are intended to benefit computer scientists and statisticians, as well the broader community of researchers in the social and economic sciences that study networks. Research result, including software will be accessible via the project web site (http://stanford.edu/~jugander/crii/).</AbstractNarration>
+    <MinAmdLetterDate>02/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657104</AwardID>
+    <Investigator>
+      <FirstName>Johan</FirstName>
+      <LastName>Ugander</LastName>
+      <EmailAddress>jugander@stanford.edu</EmailAddress>
+      <StartDate>02/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Stanford University</Name>
+      <CityName>Palo Alto</CityName>
+      <ZipCode>943041212</ZipCode>
+      <PhoneNumber>6507232300</PhoneNumber>
+      <StreetAddress>3160 Porter Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7364</Code>
+      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

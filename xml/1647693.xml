@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: A Radical New Alternative to Semiconductor Photodiodes</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Richard Schwerdtfeger</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project involves a disruptive change to the solar energy industry by potentially doubling the efficiency of the best available solar cells while, at the same time, significantly reducing their cost. Renewable energy sources are critical to energy independence and, importantly, to the long-term viability of human society which is faced with the inevitable depletion of hydrocarbon based energy sources, such as oil, gas, and coal.&lt;br/&gt;&lt;br/&gt;The proposed project leverages known technologies that are used in physics research, specifically in high energy physics accelerators, such as those found in Fermi National Accelerator Lab or at the Large Hadron Collider at CERN. The approach is based on using thermo-ionic emission from metals as the source of electric power, in contrast to existing technologies that only use photo-generated currents from more expensive semiconductors. This shift can provide not only higher efficiency, but also a shorter "return-on-energy" which is defined as the time it takes for the device to produce as much energy as was used in its production. The project goal is to demonstrate this new approach by producing a cell that can produce electricity with high efficiency and be measured and evaluated independently by a standards laboratory to validate its result. From this starting point, device optimization and further development will provide a new competing approach to energy independence.</AbstractNarration>
+    <MinAmdLetterDate>12/04/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/04/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647693</AwardID>
+    <Investigator>
+      <FirstName>Elie</FirstName>
+      <LastName>Track</LastName>
+      <EmailAddress>elie.track@nvizix.com</EmailAddress>
+      <StartDate>12/04/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>nVizix LLC</Name>
+      <CityName>Stamford</CityName>
+      <ZipCode>069013111</ZipCode>
+      <PhoneNumber>9149532069</PhoneNumber>
+      <StreetAddress>127 Greyrock PL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Connecticut</StateName>
+      <StateCode>CT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8034</Code>
+      <Text>Hardware Components</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8035</Code>
+      <Text>Hardware Devices</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

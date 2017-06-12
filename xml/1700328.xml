@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Research Initiation Award: Fast Solvers for Variable-Coefficient Poroelastic Models</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>299331</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Claudia M. Rankins</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Research Initiation Awards provide support for faculty at Historically Black Colleges and Universities who are building a research program. It is expected that the award helps to further the faculty member's research capability and effectiveness, improves research and teaching at his home institution, and involves undergraduate students in research experiences. The award to Morgan State University has potential broader and societal impact in a number of areas. The project focuses on the development of numerical methods arising from many important applications. The research crosses the fields of mathematics, computational physics and material sciences. Undergraduate and graduate students will gain research experiences.&lt;br/&gt;&lt;br/&gt;This project focuses on the development of numerical methods for variable-coefficient poroelastic models. The research will propose, analyze and implement several fast, optimal and scalable numerical algorithms for poroelastic models under the spatial discretizations including the finite element method, finite volume method and immersed interface method. Specifically, novel numerical approaches, such as preconditioning methods, Multigrid methods, domain decomposition methods, and the acceleration techniques for the conventional iterative methods, will be developed and investigated. The numerical algorithms will greatly improve the efficiency of poroelastic solvers. The research has the potential of improving the linear and nonlinear solvers for the conventional Finite Difference and Finite Element methods for poroelastic models in various applications. As an example, the developed numerical algorithms can be used in simulating energy storage in subsurface, which requires large-scale numerical computations; furthermore, the developed numerical methods can be applied to simulate a brain swelling model and therefore quantify brain edema assessment. Combined with image data and patient-specific data such as cerebral blood flow conditions, the numerical methods can be used for simulating brain swelling under ischemic conditions or after traumatic brain injury. The algorithms will be implemented as open source software packages.</AbstractNarration>
+    <MinAmdLetterDate>04/06/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/06/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1700328</AwardID>
+    <Investigator>
+      <FirstName>Mingchao</FirstName>
+      <LastName>Cai</LastName>
+      <EmailAddress>mingchao.cai@morgan.edu</EmailAddress>
+      <StartDate>04/06/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Morgan State University</Name>
+      <CityName>Baltimore</CityName>
+      <ZipCode>212510002</ZipCode>
+      <PhoneNumber>4438853200</PhoneNumber>
+      <StreetAddress>1700 East Cold Spring Lane</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1594</Code>
+      <Text>HIST BLACK COLLEGES AND UNIV</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

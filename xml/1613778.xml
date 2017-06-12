@@ -44,5 +44,13 @@
       <StateName>New York</StateName>
       <StateCode>NY</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1710</Code>
+      <Text>CONDENSED MATTER PHYSICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7203</Code>
+      <Text>QUANTUM INFORMATION SCIENCE</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

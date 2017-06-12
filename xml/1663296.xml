@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Today's Teaching and Learning in Materials Science - Challenges and Advances</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>5000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03070000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Materials Research</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jose Caro</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Support is sought for travel and registration fees for invited speakers, undergraduate students, graduate students, post-docs, and under-represented, female and junior faculty to attend and present at the Symposium BI1: Today Teaching and Learning in Materials Science: Challenges and Advances at the Fall Materials Research Society (MRS) National Meeting in Boston, MA, November 28-30, 2016. Throughout the two-days oral and poster sessions and discussions held in this symposium, the focus will be on improving the efficacy of undergraduate and graduate student education in materials science. &lt;br/&gt;&lt;br/&gt;The tutorial will encourage the participation of graduate students, postdoc researchers, and junior faculty, especially from the under-represented groups. The topics addressed in this Symposium, namely: Curriculum and Course Development; Active Learning and Student Engagement; Research Based Teaching Initiatives and Active Learning Oral; Use of Computers; Data, Analysis and Simulations; Ethics, Diversity and Global Issues; Outreach; Challenging Approaches to Instruction; Laboratory: hands-on Formats are very relevant and require major efforts to insure progress in this critical field. MRS meetings provide an ideal setting for such interchange because of its healthy melding of all aspects of STEM research and education.</AbstractNarration>
+    <MinAmdLetterDate>10/26/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/26/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1663296</AwardID>
+    <Investigator>
+      <FirstName>J. Ardie Butch</FirstName>
+      <LastName>Dillen</LastName>
+      <EmailAddress>dillen@mrs.org</EmailAddress>
+      <StartDate>10/26/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>J. Thomas</FirstName>
+      <LastName>Dickinson</LastName>
+      <EmailAddress>jtd@wsu.edu</EmailAddress>
+      <StartDate>10/26/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Materials Research Society</Name>
+      <CityName>Warrendale</CityName>
+      <ZipCode>150867573</ZipCode>
+      <PhoneNumber>7247792732</PhoneNumber>
+      <StreetAddress>506 KEYSTONE DR</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7222</Code>
+      <Text>XC-Crosscutting Activities Pro</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

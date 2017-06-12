@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1608112</AwardID>
     <Investigator>
-      <FirstName>Steven</FirstName>
-      <LastName>Myers</LastName>
-      <EmailAddress>samyers@indiana.edu</EmailAddress>
-      <StartDate>12/04/2015</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Brian</FirstName>
       <LastName>LaMacchia</LastName>
       <EmailAddress>bal@microsoft.com</EmailAddress>
       <StartDate>12/04/2015</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Steven</FirstName>
+      <LastName>Myers</LastName>
+      <EmailAddress>samyers@indiana.edu</EmailAddress>
+      <StartDate>12/04/2015</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Indiana University</Name>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Jacksonville Teacher Residency Noyce Program to Prepare Math and Science Secondary Educators for High-Need Urban Schools</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2022</AwardExpirationDate>
+    <AwardAmount>914015</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sandra Richardson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Jacksonville Teacher Residency (JTR) Noyce Program to Prepare Math and Science Secondary Educators for High-Need Urban Schools will recruit, prepare, and retain 15 talented STEM professionals to serve as science and mathematics teachers and leaders in local high-need urban schools. Over its five-year duration, this University of North Florida (UNF) JTR Noyce program will offer an array of programmatic components to support STEM degree holders with undergraduate or advanced degrees in mathematics, biology, chemistry, geology, physics, engineering, or computer science. The program will combine graduate study leading to a Master of Arts in Teaching (MAT) degree, rigorous apprenticeships in a high-need local school district, professional development related to urban education, and a supportive induction program. These supports will equip JTR Noyce Fellows to be highly effective middle and high school STEM educators in high-need public schools. Following a model akin to that of medical residencies, JTR will pair each resident Fellow with a Clinical Residency Mentor, a highly effective veteran STEM teacher in an urban school. The Clinical Residency Mentors' experiences and insights will help JTR Noyce Fellows identify and surmount both student barriers to learning and the teaching challenges that contribute to burnout and high turnover among urban educators. By creating a pipeline of highly qualified urban teacher leaders with both STEM and pedagogical expertise, this project will strengthen teaching and learning in high-need schools and develop a cadre of expert teacher leaders who have the knowledge, capacity, and commitment to foster STEM excellence.&lt;br/&gt;&lt;br/&gt;This Track 2 NSF Teaching Fellows project has the aim of preparing 15 STEM professionals to function as long-term, highly effective teachers and leaders in high-need public schools. The JTR Noyce Program is a partnership among UNF's College of Education and Human Services, which prepares educators; UNF's College of Arts and Sciences, including the departments of Mathematics and Statistics and Biology; the Jacksonville Public Education Fund (JPEF), a nonprofit that exists to support Jacksonville public schools and their work; and the local public school district serving Jacksonville, Florida. Collaboration among education, mathematics, and science faculty at UNF will assure that UNF's teacher preparation curriculum includes rigorous STEM content and effective pedagogy. UNF STEM faculty, in turn, will become more cognizant of the public secondary education milieu and will work to support and deepen STEM content and pedagogical knowledge for JTR Noyce Fellows. The project will concomitantly integrate rigorous STEM pedagogical strategies in UNF's teacher preparation courses in the context of the Florida State Standards in Math and Science. These interlinked components will lead to more in-depth, collaborative STEM teaching and learning in high-need schools.</AbstractNarration>
+    <MinAmdLetterDate>04/05/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/05/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660746</AwardID>
+    <Investigator>
+      <FirstName>Brian</FirstName>
+      <LastName>Zoellner</LastName>
+      <EmailAddress>b.p.zoellner@unf.edu</EmailAddress>
+      <StartDate>04/05/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Dale</FirstName>
+      <LastName>Casamatta</LastName>
+      <EmailAddress>dcasamat@unf.edu</EmailAddress>
+      <StartDate>04/05/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Pali</FirstName>
+      <LastName>Sen</LastName>
+      <EmailAddress>psen@unf.edu</EmailAddress>
+      <StartDate>04/05/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>KoSze</FirstName>
+      <LastName>Lee</LastName>
+      <EmailAddress>ko-sze.lee@unf.edu</EmailAddress>
+      <StartDate>04/05/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Wanda</FirstName>
+      <LastName>Lastrapes</LastName>
+      <EmailAddress>w.lastrapes@unf.edu</EmailAddress>
+      <StartDate>04/05/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of North Florida</Name>
+      <CityName>JACKSONVILLE</CityName>
+      <ZipCode>322244264</ZipCode>
+      <PhoneNumber>9046202455</PhoneNumber>
+      <StreetAddress>1 UNF Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1795</Code>
+      <Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7908</Code>
+      <Text>Teaching &amp; Mstr Tchng Fellows</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

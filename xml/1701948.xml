@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Obtaining the PhD and the Road to STEM Careers</AwardTitle>
+    <AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2019</AwardExpirationDate>
+    <AwardAmount>1075000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>amy rogers</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Louis Stokes Alliances for Minority Participation (LSAMP) program assists universities and colleges in diversifying the STEM workforce through the development of highly competitive students from groups historically underrepresented in STEM disciplines: African-Americans, Alaska Natives, American Indians, Hispanic Americans, Native Hawaiians, and Native Pacific Islanders. The goal of the LSAMP Bridge to the Doctorate (BD) Activity is to increase the quantity and quality of STEM graduate students from underrepresented populations, with emphasis on Ph.D. matriculation and completion. BD programs implemented in the nation's institutions of higher education contribute to addressing one of the objectives in NSF's 2014-2018 Strategic Plan, namely to "integrate education and research to support development of a diverse STEM workforce with cutting-edge capabilities." For the U.S. to remain competitive globally, it must provide exceptional educational preparedness in STEM areas that underpin the knowledge-based economy. The BD project at the University of Florida (UF) for the 2017-2019 academic period will support 12 doctoral students selected from students who participated in Louis Stokes Alliance for Minority Participation (LSAMP) undergraduate programs across the nation. The UF Graduate School directs the project with support from four UF colleges with STEM PhD programs. The UF has a long-standing commitment to increasing diversity at all levels, with an emphasis on enhancing diversity in PhD programs and expanding the PhD student population.&lt;br/&gt;&lt;br/&gt;The BD program fosters an environment of collaboration and peer support among students by encouraging BD scholars to engage with the various student-based groups on campus. The impact of the program elements, including professional development opportunities, formal coursework, workshops, seminars, and research training, will prepare BD scholars for all aspects of research, teaching and innovation in their professional careers. It is anticipated that many participants will serve as role models and mentors for future cohorts of STEM students and young STEM professionals. Programming will begin before the onset of regular coursework through an innovative six-week summer orientation to graduate school and the UF community. It is anticipated that many participants will serve as role models and mentors for future cohorts of STEM students and young STEM professionals.</AbstractNarration>
+    <MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1701948</AwardID>
+    <Investigator>
+      <FirstName>Ralph</FirstName>
+      <LastName>Turner</LastName>
+      <EmailAddress>ralph.turner@famu.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Florida Agricultural and Mechanical University</Name>
+      <CityName>Tallahassee</CityName>
+      <ZipCode>323073200</ZipCode>
+      <PhoneNumber>8505993531</PhoneNumber>
+      <StreetAddress>1700 Lee Hall Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9133</Code>
+      <Text>ALLIANCES-MINORITY PARTICIPAT.</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

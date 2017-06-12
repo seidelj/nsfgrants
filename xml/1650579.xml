@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Brigham Young University Planning Grant: I/UCRC for Center for Visual and Decision Informatics</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2018</AwardExpirationDate>
+    <AwardAmount>13982</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award seeks to assist Brigham Young University (BYU) in joining the Center for Visual and Decision Informatics (CVDI), an existing Industry University Cooperative Research Center (IUCRC). The CVDI Center is currently made up of the University of Louisiana at Lafayette, Drexel University, and Tampere University of Technology. BYU will use this award to plan and prepare for the establishment of the new site by hosting informational meetings for potential partners about the benefits of membership in CVDI and the mechanics of the Center, attend the scheduled CVDI's Industry Advisory Board meeting in April 2017, and prepare a joint industry and university research agenda around the expertise of the site and the needs/interests of industry partners. &lt;br/&gt;&lt;br/&gt;BYU will leverage its big data capstone class, where industry partners pitch their projects to the students who then vote on their preferred projects and form groups that are mentored throughout by company personnel. Through external partners' mentoring, students are exposed to the realities of data analytics and gain experience and skills that cannot be found in a strictly academic setting. This, in turn, can prepare students for the workforce and improves their ability to be effective contributors to science and engineering.</AbstractNarration>
+    <MinAmdLetterDate>01/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650579</AwardID>
+    <Investigator>
+      <FirstName>Christophe</FirstName>
+      <LastName>Giraud-Carrier</LastName>
+      <EmailAddress>cgc@cs.byu.edu</EmailAddress>
+      <StartDate>01/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Brigham Young University</Name>
+      <CityName>Provo</CityName>
+      <ZipCode>846021231</ZipCode>
+      <PhoneNumber>8014226177</PhoneNumber>
+      <StreetAddress>A-285 ASB</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Utah</StateName>
+      <StateCode>UT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

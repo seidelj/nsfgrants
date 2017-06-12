@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Developing a Shape Changing Wing Design for a Bio-inspired Flying Robot</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Birds nimbly shift their wings through aerodynamic shapes and can fly stably in unpredictable environments, a feat that robots currently cannot replicate. This project will leverage engineering advances in soft robotics and origami structures to enable bird-inspired designs of robotic shape-changing wings. This work will be done in collaboration with Dr. Kyujin Cho, head of the Biorobotics Lab at Seoul National University in Korea, who specializes in soft biologically inspired mechanisms and robots. His expertise combined with the PI's knowledge of bird morphology and kinematics will allow a unique mixing of perspectives to design and build a flying robot with morphing origami wings. Through this project, new bio-inspired mechanisms will be developed to further understand shape-changing wings in flight. &lt;br/&gt;&lt;br/&gt;Bio-inspired design has been revolutionizing the robotics field, and has the potential to further improve flying robots, especially small-scale, low Reynolds number fliers. The objective of this project is to apply novel shape memory alloy (SMA) actuators and flexible origami fabrication methods to create a morphing wing for a bird-inspired robot with movements based on biomechanical measurements of birds. After the design of a bio-inspired robot, high speed video will be used to analyze robot kinematics and to benchmark flight performance against current flying robots and birds. Flight performance tests include flight time, glide ratio, and controllability. This study is an important step to forward the field of bio-inspired design, bringing together documented bird kinematics and morphology with state of the art engineering actuators and manufacturing methods.&lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the National Research Foundation of Korea.</AbstractNarration>
+<MinAmdLetterDate>05/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714047</AwardID>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Matloff</LastName>
+<EmailAddress/>
+<StartDate>05/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Matloff                 Laura</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943042064</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5942</Code>
+<Text>KOREA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

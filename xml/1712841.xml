@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Scaling Limits via Stochastic Homogenization</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>210000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project concerns the statistical properties of mathematical models known as particle systems that describe fluid-dynamical and materials-science aspects of important physical systems. More specifically, the project studies models of (1) cluster growth, (2) randomly composited materials, and (3) diffuse gases.  Many basic and important questions about these models remain open.  One of the more striking examples is that we still lack a fully rigorous understanding how fluid equations arise from molecular interactions.  The investigator will attempt to make progress on this problem and others by applying recently-developed techniques in the theory of stochastic homogenization.  The work will have an interdisciplinary character, mixing results from probability and analysis.  The project will make use of computer simulation to empirically test ideas during development of the theory.&lt;br/&gt;&lt;br/&gt;Techniques in quantitative stochastic homogenization, particularly those used to obtain optimal rates in the elliptic setting, are now mature enough to attack problems that previously did not seem to be amenable to this approach.  The basic homogenization idea remains the same, namely, to view the microscopic models as perturbations of their smooth macroscopic limits.  The key new insight is that the regularity theory of the macroscopic limit often has a microscopic analogue.  Examples of possible applications include the derivation of the Landau equation as a scaling limit of interacting particles and Anderson localization for a Bernoulli potential on the lattice.  This approach has already proved successful, and the investigator expects it to continue to yield new results.</AbstractNarration>
+<MinAmdLetterDate>04/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712841</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Smart</LastName>
+<EmailAddress>charles.smart@gmail.com</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>5801 South Ellis Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1263</Code>
+<Text>PROBABILITY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

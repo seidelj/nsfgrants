@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Travel Support for ACM HPDC 2017</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>M. Mimi McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal is for support of a travel to the 26th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2017).  HPDC, the premier venue for presenting the latest research on the design, implementation, evaluation, and use of parallel and distributed systems for high performance and high end computing, will take place over the week of June 26th in Washington, DC. There will be:&lt;br/&gt;? A set of co-located full-day workshops with topics that include&lt;br/&gt;o Fault-Tolerance for HPC at Extreme Scale (FTXS)&lt;br/&gt;o Software Engineering Methods for Parallel and High Performance Applications (SEM4HPC)&lt;br/&gt;o The Eighth Workshop on Scientific Cloud Computing (ScienceCloud)&lt;br/&gt;o The Seventh Interntional Workshop on Rontime and Operating Systems for Supercomputers (ROSS)&lt;br/&gt;? The main conference on Wednesday, June 28th through Friday, June 30th. This is a single-track conference that will include keynotes, paper sessions, a poster session, a panel, and an industry/institutional session.&lt;br/&gt;&lt;br/&gt;Student travel to conferences is important. This travel award will support students who would not otherwise be able to attend and provide the opportunity for them to interact with senior researchers in academia and industry.</AbstractNarration>
+<MinAmdLetterDate>05/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1742957</AwardID>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Bridges</LastName>
+<EmailAddress>bridges@cs.unm.edu</EmailAddress>
+<StartDate>05/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Mexico</Name>
+<CityName>Albuquerque</CityName>
+<ZipCode>871310001</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress>1700 Lomas Blvd. NE, Suite 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>COMPUTER SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

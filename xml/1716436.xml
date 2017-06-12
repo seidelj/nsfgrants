@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Mapping the Instabilities of Massive Stars</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>316510</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda French</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A plot of luminosity versus temperature for stars, known as the Hertzsprung-Russell (HR) diagram, has proven invaluable in our understanding of the stars.  A star's age and its mass determine its position on such a diagram.  At specific periods during a star's life, it may pulsate---actually get larger and smaller---as gas pressure outward and gravity inward are not quite in balance.  This project aims to investigate the processes inside pulsating hot, massive stars.  The investigator will use theory and numerical modeling to create a "map" on the HR diagram describing what might be going on inside stars for each combination of temperature and luminosity.  The results will be made available to the public via a web portal, in addition to publication of results in the refereed literature.  A female graduate student, already well along in her studies, will complete her PhD thesis with this funding.&lt;br/&gt;&lt;br/&gt;Once stars evolve past the main sequence of the HR diagram, they can undergo many episodes of pulsation.  Cepheid variables are the best known and understood; they populate an area of the HR diagram known as the instability strip.  The investigator describes many other instability strips and makes the case for other causes of instability in stars more massive than the classical Cepheids.  For example, in addition to the radially symmetric pulsations of Cepheids, pulsation-rotation interactions and non-adiabatic pulsation are considered.  The work will involve modifications to the MESA and GYRE computer codes, which the PI has developed.</AbstractNarration>
+<MinAmdLetterDate>05/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1716436</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Townsend</LastName>
+<EmailAddress>townsend@astro.wisc.edu</EmailAddress>
+<StartDate>05/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1215</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

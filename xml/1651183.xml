@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>FASL 2017 Conference: Acquisition and Processing of Slavic Languages</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>24500</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>William J. Badecker</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In order to fully understand the nature of human language, it is imperative for linguists to study languages from different language groups and language families. Slavic languages possess a number of interesting properties not shared by the more commonly studied western languages such as English. For example, Slavic languages are characterized by very rich systems of both nominal and verbal morphology, as well as by relatively free word order, with a close relationship between word order permutations and information structure. Until recently, most research on Slavic languages has been from a theoretical linguistic perspective, but recent years have seen a rise in studies on the acquisition and processing of Slavic languages, reflecting a growing trend in linguistic research towards the integration of theoretical and experimental approaches. Ultimately, a full understanding of language requires an understanding of both grammar and processing, and of the relationship between the two, as well as of how both grammar and processing develop in children (monolingual as well as bilingual, typically as well as atypically developing). Theoretically informed studies of the acquisition and processing of Slavic languages advance our understanding of how the human mind works and how learning proceeds. Additionally, investigations into the development of Slavic languages in the context of bilingualism or in the context of language impairment have practical implications for such fields as literacy development, the preservation of heritage languages, and the identification and treatment of language disorders. Most research on language disorders has been done with English and other western languages; research into the acquisition of Slavic languages in atypical circumstances is very important both for the purposes of improved diagnostics and treatment, and in order to provide cross-linguistic evidence for or against existing theories of the sources of language impairment.&lt;br/&gt;&lt;br/&gt;The 26th Formal Approaches to Slavic Linguistics (FASL) conference, to be held at the University of Illinois at Urbana-Champaign on May 19-21, 2017, brings together established researchers and junior scholars who work on Slavic languages from the perspectives of theoretical linguistics, acquisition and processing. The conference will address core questions on the structure of Slavic languages. The special session will examine how such properties of Slavic languages as their rich inflectional paradigms and their flexible word order affect the processing and acquisition of these languages; what research on Slavic can tell us about the relationship between the parser and the mental grammar; and how the development of Slavic languages proceeds in the context of bilingualism and in the context of language disorders. The conference will feature five invited talks by prominent researchers with expertise in Slavic syntax, Slavic phonology, the processing of Slavic, and the acquisition of Slavic in monolingual, bilingual and atypical contexts. The conference encourages broad participation: all five invited speakers are women, and the conference provides travel awards to graduate student and post-doctoral scholar presenters. Selected papers from the conference will be published in a proceedings volume.</AbstractNarration>
+    <MinAmdLetterDate>03/20/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/20/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651183</AwardID>
+    <Investigator>
+      <FirstName>Tania</FirstName>
+      <LastName>Ionin</LastName>
+      <EmailAddress>tionin@illinois.edu</EmailAddress>
+      <StartDate>03/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jonathan</FirstName>
+      <LastName>MacDonald</LastName>
+      <EmailAddress>jonmacd@illinois.edu</EmailAddress>
+      <StartDate>03/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Urbana-Champaign</Name>
+      <CityName>CHAMPAIGN</CityName>
+      <ZipCode>618207473</ZipCode>
+      <PhoneNumber>2173332187</PhoneNumber>
+      <StreetAddress>SUITE A</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1311</Code>
+      <Text>LINGUISTICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1311</Code>
+      <Text>LINGUISTICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

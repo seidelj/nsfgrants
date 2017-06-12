@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSFDEB-BSF: Ecological networks and ecosystem function in the cow rumen microbiome: a multi-scale approach</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>702796</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susanna Remold</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Ruminants such as cows, sheep and goats are essential in human agriculture and are fully dependent on microbial communities in their upper digestive tract, or rumen, to transform plant fiber into nutrients. These communities, known as microbiomes, carry out a cascade of chemical reactions that break down (ferment) the plant fiber. By-products of fermentation can be absorbed as nutrients by the animal or be further processed by microbes. This ultimately leads to the production of carbon dioxide and methane, potent greenhouse gases that then go into the atmosphere. Studies have shown that there is much variation among individual animals in the way energy from the fermentation process flows through their microbiomes. This project will look at these differences and their consequences: how the chemical reactions can differ, be performed by different microbes in the communities, have different effects on fermentation, and in some cases, differ in whether they favor animal feeding efficiency over methane production or the other way around. The more detailed understanding of the ecological interactions and their functional impacts in microbiomes of the rumen that will result from this work will help researchers identify better microbiome control strategies and develop more targeted intervention techniques to increase food security in a more environmentally sustainable manner. Students will be trained, and international and cross-disciplinary collaborations will be fostered.&lt;br/&gt; &lt;br/&gt;This project will bring together microbial genomics, anaerobic microbiology and microbial community ecology to study ecological interactions among the microbial species in the rumen, and how they control the establishment of alternative microbiomes with different functional efficiencies. Researchers will reveal the community assembly dynamics of the microbiome in high temporal and genetic resolution, and identify the potential for alternative community states to assemble in the rumen via priority effects. Priority effects occur when certain species precondition future states of the community due to their ecological interactions, stimulating the growth of a specific subset of species and inhibiting others. Researchers will then map resulting community composition differences to changes in the metabolic efficiency of the rumen microbiome. Through these efforts, they will establish the links between community structure and inter-species interactions, mainly happening at micro-scales, and important ecosystem functions such as the degradation of plant fiber material in the cow rumen.</AbstractNarration>
+<MinAmdLetterDate>04/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1655983</AwardID>
+<Investigator>
+<FirstName>Otto</FirstName>
+<LastName>Cordero Sanchez</LastName>
+<EmailAddress>ottox@MIT.EDU</EmailAddress>
+<StartDate>04/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+</Award>
+</rootTag>

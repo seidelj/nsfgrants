@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Modeling and Inference for Large Scale Spatio-Temporal Data</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>102088</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Aude Oliva</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Key sustainability challenges, such as poverty mitigation, climate change, and food security, involve global phenomena that are unique in scale and complexity. Our global sensing capabilities - from remote sensing to crowdsourcing - are becoming increasingly economical and accurate. These recent technological developments are creating new spatio-temporal data streams that contain a wealth of information relevant to sustainable development goals. Actionable insights, however, cannot be easily extracted because the sheer size and unstructured nature of the data preclude traditional analysis techniques. This five-year career-development plan is an integrated research, education, and outreach program focused on developing new AI techniques to extract actionable insights from large-scale spatio-temporal data. These techniques have the potential to yield accurate, inexpensive, and highly scalable models to inform research and policy.&lt;br/&gt;&lt;br/&gt;The research goal of this project is to develop new modeling and algorithmic frameworks to help address global sustainability challenges involving spatio-temporal data. This research will develop new predictive models of complex spatio-temporal phenomena integrating in unique ways ideas from graphical models and representation learning, improving their overall performance. New approaches to learn from unlabeled data exploiting various forms of prior domain knowledge, including spatio-temporal dependencies and relationships between different data modalities, will be developed. To learn models and make predictions at scale, this project will also develop new scalable probabilistic inference methods based on the use of random projections to reduce the dimensionality of probabilistic models while preserving their key properties. The techniques developed will be made available to both academia and industry through open-source software, and will enable computationally feasible approaches for analyzing large spatio-temporal datasets and for modeling global scale phenomena. Predictions and data products produced by this project will enable new analyses and advance sustainability disciplines. Results will be disseminated widely through scientific articles, research seminars, and conference presentations to maximize the benefits to the scientific community. Educational and outreach efforts will include the involvement of undergraduate students undertaking independent research projects, a website describing research bridging computation and, and a summer outreach program aimed at introducing under-represented high-school students to computer science and artificial intelligence.</AbstractNarration>
+    <MinAmdLetterDate>03/08/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/08/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651565</AwardID>
+    <Investigator>
+      <FirstName>Stefano</FirstName>
+      <LastName>Ermon</LastName>
+      <EmailAddress>ermon@cs.stanford.edu</EmailAddress>
+      <StartDate>03/08/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Stanford University</Name>
+      <CityName>Palo Alto</CityName>
+      <ZipCode>943041212</ZipCode>
+      <PhoneNumber>6507232300</PhoneNumber>
+      <StreetAddress>3160 Porter Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

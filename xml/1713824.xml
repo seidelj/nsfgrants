@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: From Spores to Seeds: A Collaborative Investigation of Plant Genetics</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Certain genes are critical for the proper growth and development of organisms. As such, changes in these genes can have large effects on the overall evolution of groups of species.  The MADS-box genes are one such family of genes, which control a sizeable portion of plant development and have been found to underlie major changes in plant evolution. Through this fellowship, the awardee will work with the distinguished plant biologist Dr. Zhong-Hua Chen at Western Sydney University in New South Wales, Australia to study the MADS-box genes in ferns compared to flowering plants, which include many well-studied crops. This study will provide new insights into the ancestral MADS-box genes and the changes that have occurred in this group of genes throughout the evolutionary history of plants.&lt;br/&gt;&lt;br/&gt;Investigations of the MADS-box gene family have been a key facet of plant evolution research for nearly three decades due to their major role in development and putative role in the massive diversification of flowering plants. While the genomics era has allowed the rapid identification of putative MADS-box genes in a wide diversity of plant species, the verification, localization, and activity patterns of these genes are generally lacking in all but a few model flowering plants. In addition, the absence of a published reference genome in ferns, sister group to seed plants, has left an egregious gap in our understanding of MADS-box evolution across all of land plants. By collaborating with Dr. Zhong-Hua Chen, the awardee will use functional genetics to verify, localize, and quantify the putative MADS-box genes throughout the life cycle of the model fern, Ceratopteris richardii, the first study of this kind for a non-seed plant. These results will complement the awardee's broad genomic and transcriptomic analyses and elucidate the evolution of the MADS-box gene family across ferns, seed plants, and all of land plants.&lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a US graduate student and is jointly funded by NSF and the Australian Academy of Science.</AbstractNarration>
+<MinAmdLetterDate>04/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713824</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Marchant</LastName>
+<EmailAddress/>
+<StartDate>04/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Marchant                Daniel         B</Name>
+<CityName>Gainesville</CityName>
+<ZipCode>326112710</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5912</Code>
+<Text>AUSTRALIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

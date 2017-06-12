@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Biological Signals: Information Flow, Exchange and Storage</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>348454</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08080000</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Biological Infrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Amanda Simcox</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This REU Site award to the University of Wisconsin - Madison, located in Madison, WI, will support the training of 12 students for 10 weeks during the summers of 2017- 2019. Students investigate information flow, storage, and exchange in biological systems by exploring research questions related to understanding the many forms of information and signals in biological systems (e.g. pheromones, electrical signals, DNA), how information moves within and across biological scales, and how signals from the environment can impact cellular processes and therefore organismal and population level activity. A team of research mentors guides students as they develop their research and scientific communication skills and as they explore the ethical implications of their research projects and graduate education in the biological sciences. Each student in the program writes a scientific report and gives a presentation summarizing their research findings. Applications from all students are welcome, but particularly those who have limited access to research opportunities, are interested in pursuing graduate education, and are members of underrepresented groups in biology graduate training programs and research careers.&lt;br/&gt;&lt;br/&gt;It is anticipated that a total of 36 students, primarily from schools with limited research opportunities and who are members of underrepresented groups in biology, will be trained in the program. In addition to learning how research is conducted and presenting at the local research symposium, many students will also present the results of their work at regional and national scientific conferences.&lt;br/&gt;&lt;br/&gt;A common web-based assessment tool used by all REU Site programs funded by the Division of Biological Infrastructure will be used to determine the effectiveness of the training program. In addition, feedback from students and mentors will be gathered throughout the program to guide program implementation in real time. Students will be tracked after the program in order to determine their career paths. Students will be asked to respond to an automatic email sent via the NSF reporting system. More information about the program is available by visiting https://wiscience.wisc.edu/IBS-SRP, or by contacting the PI (Dr. Janet Branchaw at branchaw@wisc.edu) or the co-PI (Dr. David Wassarman at dawassarman@wisc.edu).</AbstractNarration>
+    <MinAmdLetterDate>03/01/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/01/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659159</AwardID>
+    <Investigator>
+      <FirstName>Janet</FirstName>
+      <LastName>Branchaw</LastName>
+      <EmailAddress>branchaw@wisc.edu</EmailAddress>
+      <StartDate>03/01/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>David</FirstName>
+      <LastName>Wassarman</LastName>
+      <EmailAddress>dawassarman@wisc.edu</EmailAddress>
+      <StartDate>03/01/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Wisconsin-Madison</Name>
+      <CityName>MADISON</CityName>
+      <ZipCode>537151218</ZipCode>
+      <PhoneNumber>6082623822</PhoneNumber>
+      <StreetAddress>21 North Park Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Wisconsin</StateName>
+      <StateCode>WI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

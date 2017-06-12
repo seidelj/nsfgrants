@@ -5,7 +5,7 @@
     <AwardTitle>Interagency Agreement to Support NSF OISE Overseas Office ( NSF-Beijing)</AwardTitle>
     <AwardEffectiveDate>11/01/2015</AwardEffectiveDate>
     <AwardExpirationDate>11/30/2016</AwardExpirationDate>
-    <AwardAmount>352465</AwardAmount>
+    <AwardAmount>413108</AwardAmount>
     <AwardInstrument>
       <Value>Contract Interagency Agreement</Value>
     </AwardInstrument>
@@ -19,11 +19,11 @@
       </Division>
     </Organization>
     <ProgramOfficer>
-      <SignBlockName>W. Y. B. Chang</SignBlockName>
+      <SignBlockName>Anne L. Emig</SignBlockName>
     </ProgramOfficer>
     <AbstractNarration/>
     <MinAmdLetterDate>11/12/2015</MinAmdLetterDate>
-    <MaxAmdLetterDate>02/23/2016</MaxAmdLetterDate>
+    <MaxAmdLetterDate>08/16/2016</MaxAmdLetterDate>
     <ARRAAmount/>
     <AwardID>1602831</AwardID>
     <Investigator>
@@ -45,7 +45,11 @@
       <StateCode>DC</StateCode>
     </Institution>
     <ProgramElement>
-      <Code>7572</Code>
+      <Code>0200</Code>
+      <Text/>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>0300</Code>
       <Text/>
     </ProgramElement>
     <ProgramElement>
@@ -57,11 +61,7 @@
       <Text/>
     </ProgramElement>
     <ProgramElement>
-      <Code>0300</Code>
-      <Text/>
-    </ProgramElement>
-    <ProgramElement>
-      <Code>0200</Code>
+      <Code>7572</Code>
       <Text/>
     </ProgramElement>
     <ProgramElement>

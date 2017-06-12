@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1606379</AwardID>
     <Investigator>
-      <FirstName>John</FirstName>
-      <LastName>Blitz</LastName>
-      <EmailAddress>jblitz@tenhoor.as.ua.edu</EmailAddress>
-      <StartDate>02/23/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Erik</FirstName>
       <LastName>Porth</LastName>
       <EmailAddress>esporth@crimson.ua.edu</EmailAddress>
       <StartDate>02/23/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Blitz</LastName>
+      <EmailAddress>jblitz@tenhoor.as.ua.edu</EmailAddress>
+      <StartDate>02/23/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>University of Alabama Tuscaloosa</Name>

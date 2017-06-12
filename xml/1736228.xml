@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Conference on Enumerative Geometry, Mirror Symmetry, and Physics</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>27650</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anatoly  Libgober</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports participation in the Conference on Enumerative Geometry, Mirror Symmetry, and Physics held at the University of Illinois at Urbana-Champaign, Urbana, Illinois, from July 17-21, 2017. The topics of the conference lie at the core of twenty-first century research at the boundary between mathematics and physics.  Research at this boundary has led to exciting new insights and rapid progress in mathematics, while at the same time providing new tools and rigorous arguments to physics.  The conference provides a needed venue for dissemination of the most important recent results and a context for the exchange of ideas and the growth and development of new approaches and new projects. &lt;br/&gt;&lt;br/&gt;The conference will bring together leading experts from algebraic and differential geometry, string theory and supersymmetric field theories, and their connections to topology and representation theory, to explore physical contexts and mathematical problems in enumerative geometry, mirror symmetry, and related physics (including modularity phenomena, topological recursion, F-theory and nonperturbative phenomena). The conference will focus on these developments and future prospects in these areas. Additional information is available at the conference web site:&lt;br/&gt;http://www.math.uiuc.edu/~nevins/EGMSP.html</AbstractNarration>
+<MinAmdLetterDate>04/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1736228</AwardID>
+<Investigator>
+<FirstName>Artan</FirstName>
+<LastName>Sheshmani</LastName>
+<EmailAddress>artan@qgm.au.dk</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Albrecht</FirstName>
+<LastName>Klemm</LastName>
+<EmailAddress>aklemm@th.physik.uni-bonn.de</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ron</FirstName>
+<LastName>Donagi</LastName>
+<EmailAddress>donagi@math.upenn.edu</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Nevins</LastName>
+<EmailAddress>nevins@illinois.edu</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

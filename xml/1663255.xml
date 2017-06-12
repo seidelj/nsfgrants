@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Reformulating spent lime as a phosphorus-sorbing material</AwardTitle>
+<AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps is in utilization of a byproduct of water treatment for reducing harmful impact of agricultural runoff.  Spent lime is a common byproduct generated during the treatment process in water treatment plants. This project will beneficially reuse spent lime to reduce disposal costs for municipalities, improve water quality, and provide a suitable product to enhance agricultural production. Agricultural runoff and drainage of phosphorus are considered to be a contributing factor to eutrophication and proliferation of harmful algal blooms.  The technology developed here utilizes spent lime from water treatment plants to remove phosphorus from surface waters.  The spent material removed from the system will serve as a nutrient-enhanced product with many potential uses, including application directly to agricultural land or incorporation as a fertilizer additive.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes spent lime as a sorbing material to remove phosphorus from surface waters.  Calcium ions in spent lime form covalent bonds with orthophosphates to form calcium phosphate.   Thus, phosphorus in a dissolved form precipitates to a solid form.  The technology used here has demonstrated adsorption of phosphorus to spent lime is nearly instantaneous with a considerable calculated sorption capacity.   Maximum phosphorus removal can be achieved by increasing the mass of spent lime.  This project develops a phosphorus interceptor system that utilize spent lime as filter material.  To maintain optimal performance, spent lime is replaced with new material after reaching phosphorus saturation.  The resulting material is nutrient-enhanced with multiple potential agricultural uses.</AbstractNarration>
+<MinAmdLetterDate>10/24/2016</MinAmdLetterDate>
+<MaxAmdLetterDate>10/24/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1663255</AwardID>
+<Investigator>
+<FirstName>Daryl</FirstName>
+<LastName>Dwyer</LastName>
+<EmailAddress>daryl.dwyer@utoledo.edu</EmailAddress>
+<StartDate>10/24/2016</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Toledo</Name>
+<CityName>TOLEDO</CityName>
+<ZipCode>436063390</ZipCode>
+<PhoneNumber>4195302844</PhoneNumber>
+<StreetAddress>2801 W Bancroft St., MS 944</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

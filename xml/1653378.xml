@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Modeling the Longitudinal Career Pathways of Engineering Doctorates by Gender, Race/Ethnicity, and Discipline</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>535297</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>James Moore</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The advanced training of diverse engineering doctoral students is critical to the nation's potential for technological innovation, ability to meet workforce demands, and general prosperity and welfare. An understanding of the longer-term career paths of engineering PhDs has important implications for increasing academic persistence among engineering doctoral students, as well as informing the design of PhD programs and interventions to help prepare doctoral students for a multitude of careers in education, business, industry, and government. This integrated research and education project examines how individual factors, institutional structures, and environmental contexts converge at the PhD level to model and explain the longitudinal career patterns of engineering PhDs. By examining whether there are differences in career paths by gender, race/ethnicity, and engineering discipline, this research project will render important contextual information for various applications, such as the creation of engineering workforce policy, development of strategies that promote a competitive engineering workforce, and ways to strengthening academic-industry partnerships. The findings will provide doctoral programs with critical and actionable information for developing and enhancing training that accounts for the realities of workforce demands and student career preferences. &lt;br/&gt;&lt;br/&gt;The theoretical approach highlights the experiences of individuals at the intersection of gender, race/ethnicity, and engineering discipline rather than aggregating individuals in a monolithic group or aggregating engineering with science, technology, and mathematics fields. Informed by social cognitive career, life course, and intersectionality theories, this comprehensive examination of the longer-term career patterns of engineering doctoral graduates focuses on identifying employment patterns and transitions as a function of important demographic characteristics and doctoral education experiences using quantitative regression analyses on nationally-representative data. Through individual interviews, this research project will also pinpoint why doctoral graduates pursued certain career paths and illustrate how their individual choices intersect with institutional and environmental factors. The research project also includes a strong dissemination strategy designed for broad and meaningful impact across communities, including academic, professional, and student services associations, and industry. Specifically, the research project includes a plan for developing a professional development workshop using an integrated case study and video vignette approach to provide engineering doctoral students and early career PhDs with tools and training for longer-range career planning.</AbstractNarration>
+    <MinAmdLetterDate>03/02/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/02/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653378</AwardID>
+    <Investigator>
+      <FirstName>Joyce</FirstName>
+      <LastName>Main</LastName>
+      <EmailAddress>jmain@purdue.edu</EmailAddress>
+      <StartDate>03/02/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Purdue University</Name>
+      <CityName>West Lafayette</CityName>
+      <ZipCode>479072114</ZipCode>
+      <PhoneNumber>7654941055</PhoneNumber>
+      <StreetAddress>Young Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Indiana</StateName>
+      <StateCode>IN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7680</Code>
+      <Text>ENG DIVERSITY ACTIVITIES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7680</Code>
+      <Text>ENG DIVERSITY ACTIVITIES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

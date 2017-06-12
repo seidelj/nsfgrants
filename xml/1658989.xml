@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>International Travel Support for Chemistry and Diagnostics for Clean Combustion International Bunsen Discussion Meeting</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>10000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Song-Charng Kong</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>1658989 Camacho&lt;br/&gt;&lt;br/&gt;This award is to support the travel of early-career researchers to attend the 2017 International Bunsen Discussion Meeting. Experiences in attending technical conferences are extremely beneficial to early-career researchers, including graduate students, post-doctoral researchers, and assistant professors. These experiences will not only help with the professional development, but also stimulate their critical thinking in formulating future research directions. This award is to partially support the expenses of early-career researchers in attending the 2017 International Bunsen Discussion Meeting: Chemistry and Diagnostics for Clean Combustion. The meeting will be held in Bielefeld, Germany, June 21 - 23, 2017. This conference is a very important international conference on combustion science and engineering. Presentations in this conference represent the most updated research outcome in the area of clean combustion research in the world. The conference facilitates the exchange of combustion research results through invited lectures, oral presentations, and poster presentations. &lt;br/&gt;&lt;br/&gt;More than 80% of the world?s energy comes from combustion of various fuels. Combustion is also one of main sources of atmospheric pollution. This conference will facilitate the interactions of combustion scientists and engineers for developing knowledge to help achieve clean combustion. The focus will be on emerging and timely issues, such as efficiency improvement, use of alternative fuels, and pollution reduction. The science of making combustion cleaner is interdisciplinary in nature, spanning fluid dynamics, chemistry, thermodynamics, and aerosol dynamics. This conference will promote the collaboration between experimentalists and modelers. By attending this conference, the U.S. participants will stay updated with the state-of-the-art combustion research that can enhance the environmental sustainability.</AbstractNarration>
+    <MinAmdLetterDate>12/16/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/16/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658989</AwardID>
+    <Investigator>
+      <FirstName>Joaquin</FirstName>
+      <LastName>Camacho</LastName>
+      <EmailAddress>jcamacho@sdsu.edu</EmailAddress>
+      <StartDate>12/16/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>San Diego State University Foundation</Name>
+      <CityName>San Diego</CityName>
+      <ZipCode>921822190</ZipCode>
+      <PhoneNumber>6195945731</PhoneNumber>
+      <StreetAddress>5250 Campanile Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1407</Code>
+      <Text>Combustion &amp; Fire Systems</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

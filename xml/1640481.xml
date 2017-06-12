@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>The Consequences of Maternal effects and Environmental Conditions on Offspring Success in an Antarctic Predator</AwardTitle>
+    <AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2022</AwardExpirationDate>
+    <AwardAmount>181897</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06090300</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of Polar Programs (OPP)</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Christian Fritsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The consequences of variation in maternal effects on the ability of offspring to survive, reproduce, and contribute to future generations has rarely been evaluated in polar marine mammals. This is due to the challenges of having adequate data on the survival and reproductive outcomes for numerous offspring born in diverse environmental conditions to mothers with known and diverse sets of traits. This research project will evaluate the survival and reproductive consequences of early-life environmental conditions and variation in offspring traits that are related to maternal attributes (e.g. birth date, birth mass, weaning mass, and swimming behavior) in a population of individually marked Weddell seals in the Ross Sea. Results will allow an evaluation of the importance of different types of individuals to the Weddell Seal's population sustenance and better assessments of factors contributing to the population dynamics in the past and into the future. The project allows for documentation of specific individual seal's unique histories and provisioning of such information to the broader science community that seeks to study these seals, educating graduate and undergraduate ecology students, producing science-outreach videos, and developing a multi-media iBook regarding the project's science activities, goals and outcomes. &lt;br/&gt;&lt;br/&gt;The research has the broad objective of evaluating the importance of diverse sources of variation in pup characteristics to survival and reproduction. The study will (1) record birth dates, body mass metrics, and time spent in the water for multiple cohorts of pups (born to known-age mothers) in years with different environmental conditions; (2) mark all pups born in the greater Erebus Bay study area and conduct repeated surveys to monitor fates of these pups through the age of first reproduction; and (3) use analyses specifically designed for data on animals that are individually marked and resighted each year to evaluate hypotheses about how variation in birth dates, pup mass, time spent in the water by pups, and environmental conditions relate to variation in early-life survival and recruitment for those pups. The research will also allow the documentation of the population status that will contribute to the unique long-term database for the local population that dates back to 1978.</AbstractNarration>
+    <MinAmdLetterDate>03/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1640481</AwardID>
+    <Investigator>
+      <FirstName>Donald</FirstName>
+      <LastName>Siniff</LastName>
+      <EmailAddress>siniff@biosci.cbs.umn.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Robert</FirstName>
+      <LastName>Garrott</LastName>
+      <EmailAddress>rgarrott@montana.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jay</FirstName>
+      <LastName>Rotella</LastName>
+      <EmailAddress>rotella@montana.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Montana State University</Name>
+      <CityName>BOZEMAN</CityName>
+      <ZipCode>597172470</ZipCode>
+      <PhoneNumber>4069942381</PhoneNumber>
+      <StreetAddress>309 MONTANA HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Montana</StateName>
+      <StateCode>MT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5111</Code>
+      <Text>ANTARCTIC ORGANISMS &amp; ECOSYST</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

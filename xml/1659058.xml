@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>NebraskaSCIENCE: A School-University Partnership to Develop Exemplary Science Teachers in Nebraska</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2022</AwardExpirationDate>
+    <AwardAmount>601704</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thomas Higgins</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The University of Nebraska at Omaha (UNO) will undertake a Noyce Track 1 project to recruit, prepare, and support a minimum of 25 undergraduate majors in the disciplines of biology, chemistry, geography/geology, and physics to become well-prepared secondary school science teachers. Project activities will develop culturally responsive science teachers with deep STEM content expertise through the use of specific pedagogies. It will actively involve the Noyce Scholars in the process of science so that they can engage youth from diverse backgrounds in the scientific enterprise. Noyce Scholars will participate in professional development activities from inception through their early years of teaching in high-need school districts. &lt;br/&gt;&lt;br/&gt;The project will build upon ongoing collaborative efforts between UNO and the Omaha Public Schools (OPS) that expand and strengthen the pathways that prepare science majors to meet the demand for science teachers in high-need school districts. Project activities will guide students through Bachelor of Science degrees, including secondary teacher certification. The project will provide structured internships for first- and second-year STEM undergraduates to gain experience working with students from high-need schools in OPS; provide financial, academic, and professional leadership development support for third- and fourth-year STEM undergraduates to prepare them for teaching in high-need school districts; and provide ongoing professional development support for Noyce Scholars alumni in secondary school classrooms. This Noyce project will use a systematic evaluation plan that continuously measures the overall impact of its initiatives and provides formative feedback on the effectiveness of key strategies so that refinements can be made over the five-year grant period.</AbstractNarration>
+    <MinAmdLetterDate>03/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659058</AwardID>
+    <Investigator>
+      <FirstName>William</FirstName>
+      <LastName>Tapprich</LastName>
+      <EmailAddress>wtapprich@unomaha.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Neal</FirstName>
+      <LastName>Grandgenett</LastName>
+      <EmailAddress>ngrandgenett@unomaha.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Renat</FirstName>
+      <LastName>Sabirianov</LastName>
+      <EmailAddress>rsabirianov@mail.unomaha.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Christine</FirstName>
+      <LastName>Cutucache</LastName>
+      <EmailAddress>ccutucache@unomaha.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Conrad</LastName>
+      <EmailAddress>jaconrad@unomaha.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Nebraska at Omaha</Name>
+      <CityName>Omaha</CityName>
+      <ZipCode>681820210</ZipCode>
+      <PhoneNumber>4025542286</PhoneNumber>
+      <StreetAddress>6001 Dodge Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Nebraska</StateName>
+      <StateCode>NE</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1795</Code>
+      <Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -57,16 +57,16 @@
       <Text>Water management</Text>
     </ProgramReference>
     <ProgramReference>
-      <Code>8251</Code>
-      <Text>Math Sci Innovation Incubator</Text>
-    </ProgramReference>
-    <ProgramReference>
       <Code>7218</Code>
       <Text>RET SUPPLEMENTS</Text>
     </ProgramReference>
     <ProgramReference>
       <Code>7233</Code>
       <Text>RES EXPERIENCE FOR TEACHERS(RET)-SUPPLEM</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8251</Code>
+      <Text>Math Sci Innovation Incubator</Text>
     </ProgramReference>
   </Award>
 </rootTag>

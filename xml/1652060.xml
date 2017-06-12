@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Bidirectional Control of Sleep and Wakefulness by the Hypothalamic Arcuate Nucleus</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardAmount>586000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090200</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richmond R. Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Despite the fact that sleep is universal across the animal kingdom and occupies a substantial portion of an animal's lifetime, the regulation of sleep and wakefulness by the brain is poorly understood.  Additionally, national surveys show that sleep is poorly understood among the general public and that many Americans, particularly students, are extremely sleep deprived.  Therefore, this project integrates a series of research and educational goals to impact our understanding of the brain mechanisms that control mammalian sleep.  The PI will manipulate two populations of neurons (called AgRP neurons and POMC neurons) in rodent brains using powerful genetic technologies to determine their roles in regulating sleep/wake behavior.  These groups of neurons are well-known for sensing the nutritional and caloric needs of the body, and so our research will study how food intake affects states of sleep and wakefulness. This work will thus increase our understanding of how the brain coordinates complex behavioral states, in this case hunger and sleep.  The educational goals will broaden the impact of this project by including undergraduates in all aspects of this research and by implementing a new course at Williams College on the science of sleep.  This course will produce educational materials on sleep that will be freely available and distributed. Together, the research and educational components of this award will increase the United States' competitiveness in science and technology, particularly in the field of neuroscience.  &lt;br/&gt;&lt;br/&gt;The goal of this project is to determine how neurons that regulate energy homeostasis also regulate sleep.  Previous studies indicate that sleep/wake states are significantly affected by food need and availability, but the role of neurons that regulate food intake in sleep/wake behavior is unknown.  The hypothalamic arcuate nucleus contains two populations of neurons that regulate food intake behavior: orexigenic agouti-related protein (AgRP)-expressing neurons and anorexigenic pro-opiomelanocortin (POMC)-expressing neurons.  Preliminary evidence from our laboratory suggests that AgRP neurons can independently promote wakefulness and food intake and that POMC neurons maintain sleep states in addition to suppressing appetite.  Previous data also suggest that AgRP and POMC neurons might influence sleep/wake states by projecting to hypocretin-expressing neurons and melanin-concentrating hormone-expressing neurons, respectively, in the lateral hypothalamus.  This project will use cutting-edge optogenetic and chemogenetic methods in combination with electroencephalography (EEG) and behavioral analyses to increase our understanding of these systems in sleep/wake behavior and thus how the brain coordinates complex behavioral states. Undergraduate students will be involved in all aspects of this work, which will further impact the field of neuroscience through the hands-on training it will provide for the next generation of scientists and educators.</AbstractNarration>
+<MinAmdLetterDate>04/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1652060</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Carter</LastName>
+<EmailAddress>mc10@williams.edu</EmailAddress>
+<StartDate>04/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Williams College</Name>
+<CityName>Williamstown</CityName>
+<ZipCode>012672600</ZipCode>
+<PhoneNumber>4135974352</PhoneNumber>
+<StreetAddress>880 Main St.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7714</Code>
+<Text>MODULATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

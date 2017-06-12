@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Discovering and Characterizing Protoplanetary Systems Using Novel Imaging Techniques</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harshal Gupta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Stephanie Sallum is awarded an NSF Astronomy and Astrophysics Postdoctoral Fellowship to conduct a program of research and education at the University of California, Santa Cruz.  Sallum will develop methods to take the sharpest possible images of dusty disks around nearby stars.  Because these disks are potential birthplaces of planets, the images will allow astronomers to understand how planets form around stars.  Alongside this research, Sallum will develop an astronomy course for inmate education.&lt;br/&gt;&lt;br/&gt;Understanding how planets form requires direct observations of accreting protoplanets.  By developing and refining new imaging methods that can detect companions at a telescope's theoretical resolution limit, Sallum will advance high contrast imaging techniques to study protoplanetary disks.  She will then apply these techniques to ground-based observations of protoplanetary disks containing inner clearings that might indicate the presence of accreting planets.  Sallum will also prepare for future planet searches with the James Webb Space Telescope, which can detect close-in planetary companions around stars that are orders of magnitude fainter than those observable from ground-based telescopes.  For the educational component of her work, Sallum will create and teach an astronomy course at the UC Santa Cruz Program for Inmate Education.</AbstractNarration>
+<MinAmdLetterDate>05/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701489</AwardID>
+<Investigator>
+<FirstName>Stephanie</FirstName>
+<LastName>Sallum</LastName>
+<EmailAddress/>
+<StartDate>05/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Sallum                  Stephanie      E</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857452801</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1609</Code>
+<Text>NSF ASTRON &amp; ASTROPHY PSTDC FE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7480</Code>
+<Text>ARCHIVAL DATA ANALYSIS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: University of California Santa Barbara's Research Experiences for Undergraduates in Ocean Biology</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>124785</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Elizabeth Rom</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>A new Research Experience for Undergraduates (REU) program at University of California Santa Barbara (UCSB) will be established. The program will bring ten undergraduates to UCSB each summer for three years. Students will spend eight weeks conducting independent research projects with the support of USCB faculty mentors and participating in field trips and professional development activities. They will receive stipends, housing and transportation. Independent research projects will focus on marine biology topics that integrate the study of physical and biological concepts. Students will make final presentations of their research to the community, including local fishermen and policy-makers.&lt;br/&gt;&lt;br/&gt;The UCSB REU program is integrative, emphasizing the biological concepts that are core to marine systems, with a specific focus on the interaction of physical and biotic processes in coastal marine ecosystems such as kelp forests and the rocky intertidal zone. Students will have an opportunity to conduct research on the interaction of multiple abiotic factors and their effects on organisms.</AbstractNarration>
+    <MinAmdLetterDate>03/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659835</AwardID>
+    <Investigator>
+      <FirstName>Gretchen</FirstName>
+      <LastName>Hofmann</LastName>
+      <EmailAddress>hofmann@lifesci.ucsb.edu</EmailAddress>
+      <StartDate>03/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Santa Barbara</Name>
+      <CityName>Santa Barbara</CityName>
+      <ZipCode>931062050</ZipCode>
+      <PhoneNumber>8058934188</PhoneNumber>
+      <StreetAddress>Office of Research</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1690</Code>
+      <Text>EDUCATION/HUMAN RESOURCES,OCE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

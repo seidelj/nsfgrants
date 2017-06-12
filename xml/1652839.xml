@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: A Predictive Modeling and Simulation-Based Certification Framework for Additive Manufacturing of Metals</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>500000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kara Peters</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Faculty Early Career Development (CAREER) program research project will focus on deriving a highly effective science based strategy --combing predictive modeling and simulations with optimal experimental selection-- driven by a rigorous uncertainty quantification methodology for accelerated certification of powder bed fusion based additive manufacturing of metals. Powder bed fusion based additive manufacturing technology is one of the most versatile and commercialized advances of all additive manufacturing techniques for the fabrication of metallic components. It enables a high degree of design freedom, development of novel material structures, and manufacture of customized products at reasonable costs. Powder bed fusion requires the use of high power energy beams to melt the powder particles and fuse them together layer after layer to form the desired shape. The complex thermal history experienced by the particles usually causes the formation of more defects, significant stresses and distortion as well as cracks in the fabricated materials. This research project will develop modeling and computational capabilities for the analysis of powder bed fusion based additive manufacturing processes and to understand the fundamental relationship between the processing parameters and the defect formation in the materials microstructure, to fabricate better metallic products. The research will also be complemented by establishing a responsive and flexible educational and outreach program based on curriculum development, training demonstrations in an additive manufacturing studio, and K-12 and underrepresented minority outreach through an institutional STEM education center.&lt;br/&gt;&lt;br/&gt;The specific goal of the research is to discover the process-microstructure-property relationship for powder bed fusion based additive manufacturing of metals. It is an established fact that the melt pool dynamics governs the defect formation in the microstructure of printed metals and determines the fabricated part?s macroscopic properties and performance. Thus, the research objectives of this project include: (i) development of a high performance computing based numerical solver for strong thermomechanical and fluid-structure coupled problems; (ii) capability to perform direct numerical simulation of powder bed fusion processes; (iii) model-based uncertainty quantification and certification of printed metals. The following fundamental questions will be answered: (1) what is the thermodynamic response of the powder bed under severe thermomechanical loading conditions; (2) what are the roles of processing parameters and powder characteristics in the microstructure evolution of fabricated materials. The overarching focus will be on obtaining a better understanding of the physics of defect formation and evolution, including: porosity, unmelted particles, grain boundaries and micro-cracks, during the powder bed fusion processes. This project will allow the PI to advance the knowledge base in computational science, mechanics and material science, and establish his long-term career in advanced manufacturing.</AbstractNarration>
+    <MinAmdLetterDate>02/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652839</AwardID>
+    <Investigator>
+      <FirstName>Bo</FirstName>
+      <LastName>Li</LastName>
+      <EmailAddress>bxl295@case.edu</EmailAddress>
+      <StartDate>02/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Case Western Reserve University</Name>
+      <CityName>CLEVELAND</CityName>
+      <ZipCode>441064901</ZipCode>
+      <PhoneNumber>2163684510</PhoneNumber>
+      <StreetAddress>Nord Hall, Suite 615</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1630</Code>
+      <Text>Mechanics of Materials and Str</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>022E</Code>
+      <Text>SOLID MECHANICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>024E</Code>
+      <Text>MATERIALS DESIGN</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>026E</Code>
+      <Text>STRUCTURAL MECHANICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>027E</Code>
+      <Text>NANOMECHANICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>013E</Code>
+      <Text>MULTI-SCALE MODELING</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9263</Code>
+      <Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CPS: Breakthrough: A Dynamic Optimization Framework for Connected Automated Vehicles in Urban Environments</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>425000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>David Corman</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Connected Automated Vehicles (CAVs), often referred to as "self-driving cars", will have a profound impact not only on transportation systems, but also in terms of associated economic, environmental, and social effects. As with any such major transformative undertaking, quantifying the magnitude of its expected impact is essential. The first part of this project aims at precisely this quantification (also referred to as the "price of anarchy") by assessing the difference between the performance of a transportation system as it now stands and the performance achievable in a CAV-based environment. A well-designed CAV-based transportation network has the benefit of expanding limited roadway capacity without affecting the existing infrastructure, but rather by seeking novel ways which focus on the vehicles and not the roads. A major part of the proposed project will focus on meeting this goal at the weakest links of a transportation system: the bottleneck points defined by intersections and merging points. &lt;br/&gt;&lt;br/&gt;The project will use inverse optimization techniques applied to large traffic datasets (from the Eastern Massachusetts road network) to infer unobservable factors, such as user behavior, and use them to construct a predictive model of traffic equilibria. Based on these new traffic demand models, forward optimization problems will be solved which will lead to socially optimal traffic flow equilibria achievable through a CAV-based system. A dynamic optimization framework will also be developed for urban intersections where the motion of CAVs will be controlled based on real-time data communicated over a wireless network to operate both safely and efficiently in a highly dynamic and uncertain environment. Towards this goal, the broader technical challenge of solving dynamic optimization problems on line will be addressed through novel ways that exploit event-driven methodologies with wide applicability in Cyber-Physical Systems. The overall framework will be demonstrated by implementing the key concepts and explicit control and optimization mechanisms in a miniature city test bed with an urban landscape and small mobile robots emulating CAVs with the ability to communicate and share data</AbstractNarration>
+    <MinAmdLetterDate>03/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1645681</AwardID>
+    <Investigator>
+      <FirstName>Christos</FirstName>
+      <LastName>Cassandras</LastName>
+      <EmailAddress>cgc@bu.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ioannis</FirstName>
+      <LastName>Paschalidis</LastName>
+      <EmailAddress>yannisp@bu.edu</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Trustees of Boston University</Name>
+      <CityName>BOSTON</CityName>
+      <ZipCode>022151300</ZipCode>
+      <PhoneNumber>6173534365</PhoneNumber>
+      <StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7918</Code>
+      <Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8234</Code>
+      <Text>CPS-Breakthrough</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7918</Code>
+      <Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

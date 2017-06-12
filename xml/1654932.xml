@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: New Catalysts for Chemicals Production</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps team project includes possible commercialization of new, selective catalysts that provide safer and more efficient production of chemicals and chemical products from petrochemical and renewable feedstocks at lower cost, with less chemical waste, and with lower energy requirements. Catalysts are substances that dramatically increase reaction rates for desired products. In many cases, commercial production of a chemical product is not possible without the use of a catalyst. Approximately 90% of all chemical production requires the use of a catalyst in at least one step of the production process. This includes the production of bulk chemicals, plastics and polymers, synthetic rubber, pharmaceuticals, agricultural chemicals, fuels, and chemicals used in consumer products and in the food industry. The need for new catalysts that are more selective and provide more efficient chemical production at lower cost spans all sectors of the chemical industry.&lt;br/&gt;&lt;br/&gt;This I-Corps project focuses on a unique family of patented constrained geometry ligands and metal catalysts that have potential applications in several of the market segments of the chemical industry. Development of this technology for specific applications is in the preliminary stages, but basic proof-of-concept of proprietary constrained geometry catalyst production has been demonstrated and patent coverage has been obtained. Based on initial customer interviews, the team will focus on evaluating customer needs in the polymer, rubber, and petroleum refining segments of the chemical industry. Specifically, the team will explore customer needs for more selective, more active, and less expensive catalysts for conversion of petrochemical and renewable feedstocks to polymers and other value-added products.</AbstractNarration>
+    <MinAmdLetterDate>10/25/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/25/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1654932</AwardID>
+    <Investigator>
+      <FirstName>Mark</FirstName>
+      <LastName>Mason</LastName>
+      <EmailAddress>mmason5@utoledo.edu</EmailAddress>
+      <StartDate>10/25/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Toledo</Name>
+      <CityName>TOLEDO</CityName>
+      <ZipCode>436063390</ZipCode>
+      <PhoneNumber>4195302844</PhoneNumber>
+      <StreetAddress>2801 W Bancroft St., MS 944</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

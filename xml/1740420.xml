@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Doctoral Student Consortium at the Seventh International Conference on Computational Creativity</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Donlon</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant supports student travel for select students participating in the Doctoral Student Consortium at the Seventh International Conference on Computational Creativity, Georgia Institute of Technology in Atlanta, GA from June 19th through June 23rd 2017. ICCC is an international conference series covering a broad range of research on computational creative systems, including evaluating creativity, generating creative artifacts, developing creativity support tools, computationally modeling factors that enhance creativity, computational analogy, and applications in industry, business and government.   This activity will bring together a broad community of junior researchers in the field of AI and related disciplines around the challenging interdisciplinary notion of computational creativity.  These events combine to provide educational opportunities for students and experienced researchers alike, covering topics that are important and relevant to the success of these students in their research careers.  &lt;br/&gt;&lt;br/&gt;Participating students will an opportunity to present their research to internationally recognized researchers in the field, as well as to their peers. Students will be introduced to key challenges in research in computational creativity and discuss evaluation methodologies, best practices, and ongoing research efforts. The consortium fosters a culture of collaboration across the many research groups that are pursuing research in computational creativity and related fields.  Selected students will have the opportunity to give an oral presentation at the consortium. All students will attend several invited talks from world-leading computational creativity researchers, with an emphasis on how to get started in the field and advice for conducting research to tackle the hard interdisciplinary challenges of creativity, leading to future systems that are novel, innovative and useful.</AbstractNarration>
+<MinAmdLetterDate>04/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740420</AwardID>
+<Investigator>
+<FirstName>Ashok</FirstName>
+<LastName>Goel</LastName>
+<EmailAddress>ashok.goel@cc.gatech.edu</EmailAddress>
+<StartDate>04/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

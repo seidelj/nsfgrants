@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Undergraduate Studies in Earthquake Information Technology (SCEC/UseIT)</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>360000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sushil Prasad</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Undergraduate Studies in Earthquake Information Technology (UseIT) is a mentored summer research program administered by the Southern California Earthquake Center (SCEC) at its lead institution, the University of Southern California (USC). The goal of UseIT is to motivate undergraduates with diverse educational backgrounds towards STEM careers through team-based research in the exciting field of earthquake information technology. UseIT enables undergraduates to participate in interdisciplinary research enabled by high-performance computing (HPC), visualization software, and other IT tools to address grand challenges in earthquake system science. An objective is to close the gap between computer science and geoscience by cross-training students in the modes of understanding distinct to these disciplines. The project particularly seeks to enhance the competency and diversity of the STEM workforce by increasing the research skills and self-confidence of women, under-represented minorities, first-generation college students, and undergraduates from institutions with limited research opportunities, particularly community colleges. UseIT aims to enhance the computational science expertise that SCEC needs to achieve the practical objectives of predicting strong ground motions and understanding earthquake predictability, thus aligning with the NSF's mission of promoting science and advancing nations welfare.&lt;br/&gt;&lt;br/&gt;Undergraduate Studies in Earthquake Information Technology (UseIT) has matured into a program with an experienced staff and a well-equipped Undergraduate Earthquake Research Laboratory at USC. UseIT's goal of motivating a diverse cadre of undergraduates towards STEM careers is approached by supporting team-based research in the field of earthquake information technology, highly interdisciplinary research enabled by high-performance computing (HPC), visualization software, and other IT tools through which UseIT participants address grand challenges in earthquake system science. SCEC was awarded its first REU-site grant in 2004 and subsequent grants in 2007, 2009 and 2012. The UseIT interns have developed SCEC-VDO, a powerful visualization platform for the 4D display of earthquake information that has seen wide application, e.g., by the Working Group on California Earthquake Probabilities. The UseIT toolkit has expanded in recent years to include geographic information systems (GIS), the OpenSHA hazard-analysis platform, the HAZUS risk-estimation platform, and the physics-based RSQSim rupture simulator. Team-based research on grand challenges with explicit HPC components can demonstrate to students how difficult system-level problems can be solved by using the HPC facilities as precise scientific instruments. This next phase of UseIT incorporates new elements of HPC-enabled research, probabilistic forecasting, and visualization-assisted data analysis of physics-based earthquake rupture simulators to provide probabilistic earthquake forecasts. UseIT received 19,500 node-hours of allocation on the Blue Waters supercomputer, which the students used to run simulated earthquake catalogs hundreds of thousands of years in length, from which they produced time-dependent earthquake forecasts, and the project aims to continue this partnership. UseIT enhances the STEM workforce that SCEC will require to make fundamental progress in earthquake system science.</AbstractNarration>
+    <MinAmdLetterDate>03/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659880</AwardID>
+    <Investigator>
+      <FirstName>Thomas</FirstName>
+      <LastName>Jordan</LastName>
+      <EmailAddress>tjordan@usc.edu</EmailAddress>
+      <StartDate>03/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Southern California</Name>
+      <CityName>Los Angeles</CityName>
+      <ZipCode>900890001</ZipCode>
+      <PhoneNumber>2137407762</PhoneNumber>
+      <StreetAddress>University Park</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1575</Code>
+      <Text>EDUCATION AND HUMAN RESOURCES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>026Z</Code>
+      <Text>NSCI: National Strategic Computing Initi</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9102</Code>
+      <Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

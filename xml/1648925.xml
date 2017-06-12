@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>STTR Phase I: Team-Based Learning and Collaboration with Video Documents</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Glenn H. Larsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project will address key research and development issues necessary to advance the commercialization of an innovative software platform for detailed and accurate group discussion of video material. Communication around video is a major problem, because the social and content channels are disconnected. Collaboration currently happens through email or shared text documents that are separated from the relevant segments in the video being discussed. This disconnect hampers in-depth communication and leads to errors. This project's focus is to integrate video content and collaborative discussion on the same page with multiple annotation features so that discussion and collaboration can be as detailed and efficient as with a shared text document. The increasing importance and proliferation of video in the educational arena and other domains strategically places this project at the vanguard of scientific discovery in building a technology tool that will serve society. Outside the field of education, this project will impact workplaces where videos are used by individuals or groups as part of training, analysis or assessment such as corporate/manufacturing, legal/criminal justice, medical and others. The project holds a patent and is situated as a spin-out from a university. It has unlimited potential for national and international commercialization, thus generating tax revenue and creating jobs. &lt;br/&gt;&lt;br/&gt;This project focuses on the development of a commercial-ready Video Collaboratory platform for team-based learning and collaboration centered on video documents for the Lightweight Teams model for group learning. This project will develop support tools for the management of teams of learners, mechanisms for inter-team collaboration, selective cross-team propagation of annotations, and team-based analytics, including instructor dashboard metrics for video engagement monitoring. The goal of the project is to address knowledge gaps identified in tools to support video-centered collaboration, targeting the flipped classroom model for STEM higher education. In this context it is essential to understand and support best practice mechanisms for automated group creation, bidirectional discourse proliferation for large class sizes and measurement of engagement and effectiveness for video content. The project's subaward team will be responsible for development and testing of technical feasibility aspects of the proposed research milestones. For each of the research milestones, the team will analyze the data from prototype deployments at the University and from other beta testers. Formative evaluation will be conducted through analysis of log files, informal interviews and focus groups with beta testers. Based on the feedback, a coded prototype will be created and tested on the test server before final deployment to the production system.</AbstractNarration>
+    <MinAmdLetterDate>01/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648925</AwardID>
+    <Investigator>
+      <FirstName>Devin</FirstName>
+      <LastName>Collins</LastName>
+      <EmailAddress>Devin.Collins@uncc.edu</EmailAddress>
+      <StartDate>01/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Vikash</FirstName>
+      <LastName>Singh</LastName>
+      <EmailAddress>vikashsinghmail@gmail.com</EmailAddress>
+      <StartDate>01/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Video Collaboratory, LLC</Name>
+      <CityName>Charlotte</CityName>
+      <ZipCode>282055340</ZipCode>
+      <PhoneNumber>8033673110</PhoneNumber>
+      <StreetAddress>2513 Commonwealth Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1505</Code>
+      <Text>STTR PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>118E</Code>
+      <Text>GRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1505</Code>
+      <Text>STTR PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8031</Code>
+      <Text>Education Products</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8039</Code>
+      <Text>Information, Communication &amp; Computing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI : Investigation into dynamic-covalent linkages through the use of Diels-Alder chemistry and controlled radical polymerization techniques</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>209087</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Suk-Wah Tam-Chang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Synthetic polymers (plastics) are widely used in our daily life.  The properties of polymers are governed by their chemical structures and can be tailored for different applications.  In this research project, Professor Costanzo of California Polytechnic State University, San Luis Obispo, develops synthetic approaches to prepare novel polymers with properties that can be changed reversibly with temperature.  The polymer strands are designed to have chemical structures that can be pulled apart at one temperature and snapped back together at a different temperature.  The opportunity to engage undergraduates in fundamental research helps shape and create the next generation of scientists. Additionally, outreach programs help intertwine undergraduate research and teaching.  These educational programs provide opportunities for professional development for K-12 teachers and for undergraduate students to be involved in the development of inquiry-based teaching modules for elementary and middle school students.&lt;br/&gt;&lt;br/&gt;The Macromolecular, Supramolecular and Nanochemistry Program supports the research group of Prof. Costanzo to investigate how dynamic-covalent linkages can be incorporated into polymer systems to enable switchability in polymer topology and bestow thermal responsive properties.  The specific objectives of this project are: 1) to synthesize new Diels-Alder chemistry components, including fulvenes and dicyanoalkenes; 2) to develop polymerization strategies for precise placement of the new Diels-Alder linkages within polymer matrices for investigating the dissociation and reassembly processes; and 3) to demonstrate the use of interchangeable Diels-Alder linkages to invert compositional components of polymeric structures.</AbstractNarration>
+<MinAmdLetterDate>06/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709640</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Costanzo</LastName>
+<EmailAddress>pcostanz@calpoly.edu</EmailAddress>
+<StartDate>06/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Polytechnic State University Foundation</Name>
+<CityName>San Luis Obispo</CityName>
+<ZipCode>934070830</ZipCode>
+<PhoneNumber>8057562982</PhoneNumber>
+<StreetAddress>One Grand Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CRII: SaTC: A Principled Approach Aiding the Development of a Compliant Internet PKI</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2019</AwardExpirationDate>
+    <AwardAmount>174958</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Wenjing Lou</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Transport layer security (TLS) and secure socket layer (SSL) protocols aim to establish a secure channel with confidentiality and integrity guarantees over an insecure network. SSL/TLS is currently being used to protect a large number of servers and websites including banks, file servers, and social networks. In fact, 37% of North America's network traffic is now protected by SSL/TLS. To avoid impersonation attacks in SSL/TLS, users initiating an SSL/TLS communication are recommended to authenticate their communication peer to ensure they are interacting with the intended party and not an impostor. The X.509 public-key infrastructure (PKI) compensates for the Internet's inherent lack of trust by providing a cryptography-backed authentication framework in which entities are organized hierarchically based on trust, and each entity can obtain a certificate confirming its identity. While there is open-source software that implements the X.509 prescribed authentication checks, bugs in this software can leave users vulnerable to impersonation attacks. The X.509 open-source standard implementations, unlike SSL/TLS, have escaped rigorous security evaluations despite the fact that the security of SSL/TLS critically hinges on a correct X.509 implementation. This project seeks to reduce the attack surface of SSL/TLS and other applications that use X.509 as the authentication provider by developing an automatic technique for detecting logical bugs in X.509 implementations. &lt;br/&gt;&lt;br/&gt;This project will take advantage of the insight that a given X.509 implementation partitions the certificate input universe into accepting (certificates considered valid by the implementation) and rejecting (certificates considered invalid) universes. One can use symbolic execution to automatically extract an approximation of the two universes from a given X.509 implementation and represent them with logical formulas. The project then aims to precisely capture the X.509 standard specification in some formal logic and also develop a reference implementation of the X.509 standard. To prove the compliance of the reference implementation against the formal specification, the research will leverage a combination of model checking and deductive verification techniques. With the provably correct reference implementation, say R, at hand, it will be possible to detect logical bugs and inconsistencies in a given X.509 implementation, T, by checking whether T deviates from R. Deviations will be efficiently calculated by comparing the certificate universes of R and T. In addition to its research impact, the techniques and research findings of this project will have a positive impact on the training of the future generation of computer security professionals.</AbstractNarration>
+    <MinAmdLetterDate>01/25/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/25/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657124</AwardID>
+    <Investigator>
+      <FirstName>Omar Haider</FirstName>
+      <LastName>Chowdhury</LastName>
+      <EmailAddress>omar-chowdhury@uiowa.edu</EmailAddress>
+      <StartDate>01/25/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Iowa</Name>
+      <CityName>IOWA CITY</CityName>
+      <ZipCode>522421320</ZipCode>
+      <PhoneNumber>3193352123</PhoneNumber>
+      <StreetAddress>2 GILMORE HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Iowa</StateName>
+      <StateCode>IA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>026Y</Code>
+      <Text>CRII CISE Research Initiation</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>025Z</Code>
+      <Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8228</Code>
+      <Text>CISE Resrch Initiatn Initiatve</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

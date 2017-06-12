@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Elastic Network Infrastructure</AwardTitle>
+<AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project rests in the creation of a new category of how networking is offered.  Rather than offered as a static collection of physical appliances to be managed by a company's IT staff, this project aims to provide network processing as a service, and in turn reduce capital costs (through more efficient use of resources), as well as operational costs (by simplifying management).  In effect, it seeks to do for networking what cloud computing did for computing.  Target markets include traditional enterprise networks, which can replace their physical network devices with this service to save money and simplify management, and Cloud and telecom service providers which could offer the service as an add-on feature to their customers in order to increase revenue.  As more devices come online, as more traffic traverses a network, and as networks further become more integral to business operations, the needs for more reliable and efficient networks will likewise increase.&lt;br/&gt;&lt;br/&gt;This I-Corps project explores the market for a new approach to network functions virtualization, where network functions are disaggregated into separate processing and state storage components.  Experiments have shown seamless scalability, disruptionless failure management, and processing rates in line with other software solutions.  The aim of this I-Corps project is to interview a large number of potential customers to understand their current and future needs, challenges, and operations. With this, the commercial viability and value proposition of the 'stateless' network functions technology will be better understood.</AbstractNarration>
+<MinAmdLetterDate>11/18/2016</MinAmdLetterDate>
+<MaxAmdLetterDate>11/18/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1660680</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Keller</LastName>
+<EmailAddress>eric.keller@colorado.edu</EmailAddress>
+<StartDate>11/18/2016</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

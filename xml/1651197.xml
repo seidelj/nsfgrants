@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: Articulatory and acoustic patterns in phonemic and phonetic nasalization</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2018</AwardExpirationDate>
+    <AwardAmount>10447</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joan Maling</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Vowel nasalization lies at the heart of a number of important, widely-attested diachronic and&lt;br/&gt;synchronic phonological processes throughout the world's languages. However, relatively little&lt;br/&gt;is understood about the mapping between the oro-pharyngeal articulatory system and the&lt;br/&gt;acoustics of phonemically nasal and phonetically nasalized vowels compared to their oral&lt;br/&gt;counterparts. This project combines state-of-the-art rt-MRI methods and sophisticated modeling&lt;br/&gt;techniques to solve some persistent problems regarding the synchronic and diachronic behavior&lt;br/&gt;of vowels in Brazilian Portuguese, with wider implications for many other languages with vowel&lt;br/&gt;nasalization.&lt;br/&gt;&lt;br/&gt;This dissertation applies advanced methodologies in the collection and analysis of real-time&lt;br/&gt;magnetic resonance imaging (rt-MRI) to study phonemically nasal, phonetically nasalized, and&lt;br/&gt;oral vowels in Brazilian Portuguese. Researchers debate whether nasal vowels in Brazilian&lt;br/&gt;Portuguese are phonemically distinct or are underlyingly two segments (an oral vowel followed&lt;br/&gt;by a nasal consonant). This work will add a different perspective to this debate by constructing&lt;br/&gt;and analyzing a multi-speaker corpus of nasal, phonetically nasalized, and oral vowels.&lt;br/&gt;Analysis focuses on oro-pharyngeal differences in Brazilian Portuguese vowels, as well as&lt;br/&gt;velopharyngeal opening. This work aims to show that underlying oro-pharyngeal shape of oral&lt;br/&gt;vowels and nasalized vowels differs from those of phonemic nasal vowels, suggesting that each&lt;br/&gt;vowel has its own motor plan. This will add to a growing body of literature arguing that nasal&lt;br/&gt;vowels are not merely oral vowels affected by velopharyngeal opening, and that oro-pharyngeal&lt;br/&gt;differences in these vowels contribute to sound change. The project will also involve careful&lt;br/&gt;analysis of the acoustics of Brazilian Portuguese vowels and will extend to modeling the&lt;br/&gt;acoustics that can be drawn from MR images. This study will give more insight into the causes&lt;br/&gt;of diachronic sound change, specifically with regard to the feedback loop between speech&lt;br/&gt;perception and speech articulation.</AbstractNarration>
+    <MinAmdLetterDate>03/30/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/30/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1651197</AwardID>
+    <Investigator>
+      <FirstName>Bradley</FirstName>
+      <LastName>Sutton</LastName>
+      <EmailAddress>bsutton@illinois.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ryan</FirstName>
+      <LastName>Shosted</LastName>
+      <EmailAddress>rshosted@illinois.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Marissa</FirstName>
+      <LastName>Barlaz</LastName>
+      <EmailAddress>goldrch2@illinois.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Urbana-Champaign</Name>
+      <CityName>CHAMPAIGN</CityName>
+      <ZipCode>618207473</ZipCode>
+      <PhoneNumber>2173332187</PhoneNumber>
+      <StreetAddress>SUITE A</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8374</Code>
+      <Text>DDRI Linguistics</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1311</Code>
+      <Text>LINGUISTICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

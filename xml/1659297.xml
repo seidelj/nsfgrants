@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Cyber Team:  Cyberinfrastructure Empowerment for Diverse Research, Scholarship, and Workforce Development (CI Empower)</AwardTitle>
+<AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2018</AwardExpirationDate>
+<AwardAmount>248624</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin L. Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>CI Empower proposes a new model for more effective engagement of Historically Black Colleges and Universities (HBCUs) in the cyberinfrastructure ecosystem through a collaboration among Morgan State University (Maryland), Jackson State University (Mississippi), Claflin University (South Carolina), and South Carolina State University (South Carolina), and Clemson University (South Carolina). The project plans a regional, long term empowerment model expected to have a permanent impact on each institution's research capacity, and transform the way research is done on partner HBCU campuses. &lt;br/&gt;&lt;br/&gt;In the planning year, each campus: develops a written cyberinfrastructure (CI) plan and an on-campus team committed to implementing the plan; establishes cyberinfrastructure governance for on-going input; identifies external funding opportunities; and further develops a campus engagement plan. A focused external advisory group informs the efforts of the project. By developing campus CI plans, a strategic path for improving campus physical CI resources provides the basis to seek both internal and external funding sources. Technology transfer occurs by sharing of best practices among campuses, among proposal partners and also with the broader NSF-funded CI communities. The mix of technical staff, scientists, research administrators and information technology administrators involved in the planning effort come together to develop plans to help researchers achieve their research goals through access to better on-campus and more off-campus research resources.</AbstractNarration>
+<MinAmdLetterDate>01/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>01/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1659297</AwardID>
+<Investigator>
+<FirstName>Jill</FirstName>
+<LastName>Gemmill</LastName>
+<EmailAddress>gemmill@clemson.edu</EmailAddress>
+<StartDate>01/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Bottum</LastName>
+<EmailAddress>jb@clemson.edu</EmailAddress>
+<StartDate>01/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Alo</LastName>
+<EmailAddress>richard.a.alo@jsums.edu</EmailAddress>
+<StartDate>01/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Victor</FirstName>
+<LastName>McCrary</LastName>
+<EmailAddress>victor.mccrary@morgan.edu</EmailAddress>
+<StartDate>01/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joey</FirstName>
+<LastName>Brenn</LastName>
+<EmailAddress>jbrenn@claflin.edu</EmailAddress>
+<StartDate>01/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>230 Kappa Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

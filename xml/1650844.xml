@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: Species boundaries, phylogeography, and primate conservation genetics</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>21685</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rebecca Ferrell</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This dissertation project is an investigation of genetic relationships among populations of Neotropical monkey species, to better understand how populations change over time and become different species. Specifically, the project will address species boundaries, patterns and consequences of hybridization, and how human impact on the environment affects species' persistence and movement through the landscape. This research will result in science-based tools for conservation managers, including the development of genetic tools to improve species management practices, the identification of potential locations for habitat corridors, and recommendations on how to maintain population viability in human-impacted environments. The project will provide numerous opportunities for student training, public science outreach and international research collaborations.&lt;br/&gt;&lt;br/&gt;The blond capuchin monkey occurs in the Atlantic rainforest of northeastern Brazil, and given the extent of historic loss and fragmentation of this habitat, extant populations exist in relative isolation. The extent to which this fragmented landscape impacts the blond capuchin's genetic diversity is not known. Using a genomic approach, this study will (1) describe the evolutionary relationships among species in the robust capuchin lineage, (2) examine the presence of hybrid zones between capuchins of the northern Atlantic Forest and Caatinga habitats, and (3) contribute to our understanding of how human-modified habitats have affected primate genetic variation and population connectivity. This project addresses fundamental questions about speciation and population genetics and contributes to conservation efforts that require substantial knowledge of species' natural and evolutionary history.</AbstractNarration>
+    <MinAmdLetterDate>02/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650844</AwardID>
+    <Investigator>
+      <FirstName>Amely</FirstName>
+      <LastName>Martins</LastName>
+      <EmailAddress>amelymartins@utexas.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Anthony</FirstName>
+      <LastName>Di Fiore</LastName>
+      <EmailAddress>anthony.difiore@austin.utexas.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at Austin</Name>
+      <CityName>Austin</CityName>
+      <ZipCode>787121532</ZipCode>
+      <PhoneNumber>5124716424</PhoneNumber>
+      <StreetAddress>101 E. 27th Street, Suite 5.300</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7608</Code>
+      <Text>DDRI Bio Anthro</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1392</Code>
+      <Text>Biological Anthropology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

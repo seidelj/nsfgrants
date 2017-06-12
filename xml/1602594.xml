@@ -19,21 +19,13 @@
       </Division>
     </Organization>
     <ProgramOfficer>
-      <SignBlockName>Susanne von Bodman</SignBlockName>
+      <SignBlockName>Anthony Garza</SignBlockName>
     </ProgramOfficer>
     <AbstractNarration>The principle investigator is from Spelman College and is an expert in Systems Biology. Systems Biology is a field of biology that argues that the whole is greater than the sum of its parts, and that true understanding of complex and dynamic biological systems requires the incorporation and integration of fundamental principles derived from mathematics, physics, engineering and computer science. This understanding is thought to be necessary for harnessing the full potential of biology to sustain life on earth. The project will involve academics and administrators from regional Atlanta institutions and Spellman alumni who hold faculty positions at prominent research institutions. The workshop will explore and develop a strategy for implementing a novel educational framework that would prepare diverse student populations for collaborative research at the intersection of disciplines. The workshop is motivated also by the realization that underrepresented groups might gravitate more naturally toward the computational areas. As such, this workshop offers significant broader impacts through inclusion of several minority-serving institutions and regional research one institutions.&lt;br/&gt;&lt;br/&gt;This project is based on a novel way of thinking about training a future workforce in times where the convergence and integration of disciplines becomes the new standard. This direction is characterized by the recognition that emergent properties of biological systems are unlikely to be realized through reductionist approaches that generally reveal details about individual components, but contribute little toward an understanding of how these components interact to sustain live under ever-changing conditions. This workshop also represents a new model for how to advance education and research training at the intersections of disciplines, with a strong emphasis on a broader involvement of underrepresented groups in the "new biology" academic setting.</AbstractNarration>
     <MinAmdLetterDate>11/15/2015</MinAmdLetterDate>
     <MaxAmdLetterDate>11/15/2015</MaxAmdLetterDate>
     <ARRAAmount/>
     <AwardID>1602594</AwardID>
-    <Investigator>
-      <FirstName>Hong</FirstName>
-      <LastName>Qin</LastName>
-      <EmailAddress>hqin@spleman.edu</EmailAddress>
-      <StartDate>11/15/2015</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
     <Investigator>
       <FirstName>Mentewab</FirstName>
       <LastName>Ayalew</LastName>
@@ -58,6 +50,14 @@
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
+    <Investigator>
+      <FirstName>Hong</FirstName>
+      <LastName>Qin</LastName>
+      <EmailAddress>hong-qin@utc.edu</EmailAddress>
+      <StartDate>11/15/2015</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
     <Institution>
       <Name>Spelman College</Name>
       <CityName>Atlanta</CityName>
@@ -68,5 +68,21 @@
       <StateName>Georgia</StateName>
       <StateCode>GA</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>8011</Code>
+      <Text>Systems and Synthetic Biology</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1228</Code>
+      <Text>MINORITY INVOLVEMENT -- BIO</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7465</Code>
+      <Text>NANOSCALE BIO CORE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

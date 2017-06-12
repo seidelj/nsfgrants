@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Algorithmic Foundations and Modern Applications for Program Synthesis</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>98985</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computing and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Nina Amla</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Almost every aspect of our world has been touched by automation through software systems. Being able to efficiently construct complex software provides a competitive advantage to businesses, streamlines our bureaucratic systems, and improves our personal day-to-day lives. But building software remains a cumbersome, error-prone process. This project simplifies the software development process through techniques that automatically synthesize desired programs. At a foundational level, the project develops modern algorithmic techniques for efficiently and automatically constructing software systems, thus advancing the field of program synthesis. The particular emphasis of this project is on automated synthesis of data-analysis applications. Specifically, the project develops tools for end users to automatically construct data analyses that can run on cloud infrastructure, without any necessary knowledge of programming systems. Thus, the project has the potential to revolutionize and democratize data analytics. The project strongly connects research with education and outreach: by involving women and underrepresented minority undergraduate students in research, incorporating program synthesis ideas in modern curricula, and developing inclusive synthesis-themed hackathons.&lt;br/&gt;&lt;br/&gt;This project expands the range of program synthesis applications to data-parallel programs that can run on cloud infrastructure. To enable efficient synthesis, the project contributes a portfolio of novel algorithmic techniques. Specifically, the project (1) develops and utilizes the notion of relational specifications to guide synthesis algorithms with semantic knowledge; (2) develops techniques for learning relational specifications of arbitrary APIs; and (3) develops a suite of techniques for efficiently synthesizing programs that are deterministic in the presence of reorderings.</AbstractNarration>
+    <MinAmdLetterDate>02/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652140</AwardID>
+    <Investigator>
+      <FirstName>Aws</FirstName>
+      <LastName>Albarghouthi</LastName>
+      <EmailAddress>aws@cs.wisc.edu</EmailAddress>
+      <StartDate>02/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Wisconsin-Madison</Name>
+      <CityName>MADISON</CityName>
+      <ZipCode>537151218</ZipCode>
+      <PhoneNumber>6082623822</PhoneNumber>
+      <StreetAddress>21 North Park Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Wisconsin</StateName>
+      <StateCode>WI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7798</Code>
+      <Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8206</Code>
+      <Text>Formal Methods and Verification</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

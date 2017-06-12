@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RCN: Mammal diversification in relation to dynamic landscapes</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardAmount>108877</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samuel M. Scheiner</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will address the question of why species diversity tends to be greater in regions that are geographically complex, such as mountain ranges, a pattern that is found in many different groups such as mammals, birds, and flowering plants. Research will focus on ecological and evolutionary processes in modern and fossil rodents of western North America over the last 30 million years. The project will create a collaborative network of biologists and earth scientists. Activities will include annual workshops of interdisciplinary groups and the training of students and other early-career scientists. Besides gaining understanding of the causes of biodiversity, the results can be used for conservation of biodiversity in montane regions. Network participants will publicize their results to both scientific and general audiences, develop teaching modules for college students, and design exhibits for natural-history museums affiliated with the participants.&lt;br/&gt;&lt;br/&gt;The project will focus on the interactive influences of mountain-building and climatic history in stimulating changes in diversity (through speciation, adaptive evolution, and extinction), driving geographic-range shifts, and sorting the ecological traits of species in local communities. The research will focus on rodents due to their high diversity, strong fossil record, well-resolved phylogenies for living and fossil groups, and vital roles in ecosystems as prey species and indicators of environmental change. It will use data from western North America because it contains landscapes of contrasting high and low topographic complexity in the intermontane west and the Great Plains, respectively. The research goals include: reconstructing aspects of landscape history suitable for biogeographic analyses, testing models of origination and extinction of species, and testing for selectivity of ecological traits during changes over time and space in lineages and faunas. Analyses will demonstrate that the integration of neontological, paleontological, and geohistorical data can achieve greater insights than studying modern or historical data alone. Understanding geographic changes in rodent diversity over deep time is also relevant for conservation efforts in montane regions, which provide climatic refugia during periods of global warming.</AbstractNarration>
+<MinAmdLetterDate>04/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1655720</AwardID>
+<Investigator>
+<FirstName>Catherine</FirstName>
+<LastName>Badgley</LastName>
+<EmailAddress>cbadgley@umich.edu</EmailAddress>
+<StartDate>04/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brett</FirstName>
+<LastName>Riddle</LastName>
+<EmailAddress>brett.riddle@unlv.edu</EmailAddress>
+<StartDate>04/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Davis</LastName>
+<EmailAddress>edavis@uoregon.edu</EmailAddress>
+<StartDate>04/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1127</Code>
+<Text>EVOLUTIONARY PROCESSES CLUSTER</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7458</Code>
+<Text>GEOMORPHOLOGY &amp; LAND USE DYNAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7459</Code>
+<Text>SEDIMENTARY GEO &amp; PALEOBIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1571</Code>
+<Text>GEOLOGY &amp; PALEONTOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1664</Code>
+<Text>RESEARCH COORD NETWK IN BIO SC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

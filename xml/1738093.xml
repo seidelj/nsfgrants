@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: SC2: A Simple, Robust, and Flexible Framework for Collaborative Spectrum Sharing</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>100000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Wireless communications are affecting deeply the daily lives of the overwhelming majority of people on this planet. The insatiable demand for network capacity has motivated an entirely different approach on spectrum utilization. The work in this project will enable new collaborative spectrum sharing approaches that will impact the lives of anybody relying directly or indirectly on wireless communications. &lt;br/&gt;&lt;br/&gt;The main objective of this project is to research, develop, and implement technical solution concepts for collaborative spectrum sharing and to test their performance in head-to-head scrimmages with other competing approaches. The key research areas focus on agile, reconfigurable radios, RF environmental understanding, network wide contextualization, reasoning and collaboration with other collaborating, and yet competing, radio networks. The project will address key building blocks to create a collaborative intelligent radio using simple but robust techniques building on machine learning principles.</AbstractNarration>
+    <MinAmdLetterDate>03/24/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/24/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1738093</AwardID>
+    <Investigator>
+      <FirstName>Mihail</FirstName>
+      <LastName>Sichitiu</LastName>
+      <EmailAddress>mlsichit@ncsu.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ismail</FirstName>
+      <LastName>Guvenc</LastName>
+      <EmailAddress>iguvenc@ncsu.edu</EmailAddress>
+      <StartDate>03/24/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>North Carolina State University</Name>
+      <CityName>RALEIGH</CityName>
+      <ZipCode>276957514</ZipCode>
+      <PhoneNumber>9195152444</PhoneNumber>
+      <StreetAddress>CAMPUS BOX 7514</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1640</Code>
+      <Text>INFORMATION TECHNOLOGY RESEARC</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

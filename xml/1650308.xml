@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Searching for Noble Gases with X-ray Computed Tomography: New Microanalytical Methods for Isotopic Characterization of Ocean Island Basalts</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2018</AwardExpirationDate>
+    <AwardAmount>157626</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06030000</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Earth Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sonia Esperanca</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Ocean island volcanos provide geochemical windows into the Earth's deep interior, which remains poorly understood compared to its surface. Rocks from these volcanoes contain trace abundances of noble gases that have provided valuable information about the mixing, degassing, and stratification of the Earth's mantle over time. Because most ocean island samples contain extremely low concentrations of heavy noble gases (neon, argon, krypton, and xenon), previous studies have been limited to a handful of ocean islands. This project will develop a technique for identifying gas-rich mineral grains a priori using X-ray computed tomography, a nondestructive 3D imaging technique. Identifying and selecting the gas-rich grains will enable the isotopic analysis of a greater fraction of ocean island samples and thereby improve our ability to geochemically characterize the deep Earth. Developing and streamlining this technique will ultimately make heavy noble gas isotopic analysis more accessible to petrologists and geochemists. This one-year pilot study will support the career development of a postdoctoral fellow, undergraduate training at Caltech, as well as a new partnership with the High-Resolution X-ray Computed Tomography Facility at the University of Texas- Austin.&lt;br/&gt;&lt;br/&gt;High resolution X-ray computed tomographic data will be obtained for olivine phenocrysts extracted from volcanic rocks collected on Hawaii, Samoa, and Juan Fernandez islands. Because noble gases tend to reside in CO2-rich inclusions, phenocrysts with the greatest fluid inclusion volumes will be selected for additional analysis. Gases will be extracted from batches of phenocrysts by laser fusion, then purified and fed into a mass spectrometer to measure their noble gas (helium, neon, argon, and xenon) isotopic compositions. By minimizing atmospheric contamination, this process will improve our ability to isotopically distinguish mantle components observed in ocean island basalts. In addition, the filling pressures of the fluid inclusions will be calculated based on manometric pressure readings. These results can be used to infer noble gas entrapment depths and provide a tool for linking isotopic results to specific stages of magma ascent.</AbstractNarration>
+    <MinAmdLetterDate>12/06/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/06/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650308</AwardID>
+    <Investigator>
+      <FirstName>Kenneth</FirstName>
+      <LastName>Farley</LastName>
+      <EmailAddress>farley@gps.caltech.edu</EmailAddress>
+      <StartDate>12/06/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>California Institute of Technology</Name>
+      <CityName>PASADENA</CityName>
+      <ZipCode>911250600</ZipCode>
+      <PhoneNumber>6263956219</PhoneNumber>
+      <StreetAddress>1200 E California Blvd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1573</Code>
+      <Text>PETROLOGY AND GEOCHEMISTRY</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

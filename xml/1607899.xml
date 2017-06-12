@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1607899</AwardID>
     <Investigator>
-      <FirstName>Jamie</FirstName>
-      <LastName>Hestekin</LastName>
-      <EmailAddress>jhesteki@uark.edu</EmailAddress>
-      <StartDate>03/10/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Isabel</FirstName>
       <LastName>Escobar</LastName>
       <EmailAddress>isabel.escobar@uky.edu</EmailAddress>
       <StartDate>03/10/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jamie</FirstName>
+      <LastName>Hestekin</LastName>
+      <EmailAddress>jhesteki@uark.edu</EmailAddress>
+      <StartDate>03/10/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Engineering Conferences International, Inc.</Name>
@@ -54,7 +54,7 @@
     </Institution>
     <ProgramElement>
       <Code>1179</Code>
-      <Text>Enviro Health &amp; Safety of Nano</Text>
+      <Text>Biol &amp; Envir Inter of Nano Mat</Text>
     </ProgramElement>
     <ProgramElement>
       <Code>1440</Code>

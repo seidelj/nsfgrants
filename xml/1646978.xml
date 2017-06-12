@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: Collaborative Research: Framing Learning for MOOC Student Success: Using Pre-Course Survey Interventions to Support Student Persistence and Performance in MOOCs</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>175243</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Stephanie August</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Completion rates in Massive Open Online Courses (MOOCs) are known to be notoriously low. Research has shown that the frame of mind that a student brings to a learning experience can have a profound impact on persistence and achievement. In a small-scale pilot study, the PIs have demonstrated that small, low-cost interventions administered at key academic transition points, such as the beginning of a new course, substantially improve student persistence and performance. This project will test these small, low-cost interventions at a large-scale. The project will take advantage of the large numbers of students registering for courses at HarvardX, MITx, and Stanford OpenEdX and will test the interventions using a heterogeneous collection of students. The results of this study will inform education policymakers and school administrators about the effectiveness and cost-effectiveness of these interventions. &lt;br/&gt;&lt;br/&gt;This project will address a set of linked research questions about choice architecture, the additive effects of diverse interventions, the heterogeneity of treatment effects across diverse courses and students, and the predictive power of student unstructured text produced in response to the interventions. A straight-forward analysis of average treatment effects across the individual intervention conditions and the combined condition will be used to analyze gains in student performance, persistence, and subsequent course registration. The study will pre-specify a limited number of theoretically-informed hypotheses about important covariates linked to heterogeneous treatment effects, and then conduct a broader post-hoc exploratory inquiry using multiple regression modeling to examine other treatment effects. Finally, student responses will be analyzed using text analysis pre-processing methods, such as stemming words and removing stop words, to create an n-gram feature matrix that will be examined using LASSO regularized logistic regression.</AbstractNarration>
+    <MinAmdLetterDate>12/02/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/02/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1646978</AwardID>
+    <Investigator>
+      <FirstName>Dustin</FirstName>
+      <LastName>Tingley</LastName>
+      <EmailAddress>dtingley@gov.harvard.edu</EmailAddress>
+      <StartDate>12/02/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Harvard University</Name>
+      <CityName>Cambridge</CityName>
+      <ZipCode>021385366</ZipCode>
+      <PhoneNumber>6174955501</PhoneNumber>
+      <StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1998</Code>
+      <Text>IUSE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8209</Code>
+      <Text>Improv Undergrad STEM Ed(IUSE)</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

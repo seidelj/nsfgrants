@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Catalyst Project: Modeling Count Data with the Conway-Maxwell-Poisson Distribution</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>185799</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Claudia M. Rankins</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Catalyst Projects provide support for Historically Black Colleges and Universities to work towards establishing research capacity of faculty to strengthen science, technology, engineering and mathematics undergraduate education and research. It is expected that the award will further the faculty member's research capability, improve research and teaching at the institution, and involve undergraduate students in research experiences. This project at North Carolina Central State University will investigate mathematical modeling with probability distributions and will provide an opportunity for undergraduate students to enhance their statistical knowledge through research experiences. The researcher has established a strong collaboration with faculty at Georgetown University.&lt;br/&gt;&lt;br/&gt;Count data arise in a variety of situations and are often modeled with a Poisson distribution. In many cases, however, the data do not satisfy the Poisson distribution's property of equal mean and variance. This project will examine the two-parameter Conway-Maxwell-Poisson (CMP) distribution that accounts for over-dispersion where the variance is greater than the mean and under-dispersion where the variance is less than the mean. The CMP distribution captures the Poisson, Bernoulli, and geometric distributions as special cases. The first goal of this project is to conduct a simulation study which compares properties of the CMP distribution to those of mixed Poisson probability distributions, such as the Poisson-lognormal, Poisson-Lindley and Poisson-inverse Gaussian, that have traditionally been used to model over-dispersed data. The second goal is to derive and develop inferential methods for a bivariate CMP distribution. To demonstrate the flexibility of the CMP distribution and its extensions, applications to real-world data will be considered. This research will expand the class of probability distributions that are available to model count data.</AbstractNarration>
+    <MinAmdLetterDate>04/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1700235</AwardID>
+    <Investigator>
+      <FirstName>Kimberly</FirstName>
+      <LastName>Weems</LastName>
+      <EmailAddress>ksweems@nccu.edu</EmailAddress>
+      <StartDate>04/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>North Carolina Central University</Name>
+      <CityName>Durham</CityName>
+      <ZipCode>277073129</ZipCode>
+      <PhoneNumber>9195307333</PhoneNumber>
+      <StreetAddress>1801 Fayetteville Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1594</Code>
+      <Text>HIST BLACK COLLEGES AND UNIV</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

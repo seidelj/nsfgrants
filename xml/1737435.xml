@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Workshop: Recent Advances and Future Research Directions in RF Technologies from MHz to THz; Honolulu, Hawaii, June 8th, 2017.</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2017</AwardExpirationDate>
+    <AwardAmount>9845</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07010000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jenshan Lin</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The IEEE International Microwave Symposium, sponsored by IEEE Microwave Theory and Techniques Society, is the annual flagship conference covering radio frequency (RF) technologies for communications and sensing from megahertz (MHz) to terahertz (THz) including microwave and millimeter-wave. This proposed workshop will be part of the 2017 IEEE International Microwave Symposium in Honolulu, Hawaii from June 4 to June 9, 2017. The workshop will review recent advances in RF communication and sensing technologies from MHz to THz, and discuss future research challenges and applications of these technologies. RF technologies are key elements of both wireless and wireline communication systems and networks, and are critical to the United States broadband communications infrastructures, satellite communications and Global Positioning System (GPS), as well as military radar and communication equipment. In addition, RF technologies are actively used for sensing and medical applications. While magnetic resonance imaging (MRI) operating in MHz range has been widely used, new millimeter-wave and THz medical imaging technologies are being developed. Based on the conference history, there are about 3,000 technical program attendees in various technical sessions. As part of the conference program, this workshop is expected to draw 100 participants from conference attendees. The workshop will start with the introduction of Communications, Circuits, and Sensing Systems (CCSS) programs in NSF Electrical, Communications and Cyber Systems (ECCS) Division, and include five invited presentations by recent NSF awardees in CCSS programs. The NSF grant will provide the support of workshop expenses. The presentations and discussions in this workshop will stimulate the exchange of ideas and research collaborations, and lead to future innovations and economic growth to benefit our nation.</AbstractNarration>
+    <MinAmdLetterDate>04/16/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/16/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1737435</AwardID>
+    <Investigator>
+      <FirstName>Yuanxun</FirstName>
+      <LastName>Wang</LastName>
+      <EmailAddress>ywang@ee.ucla.edu</EmailAddress>
+      <StartDate>04/16/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Los Angeles</Name>
+      <CityName>LOS ANGELES</CityName>
+      <ZipCode>900951406</ZipCode>
+      <PhoneNumber>3107940102</PhoneNumber>
+      <StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7564</Code>
+      <Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>105E</Code>
+      <Text>RF/Microwave &amp; mm-wave tech</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

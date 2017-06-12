@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Recombination and the Dynamics of Adaptation in Experimental Saccharomyces Cerevisiae (yeast) Populations</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>668987</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010207</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Colette St.Mary</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The vast majority of species, from viruses to complex multicellular organisms, engage in some form of exchange of genetic material between individuals as a component of reproduction. Biologists have long tried to explain why this form of reproduction is so widespread across nature despite substantial costs. One possibility is that mixing up genomes through recombination allows natural selection to act more efficiently. Yet, asexual reproduction should be more efficient: it avoids the costs of finding partners and mating, and allows individuals to pass all (rather than half) of their genetic material to their offspring. This research will test this hypothesis by comparing adaptation in sexual versus asexual yeast populations. In addition to these scientific goals, this work will involve the development and dissemination of curriculum integrating mathematics and biology education. &lt;br/&gt;&lt;br/&gt;Much recent theoretical attention has focused on the potential for recombination to speed adaptation by bringing together beneficial mutations that occur in different genetic backgrounds, alleviating competition and interference between them. Similarly, recombination can purge deleterious mutations from advantageous genetic backgrounds. However, experimental evidence for these effects is scarce. A few laboratory microbial evolution experiments have shown that recombination can indeed increase the rate of mean fitness increase in adapting populations, but until recently it has been impossible to directly observe the effects of recombination at the genotypic level. This research will quantify how recombination alters the sequence-level dynamics of adaptation in experimental populations of budding yeast, by combining a novel genetic system with high-throughput sequencing methods to characterize how recombination alters the dynamics and outcomes of genomic sequence evolution in laboratory budding yeast populations. This work will then track the long-term fate of sexual reproduction in direct competition with asexuals, to determine how and why sexual reproduction is favored or lost in adapting populations. This project will produce extensive data describing the rate, predictability, and genetic basis of adaptation in laboratory populations that will contribute to the advancement of the field.</AbstractNarration>
+    <MinAmdLetterDate>02/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655960</AwardID>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Desai</LastName>
+      <EmailAddress>mdesai@oeb.harvard.edu</EmailAddress>
+      <StartDate>02/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Harvard University</Name>
+      <CityName>Cambridge</CityName>
+      <ZipCode>021385366</ZipCode>
+      <PhoneNumber>6174955501</PhoneNumber>
+      <StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7378</Code>
+      <Text>EVOLUTIONARY GENETICS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Search-Based Interactive Software Refactoring Technology</AwardTitle>
+<AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to improve significantly the productivity of software developers in evolving large software systems. The proposed interactive refactoring Technology helps programmers to semi-automate the process of improving the quality of large-scale software projects by detecting, prioritizing and correcting design defects that affect the ease of both understanding and maintenance of the source code of software projects. In large-scale projects, programmers can spend at least 60% of their time in understanding the code. This interactive refactoring technology will significantly reduce that time which leads to higher productivity and much less software bugs. The proposed technology will allow programmers to meet high code quality standards when releasing a new software product and reduce software maintenance activities that can consume up to 90% of the total cost of a typical software project.&lt;br/&gt;&lt;br/&gt;This I-Corps project is to semi-automate the process of improving software quality by recommending refactoring changes, using computational search techniques, instead of the current manual refactoring tools support. Manual refactoring is error-prone, time consuming and not useful for radical refactoring that requires extensive application of changes to correct unhealthy code. This technology formalizes software refactoring as a dynamic interactive optimization framework that provides refactoring-centric interaction, enables refactoring and development to proceed in parallel and collects interactive information in a non-intrusive manner that can be used to inform dynamically the refactoring process. This technology recommends ways to make code quality easy to estimate, improve, evolve and reason about. The proposed refactoring technology has been successfully used by active programmers in both open source and industrial projects. Based on the high performance and low cost of the interactive refactoring technology, it may replace the current refactoring tools in the marketplace.</AbstractNarration>
+<MinAmdLetterDate>11/22/2016</MinAmdLetterDate>
+<MaxAmdLetterDate>11/22/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1661422</AwardID>
+<Investigator>
+<FirstName>Marouane</FirstName>
+<LastName>Kessentini</LastName>
+<EmailAddress>marouane@umich.edu</EmailAddress>
+<StartDate>11/22/2016</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

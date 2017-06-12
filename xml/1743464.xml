@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Enforcing genomic stability via encapsulation</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project will be to improve the efficiency with which cellulosic ethanol can be produced. Cellulosic ethanol is produced from agricultural waste products, like corn stalks, switchgrass, and wheat straw, rather than from corn like traditional ethanol. It is then used largely as a fuel additive, though other industries use ethanol on smaller scales. Improving cellulosic ethanol production is part of the United States' Renewable Fuel Standards Goals set in the Energy Independence and Security Act of 2007. These improvements are vital since the increased demand for ethanol from corn has contributed to rises in food prices.  In addition, cellulosic ethanol produces fewer greenhouse gases than corn ethanol production, and reduces pressure for water use and land change erosion. However, despite these advantages, the vast majority of ethanol produced in the US is from corn, simply because cellulosic ethanol is considerably more expensive to produce. The costs reductions from the process developed here will potentially be of considerable commercial value to existing cellulosic ethanol producers, as well as potentially to corn ethanol producers who may switch production methods if costs become comparable.&lt;br/&gt;&lt;br/&gt;This I-Corps project further develops a technology that stabilizes genomes of metabolically active yeast. A key step in cellulosic ethanol production, co-metabolism of five- and six-carbon sugars, can be achieved by yeast hybrids consisting of species that ferment one or the other carbon source. But yeast hybrids created by protoplast fusion are genetically unstable, being subject to rapid segregational loss of one or the other parental genome. Preliminary data indicate that genomic instability can be prevented by encapsulating hybrids in calcium alginate and can produce ethanol at near-theoretical yields for weeks on end. This technology has a wide variety of potential applications. It has already been used to study aging, and could be further used to improve plasmid retention in the production of diverse synthetic biology products, including insulin, anti-malarial drugs, and industrially important solvents and lubricants. Current research is focused on optimizing this method for cellulosic ethanol production, with plans in place to subsequently address these other markets.</AbstractNarration>
+<MinAmdLetterDate>05/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743464</AwardID>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Rosenzweig</LastName>
+<EmailAddress>Frank.Rosenzweig@biology.gatech.edu</EmailAddress>
+<StartDate>05/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

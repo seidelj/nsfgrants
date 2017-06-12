@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Towards Autonomously Generating Robot Behavior for Coordination with Humans -- Accounting for Effects on Human Actions</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>79633</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Reid Simmons</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Robots that interact, collaborate, and come in support of people are inevitable, from autonomous cars, to assistive devices, to collaborative industrial arms, to personal robots in the home. Interactions with people should be natural, fluent, and well-coordinated. The project aims to move from hand-designed strategies for interaction to algorithms that produce such strategies in a generalizable way, using models of human behavior and how a robot?s actions may affect people?s actions and perceptions of the robot. The project also addresses educational goals that augment this vision: enabling the next generations of students to define and solve robotics and AI problems through a combination of computational and human-centered perspectives.&lt;br/&gt;&lt;br/&gt;While robotics algorithms typically reason about the physical state of the world and how the robot can affect it in useful ways, an important criterion when interacting with people is how the actions affect them and their internal state: what they plan to do, what they think the robot will do, how much they trust the robot. The project will address this by developing planning algorithms that incorporate the internal state of the human agent that is not directly observable. Rather than treating the human as a physical (dynamic) obstacle that needs to be avoided, this project proposes a game-theoretic formulation of interaction, and introduces an approximation to it as an underactuated dynamical system: the robot has direct control over its actions, but its actions affect the human's actions, and so the robot indirectly influences what the human does. Preliminary results in a driving domain suggest that this improves robot efficiency and fluency of coordination with people.</AbstractNarration>
+    <MinAmdLetterDate>02/22/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/22/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652083</AwardID>
+    <Investigator>
+      <FirstName>Anca</FirstName>
+      <LastName>Dragan</LastName>
+      <EmailAddress>anca@berkeley.edu</EmailAddress>
+      <StartDate>02/22/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Berkeley</Name>
+      <CityName>BERKELEY</CityName>
+      <ZipCode>947045940</ZipCode>
+      <PhoneNumber>5106428109</PhoneNumber>
+      <StreetAddress>Sponsored Projects Office</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

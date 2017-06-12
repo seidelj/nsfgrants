@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Production of Jet Fuel from Biomass Derived Lignin</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is to deliver a price-competitive source of alternative jet fuel that will help meet growing worldwide demand while allowing the airline industry to achieve carbon-neutral growth. Demand for jet fuel is increasing rapidly driven by global economic growth. Usage is expected to rise from the current 80 billion gallons a year worldwide to more than 100 billion gallons by 2040. At the same time, prices are expected to increase and constraints in supply are likely to cause pricing volatility. Finally, concerns over greenhouse gas emissions could drive adoption of alternative fuels. All of these factors are creating a need for new fuel sources, for both commercial and military applications. This I-Corps project will focus on using waste lignin, the second most plentiful renewable carbon source behind cellulose, in a proprietary process to make jet fuel range hydrocarbons and chemicals to increase the flexibility of existing applications.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims to commercialize a process for biojet that converts waste lignin from cellulosic biomass refineries using a combination of catalyst and acidic zeolite to make relatively long-chain hydrocarbons. The current version of biorefineries undervalues lignin's potential to address the world's high quality liquid fuel requirements. Despite the potential, selective conversion of lignin has proven to be challenging. Processes that have been successful at breaking the lignin bonds have typically resulted in shorter chain monomers as opposed to the longer chain hydrocarbons needed for fuel. The surprising outcome of the process used here is a mix of hydrocarbons that are long-chain and can be made into nearly the right mix for jet fuel. Scaling this process and putting it into production alongside current biorefinery production facilities would significantly improve biomass conversion and improve the economics of biofuels and chemicals production.</AbstractNarration>
+    <MinAmdLetterDate>10/24/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/24/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1655505</AwardID>
+    <Investigator>
+      <FirstName>Bin</FirstName>
+      <LastName>Yang</LastName>
+      <EmailAddress>binyang@tricity.wsu.edu</EmailAddress>
+      <StartDate>10/24/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Washington State University</Name>
+      <CityName>PULLMAN</CityName>
+      <ZipCode>991641060</ZipCode>
+      <PhoneNumber>5093359661</PhoneNumber>
+      <StreetAddress>280 Lighty</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Washington</StateName>
+      <StateCode>WA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

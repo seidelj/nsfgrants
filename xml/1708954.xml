@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Quantum Phase Transitions And Many-Body Localization In Unconventional 1D Josephson Arrays</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>468768</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Sokol</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL ABSTRACT&lt;br/&gt;We live in the classical world which is built upon quantum mechanics. How does the fascinating complexity of classical behaviors emerge from the underlying quantum nature of our world? This research project addresses this fundamental question by designing the complex quantum systems made of superconductors (the so-called arrays of Josephson junctions) and exploring their behavior at ultra-low temperatures using the methods developed for the characterization of quantum bits. Realization of the research program is important for the nascent field of quantum superconducting electronics: the Josephson arrays offer novel exciting opportunities for building quantum bits with improved coherence.  The project supports the education of graduate students who enjoy broad exposure to the state-of-the-art tools of modern solid state research. The multi-component Educational and Outreach Program, an essential part of the project, is designed to develop innovative nanoscience curricula.&lt;br/&gt;&lt;br/&gt;TECHNICAL ABSTRACT&lt;br/&gt;This award supports experimental research on two fundamental problems of quantum mechanics of interacting quantum systems: the quantum phase transitions in one dimension, and the many-body localization in complex quantum systems isolated from the environment. To address these  phenomena,  novel arrays of nanoscale Josephson junctions are designed to emulate the range of quantum models. The objectives of the research program are to explore the emergence of novel symmetries near the quantum critical point and the dynamics of these novel systems using the microwave spectroscopic and time-domain techniques developed for the characterization of superconducting qubits at ultra-low temperatures. Realization of the research program is important for the broad field of quantum superconducting electronics.  In particular, the development of Josephson arrays with large kinetic inductance and minimal losses offers new functionality, such as fault-tolerant qubits and high-impedance isolation of quantum circuits.  The project supports the education of graduate students who enjoy broad exposure to the state-of-the-art tools of modern solid state research. The multi-component Educational and Outreach Program, an essential part of the project, is designed to develop innovative nanoscience curricula.</AbstractNarration>
+<MinAmdLetterDate>05/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1708954</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Gershenson</LastName>
+<EmailAddress>gersh@physics.rutgers.edu</EmailAddress>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lev</FirstName>
+<LastName>Ioffe</LastName>
+<EmailAddress>ioffe@physics.rutgers.edu</EmailAddress>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>Piscataway</CityName>
+<ZipCode>088543925</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>33 Knightsbridge Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

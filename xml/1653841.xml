@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Quantifying drought and vulnerability indicators for water security in a changing environment</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>505595</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Bruce K. Hamilton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>CBET 1653841 PI: Mishra, Ashok &lt;br/&gt;&lt;br/&gt;This project will create a new model for improving water sustainability under extreme droughts and introduce it to the scientific, social and policy communities. The model results will be distributed to user groups who are currently coping with water sustainability issues and will likely do so in the future. The project is anticipated to directly benefit regional stake holders to enable improved management of water resources during drought conditions, and also to assist federal agencies to forecast vulnerability to water stress in advance times that are relevant to stakeholders. The integrated model and approach will be tested in the Savannah River Basin, and it is anticipated that the methodology will be extendible to other parts of the country that witness frequent drought threats to water security.&lt;br/&gt;&lt;br/&gt;The goal is to evaluate water security in the context of drought extremes by addressing three research objectives. Specifically, the first two research objectives will focus on quantifying the drought-water security relationship by evaluating dependence structure, cascade behavior and vulnerability threshold, while the third objective is to apply the approach to improve decision making using seasonal forecast and stakeholder information. The research objectives will be tightly connected with a multidisciplinary education and research plan designed to provide solutions to current water insecurity problems.</AbstractNarration>
+    <MinAmdLetterDate>01/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653841</AwardID>
+    <Investigator>
+      <FirstName>Ashok</FirstName>
+      <LastName>Mishra</LastName>
+      <EmailAddress>ashokm@clemson.edu</EmailAddress>
+      <StartDate>01/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Clemson University</Name>
+      <CityName>CLEMSON</CityName>
+      <ZipCode>296340001</ZipCode>
+      <PhoneNumber>8646562424</PhoneNumber>
+      <StreetAddress>230 Kappa Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>South Carolina</StateName>
+      <StateCode>SC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7643</Code>
+      <Text>ENVIRONMENTAL SUSTAINABILITY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

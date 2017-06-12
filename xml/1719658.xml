@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Automated, Secure Homotopy Continuation and Parameter Space Exploration</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>249835</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland M. Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Systems of polynomial equations arise naturally in most scientific and engineering fields.  These systems describe the motion of robotic arms, the steady states of biochemical reactions, the location of radio transmitters based on sensor readings, and many other science and engineering scenarios that are rooted in physical laws and geometry.  The solution of polynomial systems was nearly impossible until roughly fifty years ago, and efficient methods are still being developed and analyzed.  The first broad direction of this project seeks to automate the tuning of some of these methods (so that non-experts can use them readily) and to incorporate more certainty in the computations.  The second broad direction seeks to further develop methods that are particularly useful in applications and to make progress on a few particular applications, namely, biochemical reaction networks, geolocation, and population genetics.  Three graduate students will be involved in the project.&lt;br/&gt;&lt;br/&gt;Homotopy continuation is a fundamental computational tool of numerical algebraic geometry, on which virtually all advanced algorithms within the field depend.  While there has been much theoretical and algorithmic development on this topic over the years, there are still at least three basic problems to be addressed.  First, ill-conditioning forces the use of expensive high-precision numerical computations and sometimes path failure.  Second, homotopy continuation depends on a number of numerical tolerances that are highly problem-dependent and difficult to adjust, especially for non-experts.  Third, numerical methods are inherently inexact, making them undesirable in some contexts.  The three projects of the first research direction seek to make progress on solving these problems.  Fundamental scientific and engineering questions frequently involve parameters, and their solution depends on the ability to understand and move around parameter spaces effectively.  The three projects of the second direction aim to further develop numerical homotopy methods for parameter space exploration.  The first project will advance our ability to collect useful data from Euclidean parameter spaces, particularly when the goal is to find points in parameter space at which a parameterized polynomial system has a special kind of solution set.  The second project aims to extend homotopy continuation to general algebraic parameter spaces.  The third project is an assortment of applications, as mentioned.</AbstractNarration>
+<MinAmdLetterDate>06/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719658</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Bates</LastName>
+<EmailAddress>bates@math.colostate.edu</EmailAddress>
+<StartDate>06/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

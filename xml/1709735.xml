@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>INFEWS: N/P/H20: From Antinutrients to Water Pollutants: Exploring the Behavior of Polyphosphate Anions in Aqueous Solutions</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>179140</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Papanikolas</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Phytate is a common molecule found in the husks of corn, as well as other plant materials. Its presence in food can interfere with the adsorption of nutrients in the digestive track of many animals, including pigs and chickens. As a result, proteins and vital metal ions present in the animals' feed are rendered unavailable, causing an enormous loss in efficiency in the meat products made from these animals. With the support from the Macromolecular, Supramolecular and Nanochemistry Program of the NSF Chemistry Division, Prof. Paul S. Cremer at the Pennsylvania State University is studying phytate and similar anions (molecules with extra negative charge) to understand their interactions with metal ions and to learn how these highly negatively charged species cause the precipitation of proteins and other large molecules from water solutions. This work not only helps shed light on how livestock feed can be used more efficiently, but also helps train graduate and undergraduate students in the chemical sciences. Simplified versions of these studies are being used as a springboard to update the curriculum and laboratories used to teach high school students about intermolecular forces and non-covalent interactions. &lt;br/&gt;&lt;br/&gt;The Cremer group is exploring interactions between phytate and divalent metal cations in aqueous solutions. The interactions between various cations and individual phosphate groups are often similar, but this changes markedly when metal ions interact simultaneously with multiple phosphate groups, where the ions can bridge adjacent phosphate moieties. The thermodynamics of ion binding is being correlated with information on the polyanion's hydration shell that can be obtained by Raman and vibrational sum frequency spectroscopy. Such studies are also being extended to understand how ion binding and hydration water structures affect the salting out of proteins and polypeptides from aqueous solutions as a function of pH, salt concentration, and specific cation identity. In addition to phytate, which contains six phosphate groups around an inositol ring, studies are being performed with one through five phosphate groups placed around the ring with specific stereochemistry. Measurements are also being made with phosphatidylinositol lipids in planar membrane formats to elucidate the difference in binding behavior of polyphosphate groups bound to surfaces and those in bulk solution.</AbstractNarration>
+<MinAmdLetterDate>05/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709735</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Cremer</LastName>
+<EmailAddress>psc11@psu.edu</EmailAddress>
+<StartDate>05/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004Z</Code>
+<Text>Innovations at the Nexus of Food-Energy-</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8248</Code>
+<Text>SusChEM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8676</Code>
+<Text>Critical Elements</Text>
+</ProgramReference>
+</Award>
+</rootTag>

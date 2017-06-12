@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: The Future of Modeling and Simulation for Internal Combustion Engines</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>6519</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Song-Charng Kong</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>1741545 Kokjohn&lt;br/&gt;&lt;br/&gt;This award is to partially support the workshop entitled, The Future of Modeling and Simulation for Internal Combustion Engines. The workshop will be hosted by the Engine Research Center, University of Wisconsin-Madison, June 14 to 15, 2017. Internal combustion engines will remain the primary power source for transportation in the foreseeable future. It is critical to advance the fundamental knowledge and capability to predict engine combustion performance. The objective of this workshop is to identify the future research directions in engine combustion modeling in order to help the industry meet future vehicle efficiency targets with low emissions.&lt;br/&gt;&lt;br/&gt;The transportation sector accounts for a significant portion of pollutant emissions to the environment. Throughout the world, pollutant emissions from engines are regulated by government agencies. These standards directly influence the engine design process, engine cost, and technology investment. Engine combustion is an extremely complex process, involving transient, multi-phase, chemically reacting flows. The ability to predict engine combustion performance is of great importance. This workshop will identify areas of deficiency in current modeling and simulation approaches and enable targeted efforts to address these deficiencies. The workshop will be attended by diverse stakeholders, including the industry, software companies, and academia.</AbstractNarration>
+<MinAmdLetterDate>06/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741545</AwardID>
+<Investigator>
+<FirstName>Sage</FirstName>
+<LastName>Kokjohn</LastName>
+<EmailAddress>kokjohn@wisc.edu</EmailAddress>
+<StartDate>06/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1407</Code>
+<Text>Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

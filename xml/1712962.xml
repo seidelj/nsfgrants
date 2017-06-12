@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planes of Change: New Statistical Methods for Complex Non-Standard Systems</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>117443</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gabor J. Szekely</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project aims to develop new statistical methodologies for analysis of systems in a variety of fields, such as personalized medicine, internet traffic, and economics, in which sharp threshold effects occur. Such sharp effects are typically experienced when a system is subjected to a sudden shock (e.g., the effect of political tension on stock prices, the effect of socio-political upheaval on social-media networks, or the effect of a medical intervention on disease progression). Such sharp changes are of critical interest to practitioners in these different fields as they typically have important implications for future decision-making. Statisticians model such sharp changes in time, for example, through what are called "change-points;" when the sharp change happens due to the effect of multiple variables simultaneously, such regions are described in terms of "change-planes." This project aims to develop novel methods of identifying such change-points or change-planes in problems where massive amounts of data -- which have now become the norm given advances in storage capabilities as well as collection mechanisms -- are available, and furthermore, the number of variables on which data are recorded is also very large. The performance of such methods will be carefully analyzed using mathematical theory as well as computer-generated simulations, and the methods will also be validated on real data coming from a variety of sources. It is anticipated that the results of the research will have impact in a variety of natural science as well as social science disciplines. &lt;br/&gt;&lt;br/&gt;The overarching theme of this project is to develop methodology and inference in a class of problems in which thresholds or boundaries (in one or multiple dimensions) that induce discontinuities arise naturally, either in the statistical model or in the estimation paradigm. The problems are studied both in the setting of massive amounts of data as well as in scenarios where the number of covariates can exceed the number of observations. The boundaries considered in one-dimension are change-points, while those in multiple dimensions are hyper-planes. The studied problems present two different kinds of complexities: (a) massive amounts of available data, and/or (b) large numbers of covariates relative to number of observations. In particular: (i) A number of ideas are developed for sampling intelligently from (retrospectively observed) long time-series to determine the locations of multiple change-points via procedures that require analyzing only a vanishing fraction of the entire series (thereby providing computational benefits), yet produce estimates that match, in precision, the standard estimates that would have been obtained analyzing the entire series. This idea is extended to regression/likelihood based models with covariates in multiple dimensions where the parameters of the regression or the likelihood are different on either side of a hyper-plane in covariate space. (ii) Problems involving hyper-planes, either in the structure of the model or in the criterion function to be optimized, with high-dimensional covariates are studied and new variable selection and estimation methods are investigated. The problems under consideration here are important from the perspective of applications but difficult because the high-dimensional paradigm has to be extended to intrinsically discontinuous settings, outside the (almost) square-root-n rate. Effective solutions to these problems will advance statistical methodology for these important classes of systems.</AbstractNarration>
+<MinAmdLetterDate>04/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712962</AwardID>
+<Investigator>
+<FirstName>Ya'acov</FirstName>
+<LastName>Ritov</LastName>
+<EmailAddress>yritov@umich.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Moulinath</FirstName>
+<LastName>Banerjee</LastName>
+<EmailAddress>moulib@umich.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

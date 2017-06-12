@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Taylor Expansion Approximations for Dynamic Programming Problems</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>349971</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Operational decision-making in service and manufacturing environments often requires that decisions respond to real-time changes in available resources and system characteristics. Because these operating environments are generally quite complex, capturing the dynamic nature of the system is often very difficult. This project aims to help the decision maker manage dynamic complexity by offering a structured approach to the approximation of dynamic decision problems. The results of this project will advance operational methods in a variety of domains, including healthcare operations and production and distribution of goods and services. The project will educate graduate students engaged in a diverse set of industry-related programs.&lt;br/&gt;&lt;br/&gt;This project will utilize Stein's method to create novel approximate solution techniques for stochastic dynamic programing (DP) problems. Stein's method has recently been used in the context of queueing models to bound the error when approximating the performance of a queuing system by that of a suitable Brownian model. This project will extend that approach to the study of controlled Markov processes, thus moving beyond performance analysis and into optimization. The research will result in a structured approximation approach that allows for explicit examination of the optimality gap between the true optimal solution (as captured by the Bellman equation) and the optimal solution of a Brownian control problem (as captured by a Hamilton-Jacobi-Bellman equation). If successful, the research will lead to computationally efficient approximation methods for DP problems with explicit guarantees of  "near optimality". The research will advance the mathematical understanding of the relationship between Markov decision processes and Brownian control problems beyond the context of queueing</AbstractNarration>
+<MinAmdLetterDate>05/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1662294</AwardID>
+<Investigator>
+<FirstName>Itai</FirstName>
+<LastName>Gurvich</LastName>
+<EmailAddress>gurvich@cornell.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

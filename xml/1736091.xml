@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Electroencephalography based assessment of cognitive function</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project arises from objective cognitive assessment aided by electroencephalography (EEG) technology. Stress, anxiety, irritability, lack of focus, emotional reactivity and problems with relationships amongst coworkers all impact productivity. Stress alone is responsible for up substantial healthcare costs in the U.S. Similarly, good mental health is associated with improved creativity, inspiration and mental clarity, improved relationships and reduced anxiety, improved collaboration and increased employee loyalty. This project aims to explore the commercial potential of including objective cognitive assessment as part of healthcare and wellness programs. Users would be monitored for signs of psychological distress and if detected, an intervention such as therapy, coaching or training would be suggested in order to minimize the impact of distress in its early stages. Objective cognitive assessment can have an impact on the overall productivity of employees and is likely to increase the mental capital of the organization.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on electroencephalography (EEG) aided assessment of cognitive function and builds on decades of cognitive evaluation research, recent developments of biomedical signal acquisition and processing, and expertise in statistical analyses, data science, and machine learning. The proposed technology expands prior developments of both research and clinical devices for recording brain activity in diverse settings including emergency rooms, sports fields, military and aerospace. The technology also directly builds on experience with quantifying cognitive state of a person in a wide range of settings such as exercise, cognitive processing, and communication. Furthermore, it builds on a decade long efforts in cognitive assessment in animal models of epilepsy, schizophrenia, intellectual disability and autism.</AbstractNarration>
+    <MinAmdLetterDate>03/29/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/29/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1736091</AwardID>
+    <Investigator>
+      <FirstName>Andre</FirstName>
+      <LastName>Fenton</LastName>
+      <EmailAddress>afenton@nyu.edu</EmailAddress>
+      <StartDate>03/29/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>New York University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100121019</ZipCode>
+      <PhoneNumber>2129982121</PhoneNumber>
+      <StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

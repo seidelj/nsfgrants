@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1606364</AwardID>
     <Investigator>
-      <FirstName>Joe</FirstName>
-      <LastName>Zhou</LastName>
-      <EmailAddress>zhoujj@cpchem.com</EmailAddress>
-      <StartDate>03/01/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Jeff</FirstName>
       <LastName>White</LastName>
       <EmailAddress>jeff.white@okstate.edu</EmailAddress>
       <StartDate>03/01/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Joe</FirstName>
+      <LastName>Zhou</LastName>
+      <EmailAddress>zhoujj@cpchem.com</EmailAddress>
+      <StartDate>03/01/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Oklahoma State University</Name>

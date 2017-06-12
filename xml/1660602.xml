@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>A Project to Prepare STEM Majors as Outstanding Certified Secondary Teachers for New York State</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2022</AwardExpirationDate>
+    <AwardAmount>643380</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thomas Higgins</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Track 1 Noyce project that will recruit and prepare at least 18 talented undergraduate STEM majors to pursue teaching careers in high-need local educational agencies. The project responds directly to the critical need for highly effective secondary STEM teachers in New York State and across the nation. It will help Le Moyne College increase the number of STEM majors in biology, chemistry, mathematics, and physics who become well-prepared secondary school science teachers, and will grow institutional culture to inspire the highest achieving students to pursue and obtain STEM teaching certification. Through proven recruitment practices, vigorous support for participants, and rigorous evaluation, the STAC program will generate new knowledge regarding discovering, studying, and promoting pathways to quality STEM teacher education. &lt;br/&gt;&lt;br/&gt;STAC will implement and evaluate evidence-based strategies for improving teacher preparation through hands-on research, STEM teacher circles, culturally relevant pedagogical approaches, classroom observation, internships, and teaching opportunities. It will also support the Le Moyne College Noyce Scholars by providing the preparation necessary to meet New York State requirements for teacher certification. Research and assessment will contribute to knowledge on the effects of the STAC activities on STEM teacher preparation. The STAC program will establish community initiatives (e.g., STEM teacher listserv and STEM teacher circles) to sustain a professional community throughout the region and support successful STEM teachers and their districts beyond the duration of the project.</AbstractNarration>
+    <MinAmdLetterDate>04/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660602</AwardID>
+    <Investigator>
+      <FirstName>Wen</FirstName>
+      <LastName>Ma</LastName>
+      <EmailAddress>maw@lemoyne.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jonathan</FirstName>
+      <LastName>Needleman</LastName>
+      <EmailAddress>needlejs@lemoyne.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Hilary</FirstName>
+      <LastName>McManus</LastName>
+      <EmailAddress>mcmanuha@lemoyne.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Le Moyne College</Name>
+      <CityName>Syracuse</CityName>
+      <ZipCode>132141301</ZipCode>
+      <PhoneNumber>3154454560</PhoneNumber>
+      <StreetAddress>Le Moyne Heights</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1795</Code>
+      <Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

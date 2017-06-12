@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Novel Semiconductor Warpage Measurement Device</AwardTitle>
+<AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2017</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to provide a novel approach to evaluate the reliability of IC chips and electronic devices. Forced by the shrinking size and miniaturization of electronic component and devices, products are being designed with little margin regarding reliability and performance, and the reliability issue has been a great challenge. Reliability must be evaluated to estimate its real field life span, and weak link must be assessed to identify the potential failure risk.  This novel approach could indicate the potential design risk through enhanced measurement input for full field deformation and provide better understanding of the interaction of different materials due to coefficient of thermal expansion miss match at elevated temperature.  This innovation will provide detailed information to identify potential failure risk and improve design, and therefore reduce immature failure of electronic component and devices, creating a strong value proposition for our customers. &lt;br/&gt;&lt;br/&gt;The proposed project will develop a measurement approach to achieve simultaneous measurements of warpage, coefficient of thermal expansion and strain on semiconductor devises. Warpage and coefficient of thermal expansion measurement above glass transition temperature are poorly measured due to the glassy state of materials. This project will develop an approach for accurate measurement using a novel image correlation technology through different media with changing indexes of refraction. This is a critical step for measurement of IC chip warpage and coefficient of thermal expansion through a glass viewing window at elevated temperatures. Experiments are proposed to validate the methodology in the application of high temperature warpage and material coefficient of thermal expansion measurement. The goal of this project is to improve warpage measurement resolution by 5 times, and solve material coefficient of thermal expansion measurement issue above glass transition, and realize warpage, coefficient of thermal expansion and strain measurement at the same time.</AbstractNarration>
+<MinAmdLetterDate>12/04/2016</MinAmdLetterDate>
+<MaxAmdLetterDate>12/04/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1647636</AwardID>
+<Investigator>
+<FirstName>Tong</FirstName>
+<LastName>Cui</LastName>
+<EmailAddress>soluda101@foxmail.com</EmailAddress>
+<StartDate>12/04/2016</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>C&amp;B Tech</Name>
+<CityName>San Diego</CityName>
+<ZipCode>921212751</ZipCode>
+<PhoneNumber>8586667361</PhoneNumber>
+<StreetAddress>6370 Lusk Blvd F-110</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

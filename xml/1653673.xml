@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Integration of photonic crystals and paper-based microfluidics for biosensing</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>500000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07010000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Usha Varshney</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Despite significant advances in diagnostic technologies, new tests are strongly demanded to identify a specific biological signature with high sensitivity and also provide quantitative information. Protein biomarkers circulating in human body fluids have a great potential to be used in the clinic to indicate diseases. To date, the poor sensitivity and high cost are still the key challenges prohibiting a practical point-of-care diagnostic test based on quantifying low-abundance disease biomarkers. In this project, the investigator aims to establish a low-cost, high sensitivity, multiplexed, rapid, and automated paradigm based upon a hybrid sensor in conjunction with a new readout modality that can perform biomarker analysis for disease diagnostics. The project focuses on investigating the paper-based nanophotonics that integrates photonic crystal devices and paper-based microfluidics, and on how to exploit the unique optical phenomena enabled by the photonic crystal for the biomarker detection with high sensitivity and specificity. In particular, the inexpensive integration of nanophotonic devices with paper substrates that can filter and transport body fluid samples is being addressed. The low-cost and disposable feature of the sensor is highly desirable in resource-limited settings, such as bedside test, remote military deployment, and developing countries. In addition, the sensor is ready to be modified for the detection of pathogenic species that causes server diseases, such as hepatitis, tuberculosis, and HIV. The project also includes education and outreach activities to foster undergraduate students' passion for research, engage underrepresented minority students, and bring science and technology to K-12 schools and agriculture communities in the Midwest.&lt;br/&gt;&lt;br/&gt;Rapid and accurate diagnostics is fundamental to healthcare, regardless of whether it is used for an individual patient with a disease, such as cancer, or for a worldwide epidemic. The research goal of this project is to establish a low-cost, high sensitivity, multiplexed, rapid, and automated biosensor based upon a hybrid device and a new readout modality that can perform biomarker analysis for clinical diagnostics. The transformative aspect of this project is to provide fundamental insights and evidence into the paper-photonic crystal hybrid system, which would enable the invention of new disposable. The novelty of the proposed works lies in two facts: i) the integration of photonic crystal and paper as a flow-through sensor platform and ii) the application of a photoacoustics-based readout scheme. In particular, the project will be carried out by combining numerical models and experiments according to the following three specific research objectives: i) integration of photonic crystal and paper-based microfluidics, ii) establishment of photonic crystal-enhanced photoacoustic detection for paper-based biosensor, and iii) multiplexed detection for in-vitro disease diagnostics. The project outcome will fill a significant gap between optofluidics and point-of-care tests by addressing challenging questions including: What are the fluid transport phenomena in a photonic crystal-paper hybrid system? How can photonic crystal structure enable ultrahigh sensitivity in paper-based biosensors? How can the photoacoustic detection improve the detection sensitivity and eliminate background noises from paper substrates?</AbstractNarration>
+    <MinAmdLetterDate>02/08/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/08/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1653673</AwardID>
+    <Investigator>
+      <FirstName>Meng</FirstName>
+      <LastName>Lu</LastName>
+      <EmailAddress>menglu@iastate.edu</EmailAddress>
+      <StartDate>02/08/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Iowa State University</Name>
+      <CityName>AMES</CityName>
+      <ZipCode>500112207</ZipCode>
+      <PhoneNumber>5152945225</PhoneNumber>
+      <StreetAddress>1138 Pearson</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Iowa</StateName>
+      <StateCode>IA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1517</Code>
+      <Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>108E</Code>
+      <Text>Bioelectronics</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

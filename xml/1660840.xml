@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Mapping Non-Response to Math Interventions</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>593414</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11090000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Research On Learning</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robert Ochsendorf</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Students who perform poorly in mathematics early in school are at risk for continuing to struggle in mathematics throughout elementary school and beyond. Recent empirical studies of targeted interventions for students at-risk in mathematics indicate overall effectiveness at positively impacting student outcomes. However, a subset of students fail to exhibit a positive response to generally efficacious intervention programs. To date limited research has investigated the behavioral, cognitive, and neural mechanisms underlying non-response to such mathematics interventions.&lt;br/&gt;&lt;br/&gt;The goal of this project is to identify patterns of performance on critical mathematics constructs, their underlying neural signatures, and achievement outcomes for on-track learners, at-risk controls, responders, and non-responders within the context of a random control trial of a research validated first grade math intervention. Functional magnetic resonance imaging will be utilized to explore patterns of imaging-based measures in concert with behavioral measures to facilitate an in depth exploration of critical early math processes and the behavioral and neural indicators thereof. Findings from the work will be utilized to generate hypotheses on critical math constructs as potential targets for supplemental intervention components to improve intervention outcomes for non-responders. Coupling neuroimaging and intervention research in an early mathematics context represents a unique contribution to the field, as it has not previously been attempted.&lt;br/&gt;&lt;br/&gt;This project is supported by NSF's EHR Core Research (ECR) program. The ECR program emphasizes fundamental STEM education research that generates foundational knowledge in the field. Investments are made in critical areas that are essential, broad and enduring: STEM learning and STEM learning environments, broadening participation in STEM, and STEM workforce development. The program supports the accumulation of robust evidence to inform efforts to understand, build theory to explain, and suggest intervention and innovations to address persistent challenges in STEM interest, education, learning and participation.</AbstractNarration>
+    <MinAmdLetterDate>02/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660840</AwardID>
+    <Investigator>
+      <FirstName>Benjamin</FirstName>
+      <LastName>Clarke</LastName>
+      <EmailAddress>clarkeb@uoregon.edu</EmailAddress>
+      <StartDate>02/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Hank</FirstName>
+      <LastName>Fien</LastName>
+      <EmailAddress>ffien@uoregon.edu</EmailAddress>
+      <StartDate>02/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Lina</FirstName>
+      <LastName>Shanley</LastName>
+      <EmailAddress>shanley2@uoregon.edu</EmailAddress>
+      <StartDate>02/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Fred</FirstName>
+      <LastName>Sabb</LastName>
+      <EmailAddress>fws@uoregon.edu</EmailAddress>
+      <StartDate>02/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Oregon Eugene</Name>
+      <CityName>Eugene</CityName>
+      <ZipCode>974035219</ZipCode>
+      <PhoneNumber>5413465131</PhoneNumber>
+      <StreetAddress>5219 UNIVERSITY OF OREGON</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Oregon</StateName>
+      <StateCode>OR</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7980</Code>
+      <Text>Core R&amp;D Programs</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1545</Code>
+      <Text>RES IN DISABILITIES ED</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8089</Code>
+      <Text>Understanding the Brain/Cognitive Scienc</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8091</Code>
+      <Text>BRAIN Initiative Res Support</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

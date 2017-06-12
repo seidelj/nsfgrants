@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: The Timing and Spatial Expression of the Bipolar Seesaw in Antarctica from Synchronized Ice Cores</AwardTitle>
+    <AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2020</AwardExpirationDate>
+    <AwardAmount>70270</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06090300</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of Polar Programs (OPP)</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Paul Cutler</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Buizert/1643394&lt;br/&gt;&lt;br/&gt;This award supports a project to use ice cores to study teleconnections between the northern hemisphere, tropics, and Antarctica during very abrupt climate events that occurred during the last ice age (from 70,000 to 11,000 years ago). The observations can be used to test scientific theories about the role of the westerly winds on atmospheric carbon dioxide. In a warming world, snow fall in Antarctica is expected to increase, which can reduce the Antarctic contribution to sea level rise, all else being equal. The study will investigate how snow fall changed in the past in response to changes in temperature and atmospheric circulation, which can help improve projections of future sea level rise. Antarctica is important for the future evolution of our planet in several ways; it has the largest inventory of land-based ice, equivalent to about 58 m of global sea level and currently contributes about 0.3 mm per year to global sea level rise, which is expected to increase in the future due to global warming. The oceans surrounding Antarctica help regulate the uptake of human-produced carbon dioxide. Shifts in the position and strength of the southern hemisphere westerly winds could change the amount of carbon dioxide that is absorbed by the ocean, which will influence the rate of global warming. The climate and winds near and over Antarctica are linked to the rest of our planet via so-called climatic teleconnections. This means that climate changes in remote places can influence the climate of Antarctica. Understanding how these climatic teleconnections work in both the ocean and atmosphere is an important goal of climate research. The funds will further contribute towards training of a postdoctoral researcher and an early-career researcher; outreach to public schools; and the communication of research findings to the general public via the media, local events, and a series of Wikipedia articles. &lt;br/&gt;&lt;br/&gt;The project will help to fully characterize the timing and spatial pattern of millennial-scale Antarctic climate change during the deglaciation and Dansgaard-Oeschger (DO) cycles using multiple synchronized Antarctic ice cores. The phasing of Antarctic climate change relative to Greenland DO events can distinguish between fast atmospheric teleconnections on sub-decadal timescales, and slow oceanic ones on centennial time scales. Preliminary work suggests that the spatial pattern of Antarctic change can fingerprint specific changes to the atmospheric circulation; in particular, the proposed work will clarify past movements of the Southern Hemisphere westerly winds during the DO cycle, which have been hypothesized. The project will help resolve a discrepancy between two previous seminal studies on the precise timing of interhemispheric coupling between ice cores in both hemispheres. The study will further provide state-of-the-art, internally-consistent ice core chronologies for all US Antarctic ice cores, as well as stratigraphic ties that can be used to integrate them into a next-generation Antarctic-wide ice core chronological framework. Combined with ice-flow modeling, these chronologies will be used for a continent-wide study of the relationship between ice sheet accumulation and temperature during the last deglaciation.</AbstractNarration>
+    <MinAmdLetterDate>12/19/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/19/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1643394</AwardID>
+    <Investigator>
+      <FirstName>Justin</FirstName>
+      <LastName>Wettstein</LastName>
+      <EmailAddress>justinw@coas.oregonstate.edu</EmailAddress>
+      <StartDate>12/19/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Christo</FirstName>
+      <LastName>Buizert</LastName>
+      <EmailAddress>buizertc@science.oregonstate.edu</EmailAddress>
+      <StartDate>12/19/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Oregon State University</Name>
+      <CityName>Corvallis</CityName>
+      <ZipCode>973318507</ZipCode>
+      <PhoneNumber>5417374933</PhoneNumber>
+      <StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Oregon</StateName>
+      <StateCode>OR</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5116</Code>
+      <Text>ANTARCTIC GLACIOLOGY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7754</Code>
+      <Text>CLIMATE VARIABILITY &amp; CHANGE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8013</Code>
+      <Text>High Risk/Reward Innovative Research</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

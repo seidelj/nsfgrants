@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: REU Site: Nano-NY</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>372997</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mary Poats</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Nanoscience and engineering represents a growing segment of research and employment in the United States. There are, however, limited opportunities for undergraduate students to have access to the advanced facilities and equipment used to fabricate, synthesize, and characterize nanoscale devices and the materials used to construct these next-generation devices. This collaborative Research Experiences for Undergraduates (REU) Site program, Collaborative Research: REU Site: Nano-NY, at Columbia University Nano Initiative (CNI) and City University of New York (CUNY) Advanced Science Research Center (ASRC) will provide hands-on research opportunities in nanoscience and engineering to a diverse cohort of undergraduates from institutions with limited STEM research. In addition to conducting lab research, students will have access to advanced instruments and training in use of laboratory characterization, including the use of two new cleanrooms, imaging facilities with advanced microscopes, and chemistry labs at the City University of New York and Columbia University. In addition to participation in a 9-week long research program in a lab, students will participate in weekly seminars and a tiered mentoring approach to promote the development of relationships among students, mentors, and faculty in addition to the development of technical and laboratory skills by the participants.&lt;br/&gt;&lt;br/&gt;Students in the program will participate in and contribute to cutting-edge nanoscience and engineering research activities and will have the opportunity to delve into a specific aspect of nanoscience; develop skills in identifying a research question / hypothesis and devising a research proposal; and conduct experiments using advanced instruments. Over the 9-week summer program, 12 students will learn new methods and tools, have opportunities to present their research, and become engaged as part of a community of inquiry. REU students will have opportunities to be fully engaged in cutting-edge nanoscience and engineering research activities. This research will encompass three thrusts - synthetic nanoassembly, interfaces and heterostructures, and nanophotonics, each an exciting frontier of science. The REU will introduce underserved undergraduates to the array of opportunities that are open to nanoscience graduates. By actively participating in the REU research community, students will learn new skills, build their research resumes, and acquire the confidence that will enable them to pursue STEM opportunities in graduate school or along other career paths. Recruitment and tiered mentoring will enhance opportunities for URM undergraduates to succeed in STEM. Moreover, the Columbia CNI / CUNY ASRC collaboration will provide students a unique opportunity to experience two different types of academic institutions - private and public. The program evaluation will include a post-REU longitudinal study that will allow the project team to track program successes and provide a means for continuing mentoring beyond the REU.</AbstractNarration>
+    <MinAmdLetterDate>03/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659808</AwardID>
+    <Investigator>
+      <FirstName>Ioannis</FirstName>
+      <LastName>Kymissis</LastName>
+      <EmailAddress>johnkym@ee.columbia.edu</EmailAddress>
+      <StartDate>03/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Columbia University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100276902</ZipCode>
+      <PhoneNumber>2128546851</PhoneNumber>
+      <StreetAddress>2960 Broadway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1360</Code>
+      <Text>HUMAN RESOURCES DEVELOPMENT</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>116E</Code>
+      <Text>RESEARCH EXP FOR UNDERGRADS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

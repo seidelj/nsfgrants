@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>DISSERTATION RESEARCH: Assessing multiple mechanisms of belowground enemy release for an invasive dune-building grass species</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2018</AwardExpirationDate>
+    <AwardAmount>18547</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010208</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Betsy Von Holle</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Understanding the reasons underlying invasion is critical for minimizing their negative impacts. Non-native plants may become invasive when they escape their natural enemies that control their growth in their native range, which is called the enemy release hypothesis. These natural enemies of plants occur both above- and belowground, though belowground enemies have generally been less well studied. Plant-parasitic nematodes live in soil, feed on plant roots, and can control the growth of native plants. However, little is known about feeding preferences of nematodes, and whether invasive plants escape damage due to these preferences. Additionally, plant-parasitic nematodes have a variety of different feeding strategies. Some have a general strategy of feeding on the root surface, while others have a more specialized approach of burrowing into the root tissue to feed inside the root. Differences in these feeding strategies may affect the strength of enemy release that invasive plants experience when they invade into new areas. This research will provide insights into invasive plants and their escape from natural enemies while providing valuable research opportunities to undergraduate students in an EPSCoR state. Because this work focuses on an invasive grass in the Great Lakes sand dunes, this work will contribute to a better understanding of Great Lakes coastal ecology and management.&lt;br/&gt;&lt;br/&gt; This project seeks to understand two factors related to enemy release - feeding preferences of plant-parasitic nematodes and plant growth responses to release from generalist and specialized enemies. Using invasion by Leymus arenarius (sand ryegrass) into Ammophila breviligulata (American beachgrass) dominated sand dunes as a model system, this research will address two basic questions: Do plant-parasitic nematodes exhibit feeding preferences for native plants over non-native plants? Do non-native plants experience greater release from specialist herbivores over generalist herbivores? These questions will be answered using a series of lab and greenhouse experiments. These results will reveal whether nematodes can detect plant roots, exhibit preferences for certain plants, and whether these preferences vary with feeding specialization. In a companion greenhouse experiment, plant responses to nematode feeding specialization and density will be assessed. Results from this work will broaden the understanding of the role belowground herbivores play in enemy release during non-native plant invasion.</AbstractNarration>
+    <MinAmdLetterDate>03/30/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/30/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1701084</AwardID>
+    <Investigator>
+      <FirstName>Sarah</FirstName>
+      <LastName>Emery</LastName>
+      <EmailAddress>sarah.emery@louisville.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Reid</LastName>
+      <EmailAddress>matthew.reid.1@louisville.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Louisville Research Foundation Inc</Name>
+      <CityName>Louisville</CityName>
+      <ZipCode>402021959</ZipCode>
+      <PhoneNumber>5028523788</PhoneNumber>
+      <StreetAddress>The Nucleus</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Kentucky</StateName>
+      <StateCode>KY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1182</Code>
+      <Text>POP &amp; COMMUNITY ECOL PROG</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: Holocene Precipitation Variability and its Relationship to Prehistoric Agriculture and Fires</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>15819</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Antoinette WinklerPrins</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This doctoral dissertation research project will use hydrogen isotope analyses of leaf waxes preserved in sediment cores from three lakes to reconstruct variations in precipitation across the Holocene. Comparing the precipitation data to paleo-ecological evidence in the same sediment cores and to local and regional archaeology will allow the researchers to examine the effects of past droughts on people, and the coupled effects of droughts and human activity on vegetation and fire. The research will contribute to a greater understanding of Holocene environmental change, and provide insight into how prehistoric civilizations responded to drought. The results of this research will be shared as case studies in classes offered by the investigators, including undergraduate courses, summer courses for high school students, and workshops on environmental change offered to middle and high school teachers. As a Doctoral Dissertation Research Improvement award, this award will provide support to enable a promising student, an Army veteran, to establish a strong independent research career.&lt;br/&gt;&lt;br/&gt;Reconstructing the causes of past environmental changes and the degree to which those changes are related to natural variations in the Earth system rather than human impacts requires a signal that is unaffected by anthropogenic landscape modification. Building accurate records of past droughts can be complicated by mixed environmental signals in areas that were heavily influenced by prehistoric people. Variations in hydrogen isotopes in lake sediments reflect changes in precipitation that are unaffected by human activity, and the technique can be used on sediments from lakes that lack biogenic carbonates. The researchers will study hydrogen isotopes in cores in hand from Costa Rica to answer three questions: 1) How do environmental histories differ across ecological zones and gradients of human disturbance?;(2) Can past variations in precipitation explain population shifts apparent in the archaeological record?; and (3) Does reduced precipitation drive fire at both upland and lowland sites, irrespective of human impact? The data developed in this project will contribute to archaeological research and improved fire management.</AbstractNarration>
+    <MinAmdLetterDate>02/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1657170</AwardID>
+    <Investigator>
+      <FirstName>Sally</FirstName>
+      <LastName>Horn</LastName>
+      <EmailAddress>shorn@utk.edu</EmailAddress>
+      <StartDate>02/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Kerr</LastName>
+      <EmailAddress>mkerr6@vols.utk.edu</EmailAddress>
+      <StartDate>02/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Tennessee Knoxville</Name>
+      <CityName>KNOXVILLE</CityName>
+      <ZipCode>379960003</ZipCode>
+      <PhoneNumber>8659743466</PhoneNumber>
+      <StreetAddress>1 CIRCLE PARK</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Tennessee</StateName>
+      <StateCode>TN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1352</Code>
+      <Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1304</Code>
+      <Text>EARTH SYSTEM HISTORY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1324</Code>
+      <Text>CLIMATE VARIABILITY AND PREDICTABILITY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1352</Code>
+      <Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9278</Code>
+      <Text>HUMAN DIMENSIONS OF GLOBAL CHANGE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

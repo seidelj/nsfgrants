@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for the 2017 Symposium on Usable Privacy and Security (SOUPS)</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>18000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Usable security and privacy is increasingly recognized as an important aspect of the cybersecurity field. The Symposium On Usable Privacy and Security (SOUPS) brings together an interdisciplinary group of researchers and practitioners in human computer interaction, security, and privacy. The program features technical papers, workshops and tutorials, a poster session, panels and invited talks, and discussion sessions. The 13th SOUPS will be held July 12-14, 2017, in Santa Clara CA. The funds support travel grants for students to attend the conference. SOUPS is the top conference devoted to usable privacy and security; by increasing student participation at the SOUPS conference, it may encourage more students to get involved in usable security research and pursue further graduate education and careers in this area.</AbstractNarration>
+<MinAmdLetterDate>05/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1734106</AwardID>
+<Investigator>
+<FirstName>Heather</FirstName>
+<LastName>Richter Lipford</LastName>
+<EmailAddress>Heather.Lipford@uncc.edu</EmailAddress>
+<StartDate>05/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Charlotte</Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress>9201 University City Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

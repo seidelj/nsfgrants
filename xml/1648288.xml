@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Painting and Overspray Capture System</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>224999</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Muralidharan S. Nair</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this project focused on an automated painting and overspray capture system is a significant increase in the health/safety of construction workers and profitability/production efficiency of the construction industry. Painting workers suffer from increased short and long term health problems due to exposure to paint fumes, including increased potential for certain cancers and cognitive damage. Construction projects are delayed due to injuries, lack of available skilled labor, and prohibitive costs. A system that can eliminate major health and safety risks by capturing harmful fumes as well as increase productivity by autonomously working alongside skilled workers will have a significant positive impact on the construction industry and workers. This innovation could open the construction industry up to myriads of intelligent, autonomous solutions that improve health, safety, quality, and production.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will work to establishing the technical and commercial feasibility of an automated system to paint and capture overspray. The SBIR project will focus on the device responsible for directing paint from the spraying apparatus to the surface to be painted and containment of overspray and harmful volatile organic compounds (VOCs). The health hazards of paint fumes and airborne VOCs are apparent through the increased risk of certain cancers and long-term cognitive damage suffered by painters. Additionally, painting at heights on ladders or other lift equipment presents a safety and efficiency problem. The research objectives of this SBIR are to develop a system that can effectively contain overspray/paint fumes while being small/lightweight enough for use by a robotic platform. Extensive flow analysis will be conducted with experimental geometry and flow visualization techniques on benchtop test rigs to evaluate geometry and flow characteristics. Successful benchtop test designs will be further tested on a robotic platform to evaluate system-level performance for paint quality, over spray containment, and airborne VOCs.</AbstractNarration>
+    <MinAmdLetterDate>12/10/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/10/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648288</AwardID>
+    <Investigator>
+      <FirstName>Sreenivas (Sid)</FirstName>
+      <LastName>Raman</LastName>
+      <EmailAddress>sid@ice-aec.com</EmailAddress>
+      <StartDate>12/10/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Integrated Construction Ent., Inc.</Name>
+      <CityName>Belleville</CityName>
+      <ZipCode>071093217</ZipCode>
+      <PhoneNumber>9734505161</PhoneNumber>
+      <StreetAddress>259 Stephens Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>6840</Code>
+      <Text>ROBOTICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8034</Code>
+      <Text>Hardware Components</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8035</Code>
+      <Text>Hardware Devices</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>HPCC</Code>
+      <Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

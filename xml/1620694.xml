@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1620694</AwardID>
     <Investigator>
-      <FirstName>Stephanie</FirstName>
-      <LastName>Glyptis</LastName>
-      <EmailAddress>sglyptis@awma.org</EmailAddress>
-      <StartDate>01/21/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Richard</FirstName>
       <LastName>Tropp</LastName>
       <EmailAddress>richard.tropp@dri.edu</EmailAddress>
       <StartDate>01/21/2016</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stephanie</FirstName>
+      <LastName>Glyptis</LastName>
+      <EmailAddress>sglyptis@awma.org</EmailAddress>
+      <StartDate>01/21/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
       <FirstName>Delbert</FirstName>

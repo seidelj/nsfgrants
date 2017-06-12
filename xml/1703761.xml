@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>PostDoctoral Research Fellowship</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2021</AwardExpirationDate>
+    <AwardAmount>150000</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Victor Roytburd</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award is made as part of the FY 2017 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist. The title of the project for this fellowship to Jennifer Crodelle is "A mathematical model for the role of gap junctions in the visual cortex." The host institution for the fellowship is Courant Institute, New York University, and the sponsoring scientist is David McLaughlin.</AbstractNarration>
+    <MinAmdLetterDate>03/20/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/20/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1703761</AwardID>
+    <Investigator>
+      <FirstName>Jennifer</FirstName>
+      <LastName>Crodelle</LastName>
+      <EmailAddress/>
+      <StartDate>03/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Crodelle Jennifer</Name>
+      <CityName>Troy</CityName>
+      <ZipCode>121805708</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress/>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>060Y</Code>
+      <Text>Workforce (MSPRF) MathSciPDFel</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9219</Code>
+      <Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

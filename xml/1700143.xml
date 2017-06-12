@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Applications of Descriptive Set Theory in Dynamical Systems</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>100078</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project studies dynamical systems from both statistical and qualitative points of view.  The research considers the feasibility of classifying the transformations that characterize dynamical evolution based on categorizing systems according to their numerical or algebraic properties. Previous work has shown that this is impossible for certain common types of concrete dynamical systems. Such negative results are of interest since they provide additional evidence of the immense diversity and complexity of transformations studied in ergodic theory and the theory of dynamical systems. The current project involves extending these impossibility results to other longstanding classification questions.&lt;br/&gt;&lt;br/&gt;The research involves applying techniques in descriptive set theory to questions in ergodic theory and dynamical systems. This investigation expands a long-term project in ergodic theory to explore questions in differentiable dynamical systems linked to classification problems. Specifically, the investigator and a collaborator showed that von Neumann's 1932 proposal to classify diffeomorphisms of compact manifolds up to measure isomorphism was impossible because the equivalence relation is not Borel (therefore impossible using inherently countable methods). This project aims to extend that result to show that the topological equivalence relation is intractable.</AbstractNarration>
+<MinAmdLetterDate>05/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700143</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Foreman</LastName>
+<EmailAddress>mforeman@math.uci.edu</EmailAddress>
+<StartDate>05/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1268</Code>
+<Text>FOUNDATIONS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>African American Workforce Development in Physics and Astronomy: A Workshop</AwardTitle>
+    <AwardEffectiveDate>01/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>99844</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11010000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Graduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Earnestine P. Easter</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The University of Southern California will conduct a workshop to identify and address issues that impact career pathways for African American students in physics and astronomy. Diverse experts from Pk-12, higher education, industry, and professional societies will convene to (1) identify evidence-based approaches to mitigating barriers to African American students? academic performance and workforce participation, (2) discuss strategies for more rigorous, third-party evaluations of programs or activities designed to increase the representation of African Americans in physics and astronomy, and (3) propose research topics focused specifically on underrepresentation in the physics and astronomy workforce. The two-day workshop coincide with the annual meeting of the National Society of Black Physicists and will employ a ?strengths-based, pathway model? approach to discuss an action-oriented, systematic, data-driven strategy to broaden the participation of African Americans in physics and astronomy. The workshop will result in knowledge that can be used by various stakeholder communities, including community colleges, to design effective interventions to reverse the negative trends in physics and astronomy. It also will catalyze collaborations to implement innovations to broaden participation in those disciplines.</AbstractNarration>
+    <MinAmdLetterDate>11/02/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/02/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1663852</AwardID>
+    <Investigator>
+      <FirstName>Darnell</FirstName>
+      <LastName>Cole</LastName>
+      <EmailAddress>darnellc@usc.edu</EmailAddress>
+      <StartDate>11/02/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Slaughter</LastName>
+      <EmailAddress>jslaught@usc.edu</EmailAddress>
+      <StartDate>11/02/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Southern California</Name>
+      <CityName>Los Angeles</CityName>
+      <ZipCode>900890001</ZipCode>
+      <PhoneNumber>2137407762</PhoneNumber>
+      <StreetAddress>University Park</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7980</Code>
+      <Text>Core R&amp;D Programs</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8816</Code>
+      <Text>Workforce Development</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

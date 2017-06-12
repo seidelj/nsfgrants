@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Conference/Workshop: Trimester on Model Theory, Combinatorics, and Valued Fields; Spring, 2018; Paris, France</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>49100</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the participation of mathematicians based in the United States in the program "Model Theory, Combinatorics, and Valued Fields" at the Insitut Henri Poincare during the period 8 January 2018 to 6 April 2018.    The program includes four specialized week-long conferences, "Model Theory, Combinatorics, and Valued Fields" at CIRM 8 - 12 January 2018; "Model Theory and Combinatorics" at IHP 29 January 2018 - 2 February 2018; "Model Theory and Valued Fields" at IHP 5 - 9 March 2018; and "Model Theory and Applications" at IHP 26 - 30 March 2018.   &lt;br/&gt;&lt;br/&gt;The main themes of this program are model theory and its applications to combinatorics (including such topics as additive combinatorics, variations of the Szemeredi regularity and density theorems, Vapnik-Chervonenkis theory, NIP theories and tame structures), model theory of valued fields (including such topics as henselian fields, motivic integration, Berkovich spaces, and transseries), and applications of model theory in geometry, analysis and number theory.&lt;br/&gt;&lt;br/&gt;Details about the program may be found at http://modvac18.math.ens.fr/ .</AbstractNarration>
+<MinAmdLetterDate>06/06/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/06/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744167</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Scanlon</LastName>
+<EmailAddress>scanlon@math.berkeley.edu</EmailAddress>
+<StartDate>06/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1268</Code>
+<Text>FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

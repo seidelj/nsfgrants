@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Integrated Computational and Experimental (ICE) Research Experiences for Undergraduates (REU) at North Carolina State University</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2020</AwardExpirationDate>
+    <AwardAmount>268302</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Michelle Bushey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award from the Division of Chemistry at the National Science Foundation supports a Research Experiences for Undergraduates (REU) site led by Professors Elon A. Ison and Elena Jakubikova at North Carolina State University (NCSU). The primary focus of this REU site is to expose students from primarily undergraduate institutions (PUIs) to one of many possible independent research topics that combine experimental techniques and computational methods. At the same time, students are enabled to make more informed career and graduate or professional school choices. Upon program completion, students are better prepared to achieve a high level of success in their chosen pathways. Recruiting efforts include a series of strategies to recruit students from underrepresented groups, women, and first generation college students primarily in the Southeast and Middle Atlantic region, as well as from the University of Puerto Rico. &lt;br/&gt;&lt;br/&gt;Recent advances in computing have enabled computational methods to become an important tool for experimental groups, yet many undergraduates are not positioned to take advantage of this valuable resource. This site is designed to take advantage of the computational facilities at NCSU. The students are engaged in projects that utilize computational methods to support, complement, and ultimately drive experimental research. Students are exposed to career opportunities in non-academic settings in the Research Triangle Park area. They also actively participate in social and professional activities provided on campus to encourage interactions with other undergraduates and REU programs at NCSU. In addition, there is component that involves the training of local high school teachers.</AbstractNarration>
+    <MinAmdLetterDate>03/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659690</AwardID>
+    <Investigator>
+      <FirstName>Elon</FirstName>
+      <LastName>Ison</LastName>
+      <EmailAddress>eaison@ncsu.edu</EmailAddress>
+      <StartDate>03/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Elena</FirstName>
+      <LastName>Jakubikova</LastName>
+      <EmailAddress>ejakubi@ncsu.edu</EmailAddress>
+      <StartDate>03/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>North Carolina State University</Name>
+      <CityName>RALEIGH</CityName>
+      <ZipCode>276957514</ZipCode>
+      <PhoneNumber>9195152444</PhoneNumber>
+      <StreetAddress>CAMPUS BOX 7514</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1986</Code>
+      <Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9263</Code>
+      <Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7218</Code>
+      <Text>RET SUPPLEMENTS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

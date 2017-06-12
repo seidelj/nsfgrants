@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Impact of Stellar structure on Core-collapse Supernovae and their Ejecta</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>15120</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Core-collapse supernovae (CCSN) are direct probes of stellar evolution and the dominant producers of heavy elements. Significant advancement in our understanding of the CCSN mechanism has occurred in the last decade, highlighted by the understanding that the CCSN problem involves the complex interaction of many physical inputs that can only be fully considered in three-dimensional (3D) simulations. The number of 3D simulations, which include sufficient realistic physics, that have been completed is still small and the simulations are generally under-resolved. Recent observational surveys have greatly increased the number of well observed CCSN and identified many of the pre-supernova stars, establishing a more direct relationship between the characteristics and the details of the explosion.&lt;br/&gt;&lt;br/&gt;This project will survey the range of the stellar mass of CCSN progenitors using the state-of-the-art CCSN code Chimera on the Blue Waters system to understand how the variations in pre-supernova structure affect the explosive outcomes. The simulations will begin from progenitor stars that span the range of stellar masses from the lightest to heaviest stars that might explode. The progenitor star models will be from the first generation of stars formed from the primordial gas of the Big Bang as there exists a class of second-generation stars contaminated by only the ejecta of first-generation supernovae that offer a unique opportunity to measure the ejected products of individual CCSN. This choice offers an important contrast to prior studies which have focused on metal-rich stars. The project will compute five 3D simulations over the course of 2 years with 1-degree resolution. This surpasses the resolution of any current self-consistent, full-physics CCSN simulation.&lt;br/&gt;&lt;br/&gt;The broader impacts of the project include the engagement of local and visiting students (graduate and undergraduate) and post-docs, providing training in both astrophysics and high-performance computing that our students and post-docs carry with them to later jobs in academia and industry.  The project will also make frequent public lectures on supernova-related topics to enhance public understanding.</AbstractNarration>
+<MinAmdLetterDate>05/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713750</AwardID>
+<Investigator>
+<FirstName>Anthony</FirstName>
+<LastName>Mezzacappa</LastName>
+<EmailAddress>mezz@tennessee.edu</EmailAddress>
+<StartDate>05/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>W. Raphael</FirstName>
+<LastName>Hix</LastName>
+<EmailAddress>raph@utk.edu</EmailAddress>
+<StartDate>05/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>O. E. Bronson</FirstName>
+<LastName>Messer</LastName>
+<EmailAddress>bmesser@utk.edu</EmailAddress>
+<StartDate>05/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Lentz</LastName>
+<EmailAddress>elentz@utk.edu</EmailAddress>
+<StartDate>05/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960003</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1 CIRCLE PARK</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>PETASCALE - TRACK 1</Text>
+</ProgramElement>
+</Award>
+</rootTag>

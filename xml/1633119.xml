@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>EAGER: Cybermanufacturing: Design Tools for Nanofactories with Robust Millimetric Assemblers</AwardTitle>
     <AwardEffectiveDate>01/01/2016</AwardEffectiveDate>
-    <AwardExpirationDate>02/28/2017</AwardExpirationDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
     <AwardAmount>149948</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -19,7 +19,7 @@
       </Division>
     </Organization>
     <ProgramOfficer>
-      <SignBlockName>Gregory Chirikjian</SignBlockName>
+      <SignBlockName>Reid Simmons</SignBlockName>
     </ProgramOfficer>
     <AbstractNarration>In this EArly-concept Grant for Exploratory Research (EAGER) project, the team conducts research leading to software design tools for automated and reconfigurable robotic systems that manufacture at the nano scale. They define these systems as Wafer-Scale Nanofactories.&lt;br/&gt;&lt;br/&gt;The key ingredient in realizing this vision is full automation of the production of millimeter scale robots, and the ability to install and reliably operate a few hundred such robots on the nanofactory wafer. Before physically building the nanofactory, users will design and optimize its layout using assemblable building blocks through a novel software design tool - NanoLRM. This tool utilizes Lean Robotic Micromanufacturing (LRM) principles, through which tradeoffs related to resource allocation, precision requirements, production yield, rate and cost can be judiciously studied. Specifically, the following work is part of this project: modelling assembly, motion, and processes uncertainties using interval analysis, to select and simulate precision-based planners and controllers in the nanofactory, and employ parametric optimization tools for cost, yield and production rate trade-off studies.</AbstractNarration>
     <MinAmdLetterDate>02/23/2016</MinAmdLetterDate>

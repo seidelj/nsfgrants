@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Negotiation and Communication Skills for Female Engineers and Faculty; Seattle, Washington</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>14569</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Irina Dolinskaya</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will support a workshop to improve negotiation and communication skills for female professionals attending the 2017 American Control Conference, a premier scientific and engineering conference dedicated to the advancement of control theory and practice. The intended outcome of the workshop is to foster the professional growth of female mathematicians, scientists, and engineers working, so that their contributions are fully integrated into the advancement of this field.&lt;br/&gt;&lt;br/&gt;The purpose of this workshop is mentoring the new generation of scientists with the focus on negotiation and communication skills. The workshop is an initiative of the "Women in Control" (WiC) and COACh programs. The half-day workshop will incorporate case studies and role-playing exercises in order to allow early-career academics to improve their communication skills.</AbstractNarration>
+<MinAmdLetterDate>05/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743170</AwardID>
+<Investigator>
+<FirstName>Verica</FirstName>
+<LastName>Radisavljevic-Gajic</LastName>
+<EmailAddress>verica.gajic@villanova.edu</EmailAddress>
+<StartDate>05/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Villanova University</Name>
+<CityName>Villanova</CityName>
+<ZipCode>190851676</ZipCode>
+<PhoneNumber>6105196000</PhoneNumber>
+<StreetAddress>800 Lancaster Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

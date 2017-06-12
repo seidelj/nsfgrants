@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Understanding PhD Career Pathways in STEM</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2022</AwardExpirationDate>
+    <AwardAmount>1338382</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11010000</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Graduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Earnestine P. Easter</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Council of Graduate Schools will collect and analyze detailed quantitative data of STEM doctoral students and alumni at different phases of their careers to determine if those who pursue academic positions have fundamentally different career progression, values, or work responsibilities compared to those who seek and hold nonacademic jobs. The project will track career pathways for alumni cohorts three, eight, and 15 years from PhD degree award from 15 STEM doctoral granting institutions to trace changing employment within academic sector, transitions from academic to nonacademic jobs, and vice versa. The study also will examine differences by institutional context, field of study, and sociodemographic characteristics such as race, gender, and parental educational attainment. The research will provide a better understanding of the relationship among STEM doctoral training, professional development opportunities, and subsequent careers. The findings will inform STEM workforce development policy and practice while building the capacity for institutions to systematically collect their own data that can inform continuous program improvement, particularly for underrepresented students who are more likely to choose nonacademic careers. This project is supported by the Education and Human Resources Core Research Program, which funds fundamental research in STEM learning and learning environments, broadening participation in STEM, and STEM workforce development. &lt;br/&gt;&lt;br/&gt;Using the career anchors theory, the researchers will analyze the data to define the full scope of occupational outcomes and career progression of STEM doctoral alumni. The study will focus on two major research questions and test the hypothesis that the boundaries between academic and nonacademic jobs are less significant or more fluid than is often assumed: (1) Are there substantial differences between academic and nonacademic careers for STEM PhD holders? 2) Is the academic/nonacademic distinction a meaningful one in a 21st century STEM professional workforce? The approximately 6,000 student and alumni surveys will be administered in three waves and capture information on employment and occupational preferences, employment and occupational outcomes, participation in STEM professional development programs, and other observable characteristics, including gender, race/ethnicity, age, employment and education history, and parental education level. Analyses of variance (ANOVA) and t-tests will be performed for differences by student characteristics as well as institutional and program contexts.</AbstractNarration>
+    <MinAmdLetterDate>03/17/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/17/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1661272</AwardID>
+    <Investigator>
+      <FirstName>Julia</FirstName>
+      <LastName>Kent</LastName>
+      <EmailAddress>jkent@cgs.nche.edu</EmailAddress>
+      <StartDate>03/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Suzanne</FirstName>
+      <LastName>Ortega</LastName>
+      <EmailAddress>sortega@cgs.nche.edu</EmailAddress>
+      <StartDate>03/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Maureen</FirstName>
+      <LastName>McCarthy</LastName>
+      <EmailAddress>mmccarthy@cgs.nche.edu</EmailAddress>
+      <StartDate>03/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Hironao</FirstName>
+      <LastName>Okahana</LastName>
+      <EmailAddress>hokahana@cgs.nche.edu</EmailAddress>
+      <StartDate>03/17/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Council of Graduate Schools</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200361146</ZipCode>
+      <PhoneNumber>2022233791</PhoneNumber>
+      <StreetAddress>1 Dupont Circle NW</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7980</Code>
+      <Text>Core R&amp;D Programs</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>8816</Code>
+      <Text>Workforce Development</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

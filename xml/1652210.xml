@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Perceptually Guided Hand Motion Synthesis</AwardTitle>
+<AwardEffectiveDate>02/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardAmount>109459</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim P. Glinert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research will explore ways to automatically synthesize hand and finger animation for virtual characters that exploit human perception as an inherent part of the algorithm.   In recent years, character animation has taken tremendous strides towards realistic virtual agents, with increasingly better solutions for body motion capture, for achieving highly realistic facial animation, and for simulating cloth and hair.  With these key components in place, the need to create plausible hand and finger motions has become important because these play a crucial role in communicating information while also allowing us to conduct basic tasks and to handle complex tools.  But the differences in size and complexity of hand motions compared to body motions make it difficult to capture or synthesize both at the same time.  Therefore, finger motions are typically still animated manually, which is a cumbersome process.  Taking advantage of perceptual findings could enable the creation of new algorithms to accomplish this task (e.g., by suggesting new methods and by aiding in algorithm parameter adjustment).  The ultimate goal of this research is to merge character animation and motion perception into an interdisciplinary field that yields new insights and approaches to finger and hand movement synthesis as well as a better understanding of how we communicate.    If successful, the work will significantly advance the way we design algorithms to bring virtual characters to life, and project outcomes will have broad impact not only in computer graphics but also in applications such as virtual reality, robotics and prosthetics.  The project includes integrated educational and outreach activities for K-12, undergraduate, and graduate students.  &lt;br/&gt;&lt;br/&gt;This research will initiate a fundamental transformation of how we design algorithms for character animation by coupling perceptual experiments with computer animation algorithm development for hand and finger motion synthesis.  Several approaches and devices have been suggested for hand and finger animation, each with their own drawbacks. Some of these approaches show promise and could be improved or combined, but the options are many and a more systematic approach is required.  This work will focus on two applications: data-driven hand motion synthesis for virtual characters, and hand motions for interaction and communication in virtual reality.  The plan is to develop an algorithm for hand motion synthesis based on segment and pose matching, on perceptual insights on the relevance of finger poses and dynamics, and on the perception of collisions, to support real-time interaction in virtual reality.</AbstractNarration>
+<MinAmdLetterDate>01/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1652210</AwardID>
+<Investigator>
+<FirstName>Sophie</FirstName>
+<LastName>Joerg</LastName>
+<EmailAddress>sjoerg@clemson.edu</EmailAddress>
+<StartDate>01/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>230 Kappa Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

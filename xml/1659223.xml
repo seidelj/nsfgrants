@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Chemistry of Materials for Renewable Energy</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>329998</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Michelle Bushey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This REU site is supported by both the Division of Chemistry in the Mathematical and Physical Sciences Directorate, and the Engineering Directorate at the National Science Foundation. Dr. Andrew Greenberg, Professor Robert Hamers, and colleagues at the University of Wisconsin-Madison host the program entitled REU Site: Chemistry of Materials for Renewable Energy, (CMRE). This program supports a 10 week summer research experiences for 11 undergraduate students annually for three years. Students conduct individual research projects focused on chemistry and chemical engineering research applied to problems in renewable energy. Additionally, students receive professional development training in science and engineering communication. The diverse student cohort participating in research at this site is well-prepared for graduate school, and eventual employment as part of the country's technical workforce.&lt;br/&gt;&lt;br/&gt;Individual research projects include the development of new catalysts and materials for the conversion of light or chemical energy into usable electrical or mechanical energy. The CMRE REU program helps students to strengthen their written and oral communication skills through communication training, proposal presentations, mid-experience report writing, and poster presentations. To ensure proper mentoring and development of CMRE REU students, this project includes a mentoring workshop for graduate students, post-doctoral fellows, and faculty working directly with the REU Program.</AbstractNarration>
+    <MinAmdLetterDate>03/02/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/02/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659223</AwardID>
+    <Investigator>
+      <FirstName>Robert</FirstName>
+      <LastName>Hamers</LastName>
+      <EmailAddress>rjhamers@wisc.edu</EmailAddress>
+      <StartDate>03/02/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Andrew</FirstName>
+      <LastName>Greenberg</LastName>
+      <EmailAddress>aegreenb@engr.wisc.edu</EmailAddress>
+      <StartDate>03/02/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Wisconsin-Madison</Name>
+      <CityName>MADISON</CityName>
+      <ZipCode>537151218</ZipCode>
+      <PhoneNumber>6082623822</PhoneNumber>
+      <StreetAddress>21 North Park Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Wisconsin</StateName>
+      <StateCode>WI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1986</Code>
+      <Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1360</Code>
+      <Text>HUMAN RESOURCES DEVELOPMENT</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>116E</Code>
+      <Text>RESEARCH EXP FOR UNDERGRADS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7237</Code>
+      <Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8007</Code>
+      <Text>BioMaPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8396</Code>
+      <Text>Clean Energy Technology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8397</Code>
+      <Text>Hydrogen Storage or Generation</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8399</Code>
+      <Text>Energy Storage or Transmission</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8604</Code>
+      <Text>Fuel Cells</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8609</Code>
+      <Text>Other Energy Research</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

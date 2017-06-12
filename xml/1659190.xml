@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SUNFEST: Summer Undergraduate Research in Sensor Technologies</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>381244</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mary Poats</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This three year renewal Research Experiences for Undergraduates (REU) Site Program, SUNFEST: Summer Undergraduate Research in Sensor Technologies, at the University of Pennsylvania, will offer a diverse cohort of students from underrepresented groups who have limited opportunities for STEM-oriented research the opportunity to work on research projects involving sensor technologies with the goal to develop new materials and devices. Topics include sensor phenomena, modeling, materials, nano- and micro-technology, sensors for biomedical applications, sensory data processing and sensor systems for robotics. Sensor technology, which acts as a common intellectual focus and which addresses "real-life" applications, can have a huge scientific impact that can benefit society and the environment. The program will also serve as an intellectual hub for others' involvement, such as high school students from city high schools and their teachers. The SUNFEST program will act as a catalyst for broader involvement and a supportive environment for meaningful participation in scientific communities. &lt;br/&gt;&lt;br/&gt;Over 11 summer weeks, the University of Pennsylvania will host 10 undergraduate students who will be involved in high quality, cutting-edge research projects related to sensor technology. By working on a meaningful research project of their own in a dynamic and supportive environment, students will contribute to academically-based discovery that may lead to better devices and systems for medical, robotics, communications, environmental, energy and surveillance applications. To foster students' development as future researchers, they will participate in weekly group meetings and seminars in their labs. In addition, the REU offers enhancement activities, include workshops on writing proposals and technical reports, responsible conduct of research, applying to graduate school, and effective oral presentations.</AbstractNarration>
+    <MinAmdLetterDate>03/01/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/01/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659190</AwardID>
+    <Investigator>
+      <FirstName>Jan</FirstName>
+      <LastName>Van der Spiegel</LastName>
+      <EmailAddress>jan@ee.upenn.edu</EmailAddress>
+      <StartDate>03/01/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Pennsylvania</Name>
+      <CityName>Philadelphia</CityName>
+      <ZipCode>191046205</ZipCode>
+      <PhoneNumber>2158987293</PhoneNumber>
+      <StreetAddress>Research Services</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1360</Code>
+      <Text>HUMAN RESOURCES DEVELOPMENT</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>116E</Code>
+      <Text>RESEARCH EXP FOR UNDERGRADS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

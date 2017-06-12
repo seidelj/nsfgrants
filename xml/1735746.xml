@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Workshop: 2017 NSF Proposal Writing Workshop; Los Angeles, California; June 4, 2017</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>23952</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven R. Schmid</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>An NSF proposal writing workshop will be held on June 4, 2017, at the University of Southern California. The workshop will be collocated with the 45th SME North American Manufacturing Research Conference (NAMRC) and the ASME Manufacturing Science and Engineering Conference (MSEC 2017). The workshop aims to aid future NSF proposal submitters in communicating clear research objectives and improving proposal quality. Interactions during the workshop will help build meaningful collaborations. This will positively affect the attendees, academic career and, subsequently, will help develop the nation's human resources. Additionally, when proposals are well written, the reviews tend to be more consistent and NSF panel meetings are more efficient.&lt;br/&gt;&lt;br/&gt;Major activities of the workshop include: presentations by NSF program directors, breakout sessions to discuss example research objectives, a group question/answer period, and a conclusions session. Professors and graduate students from across the US will be invited to attend the workshop. Participants will learn guidelines for writing a quality NSF proposal with an emphasis on the research objective.</AbstractNarration>
+    <MinAmdLetterDate>03/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1735746</AwardID>
+    <Investigator>
+      <FirstName>Tony</FirstName>
+      <LastName>Schmitz</LastName>
+      <EmailAddress>tony.schmitz@uncc.edu</EmailAddress>
+      <StartDate>03/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of North Carolina at Charlotte</Name>
+      <CityName>CHARLOTTE</CityName>
+      <ZipCode>282230001</ZipCode>
+      <PhoneNumber>7046871888</PhoneNumber>
+      <StreetAddress>9201 University City Boulevard</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1468</Code>
+      <Text>Manufacturing Machines &amp; Equip</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>082E</Code>
+      <Text>MFG MACHINES &amp; METROLOGY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>083E</Code>
+      <Text>MATERIAL TRANSFORMATION PROC</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9102</Code>
+      <Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

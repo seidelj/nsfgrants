@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Bi-functional Surfactants Platform from Biomass-Derived Feedstocks</AwardTitle>
+    <AwardEffectiveDate>12/15/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>224999</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Anna Brady-Estevez</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research Phase I project is to reduce the cost of formulating laundry detergents by 30-50% through the development of a single detergent chemical that replaces the need for numerous chemicals in existing detergent formulations. Commercialization of the proposed dual-function detergent molecule could substantially eliminate the need for chemicals commonly used to maintain the function in hard water conditions. Reduction of the amount and number of chemicals needed in a detergent formulation will enable production of 25% more concentrated detergent products, reducing packaging costs and enabling easier formulation of single-dose tablets. The technology offsets the carbon footprint of detergent chemical production by using plant-based starting materials instead of the current petroleum-based products, which currently dominate the industry. Additionally, reduction in the amount of chemicals used in detergents reduces environmental impact to waterways. &lt;br/&gt;&lt;br/&gt;The technical objectives in this Phase I research project are to develop a bi-functional surfactant chemical for laundry detergent applications, benchmark the new surfactants with respect to existing molecules, and to optimize the chemical process for effective scale-up. The technology will reduce the cost of laundry detergent formulations by eliminating the need for chelating agents, which are used to mitigate the negative effects of hard water common in cleaning applications. The bi-functional surfactant molecules take the role of both a surfactant and a chelating agent, thereby enabling more concentrated detergents and improved function for single-dose tablets, especially for formulators of plant-based, environmentally-friendly detergents. The technical objectives direct development of the new detergent molecules through iterative design and testing of detergent structures, resulting in identification of a first to market product, as well as reaction engineering and optimization to direct efficient design of the process technology.</AbstractNarration>
+    <MinAmdLetterDate>12/11/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/11/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1648148</AwardID>
+    <Investigator>
+      <FirstName>Christoph</FirstName>
+      <LastName>Krumm</LastName>
+      <EmailAddress>ckrumm@gmail.com</EmailAddress>
+      <StartDate>12/11/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Sironix Renewables</Name>
+      <CityName>Saint Paul</CityName>
+      <ZipCode>551044904</ZipCode>
+      <PhoneNumber>2062281571</PhoneNumber>
+      <StreetAddress>2490 Beverly Rd.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Minnesota</StateName>
+      <StateCode>MN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8030</Code>
+      <Text>Chemical Technology</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

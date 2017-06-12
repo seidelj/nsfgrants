@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Experimental investigations on the deformation behavior of sediment in the shallow region of the Nankai, North Sumatra, and Aleutian subduction zones</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2019</AwardExpirationDate>
+    <AwardAmount>234472</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040200</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Deborah Smith</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The main objective of the work is to characterize the physical properties of sediments at subduction zones. Experiments on sediments from the Nankai Trough and the Sumatra and Aleutians Trench will be conducted at the rock mechanics laboratory at Texas A&amp;M University. The experiments will be run at high pressure and temperature conditions to simulate the conditions that the sediments encounter as they are carried deep into the earth as one tectonic plate plunges beneath another. The project results will aid in understanding slip on faults and the potential for tsunami generation at subduction zones worldwide. This project will support an early-career female researcher as a GeoPRISMS post-doctoral fellow.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This research aims to understand deformation behavior in the shallow portion of subduction zones where greater displacement and ground deformation can occur in response to megathrust earthquake ruptures. This project will address key fundamental questions about whether the shallow near-trench portion of a subduction zone is locked and accumulating strain or fully creeping. Consolidation and creep experiments will be conducted at elevated pressures and temperatures and at a range of strain rates on sediment samples from three different subduction systems - Nankai Trough, Sumatra, and Aleutian subduction zones. The research goals of the project are to 1) characterize the elastic, plastic, and viscous deformation behaviors as a function of pressure, temperature, strain rate, and sediment lithology and 2) assess the potential for strain accumulation and co-seismic slip rupture propagation in the shallow near-trench regions of subduction zones. The project will advance knowledge of strain accumulation, fault coupling, and slip behavior at subduction zones.</AbstractNarration>
+    <MinAmdLetterDate>04/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1654586</AwardID>
+    <Investigator>
+      <FirstName>Hiroko</FirstName>
+      <LastName>Kitajima</LastName>
+      <EmailAddress>kitaji@tamu.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas A&amp;M University Main Campus</Name>
+      <CityName>College Station</CityName>
+      <ZipCode>778454375</ZipCode>
+      <PhoneNumber>9798626777</PhoneNumber>
+      <StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8076</Code>
+      <Text>GeoPRISMS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1620</Code>
+      <Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8076</Code>
+      <Text>GeoPRISMS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

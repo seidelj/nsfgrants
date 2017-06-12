@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps Sites - Type I: Cornell I-Corps Site</AwardTitle>
+<AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita J. LaSalle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project establishes an I-Corps Site at Cornell University. NSF Innovation Corps (I-Corps) Sites are NSF-funded entities established at universities whose purpose is to nurture and support multiple, local teams to transition their technology concepts into the marketplace. Sites provide infrastructure, advice, resources, networking opportunities, training and modest funding to enable groups to transition their work into the marketplace or into becoming I-Corps Team applicants.  The Cornell I-Corps Site represents a signature project of the institution's new Center for Technology Translation (CTT). The CTT serves as a central hub for entrepreneurship, innovation, product design, and prototyping education, all based on the Lean Launch Pad method. The Cornell Site integrates activities from the College of Business, College of Engineering, and Center for Technology Licensing, ultimately leading to synergistic benefits to an already thriving entrepreneurial ecosystem.&lt;br/&gt;&lt;br/&gt;There are several strengths that characterize Cornell's I-Corps Site: it connects to the upper New York state business incubator ecosystem, and adds new components; they seek to include women, the disabled and under-represented groups in their teams and have a solid plan to do so; existing connections to regional businesses are strong; Cornell's Site has substantial campus financial support and experienced leadership; innovation and entrepreneurship programs are well organized and integrated with each other; and, the existence of an I-Corps Site at Cornell is likely to impact the regional commercialization ecosystem.</AbstractNarration>
+<MinAmdLetterDate>02/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1644688</AwardID>
+<Investigator>
+<FirstName>Tom</FirstName>
+<LastName>Schryver</LastName>
+<EmailAddress>tps1@cornell.edu</EmailAddress>
+<StartDate>02/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Emmanuel</FirstName>
+<LastName>Giannelis</LastName>
+<EmailAddress>epg2@cornell.edu</EmailAddress>
+<StartDate>02/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8046</Code>
+<Text>I-Corps - Sites</Text>
+</ProgramElement>
+</Award>
+</rootTag>

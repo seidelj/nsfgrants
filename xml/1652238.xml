@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Research and Education: Number Theory, Geometry and Cryptography</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2022</AwardExpirationDate>
+    <AwardAmount>326991</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Timothy Hodges</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project advances the understanding of number theory, geometry, and cryptography. Number theory and geometry are among the oldest and most central topics in mathematics, while their application to cryptography underlies modern cybersecurity. The project focuses on the relationships between number-theoretic information and geometric structures such as elliptic curves, circle packings, and lattices. A primary cryptographic focus of the project is to study the security of proposals for post-quantum cryptography, that is, cryptographic protocols that can secure information against an adversary with a quantum computer. In addition, the project will create a Mathematics Lab at the University of Colorado, Boulder, whose aim is to involve a diverse undergraduate population in creative, experimental, computation- and visualization-based mathematics research experiences, and to disseminate the products of this research through outreach and community involvement. Students involved in the Mathematics Lab will go on to act as ambassadors of mathematics in all fields: teaching, industry, medicine, etc. The project also supports the mentoring of women in mathematics and the furtherance of cross-disciplinary collaboration between mathematicians and computer scientists.&lt;br/&gt;&lt;br/&gt;The project involves three branches. In the first, the PI will develop new and known connections between the orbits of Bianchi groups, which describe certain geometric aspects of imaginary quadratic fields, and elliptic curves with complex multiplication, thin groups, class groups, and abelian sandpiles. In the second, the PI will extend the theory of elliptic nets to abelian varieties and investigate applications (including to pairing-based cryptography). The third topic is the study of the security of the Ring-Learning-with-Errors problem as a basis for post-quantum cryptography. This problem is an application of the geometric structure of lattices appearing in number fields. The PI will investigate the extent of known and potential new attacks based on this number theoretical structure and compare these with known security parameters and suggested implementations. The Mathematics Lab will consist of teams of undergraduates led by faculty and graduate students, focusing on the exploration of an open problem in mathematics and an outreach application. Outreach will include mathematical visualizations, art, software, and interactive workshops for all ages.</AbstractNarration>
+    <MinAmdLetterDate>04/06/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/06/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652238</AwardID>
+    <Investigator>
+      <FirstName>Katherine</FirstName>
+      <LastName>Stange</LastName>
+      <EmailAddress>kstange@math.colorado.edu</EmailAddress>
+      <StartDate>04/06/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Colorado at Boulder</Name>
+      <CityName>Boulder</CityName>
+      <ZipCode>803031058</ZipCode>
+      <PhoneNumber>3034926221</PhoneNumber>
+      <StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8060</Code>
+      <Text>Secure &amp;Trustworthy Cyberspace</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>025Z</Code>
+      <Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7434</Code>
+      <Text>CNCI</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9102</Code>
+      <Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

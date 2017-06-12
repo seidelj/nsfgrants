@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>IRES: PUI Undergraduate Interdisciplinary Research in Paris Characterizing a Crucial Plant Blue Light Photoreceptor</AwardTitle>
+    <AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>249291</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01090000</Code>
+      <Directorate>
+        <LongName>Office Of The Director</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office Of Internatl Science &amp;Engineering</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joseph Miller</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Plants respond to environmental stressors via proteins that interact with light. One of these proteins, cryptochrome, is a key regulator of plant responses to blue light and environmental changes. Cryptochromes are thought to be activated by structural changes which trigger biological defense mechanisms. However, the nature of these changes and how they initiate responses in the plant remains unknown. This project will address this issue with an international interdisciplinary approach, involving three investigators and twelve undergraduate students from Xavier University over the span of three years. Four students will perform research each summer at the Universite Pierre et Marie Curie in Paris, France where they will grow and characterize an exhaustive collection of cryptochrome variants. Subsequently, the PI and students will use biophysical technology to obtain information on changes in shape of cryptochromes that are biologically relevant. Using this interdisciplinary approach including biochemistry, photobiology, and biophysics, the structural basis of biological activity can be determined for one of the key receptors involved in the adaptation of plant life to the environment.&lt;br/&gt;&lt;br/&gt;A key aim of this work is to provide undergraduate students with meaningful, cutting edge research opportunities, combined with international experience. These opportunities will excite and increase the numbers of students interested in STEM research, and give them the international experience needed to take a competitive, leadership position in the global research environment of the future in yet to be discovered interdisciplinary fields. Minority students and women will be specifically targeted for this experience. A further societal benefit from the study of cryptochromes is the possibility of novel interventions in both ecosystems and agricultural plants which may provide protection against economic and health effects of global climate change.</AbstractNarration>
+    <MinAmdLetterDate>01/25/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/25/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1658640</AwardID>
+    <Investigator>
+      <FirstName>Dorothy</FirstName>
+      <LastName>Engle</LastName>
+      <EmailAddress>engle@xavier.edu</EmailAddress>
+      <StartDate>01/25/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Justin</FirstName>
+      <LastName>Link</LastName>
+      <EmailAddress>linkj2@xavier.edu</EmailAddress>
+      <StartDate>01/25/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Xavier University</Name>
+      <CityName>Cincinnati</CityName>
+      <ZipCode>452071035</ZipCode>
+      <PhoneNumber>5137453000</PhoneNumber>
+      <StreetAddress>3800 Victory Parkway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7727</Code>
+      <Text>IRES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5918</Code>
+      <Text>FRANCE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7639</Code>
+      <Text>IRES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7727</Code>
+      <Text>IRES/DDEP</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Student Support for the 2017 Solid Freeform Fabrication (SFF) Symposium - An Additive Manufacturing Conference; Austin, Texas; 7-9 August 2017</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>49600</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven R. Schmid</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The objective of this award is to provide support for 80 students to participate in the Twenty-Eighth Annual International Solid Freeform Fabrication (SFF) Symposium - An Additive Manufacturing Conference, to be held in Austin, Texas, 7-9 August 2017. The SFF Symposium is widely considered the premier academic conference on additive manufacturing (AM) related research in the world. In 2016, it brought together 544 researchers from universities, national laboratories, and companies from 22 countries around the world, who together presented 416 technical presentations and posters during the 3-day event.&lt;br/&gt;&lt;br/&gt;By attending and presenting their work at this symposium, students will have the opportunity to interact with leading researchers in their field, learn about cutting-edge research and challenging problems across the AM research community, and mature themselves professionally as future leaders in AM research and development.</AbstractNarration>
+    <MinAmdLetterDate>03/22/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/22/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1725038</AwardID>
+    <Investigator>
+      <FirstName>Carolyn</FirstName>
+      <LastName>Seepersad</LastName>
+      <EmailAddress>ccseepersad@mail.utexas.edu</EmailAddress>
+      <StartDate>03/22/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at Austin</Name>
+      <CityName>Austin</CityName>
+      <ZipCode>787121532</ZipCode>
+      <PhoneNumber>5124716424</PhoneNumber>
+      <StreetAddress>101 E. 27th Street, Suite 5.300</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1468</Code>
+      <Text>Manufacturing Machines &amp; Equip</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>082E</Code>
+      <Text>MFG MACHINES &amp; METROLOGY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>083E</Code>
+      <Text>MATERIAL TRANSFORMATION PROC</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9102</Code>
+      <Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

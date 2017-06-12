@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Internet of Things for Condition-Based Maintenance of Medical Assets</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to improve safety and minimize equipment maintenance costs. In healthcare equipment malfunctions are a major patient safety issue because not only because of direct patient care impact, by also due to equipment maintenance costs in general. The technology developed here monitors the health of biomedical equipment asset with the purpose of predicting, in real-time, biomedical equipment asset failure in order to reduce the rate of equipment failure, thereby, improving safety and reducing costs. This project will equip healthcare and military facilities with a tool to better manage their assets, eradicate equipment downtime, reduce maintenance cost and eliminate unanticipated failures. The added benefit of the commercial potential of this project comes from the opportunity for Original Equipment Manufacturers (OEMs) of equipment assets to improve their technologies with the condition-based maintenance strategy that this innovation offers.&lt;br/&gt;&lt;br/&gt;This I-Corps project seeks to develop a low-cost, power-efficient, wireless, mesh-networked family of microprocessors, sensors and software designed to give real-time reporting on equipment status and offer condition-based maintenance schedules. The instrumentation innovation is the combination of different sensors to capture periodic data on pressure, temperature, humidity, position, current and vibration on an equipment asset for condition-based maintenance of the asset. This project will be based on the Internet of Things (IoT) in the connection and management of different assets in a healthcare facility or military materiel supply chain. This project will develop a template for the integration of mesh radio frequency identification (RFID) of emitted but encrypted radio frequency (RF) signals in conformance to IEEE 802.15.4 standards over the 2.4 GHz industrial, scientific, and medical (ISM) radio band. The device will be used in conjunction with the cloud where data will be processed in a wireless configuration. Coupled with the development of this module is a dynamic data analytic procedure that incorporates novel machine learning statistical routines for maintenance forecasts.</AbstractNarration>
+<MinAmdLetterDate>04/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740802</AwardID>
+<Investigator>
+<FirstName>Ekundayo</FirstName>
+<LastName>Shittu</LastName>
+<EmailAddress>eshittu@gwu.edu</EmailAddress>
+<StartDate>04/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200522000</ZipCode>
+<PhoneNumber>2029946255</PhoneNumber>
+<StreetAddress>2121 Eye Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

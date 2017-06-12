@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>LTER: The Ecology of Row Crop Ecosystems and Landscapes at the KBS LTER Site</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2018</AwardExpirationDate>
+    <AwardAmount>1127000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010000</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>John Schade</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Agriculture is the dominant land use under direct management by people, and it is one of the biggest agents of global change, with far-reaching impacts on human welfare and the environment. The application of ecological knowledge to improve sustainable agricultural ecosystems remains a recognized grand challenge for environmental science. Since 1988, research at the W.K. Kellogg Biological Station (KBS) LTER has addressed this challenge for row-crop ecosystems and landscapes, by seeking to understand the fundamental ecological underpinnings of these highly managed ecosystems and to reveal ways that ecological knowledge can enhance the long-term sustainability of production agriculture. This renewal award builds on past work to launch an effort to better understand the long-term stability of key ecosystem services afforded by agriculture, with an emphasis on three major drivers: climate change, changes in the science of land management for crop production, and invasive species. Proposed research bears directly on agricultural and environmental management and policies at scales ranging from local to global. The study of agricultural systems also informs ecology because few other ecosystems have such a degree of simplification and control of major environmental drivers. Training graduate students and postdocs is an important component of this project, as is providing research experiences for undergraduates. KBS scientists also will continue to work with K-12 science teachers through an established partnership with 11 nearby school districts. Outreach and extension activities will reach a broad community of stakeholders, and will include a new emphasis on farmers and those who influence farmer decisions.&lt;br/&gt;&lt;br/&gt;The major scientific foci of the KBS LTER are vulnerability and resilience of cropping systems to drivers of change, and how ecological theory can help design more sustainable crop production. Two overarching questions motivate the research: 1) How do changing environmental drivers affect the resilience of key ecosystem services including crop yield and profitability as well as environmental and socioecological benefits, and 2) To what extent can ecological knowledge help maintain the robust and reliable delivery of these services? Key ecosystem services include crop yield but also extend more broadly to climate stabilization (greenhouse gas emissions), water quality (eutrophication), pest suppression (insect herbivory and predation), and soil fertility (plant-microbe-soil interactions). Knowledge gaps identified from research to date will be addressed with new research lines that include rainfall manipulation experiments, watershed observations, and examinations of rapid evolution of plant-microorganism associations, predator-prey dynamics newly influenced by invasive species and novel pesticides, and long-term changes in farmer attitudes and behaviors.</AbstractNarration>
+    <MinAmdLetterDate>11/30/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/30/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1637653</AwardID>
+    <Investigator>
+      <FirstName>Jennifer</FirstName>
+      <LastName>Lau</LastName>
+      <EmailAddress>jenlau@msu.edu</EmailAddress>
+      <StartDate>11/30/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Douglas</FirstName>
+      <LastName>Landis</LastName>
+      <EmailAddress>landisd@msu.edu</EmailAddress>
+      <StartDate>11/30/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Scott</FirstName>
+      <LastName>Swinton</LastName>
+      <EmailAddress>swintons@msu.edu</EmailAddress>
+      <StartDate>11/30/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>Hamilton</LastName>
+      <EmailAddress>hamilton@kbs.msu.edu</EmailAddress>
+      <StartDate>11/30/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>G. Philip</FirstName>
+      <LastName>Robertson</LastName>
+      <EmailAddress>robert30@msu.edu</EmailAddress>
+      <StartDate>11/30/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Michigan State University</Name>
+      <CityName>East Lansing</CityName>
+      <ZipCode>488242600</ZipCode>
+      <PhoneNumber>5173555040</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1195</Code>
+      <Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9251</Code>
+      <Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1195</Code>
+      <Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

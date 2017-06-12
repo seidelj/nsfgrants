@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: An Objective Clinical Machine Learning Imaging Technology</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this I-Corps project is creating computer-aided classification methods to better identify and distinguish various diseases. Skin issues are the most frequently addressed issues presented in primary care: over one-third of primary care visits include at least one skin problem. Skin issues are visual manifestations of many different types of diseases, including allergies, injuries, bacterial infections, viral infections, and hormonal fluctuations. A physician's ability to address skin issues is highly dependent on a physician's prior visual training experiences. However, many physicians are not regularly familiar with the over 2,000 dermatology issues that can arise in a patient. The algorithms developed here allow for objective and much more accurate screening of exposed skin to improve evaluation of patient issues in many different care settings. This could be implemented for many different types of skin diseases and other visual constructions of images to assist physicians visually and vastly augment their sensitivity and specificity at identifying dermatology issues and their underlying causes.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on using image processing and machine learning to distinguish dermatological diseases. Image-capturing electronics such as consumer-grade cameras and smartphones are becoming increasingly ubiquitous, capable, and affordable. Image processing and machine learning based on annotated images has shown great potential for algorithms to differentiate between images capturing different objects and patterns. The developments here have created a classification system that differentiates suspicious from non-suspicious lesions that is easy for a physician to use in a clinical setting to help with clinical decision-making. The proof of concept is based on a large dataset of prospective clinical images where the algorithms classified malignant cases and the methods resulted in a statistically significant discrimination between suspicious and non-suspicious lesions.</AbstractNarration>
+    <MinAmdLetterDate>04/13/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/13/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1741564</AwardID>
+    <Investigator>
+      <FirstName>Roman</FirstName>
+      <LastName>Lubynsky</LastName>
+      <EmailAddress>rml@mit.edu</EmailAddress>
+      <StartDate>04/13/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Massachusetts Institute of Technology</Name>
+      <CityName>Cambridge</CityName>
+      <ZipCode>021394301</ZipCode>
+      <PhoneNumber>6172531000</PhoneNumber>
+      <StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

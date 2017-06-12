@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: Life history tradeoffs between testosterone and immune function among forager-horticulturalists</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>11464</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rebecca Ferrell</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This dissertation project will investigate how energy is allocated to competing biological needs in humans. Tradeoffs between male reproductive effort and immune function underlie several theories about the evolution of human biology. The investigator will explore these theories by testing how individual physiology (including testosterone in men) is associated with immune responses to infection by parasites, and how lifestyle variation influences this relationship, in a population with a high parasitic disease burden. Infection patterns identified in this study may help to inform treatment protocols by measuring how individual physiology (hormone levels) and lifestyle (diet and housing factors) affect parasite exposure and infectious disease risk. Furthermore, these analyses will improve the health of individuals at the study location through education and treatment of infections. The project will support undergraduate and graduate training and mentorship in STEM research. &lt;br/&gt;&lt;br/&gt;This project evaluates predicted life history compromises between male reproductive effort and immune function among the Shuar. Life history theory (LHT) seeks to explain the timing and context-sensitive allocation of energetic resources to critical physical and reproductive functions. A critical premise of LHT is that resources used for one function cannot be used for another; thus, tradeoffs are predicted among different aspects of physical and reproductive investment. These tradeoffs are physiologically regulated, including via hormone levels. For example, the hormone testosterone (T) is thought to mediate tradeoffs between reproductive effort and immunity. Work with non-human animals has shown T to generally increase investment in physical traits associated with male reproduction (e.g., musculature) while suppressing immune function. However, this tradeoff is not well-tested in humans. The Shuar experience a relatively high pathogen environment, with subsequent increases in immune activation costs. Further, pathogen exposure varies across their territory, and in relation to their access to economic resources. This setting provides an excellent opportunity for testing the hypothesized relations among T profile, immunity, and reproductive investment. To test these associations several measures will be collected, including the presence of observable parasite species and eggs per gram in fresh fecal samples; T levels from saliva samples; physical measures thought to be associated with developmental T levels (height, grip strength, chest compression, upper arm circumference, and 2D:4D digit ratio); immune markers from dried blood spots; and household economic, dietary, and style of life questionnaire data. In addition, this study will assess if T profiles vary between traditionally-living and urbanized Shuar in relation to differences in pathogen exposure. This work will therefore contribute to our understanding of human life history, male reproduction, and health through documenting tradeoffs between reproduction and immune responses, two energetically expensive functions.</AbstractNarration>
+    <MinAmdLetterDate>02/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650674</AwardID>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Snodgrass</LastName>
+      <EmailAddress>jjosh@uoregon.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Theresa</FirstName>
+      <LastName>Gildner</LastName>
+      <EmailAddress>tgildner@uoregon.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Oregon Eugene</Name>
+      <CityName>Eugene</CityName>
+      <ZipCode>974035219</ZipCode>
+      <PhoneNumber>5413465131</PhoneNumber>
+      <StreetAddress>5219 UNIVERSITY OF OREGON</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Oregon</StateName>
+      <StateCode>OR</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7608</Code>
+      <Text>DDRI Bio Anthro</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1392</Code>
+      <Text>Biological Anthropology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

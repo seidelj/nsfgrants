@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Workshop on Communicating Science for Polar Scientists</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>49640</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06090300</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of Polar Programs (OPP)</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Paul Cutler</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This proposal develops a 3-day science communication workshop tailored to polar scientists spanning a broad range of expertise and career stages. Scientists have a responsibility to share the meaning and implications of their work. Doing so in a direct, vivid manner enables scientists to engage public interest and inform public decision-making. Workshop participants will be required to engage in a wide range of dissemination activities, including relaying effective communication strategies to their home institutions through brown-bag seminars, thus translating communication training into action within the scientific community. &lt;br/&gt;&lt;br/&gt;The workshop will be held in conjunction with the International Glaciological Society's symposium in Boulder, Colorado on August 14-19, 2017 so that participants can immediately apply their new skills at an international conference. Workshop organizational partners will include the Association of Polar Early Career Scientists, the Alan Alda Center for Communicating Science (Stony Brook University), and the University of Colorado Boulder National Snow and Ice Data Center and Center for Science and Technology Policy, and the International Glaciological Society. The workshop is designed to bring together 32 scientists (including 20 early career researchers, defined as graduate students and professionals within five years of their terminal degree) in a range of polar research disciplines (both Arctic and Antarctic).</AbstractNarration>
+    <MinAmdLetterDate>03/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1720574</AwardID>
+    <Investigator>
+      <FirstName>Allen</FirstName>
+      <LastName>Pope</LastName>
+      <EmailAddress>allen.pope@nsidc.org</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Mahsa Sadat</FirstName>
+      <LastName>Moussavi</LastName>
+      <EmailAddress>mahsa.moussavi@colorado.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Colorado at Boulder</Name>
+      <CityName>Boulder</CityName>
+      <ZipCode>803031058</ZipCode>
+      <PhoneNumber>3034926221</PhoneNumber>
+      <StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>017Y</Code>
+      <Text>Polar Special Initiatives</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5280</Code>
+      <Text>ARCTIC NATURAL SCIENCES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5116</Code>
+      <Text>ANTARCTIC GLACIOLOGY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5292</Code>
+      <Text>ANTARCTIC INTEGRATED SYS SCI</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1079</Code>
+      <Text>ARCTIC RESEARCH</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

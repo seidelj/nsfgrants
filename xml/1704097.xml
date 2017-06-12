@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: Medium: Collaborative Research: In-Band Full-Duplex Underwater Acoustic Networks</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Wireless communication technologies in the ocean are critical to scientific, commercial, and national defense operations, and yet are still primitive, especially with respect to their data rates and reliability. This project develops new underwater acoustic communications and networking strategies to improve network efficiency in the harsh ocean environment, through underwater in-band full-duplex (IBFD) acoustic networks. The project creates a vertically integrated research experience for both undergraduate and graduate students by exposing them to interdisciplinary research. Through partnerships with local communities, the project investigators develop outreach programs to attract future students, especially those from minority and under-represented communities, to STEM disciplines.&lt;br/&gt;&lt;br/&gt;The objectives of the project is to develop innovative acoustic IBFD networks that contain: 1) spectrally efficient physical layer receivers capable of acoustic-specific self-interference cancellation, and 2) cross-layer protocols allowing enhanced network efficiency via IBFD. Guided by a cross-layer, interdisciplinary methodology, the project includes four research tasks: 1) Interference cancellation through acoustic-specific methods; 2) Prototyping of acoustic IBFD modems and networks, 3) Field experiments to evaluate acoustic IBFD communications and networking, and 4) Development of cross-layer simulation and optimization toolboxes. To maximize outcomes, this project leverages a range of existing instruments, resources, tools, and design experiences from the research team.</AbstractNarration>
+<MinAmdLetterDate>05/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1704097</AwardID>
+<Investigator>
+<FirstName>Leonard</FirstName>
+<LastName>Cimini</LastName>
+<EmailAddress>Cimini@udel.edu</EmailAddress>
+<StartDate>05/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiang-Gen</FirstName>
+<LastName>Xia</LastName>
+<EmailAddress>xxia@ee.udel.edu</EmailAddress>
+<StartDate>05/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chien-Chung</FirstName>
+<LastName>Shen</LastName>
+<EmailAddress>cshen@cis.udel.edu</EmailAddress>
+<StartDate>05/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>Newark</CityName>
+<ZipCode>197162553</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>210 Hullihen Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>RES IN NETWORKING TECH &amp; SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7363</Code>
+<Text>RES IN NETWORKING TECH &amp; SYS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Nevis Labs, Columbia University for Summers 2017-2019</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>97000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03010000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Physics</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kathleen V. McCloud</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award supports the renewal of the Research Experience for Undergraduates (REU) site in experimental high energy physics and astrophysics at Nevis Labs, Columbia University. The site will support undergraduate student participation in original, cutting-edge physics research, working with a faculty mentor. Two students per year will spend the summer conducting research at the European Organization for Nuclear Research in Switzerland at the Large Hadron Collider. Key goals of the REU are increasing the knowledge and interest of students in physics research, increasing participation of traditionally under-represented populations, and motivating students to pursue graduate studies in science and engineering. Achieving these goals is critical for providing the Nation's future well-trained workforce required to continue to lead an increasingly technological world.&lt;br/&gt;&lt;br/&gt;The students spend 10 weeks during the summer participating in the broad Nevis high energy physics and particle astrophysics research program, which seeks to address the most pressing issues of these fields, including the origin of mass, the question of neutrino oscillations, and the search for Dark Matter. Answers to these questions will have profound implications for our understanding of the fundamental structure and evolution of the universe. The strength of the Nevis research program, coupled with the Nevis infrastructure of world class electronics design and mechanical construction, forms a unique environment with opportunities for training of students. As the variety of experiments are at different stages in their development, Nevis provides the opportunity for students to gain experience in all aspects of the experiments, from initial detector design, hardware development and construction, to software development and data analysis.</AbstractNarration>
+    <MinAmdLetterDate>12/08/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/08/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659528</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Parsons</LastName>
+      <EmailAddress>parsons@nevis.columbia.edu</EmailAddress>
+      <StartDate>12/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Georgia</FirstName>
+      <LastName>Karagiorgi</LastName>
+      <EmailAddress>georgia@nevis.columbia.edu</EmailAddress>
+      <StartDate>12/08/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Columbia University</Name>
+      <CityName>NEW YORK</CityName>
+      <ZipCode>100276902</ZipCode>
+      <PhoneNumber>2128546851</PhoneNumber>
+      <StreetAddress>2960 Broadway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9134</Code>
+      <Text>Integrative Activities in Phys</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Targeted Infusion Project: Enhancing STEM Recruitment, Retention and Engagement by Establishing the Shaw University Center for Computer Science Living, Learning and Research</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>399953</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Claudia M. Rankins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP), through Targeted Infusion Projects, supports the development, implementation, and study of evidence-based innovative models and approaches for improving the preparation and success of HBCU undergraduate students so that they may pursue science, technology, engineering or mathematics (STEM) graduate programs and/or careers. The project at Shaw University addresses this goal as it seeks to enhance undergraduate computer science education by implementing and researching innovative, yet evidence-based strategies in the departments of biology, computer science, and mathematics. The project is guided by an on-going evaluation with a strong plan for formative and summative evaluation.&lt;br/&gt;&lt;br/&gt;This project will implement and study four evidenced-based strategies to improve retention in computer science: social support within affinity groups; an enhanced first year curriculum; inquiry-based learning; and exposure to research and faculty mentoring. To provide social support, all incoming computer science majors will be grouped into a cohort-based affinity group and housed together. The first year curriculum in biology, computer science and mathematics for each incoming freshman computer science cohort will be enhanced and revised. Courses will incorporate inquiry based learning, programming, real-world data analysis and the applied use of technology. More advanced computer science students will be involved in research with faculty. This project will serve as a case study on how to  implement evidence-based teaching methods in the setting of this institution, which can then serve as a model at other institutions of similar mission and size.</AbstractNarration>
+<MinAmdLetterDate>05/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719454</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Butler</LastName>
+<EmailAddress>ebutler@shawu.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lloyd</FirstName>
+<LastName>Williams</LastName>
+<EmailAddress>llwilliams@shawu.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Shaw University</Name>
+<CityName>Raleigh</CityName>
+<ZipCode>276012341</ZipCode>
+<PhoneNumber>9197191890</PhoneNumber>
+<StreetAddress>118 East South Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

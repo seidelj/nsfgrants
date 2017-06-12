@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>25th Annual Workshop on Object Perception, Attention, &amp; Memory</AwardTitle>
+    <AwardEffectiveDate>04/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
+    <AwardAmount>18260</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Betty H. Tuller</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award will support the organization of a two-day workshop on Object Perception, Attention, and Memory (OPAM) on November 8-9, 2017 that will showcase graduate and postdoctoral research in visual cognition. The OPAM workshop will facilitate the exposure of, and networking among, early-career scientists. OPAM is free and accessible, features talks and poster presentations by graduate and postdoctoral researchers, and is a vital venue for professional development.&lt;br/&gt;&lt;br/&gt;Current research in visual cognition spans a broad range of research topics (e.g., object, face, and scene recognition; visual attention; visual memory; eye movement control and active vision) and uses a wide variety of research tools. The award allows the OPAM workshop to be expanded to two days in order to allow more opportunities for presentations and introduces new programming designed to expand trainee access to mentoring, networking, and research ideas. The organizers have paid particular attention to the inclusion of women and members of under-represented groups as speakers, panelists, and panel moderators. The 2017 workshop will take place in Vancouver, Canada, which increases the opportunity for early-career scientists to establish international collaborations.</AbstractNarration>
+    <MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1734081</AwardID>
+    <Investigator>
+      <FirstName>Andrew</FirstName>
+      <LastName>Leber</LastName>
+      <EmailAddress>leber.30@osu.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Ohio State University</Name>
+      <CityName>Columbus</CityName>
+      <ZipCode>432101016</ZipCode>
+      <PhoneNumber>6146888735</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7252</Code>
+      <Text>PERCEPTION, ACTION &amp; COGNITION</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7252</Code>
+      <Text>Perception, Action and Cognition</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

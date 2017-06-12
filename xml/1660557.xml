@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Developing Leaders in Science Teaching</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2023</AwardExpirationDate>
+    <AwardAmount>846734</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sandra Richardson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The University of Alabama Tuscaloosa Noyce Teaching Fellowship Track 2 project, Developing Leaders in Science Teaching (LIST), will be a teacher education model focusing on creating 15 new science teacher leaders through teacher certification and induction support. An overall goal of the project will be to increase the quality and quantity of biology, chemistry, and physics STEM professionals entering and remaining in science teaching careers, while developing them as science teacher leaders. By increasing the number of highly qualified middle and high school science teachers, the program will help ease acute shortages in science teaching in Alabama and throughout the nation. LIST will increase the diversity of the teacher workforce by encouraging the participation of Fellows from underrepresented minority groups. Teaching Fellows will benefit from working relationships already established with high-need local educational agencies. A 4-year intensive induction program will sustain the project's Teaching Fellows as they develop science teaching expertise and ability to engage diverse students. &lt;br/&gt;&lt;br/&gt;This Noyce Teaching Fellowship Track 2 project will be a partnership between University of Alabama Tuscaloosa, two high-need Alabama local educational agencies (LEAs), the nonprofit Texas STEM Coalition (T-STEM), and the Alabama Math, Science, and Technology Initiative (AMSTI/ASIM). The project will develop and implement a model to increase the number and diversity of STEM professionals in biology, chemistry, or physics as certified secondary science teachers in high-need school districts. Teaching Fellows will participate in a strong clinically-based program developing skills in engaging diverse students. The program will have a long-term focus on moving teachers from mentored novices to teacher leaders. The project's timeline will begin in Year 1 with preservice coursework, ending with graduation and teacher certification in an Master of Arts (MA) program. A 4-year induction program will follow in LEAs. LIST has four major goals with objectives addressing high-need LEAs including: 1) increasing the number and diversity of certified science teachers, 2) developing preservice teacher expertise through intensive clinical field experiences, 3) mentoring through collaborative strategies supporting and sustaining Fellows through an evolving induction program, and 4) fostering Fellows' leadership skills. LIST will actively recruit STEM professionals from university science graduates, local communities surrounding a coalition of 12 community colleges, campus student professional organizations, and social/local media outreach. The LIST model will provide a multistage transformative approach incrementally moving STEM professionals to teacher leaders. The model will be disseminated for use by other teacher preparation programs to increase the quality of science teachers and their students' depth of learning. The LIST model will demonstrate the use and upgrading of existing infrastructure to enhance research-based science teacher education.</AbstractNarration>
+    <MinAmdLetterDate>04/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660557</AwardID>
+    <Investigator>
+      <FirstName>Cynthia</FirstName>
+      <LastName>Sunal</LastName>
+      <EmailAddress>csunal@bamaed.ua.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Rainer</FirstName>
+      <LastName>Schad</LastName>
+      <EmailAddress>rschad@bama.ua.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Kevin</FirstName>
+      <LastName>Shaughnessy</LastName>
+      <EmailAddress>kshaughn@ua.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Dennis</FirstName>
+      <LastName>Sunal</LastName>
+      <EmailAddress>dwsunal@bama.ua.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Janis</FirstName>
+      <LastName>O'Donnell</LastName>
+      <EmailAddress>jodonnel@bama.ua.edu</EmailAddress>
+      <StartDate>04/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Alabama Tuscaloosa</Name>
+      <CityName>Tuscaloosa</CityName>
+      <ZipCode>354870005</ZipCode>
+      <PhoneNumber>2053485152</PhoneNumber>
+      <StreetAddress>801 University Blvd.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Alabama</StateName>
+      <StateCode>AL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1795</Code>
+      <Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7908</Code>
+      <Text>Teaching &amp; Mstr Tchng Fellows</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

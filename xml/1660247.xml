@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: PAX Rotor Optimization for Flexible Micro-Hydro</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2019</AwardExpirationDate>
+    <AwardAmount>740406</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rajesh Mehta</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is in the effort to bring our biomimetic rotor design to the marine hydrokinetic (MHK) market. MHK energy is a socially and environmentally friendly alternative to hydroelectric power, which harnesses energy from rivers, tides, ocean currents and manmade waterways without the use of a dam. This market is potentially large but still nascent due to high technology costs, concerns over turbine survivability, fish friendliness, and difficulty in permitting deployments. Our rotor's small, flexible configuration is a unique approach that addresses many MHK challenges with the mission of reaching the largest set of individuals underserved by current energy technologies. Our rotor seeks to displace diesel generation and complement intermittent renewable energy sources by providing an affordable, baseload clean energy solution for any individual or community; with the objective of scaling up to larger deployments by leveraging the scalable rotor design. This R&amp;D Project will expand the body of knowledge for the rapidly emerging field of biomimicry by developing a flexible micro-hydro solution that enables energy generation from flowing water by allowing fluids to move over the surfaces of the rotor in their naturally preferred way. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project will transform our promising proprietary rotor design into an optimized MHK turbine to be incorporated as the key component of a flexible micro-hydro system that addresses many of the challenges faced by the MHK market. The rotor is based on biomimicry and was designed using streamlines found in moving bodies of water with a deep profile to maximize the power transfer from low speed flows. The logarithmic design with receding edges results in a turbine that avoids damaging impacts with debris and marine life. The design is stable in variable flow conditions, which allows for a flexible power takeoff configuration with both the generator and power electronics housed above the water for improved affordability. During the project, computational fluid dynamic modeling will be used to simulate design changes and drive performance improvements. The most promising designs will be prototyped and integrated with multiple generator and tether combinations to determine the most efficient flexible power takeoff system. Conversion to power output for 12V battery charging will also be tested and optimized resulting in a complete power conversion chain. The performance of the rotor and system will be characterized by full scale testing locally and with The University of Washington.</AbstractNarration>
+    <MinAmdLetterDate>04/04/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/04/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660247</AwardID>
+    <Investigator>
+      <FirstName>Jayden</FirstName>
+      <LastName>Harman</LastName>
+      <EmailAddress>jharman@paxscientific.com</EmailAddress>
+      <StartDate>04/04/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>PAX Scientific, Inc.</Name>
+      <CityName>San Rafael</CityName>
+      <ZipCode>949011808</ZipCode>
+      <PhoneNumber>4152569900</PhoneNumber>
+      <StreetAddress>999 Andersen Dr Ste 100</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8029</Code>
+      <Text>Manufacturing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8030</Code>
+      <Text>Chemical Technology</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

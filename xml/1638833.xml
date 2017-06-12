@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Physiological and Behavioral Responses to a Temperate Primate Niche Using a Strepsirrhine Model</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2019</AwardExpirationDate>
+    <AwardAmount>202024</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rebecca Ferrell</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Nearly all primates are tropical mammals, with only a handful of species living in temperate environments. How do primates adapt to non-tropical environments? This study uses state-of-the-art, non-invasive techniques to expand our understanding of wild primate physiology, metabolism and behavioral adaptations to environmental stressors not normally encountered within tropical habitats. Results will inform our understanding of primate physiology, body size variation, and evolutionary history in more seasonal habitats. This project offers a variety of key student research experiences that include undergraduate research opportunities (including for students from underrepresented groups), student training in field and analytic methods, and mentoring students in the production of both MSc and PhD projects. The project will foster international research collaborations and capacity building at the field location. In addition, the project will provide important knowledge facilitating effective husbandry and management of zoo primates, and will contribute DNA data to the International Barcode of Life Program to track primate poaching and illegal bushmeat trade. This project is co-funded by the Office of International Science and Engineering.&lt;br/&gt;&lt;br/&gt;A broadly comparative approach will be taken to understand how two nocturnal primate species of dramatically different body sizes react to the stressful ecology of temperate habitats. Otolemur crassicaudatus (3.3 lbs) and Galago moholi (5.15oz) will be studied at the Lajuma Research Centre, located high in the Soutpansberg Mountains and characterized by a temperate climate with cold humid winters and warm-to-hot humid summers. Methodology to assess physiological responses include isotopic ecology from hair samples (which will help characterize each species' diet across months), metabolomics (which provides relative nutrition at the molecular level), nutritional ecology and stress hormones from fecal samples, and assessment of health and dental ecology in relation to habitat stressors. Behavioral comparisons will provide real-time assessment of each species' thermoregulation by using portable, professional-grade thermal imaging devices and infrared cameras, allowing remote recording of the primate's body temperature throughout nightly follows. Such comparative data are relevant for evaluating the limitations of primate adaptation, for understanding how ancestral primates mediated past environmental change, and for clarifying the mechanisms and physiological patterns underlying primate resilience in changing environmental conditions.</AbstractNarration>
+    <MinAmdLetterDate>03/03/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/03/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1638833</AwardID>
+    <Investigator>
+      <FirstName>Michelle</FirstName>
+      <LastName>Sauther</LastName>
+      <EmailAddress>Michelle.Sauther@colorado.edu</EmailAddress>
+      <StartDate>03/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Frank</FirstName>
+      <LastName>Cuozzo</LastName>
+      <EmailAddress>frank.cuozzo@email.und.edu</EmailAddress>
+      <StartDate>03/03/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Colorado at Boulder</Name>
+      <CityName>Boulder</CityName>
+      <ZipCode>803031058</ZipCode>
+      <PhoneNumber>3034926221</PhoneNumber>
+      <StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>054y</Code>
+      <Text/>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1392</Code>
+      <Text>Biological Anthropology</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1392</Code>
+      <Text>Biological Anthropology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9251</Code>
+      <Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1066</Code>
+      <Text>SOUTH AFRICA</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5976</Code>
+      <Text>AFRICA, NEAR EAST, &amp; SO ASIA</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

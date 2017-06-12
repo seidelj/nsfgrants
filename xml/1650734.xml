@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Doctoral Dissertation Research: Binocular Vision and the Primate Origins Hypotheses</AwardTitle>
+    <AwardEffectiveDate>02/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2018</AwardExpirationDate>
+    <AwardAmount>12121</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Behavioral and Cognitive Sci</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rebecca Ferrell</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>All living primates have forward-facing eyes, which provide a large field of binocular vision and precise depth perception. This dissertation project will test competing hypotheses about the evolutionary origins of binocular vision in primates through a combination of behavioral experiments and comparative anatomical studies in living primates. The project will produce a freely accessible database of CT scans of a diverse sample of mammals, which will benefit researchers as well as clinicians. The investigators will engage the public in this work through several outreach programs aimed at increasing both public understanding of scientific research and participation in STEM for students from groups underrepresented in science. The project will also facilitate the training of several undergraduates through a program that prepares first generation college students and members of underrepresented groups for graduate research. &lt;br/&gt;&lt;br/&gt;To determine which ecological factors led to the evolution of a wide field of binocular vision during early primate evolution, this project will employ both comparative morphological and experimental methods. First, the investigators will measure binocular field in an ecologically and phylogenetically diverse comparative mammalian sample to determine which ecological variables are associated with increases in binocular field size across mammals. Binocular field size will be measured from micro-CT scans of fluid-preserved specimens that are iodine stained to render the soft tissues of the eyes visible. Second, the researchers will experimentally evaluate the functional importance of binocular vision for the types of grasping and leaping behaviors that competing primate origins hypotheses suggest selected for increased binocular field width. Small-bodied nocturnal strepsirrhines will be filmed performing grasping and leaping tasks under normal conditions and with reduced binocular visual field. This integrated approach to studying the functional significance of a wide field of binocular vision will provide a test of the competing adaptive scenarios for crown primate origins. The results of this project will help to address long-standing debates about a key feature of the primate order.</AbstractNarration>
+    <MinAmdLetterDate>02/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650734</AwardID>
+    <Investigator>
+      <FirstName>Edward</FirstName>
+      <LastName>Kirk</LastName>
+      <EmailAddress>eckirk@austin.utexas.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Addison</FirstName>
+      <LastName>Kemp</LastName>
+      <EmailAddress>addison.kemp@utexas.edu</EmailAddress>
+      <StartDate>02/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at Austin</Name>
+      <CityName>Austin</CityName>
+      <ZipCode>787121532</ZipCode>
+      <PhoneNumber>5124716424</PhoneNumber>
+      <StreetAddress>101 E. 27th Street, Suite 5.300</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7608</Code>
+      <Text>DDRI Bio Anthro</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1392</Code>
+      <Text>Biological Anthropology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9179</Code>
+      <Text>GRADUATE INVOLVEMENT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

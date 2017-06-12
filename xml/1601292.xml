@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>Midwestern Young Researchers Conference on Commutative Algebra and Related Disciplines: KUMUNU Jr 2016</AwardTitle>
     <AwardEffectiveDate>02/15/2016</AwardEffectiveDate>
-    <AwardExpirationDate>01/31/2017</AwardExpirationDate>
+    <AwardExpirationDate>01/31/2018</AwardExpirationDate>
     <AwardAmount>7800</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -27,12 +27,12 @@
     <ARRAAmount/>
     <AwardID>1601292</AwardID>
     <Investigator>
-      <FirstName>Mark</FirstName>
-      <LastName>Walker</LastName>
-      <EmailAddress>mwalker5@math.unl.edu</EmailAddress>
+      <FirstName>Douglas</FirstName>
+      <LastName>Dailey</LastName>
+      <EmailAddress>ddailey2@math.unl.edu</EmailAddress>
       <StartDate>01/20/2016</StartDate>
       <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
       <FirstName>Jason</FirstName>
@@ -43,19 +43,19 @@
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>Douglas</FirstName>
-      <LastName>Dailey</LastName>
-      <EmailAddress>ddailey2@math.unl.edu</EmailAddress>
+      <FirstName>Mark</FirstName>
+      <LastName>Walker</LastName>
+      <EmailAddress>mwalker5@math.unl.edu</EmailAddress>
       <StartDate>01/20/2016</StartDate>
       <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
+      <RoleCode>Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>University of Nebraska-Lincoln</Name>
       <CityName>Lincoln</CityName>
       <ZipCode>685031435</ZipCode>
       <PhoneNumber>4024723171</PhoneNumber>
-      <StreetAddress>2200 Vine St, 151 Whittier</StreetAddress>
+      <StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
       <CountryName>United States</CountryName>
       <StateName>Nebraska</StateName>
       <StateCode>NE</StateCode>

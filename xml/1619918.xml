@@ -27,15 +27,7 @@
     <ARRAAmount/>
     <AwardID>1619918</AwardID>
     <Investigator>
-      <FirstName>Jeyamkondan</FirstName>
-      <LastName>Subbiah</LastName>
-      <EmailAddress>jsubbiah2@unl.edu</EmailAddress>
-      <StartDate>12/16/2015</StartDate>
-      <EndDate/>
-      <RoleCode>Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
-      <FirstName>Doug</FirstName>
+      <FirstName>Douglas</FirstName>
       <LastName>Britton</LastName>
       <EmailAddress>doug.britton@gtri.gatech.edu</EmailAddress>
       <StartDate>12/16/2015</StartDate>
@@ -43,9 +35,9 @@
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>Dennis</FirstName>
-      <LastName>Heldman</LastName>
-      <EmailAddress>heldman.20@osu.edu</EmailAddress>
+      <FirstName>Rolando</FirstName>
+      <LastName>Flores</LastName>
+      <EmailAddress>Rolando.flores@unl.ede</EmailAddress>
       <StartDate>12/16/2015</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
@@ -59,9 +51,17 @@
       <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Investigator>
-      <FirstName>Rolando</FirstName>
-      <LastName>Flores</LastName>
-      <EmailAddress>Rolando.flores@unl.ede</EmailAddress>
+      <FirstName>Jeyamkondan</FirstName>
+      <LastName>Subbiah</LastName>
+      <EmailAddress>jsubbiah2@unl.edu</EmailAddress>
+      <StartDate>12/16/2015</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Dennis</FirstName>
+      <LastName>Heldman</LastName>
+      <EmailAddress>heldman.20@osu.edu</EmailAddress>
       <StartDate>12/16/2015</StartDate>
       <EndDate/>
       <RoleCode>Co-Principal Investigator</RoleCode>
@@ -71,7 +71,7 @@
       <CityName>Lincoln</CityName>
       <ZipCode>685031435</ZipCode>
       <PhoneNumber>4024723171</PhoneNumber>
-      <StreetAddress>2200 Vine St, 151 Whittier</StreetAddress>
+      <StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
       <CountryName>United States</CountryName>
       <StateName>Nebraska</StateName>
       <StateCode>NE</StateCode>

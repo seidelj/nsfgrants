@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Biochemical and Genetic Dissection of SUB1A/SAB18-mediated Tolerance to Submergence and Drought</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>685733</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gerald Schoenknecht</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>To survive, plants and animals must tolerate environmental stress. Two common environmental stressors of plants are flooding and drought. Successful completion of the proposed objectives will validate the function of novel genes and associated pathways that that allow the plant to live through periods of prolonged flooding, and paradoxically, also allow plants to survive drought conditions. The researchers and their colleagues have discovered that, while most types of rice die after three days of complete submergence during flooding, those carrying the Submergence tolerance 1 (SUB1) gene can tolerate this stress, and live through severe flooding events.  This project will explore how the SUB1 gene, and the genes that it interacts with, are able to promote tolerance to flooding and to drought.  The proposed experiments are also expected to lead to important new insights into plant biology with applications to agricultural productivity in one of the world's most important crops. The lead researcher, Ronald, serves as the faculty director of the UC Davis World Food Center's Institute for Food and Agricultural Literacy, where she will continue her work to engage the public on issues related to plant genetics and the science and technology of food production. Students at levels from high school interns to postdoctoral fellows, will be involved in carrying out the work and in outreach activities.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Whereas most rice plants die after three days of complete submergence, those carrying the Submergence tolerance 1 (SUB1) locus are tolerant. The Ronald laboratory and collaborators demonstrated that the rice SUB1 locus encodes three Ethylene Responsive Factor (ERF) transcriptional regulators, SUB1A, SUB1B, and SUB1C and that overexpression of the SUB1A is sufficient to confer submergence tolerance to intolerant rice varieties. The SUB1 locus has also been shown to promote plant survival during drought. The Ronald lab further demonstrated that an uncharacterized member of the OsGTgamma-2 family of GT factors, a novel SANT domain-containing protein called SAB18, (SUB1A BINDING PROTEIN 18), binds SUB1A in yeast. SAB18 overexpression confers SUB1A-dependent enhanced submergence tolerance and remarkably robust drought tolerance. Furthermore SUB1/SAB18ox plants display a reduction of leaf water loss and lipid peroxidation indicating that SAB18 enhances oxidative stress tolerance. The Ronald lab also isolated three fast neutron (FN)-irradiated mutants that serve as SUPPRESSORS OF STRESS TOLERANCE MEDIATED BY SUB1 (sst). The researchers hypothesize that SAB18 positively regulates SUB1A-mediated stress tolerance by forming a protein complex with SUB1A, which binds and activates the promoters of SUB1A, SAB18 and/or genes conferring stress tolerance. It is further hypothesized that the genes encoded by the sst locus are required for these activities. To test these models the researchers propose to: 1) Identify genes and pathways regulated by SAB18. 2) Determine the mechanism of action of SAB18/SUB1A-mediated stress tolerance. 3) Characterize three sst mutants and identify the genes corresponding to the mutations using a whole genome resequencing approach.</AbstractNarration>
+<MinAmdLetterDate>05/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1656501</AwardID>
+<Investigator>
+<FirstName>Pamela</FirstName>
+<LastName>Ronald</LastName>
+<EmailAddress>pcronald@ucdavis.edu</EmailAddress>
+<StartDate>05/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7658</Code>
+<Text>Physiolg Mechansms&amp;Biomechancs</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

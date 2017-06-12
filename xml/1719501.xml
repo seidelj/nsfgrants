@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Targeted Infusion Project: Infusion of Active and Problem-Based Learning for Teaching and Research in the Context of Transportation Disruptive Technologies</AwardTitle>
+<AwardEffectiveDate>05/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>399975</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Claudia M. Rankins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP) through Targeted Infusion Projects supports the development, implementation, and study of evidence-based innovative models and approaches for improving the preparation and success of HBCU undergraduate students so that they may pursue science, technology, engineering or mathematics (STEM) graduate programs and/or careers. The project at Benedict College seeks to enhance undergraduate education by infusing active and problem-based learning strategies into computer science, engineering, mathematics, and physics courses.  The activities and strategies are evidence-based and a strong plan for formative and summative evaluation is part of the project.&lt;br/&gt;&lt;br/&gt;A cohort of Benedict College science and engineering faculty members will incorporate the Environments for Fostering Effective Critical Thinking (EFFECT) model in their teaching and guidance of student research. EFFECT focuses on modular inquiry-based course content to develop critical thinking skills and collaborative teamwork skills. EFFECT was developed by University of South Carolina faculty members, two of whom are involved in this project. It is anticipated that applying the EFFECT model with a thematic focus on transportation disruptive technologies in both teaching and research will increase student interest, learning, retention, and research capacity. The three specific objectives are to: develop autonomous vehicles learning laboratories for teaching and research; build capacity for active and problem-based learning in the classroom; and integrate the EFFECT model in undergraduate research experiences.</AbstractNarration>
+<MinAmdLetterDate>04/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719501</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Pierce</LastName>
+<EmailAddress>piercec@engr.sc.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Darko</LastName>
+<EmailAddress>samuel.darko@benedict.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Huynh</LastName>
+<EmailAddress>huynhn@cec.sc.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Balaji</FirstName>
+<LastName>Iyangar</LastName>
+<EmailAddress>Iyangarb@benedict.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gurcan</FirstName>
+<LastName>Comert</LastName>
+<EmailAddress>Gurcan.Comert@benedict.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Benedict College</Name>
+<CityName>Columbia</CityName>
+<ZipCode>292041058</ZipCode>
+<PhoneNumber>8037054589</PhoneNumber>
+<StreetAddress>Harden and Blanding Sts</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

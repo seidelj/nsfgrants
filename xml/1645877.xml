@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RTG: Algebraic Geometry and Representation Theory</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardAmount>902404</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew D. Pollington</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Algebraic geometry and representation theory are two extremely active fields of mathematics, with deep connections to other areas of mathematics (for example, number theory, topology, and symplectic geometry) and theoretical physics (for example, string theory, conformal field theory, and statistical mechanics). Algebraic geometry studies curves and surfaces defined by polynomial equations and their higher dimensional analogs, while representation theory studies symmetry. The two subjects interact: geometric objects have symmetries and one can use geometry to study symmetry. This Research Training Group project aims to recruit and train young people by engaging them in research in these exciting areas of mathematics. The project involves all levels of education, from undergraduate to postdoctoral studies. The group activities include: (a) outreach at the pre-college level though participation in the Bridge to Calculus high school program and in the Girls' Angle math club; (b) development of new undergraduate courses, a lecture series for undergraduates, undergraduate research experiences, and mentoring of Bridge to Calculus students by undergraduate group members; (c) topical graduate seminars and mini-courses, development of new graduate courses, summer schools for graduate students, and graduate student mentoring of undergraduates; (d) participation of postdoctoral associates in group research seminars and a research conference, and mentoring by postdoctoral associates of undergraduate and graduate students; and (e) active training by the faculty of postdoctoral researchers to help them further develop their independent research programs and professional skills.&lt;br/&gt;&lt;br/&gt;The group activities are centered on research themes in algebraic geometry and representation theory that include derived categories and homological algebra techniques, hyper-Kähler manifolds, quantum cohomology and counting invariants, Hodge theory, and connections with physics and mirror symmetry.  The undergraduate research experience activities include representation theory of finite groups (including modular representation theory), crystals, quivers, computational aspects of commutative algebra and algebraic geometry, and elementary intersection theory.  The project includes organization of a large international research conference in the fifth year.</AbstractNarration>
+<MinAmdLetterDate>04/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1645877</AwardID>
+<Investigator>
+<FirstName>Ivan</FirstName>
+<LastName>Loseu</LastName>
+<EmailAddress>i.loseu@neu.edu</EmailAddress>
+<StartDate>04/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Emanuele</FirstName>
+<LastName>Macri</LastName>
+<EmailAddress>e.macri@neu.edu</EmailAddress>
+<StartDate>04/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ana-Maria</FirstName>
+<LastName>Castravet</LastName>
+<EmailAddress>a.castravet@neu.edu</EmailAddress>
+<StartDate>04/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Weitsman</LastName>
+<EmailAddress>j.weitsman@neu.edu</EmailAddress>
+<StartDate>04/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Valerio</FirstName>
+<LastName>Toledano Laredo</LastName>
+<EmailAddress>V.ToledanoLaredo@neu.edu</EmailAddress>
+<StartDate>04/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7335</Code>
+<Text>WORKFORCE IN THE MATHEMAT SCI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7301</Code>
+<Text>RES TRAINING GROUPS IN THE MATH SCIENCES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

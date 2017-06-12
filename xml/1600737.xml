@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>Houston Summer School on Dynamical Systems</AwardTitle>
     <AwardEffectiveDate>04/01/2016</AwardEffectiveDate>
-    <AwardExpirationDate>03/31/2017</AwardExpirationDate>
+    <AwardExpirationDate>03/31/2018</AwardExpirationDate>
     <AwardAmount>49000</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -68,5 +68,13 @@
       <StateName>Texas</StateName>
       <StateCode>TX</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

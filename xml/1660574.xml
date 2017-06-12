@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I-Corps: Solid-state sorbents for olefin-paraffin separations</AwardTitle>
+    <AwardEffectiveDate>11/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2018</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impacts/commercial potential of this I-corps project is derived from significantly lowering the energy required to separate olefin and paraffin gases. This technology could find application in purifying raw olefin products by supplementing or replacing the existing distillation process. Implementation to this application would reduce global energy consumption by approximately 0.3%, equating to economic savings of billions of dollars and environmental savings associated with reduced electricity demand from polluting power sources. This technology could also be used to recover olefins from the waste streams of polymer and specialty chemical production. Implementation here would reduce overall production costs and the burning of the 'waste' olefins, with associated economic and environmental effects and broader impacts such as making high-quality polymer and specialty chemical products more widely available to consumers. This technology could also find application in the separation of specialty di-olefin feedstocks, reducing the production costs of these di-olefins and related products, with flow on benefits of increasing the accessibility of industry and academia to innovating and diversifying the range of specialty polymer products, increasing consumer choice and quality of life.&lt;br/&gt;&lt;br/&gt;This I-Corps project is to investigate the commercialization potential of solid-state sorbents for separating olefin and paraffin gases. Previously, a new strategy was developed for designing olefin sorbents. Proof-of-concept investigations of these materials showed that they could achieve olefin/paraffin selectivities of approximately 600:1, making them the most selective known solid-state materials for this separation by an order of magnitude. These materials operate under dry conditions and are resistant to acetylene fouling. These properties overcome key limitations of previously investigated technologies which require water (which greatly increases the complexity of the engineering and prevents integration with the existing distillation process), and are contaminated by acetylene (which poisons sorbents and renders the process ineffective for long-term operations). This I-Corps project will identify the best developmental commercialization pathway for this material, and the customers who will be best served by the resulting olefin/paraffin separation system.</AbstractNarration>
+    <MinAmdLetterDate>10/24/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/24/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660574</AwardID>
+    <Investigator>
+      <FirstName>Richard</FirstName>
+      <LastName>Noble</LastName>
+      <EmailAddress>nobler@colorado.edu</EmailAddress>
+      <StartDate>10/24/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Cowan</LastName>
+      <EmailAddress>matthew.cowan@colorado.edu</EmailAddress>
+      <StartDate>10/24/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Colorado at Boulder</Name>
+      <CityName>Boulder</CityName>
+      <ZipCode>803031058</ZipCode>
+      <PhoneNumber>3034926221</PhoneNumber>
+      <StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8023</Code>
+      <Text>I-Corps</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

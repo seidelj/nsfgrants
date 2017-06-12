@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI: Probing the Pre-Eruption Magmatic Record of the Youngest Toba Tuff through Titanium and Aluminum Diffusion Timescales in Quartz Crystals</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Constraining how quickly the enormous magma reservoirs that feed volcanic supereruptions can mobilize from a quiescent state to a state capable of eruption is important for overall understanding of large magma systems and the volcanic hazard they may pose. To probe the timescales of magma mobilization, chemical information contained within crystals that were growing in a magma reservoir can be extracted and used to gain insight into the timing of any changes in the conditions and processes that occurred in the magma reservoir before eruption. This project will investigate potential signals of magma mobilization in the pre-eruption growth record of quartz crystals found within the enormous (2800 km3) Youngest Toba Tuff (YTT), which explosively erupted 74,000 years ago from Toba Caldera in Sumatra, Indonesia. The research will be conducted at Nanyang Technological University in Singapore under the mentorship of Dr. Fidel Costa, a noted expert in applying chemical zoning and diffusion in crystals to timescales of magmatic system processes. &lt;br/&gt;&lt;br/&gt;Striking near-rim zonation present within YTT quartz crystals under cathodoluminescence imaging is indicative of distinct of periods of growth for these crystals, and often with a final stage under different temperature or pressure conditions. The boundary between crystal zones represents a chemical disequilibrium where, through time at magmatic temperatures, elements will diffuse in the crystal to attain equilibrium. For this project, titanium and aluminum concentrations will be measured across crystal zone boundaries to determine the magnitude of diffusional relaxation that has occurred. The yielded diffusion profiles will then be matched to numerically modeled time-dependent profiles to determine the time elapsed between zone growth and eruption. The coupling of titanium diffusional relaxation with that of aluminum in quartz is a novel approach that should yield more robust temporal constraints and interpretations than one element alone. The results will allow the researchers to determine the onset of near-eruption quartz crystallization events, and the potential relation of these events to YTT magma system mobilization and/or alternative processes, such as syn-eruptive decompression. &lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the National Research Foundation of Singapore.</AbstractNarration>
+<MinAmdLetterDate>05/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714053</AwardID>
+<Investigator>
+<FirstName>Casey</FirstName>
+<LastName>Tierney</LastName>
+<EmailAddress/>
+<StartDate>05/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tierney                 Casey          R</Name>
+<CityName>Flagstaff</CityName>
+<ZipCode>860013320</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5927</Code>
+<Text>EAST ASIA, OTHER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

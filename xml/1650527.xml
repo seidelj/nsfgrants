@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I/UCRC: Penn State University Phase III: Center for e-Design</AwardTitle>
+    <AwardEffectiveDate>03/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>50000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Dmitri Perkins</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Center for e-Design (CED) is an NSF Industry/University Cooperative Research Center (IUCRC) that works with its member organizations to research and advance solutions to complex problems associated with the innovation, design, production, distribution, and sustainment of innovative and high quality products and systems, that minimize costs and are responsive to the rapidly changing marketplace. Concurrent design of products and supporting processes; improved integration and collaboration among people, tools, and information; process improvements; knowledge capture and reuse; and automated/assisted decision-making are just some of the strategies employed. The Center for e-Design has research sites in place at six universities (Iowa State University, the University of Massachusetts Amherst, the University of Buffalo, Brigham Young University, Oregon State University, and Wayne State University). This project adds The Pennsylvania State University (Penn State), a seventh university, to the research sites in the Center. Penn State brings expertise from a diverse interdisciplinary team of researchers from several departments, colleges, university centers and institutes. The primary contribution of the Penn State team will include the following areas: crowd-based design, big data analytics, design theory and innovation, collaborative design, design optimization, additive manufacturing, smart manufacturing, and model-based enterprise.&lt;br/&gt;&lt;br/&gt;The Center for e-Design's activities are organized around three major efforts which deliver value to its industry/government partners: 1) Fundamental Research focuses on creating tools, methods, and technologies to address industry relevant needs in e-tools-enabled product development and realization including enabling information infrastructure; conceptual design tools; multidisciplinary constraint management and optimization; and virtual prototyping and simulation; 2) Research Test Bed focuses on integration of interdisciplinary research activities to validate developed tools, methods, and technologies and establish a common framework for multiple applications while fostering collaboration between academic and industry research projects; and 3) Engineering Education and Technology Transfer, which focuses on educating a new cadre of engineers and scientists proficient in e-design and rapidly transferring research results into usable applications for industry and government.</AbstractNarration>
+    <MinAmdLetterDate>02/28/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/28/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650527</AwardID>
+    <Investigator>
+      <FirstName>Janis</FirstName>
+      <LastName>Terpenny</LastName>
+      <EmailAddress>jpt5311@psu.edu</EmailAddress>
+      <StartDate>02/28/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Pennsylvania State Univ University Park</Name>
+      <CityName>UNIVERSITY PARK</CityName>
+      <ZipCode>168027000</ZipCode>
+      <PhoneNumber>8148651372</PhoneNumber>
+      <StreetAddress>110 Technology Center Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

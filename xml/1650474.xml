@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I/UCRC Phase II: Center for Identification Technology Research</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2022</AwardExpirationDate>
+    <AwardAmount>100000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Dmitri Perkins</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Center for Identification Technology Research (CITeR) is an Industry/University Cooperative Research Center (I/UCRC) that is focused on developing and championing technologies and systems for managing the identity of individuals. Having a provable and verifiable identity is necessary for an individual to function in modern society. Working in partnership with government and industry stakeholders, CITeR advances the state of the art in human identification capabilities through coordinated university research related to providing, confirming, and determining identity. Its overall focus is on human analytics, identity science, biometric analysis, and technical implementation of privacy and policy. The WVU site provides innovations related to the increased use of biomolecular analysis (e.g., rapid DNA), cloud computing, mobile devices (e.g., smartphones), and video analytics. These innovations help to protect society and improve the national defense by providing pathways for identifying bad actors, while advancing the science of computing, analytics, and signal processing. CITeR engages graduate students and undergraduates in research, is active in outreach to K-12 students, and actively identifying and addressing the educational needs of next-generation professionals in the identification technology arena. The WVU site brings to the Center its first-ever undergraduate degree specifically focused on biometrics (B.S. in Biometric Systems) and is positioned in proximity to the expanding hub of biometric activity that has arisen in North Central West Virginia.&lt;br/&gt;&lt;br/&gt;The WVU Site will focus on four technical areas related to CITeR's technical area of Identity: (1) Biomolecular biometrics, (2) Cross-modal and cross-spectral matching, (3) Mobile and cloud biometrics, and (4) Video analytics. Recent advances in rapid DNA will be leveraged to provide tools and techniques to aid investigators, for instance, by providing the capability to extract small amounts of DNA from fingerprints. Cross-modal and cross-spectral matching provide improved ways to recognize subjects in unconstrained environments; for instance, by comparing thermal-to-visible images, thermal surveillance imagery can be compared with visible gallery imagery. Empowered by the cloud, mobile biometrics can improve convenience, but technical solutions must take privacy and security into account. Video analytics can allow subjects to be tracked across multiple camera views and allow their actions to be recognized.</AbstractNarration>
+    <MinAmdLetterDate>03/10/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/10/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1650474</AwardID>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Valenti</LastName>
+      <EmailAddress>mvalenti@wvu.edu</EmailAddress>
+      <StartDate>03/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Nasser</FirstName>
+      <LastName>Nasrabadi</LastName>
+      <EmailAddress>nasser.nasrabadi@mail.wvu.edu</EmailAddress>
+      <StartDate>03/10/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>West Virginia University Research Corporation</Name>
+      <CityName>Morgantown</CityName>
+      <ZipCode>265066845</ZipCode>
+      <PhoneNumber>3042933998</PhoneNumber>
+      <StreetAddress>P.O. Box 6845</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>West Virginia</StateName>
+      <StateCode>WV</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

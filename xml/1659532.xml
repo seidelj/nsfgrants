@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Georgetown University REU for Materials Physics</AwardTitle>
+    <AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2020</AwardExpirationDate>
+    <AwardAmount>339658</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03070000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Materials Research</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jose Caro</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Technical Summary&lt;br/&gt;Each year, nine undergraduates from diverse backgrounds and a broad spectrum of institutions are recruited for a 10-week summer research experience in materials physics at Georgetown University. Students engage in experimental, computational, and theoretical research projects in nanoscale physics, soft matter, device physics, active matter, biophysics, and cold-atom systems. Taking advantage of Georgetown's location in the nation's capital, students are exposed to the role of science, particularly materials research, in public policy. These activities build on Georgetown's existing programs designed to engage undergraduate science majors directly with the government on issues of national importance, and help build an understanding of the connection between scientific research and the world outside of the laboratory. Students also participate in a variety of professional development activities, many of which are held jointly with the REU in the Georgetown Biology Department.&lt;br/&gt;&lt;br/&gt;Non-Technical Summary&lt;br/&gt;The National Science Foundation supported Research Experiences for Undergraduates in Materials Physics at Georgetown University provides undergraduates from diverse backgrounds and a broad spectrum of institutions an opportunity to engage in important and challenging research in the fundamental science of materials, while developing technical and professional skills necessary for a successful career in science. In addition, students are exposed to the role of science, particularly materials research, in public policy, and meet with science policy practitioners in the Nation's Capital. Recruitment efforts focus on students from schools with limited research programs, as well as members of underrepresented groups. The engagement in focused research projects, exploration of the broader role of science and scientists in society, and development of lasting relationships with faculty mentors positively influences student perceptions of careers in science and helps increase the pool of future materials researchers. In addition, students who complete this REU are uniquely qualified to understand and communicate the importance of materials science in technological progress and in addressing societal challenges</AbstractNarration>
+    <MinAmdLetterDate>03/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1659532</AwardID>
+    <Investigator>
+      <FirstName>Amy</FirstName>
+      <LastName>Liu</LastName>
+      <EmailAddress>liua@georgetown.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jeffrey</FirstName>
+      <LastName>Urbach</LastName>
+      <EmailAddress>urbach@physics.georgetown.edu</EmailAddress>
+      <StartDate>03/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Georgetown University</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200571789</ZipCode>
+      <PhoneNumber>2026250100</PhoneNumber>
+      <StreetAddress>37th &amp; O St N W</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7222</Code>
+      <Text>XC-Crosscutting Activities Pro</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1711</Code>
+      <Text>MATERIALS EDUCATION AND RESEARCH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7237</Code>
+      <Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8396</Code>
+      <Text>Clean Energy Technology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8607</Code>
+      <Text>Solar Energy Capture&amp;Conver</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8615</Code>
+      <Text>Nanoscale Devices and Systems</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

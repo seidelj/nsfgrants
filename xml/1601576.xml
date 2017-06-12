@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>DISSERTATION RESEARCH: Proximate Mechanisms of Aggression in Role Reversed Species</AwardTitle>
     <AwardEffectiveDate>06/01/2016</AwardEffectiveDate>
-    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardExpirationDate>05/31/2018</AwardExpirationDate>
     <AwardAmount>18779</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -15,7 +15,7 @@
         <LongName>Direct For Biological Sciences</LongName>
       </Directorate>
       <Division>
-        <LongName>Division Of Integrative Organismal Sys</LongName>
+        <LongName>Division Of Integrative Organismal Systems</LongName>
       </Division>
     </Organization>
     <ProgramOfficer>
@@ -27,20 +27,20 @@
     <ARRAAmount/>
     <AwardID>1601576</AwardID>
     <Investigator>
-      <FirstName>Sara</FirstName>
-      <LastName>Lipshutz</LastName>
-      <EmailAddress>slipshut@tulane.edu</EmailAddress>
-      <StartDate>03/25/2016</StartDate>
-      <EndDate/>
-      <RoleCode>Co-Principal Investigator</RoleCode>
-    </Investigator>
-    <Investigator>
       <FirstName>Elizabeth</FirstName>
       <LastName>Derryberry</LastName>
       <EmailAddress>ederrybe@tulane.edu</EmailAddress>
       <StartDate>03/25/2016</StartDate>
       <EndDate/>
       <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Sara</FirstName>
+      <LastName>Lipshutz</LastName>
+      <EmailAddress>slipshut@tulane.edu</EmailAddress>
+      <StartDate>03/25/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
     </Investigator>
     <Institution>
       <Name>Tulane University</Name>

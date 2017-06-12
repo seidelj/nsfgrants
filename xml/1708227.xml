@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Synthesis of Controlled III-Nitride Nanostructures</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>135135</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tania Paskova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical description: This project aims to develop methods for producing advanced nanometer-scale semiconductor materials, called quantum dots. The research effort employs a new synthesis technique to create ensembles of these quantum dots, enabling better control of their size, density and distribution. By controlling the quantum dots characteristics, their properties could be tuned closer to theoretical predictions and desired performance. These new materials  are aimed to be used as active components in more efficient electronic devices for applications that positively impact the nation's economy, including solid-state lighting, photovoltaics, visible lasers, high temperature sensors, and ultra-violet light-emitting diodes. The research is incorporated into K-12 education and outreach activities, and is also integrated into graduate and undergraduate courses to broaden the educational experience beyond the laboratory. This project trains two graduate students in the highly important areas of advanced semiconductor materials synthesis, materials characterization, theory, and device technologies.&lt;br/&gt;&lt;br/&gt;Technical description: The principal goal of this project is to explore synthesis methods to produce monodisperse epitaxial quantum dots in III-Nitride semiconductors. Specifically, this project efforts include: (i) synthesis of quantum dot ensembles using quantum-sized-controlled photoelectrochemical etching, (ii) regrowth of capping layers on top of these quantum dots; (iii) forming p-n junctions with quantum dot active layers, and (iv) characterization of optical properties of the quantum dots and resulting gain, spontaneous emission, and radiative efficiency to established models. These quantum dot ensembles with controlled energy distribution, density, and alloy composition are expected to enable strong quantum effects in III-Nitride semiconductors, addressing various limitations in III-Nitrides by tailoring their bandstructure in order to overcome the Auger recombination, poor radiative efficiencies at longer visible wavelengths, high thresholds in laser diodes, and unfavorable optical polarization in AlGaN ultra-violet emitters.</AbstractNarration>
+<MinAmdLetterDate>04/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1708227</AwardID>
+<Investigator>
+<FirstName>Nelson</FirstName>
+<LastName>Tansu</LastName>
+<EmailAddress>tansu@lehigh.edu</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Wierer, Jr.</LastName>
+<EmailAddress>jjw415@lehigh.edu</EmailAddress>
+<StartDate>04/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lehigh University</Name>
+<CityName>Bethlehem</CityName>
+<ZipCode>180153005</ZipCode>
+<PhoneNumber>6107583021</PhoneNumber>
+<StreetAddress>Alumni Building 27</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RUI: Engineering Nanoscale Disorder in Polymer-Semiconductor Nanocrystal Composites for Minimized Optical Losses</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2020</AwardExpirationDate>
+    <AwardAmount>390000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03070000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Materials Research</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Eugene Zubarev</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Nontechnical Abstract:&lt;br/&gt;This research is developing new approaches for the design and preparation of high performance polymer- nanocrystal composites engineered to minimize optical losses. Polymer-nanocrystal composites are employed in a wide range of applications, such as for lighting and displays, as scintillation detectors, light-emitting diodes, and solar concentrators. This research is integrating theory, synthesis, and materials characterization, to enable improved polymer-nanocrystal composites for the most demanding optical applications. Western Washington University (WWU) is a primarily undergraduate institution where undergraduates comprise the majority of the scientific workforce and are involved in every phase of the research. About five undergraduates per year are participating in the project, receiving a strong foundation in materials and synthetic chemistry, optics, and mathematics, as well as the chance to experience the excitement of independent, creative scientific investigation. The research also involves outreach to 5th and 6th graders, and to underrepresented groups in local high schools, as well as other outreach activities.&lt;br/&gt;&lt;br/&gt;Technical Abstract:&lt;br/&gt;This research is developing new approaches for the design and preparation of densely-packed, high performance polymer-luminescent semiconductor nanocrystal (NC) composites engineered to minimize optical losses through nanometer- to micron-scale control of interparticle spacing distributions. Polymer-NC composites are employed as optically-active elements in a wide range of applications, such as downshifting layers for lighting and displays, as scintillation detectors, hybrid organic/inorganic light-emitting diodes, and luminescent solar concentrators. These and related applications often require a higher volumetric density of NCs, along with better nanoparticle dispersion, than is currently achievable, in order to minimize aggregation-induced optical losses from light scattering and interparticle energy- and charge-transfer. Purely random dispersions fail to minimize optical losses from several important mechanisms characterized by a non-linear dependence on particle spacing, including elastic light-scattering, and quenching caused by near-field interparticle energy- and charge-transfer, because these processes are dominated not by the mean interparticle separation, but instead by fluctuations around the mean. The development of high performance polymer-NC composites for the most demanding optical applications necessitates a careful balance of order and disorder, managed over nanometer- to micron-length scales, requiring more careful design and control over interparticle spacing statistics than has generally been recognized or pursued. This research is integrating theory, synthesis, and materials characterization, in order to identify, measure, and control the key statistical properties of luminescent NC spatial distributions which govern non-linear distance-dependent loss mechanisms. The overall results are new concepts and new materials for high performance polymer-NC composites needed for the most demanding optical applications. Western Washington University (WWU) is a primarily undergraduate institution where undergraduates comprise the majority of the scientific workforce and are involved in every phase of the research. About five undergraduates per year are participating in the project, receiving a strong foundation in materials and synthetic chemistry, optics, and mathematics, as well as the chance to experience the excitement of independent, creative scientific investigation. The PIs encourage students to explore and understand implications of their work beyond science by participating in regional business plan contests with product concepts derived from this undergraduate research. Additional outreach activities include laboratory tours and hands-on activities with 5th and 6th graders through WWU's Compass-to-Campus program; direct involvement of high school students in the research; and outreach to local high schools, especially those serving large populations of Hispanic students.</AbstractNarration>
+    <MinAmdLetterDate>03/30/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/30/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1710667</AwardID>
+    <Investigator>
+      <FirstName>David</FirstName>
+      <LastName>Patrick</LastName>
+      <EmailAddress>david.patrick@wwu.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>McDowall</LastName>
+      <EmailAddress>stephen.mcdowall@wwu.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Gilbertson</LastName>
+      <EmailAddress>john.gilbertson@wwu.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>David</FirstName>
+      <LastName>Rider</LastName>
+      <EmailAddress>david.rider@wwu.edu</EmailAddress>
+      <StartDate>03/30/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Western Washington University</Name>
+      <CityName>Bellingham</CityName>
+      <ZipCode>982259038</ZipCode>
+      <PhoneNumber>3606502884</PhoneNumber>
+      <StreetAddress>516 High Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Washington</StateName>
+      <StateCode>WA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1762</Code>
+      <Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7237</Code>
+      <Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8396</Code>
+      <Text>Clean Energy Technology</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8607</Code>
+      <Text>Solar Energy Capture&amp;Conver</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8614</Code>
+      <Text>Nanomaterials</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8990</Code>
+      <Text>Optics and Photonics</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9229</Code>
+      <Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

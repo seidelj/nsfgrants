@@ -45,12 +45,12 @@
       <StateCode>NJ</StateCode>
     </Institution>
     <ProgramElement>
-      <Code>7797</Code>
-      <Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
-    </ProgramElement>
-    <ProgramElement>
       <Code>1640</Code>
       <Text>INFORMATION TECHNOLOGY RESEARC</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7797</Code>
+      <Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
     </ProgramElement>
     <ProgramReference>
       <Code>7556</Code>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>The role of ecosystem services in adaptation to global change</AwardTitle>
+    <AwardEffectiveDate>03/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2020</AwardExpirationDate>
+    <AwardAmount>184000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06010000</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>ICER</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maria L. Uhle</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This grant fulfills a U.S. Government obligation incurred at the Twenty-first Meeting of the IAI Conference of the Parties, whereby signatories of the Treaty Establishing the Inter-American Institute for Global Change Research (IAI) agreed to contributions towards a research budget supporting the activities of the Inter-American Institute for Global Change Research. This award supports a series of small projects that will supplement, expand and complete the CRN3 program towards further development of interdisciplinary solution-oriented science in the Americas. The timeline will allow for coordination with CRN3 activities under a no-cost extension for ongoing CRN projects. Up to 3 international collaborative research networks will be funded for 2 years of research on the role of ecosystem services in adaptation to global change, a theme framed to reinforce close collaborations on the human and biophysical dimensions of global change and sustainability.</AbstractNarration>
+    <MinAmdLetterDate>03/27/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/27/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1645887</AwardID>
+    <Investigator>
+      <FirstName>Holm</FirstName>
+      <LastName>Tiessen</LastName>
+      <EmailAddress>htiessen@dir.iai.int</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Elma</FirstName>
+      <LastName>Montana</LastName>
+      <EmailAddress>emontana@dir.iai.int</EmailAddress>
+      <StartDate>03/27/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Inter-American Institute for Global Change Research</Name>
+      <CityName>Montevideo</CityName>
+      <ZipCode>11500</ZipCode>
+      <PhoneNumber>26039552</PhoneNumber>
+      <StreetAddress>Av. Italia 6201</StreetAddress>
+      <CountryName>Uruguay</CountryName>
+      <StateName/>
+      <StateCode/>
+    </Institution>
+    <ProgramElement>
+      <Code>7313</Code>
+      <Text>REGIONAL INST FOR GLOBAL CHANG</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1679</Code>
+      <Text>INTERNATIONAL COORDINATION ACT</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7313</Code>
+      <Text>REGIONAL INST FOR GLOBAL CHANG</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>EGCH</Code>
+      <Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

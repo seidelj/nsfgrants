@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  Phase-State Water Sensor</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2017</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is safely monitoring in real-time the condition of any surface that is affected by unwanted ice accumulation. Instead of using a time consuming and potentially dangerous visual inspection process, building and structure owners and operators can remotely assess icing conditions on any surface where ice could accumulate. Adopting this time and cost saving technology reduces the risk of the public and workers being harmed by falling ice, and also assists managers in making the appropriate operating decisions for icing mitigation measures such as activation of a deicing system.  Initial applications may include bridges, tall buildings, bus terminals, museums and other structures.&lt;br/&gt;&lt;br/&gt;This I-Corps project is a water phase sensor that determines the icing condition at a point on the surface of structure. When a structure goes through an icing cycle (ice accumulation, ice persistence and ice shedding), water changes phase from liquid to solid and back. When ice accumulates, water freezes on the surface which can be detected by the sensor. Before the ice sheds, water starts to appear beneath the ice layer. The sensor can also identify this water. This technology is the only point source surface mounted ice detector, and thus is distinguished from other technologies that do not attach on a surface and that utilize the weather conditions in the local area to predict the presence of ice on a surface. In addition, the other detection technologies utilize materials that are different from the material of the structure's surface. For these reasons, existing sensors may not provide a good representation of ice collecting on the actual surface of the structure. This sensor's accuracy, reliability, and durability have been demonstrated through laboratory and field tests. This testing includes three years of deployment in the field.</AbstractNarration>
+<MinAmdLetterDate>04/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738721</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Nims</LastName>
+<EmailAddress>dnims@eng.utoledo.edu</EmailAddress>
+<StartDate>04/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Toledo</Name>
+<CityName>TOLEDO</CityName>
+<ZipCode>436063390</ZipCode>
+<PhoneNumber>4195302844</PhoneNumber>
+<StreetAddress>2801 W Bancroft St., MS 944</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

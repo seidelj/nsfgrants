@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: Gastrointestinal Therapeutic Device for Alleviating Postoperative Ileus</AwardTitle>
+    <AwardEffectiveDate>12/01/2016</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
+    <AwardAmount>225000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jesus Soriano Molla</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to provide patients with a new gastrointestinal therapeutic device for the alleviation of postoperative ileus (POI) and the restoration of gastrointestinal motility. POI is an impairment of gastrointestinal motility that often develops following abdominal surgery and causes significant discomfort and comorbidities to both patients and their families. Existing solutions in the prevention or treatment of POI based on management strategies and pharmaceutical therapies have limited efficacy and are highly anecdotal. There is also no effective way for clinicians to quantitatively monitor the severity and resolution of POI. The project is valuable and timely, and it represents a significant departure from the status quo. The success of this project would not only benefit the patients undergoing abdominal surgery and their families, but also would significantly reduce the health care expenditure in the United States by shortening the hospitalization stay as well as the associated medical resources. The developed technologies can be further served as research tools for various biomedical applications to investigate underlying biological mechanisms and the feasibility study of novel treatment method for different diseases.&lt;br/&gt;&lt;br/&gt;The proposed project is to develop and demonstrate a wireless extra-luminal closed-loop gastrointestinal modulation device, capable of simultaneously neuromodulating the gastrointestinal tract and recording gastrointestinal motility wirelessly for alleviating POI, resulting in enhancing gastrointestinal motility. POI costs over US $1.5 billion annually to its healthcare system. Safely shortening this length of stay by one day would produce significant dividends, leading to a market size of more than $700 million annually. The proposed project will address not only the design and optimization of a bioelectronic device, but also the integration and miniaturization of the wireless gastrointestinal therapeutic device. Animal study is to be conducted to validate the efficacy of the device in modulating and wirelessly recording of gastrointestinal motility, and its safety and reliability. If successful, the outcome will lead to a new bioelectronics medicine that advances the treatment of POI, and can be potentially expanded to other medical applications.</AbstractNarration>
+    <MinAmdLetterDate>12/02/2016</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/02/2016</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1647917</AwardID>
+    <Investigator>
+      <FirstName>Yi-Kai</FirstName>
+      <LastName>Lo</LastName>
+      <EmailAddress>yikailo@gmail.com</EmailAddress>
+      <StartDate>12/02/2016</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Niche Biomedical LLC</Name>
+      <CityName>Los Angeles</CityName>
+      <ZipCode>900243102</ZipCode>
+      <PhoneNumber>8318184537</PhoneNumber>
+      <StreetAddress>10724 Lindbrook Dr</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>124E</Code>
+      <Text>CENTERS: BIOENG &amp; HEALTH CARE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5345</Code>
+      <Text>BIOMEDICAL ENGINEERING</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8042</Code>
+      <Text>Health and Safety</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

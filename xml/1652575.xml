@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Investigating the Micromechanics of Fracture in Additively Manufactured Metals</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2022</AwardExpirationDate>
+    <AwardAmount>500000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Alexis Lewis</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Faculty Early Career Development (CAREER) Program award supports fundamental research on additive manufacturing of metallic materials, with the aim of uncovering a fundamental understanding of the processing-structure-fracture property relationships in metallic components made by additive manufacturing. The researchers will use novel experiments and simulations to link processing to microstructure to fracture properties over a range of loading conditions that would be experienced by parts in service. The resultant knowledge will enable the adoption of additive manufacturing for structural components, which has the potential to reduce waste of material, reinvigorate U.S. manufacturing, and increase design flexibility in engineering. This work integrates research, education, and outreach, and aims to use public interest in additive manufacturing as a vehicle by which to excite and educate pre-college, undergraduate, and graduate students about science, technology, engineering, and math, with a focus on increasing female participation and retention in these areas. Additive manufacturing is a technology has countless potential applications, including: fabrication of custom components (e.g., in the biomedical industry), replacement and optimization of legacy components (e.g., in the Departments of Defense and Energy), and repair of existing components. However, the adoption of additively manufactured components in load-bearing applications requires that the mechanical properties, namely the strength and fracture properties of these components, be understood.&lt;br/&gt;&lt;br/&gt;The microstructural characteristics of additively manufactured components, namely grain and internal porosity size and orientation, depend on the local thermal history within a component. These heterogeneous and anisotropic microstructural features will dictate the fracture performance of additively manufactured components. However, there is a lack of fundamental knowledge on the relative importance of these features on fracture, particularly under multiaxial stress states. This research aims to uncover the microstructural mechanisms of fracture, namely how grain and pore size and shape drive the ductile fracture process in a stainless steel alloy over a wide range of stress states that components would see in service, including tension, shear, and combined loading. Through characterization of internal microstructural features and the use of computational modeling, the relative effects of these microstructural features on the macroscopic multiaxial fracture behavior will be quantified. Physically-based fracture models will be developed to describe the stress-state dependent statistical fracture properties, as a function of microstructural features, of components made by additive manufacturing.</AbstractNarration>
+    <MinAmdLetterDate>03/14/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/14/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1652575</AwardID>
+    <Investigator>
+      <FirstName>Allison</FirstName>
+      <LastName>Beese</LastName>
+      <EmailAddress>amb961@psu.edu</EmailAddress>
+      <StartDate>03/14/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Pennsylvania State Univ University Park</Name>
+      <CityName>UNIVERSITY PARK</CityName>
+      <ZipCode>168027000</ZipCode>
+      <PhoneNumber>8148651372</PhoneNumber>
+      <StreetAddress>110 Technology Center Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8092</Code>
+      <Text>Materials Eng. &amp; Processing</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8021</Code>
+      <Text>Materials Engineering</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8025</Code>
+      <Text>Advanced Materials Processing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8037</Code>
+      <Text>Advanced Manufacturing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9102</Code>
+      <Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

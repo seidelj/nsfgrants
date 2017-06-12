@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>US-China Workshop on Impacts of a Changing Cryosphere on High Elevation Climate, Weather, and Aquatic Ecosystems</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>72872</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Junping Wang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides travel support for US-based participants to the US-China workshop on "Impacts of a changing cryosphere on high elevation climate,weather, and aquatic ecosystems", to be held near Qinghai Lake, China in August/September 2017. Climate, weather, and aquatic ecosystems such as streams and lakes are intimately connected to each other.  This is especially true in mountain regions where glaciers as well as permanent and seasonal snowpack have major effects on physical (temperature), chemical (nutrients like nitrogen and phosphorus), and biological (microbes, algae, fish) features of streams and lakes.  However, mountain environments are experiencing very rapid changes in climate, even more pronounced than global averages. Since mountain regions are like humanity's "water towers", we need a better understanding of what these changing environmental conditions mean for the quantity and quality of our water supply.  To best advance this understanding, scientists in different regions need to compare their findings and share their best practices of analysis and discovery. This project will support an intensive interdisciplinary workshop in which scientists, mathematicians, and engineers from the USA and China will meet to share data, develop collaborations, and make plans for further work to advance our understanding of how a changing alpine environment might affect lakes and streams and thus our water resources.&lt;br/&gt;&lt;br/&gt;Ongoing climate variation is having major physical, chemical, and biological impacts on global ecosystems. Aquatic ecosystems in mountain regions are especially impacted due to amplified temperature increases observed at high elevation and due to the sensitivity of key cryospheric components (glaciers, snowpack) to changes in temperature and precipitation. The ongoing changes in the cryosphere are widespread, complex, and affect a variety of key parameters for alpine lakes and streams such as temperature, transparency, discharge, and nutrient supply. The roles of natural variability versus external forcing in driving observed changes in snow and glacier distributions, as well as high elevation energy, water, weather, and biogeochemical cycles, need to be investigated. Documenting, understanding, and forecasting these impacts is challenging and requires broad interdisciplinary collaborations. To address these global challenges, this workshop will bring together experts in limnology, meteorology, atmospheric science, and hydrology as well as data science and mathematical modeling from both the USA and China to coordinate research, share key findings, identify major unanswered questions, and establish a network for future collaboration. This award is co-funded by the Office of International Science and Engineering, the Divisions of Earth Sciences and Atmospheric and Geospace Sciences of the GeoScience Directorate, and the Divisions of Biological Infrastructure and Environmental Biology of the BIO Directorate.</AbstractNarration>
+<MinAmdLetterDate>04/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723516</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Elser</LastName>
+<EmailAddress>jim.elser@umontana.edu</EmailAddress>
+<StartDate>04/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Montana</Name>
+<CityName>Missoula</CityName>
+<ZipCode>598120001</ZipCode>
+<PhoneNumber>4062436670</PhoneNumber>
+<StreetAddress>32 CAMPUS DRIVE MAIN HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>054Y</Code>
+<Text>GVF - Global Venture Fund</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1579</Code>
+<Text>HYDROLOGIC SCIENCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7334</Code>
+<Text>MATHEMATICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7959</Code>
+<Text>MACROSYSTEM BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9200</Code>
+<Text>US CHINA COOP IN BASIC SCIENCE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

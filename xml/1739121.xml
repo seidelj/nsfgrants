@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2017 Interior of the Earth GRC/GRS</AwardTitle>
+<AwardEffectiveDate>05/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>45000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Reichlin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant will partially support the 2017 Interior of the Earth Gordon Research Conference (GRC, June 4-9, 2017) and the Gordon Research Seminar (GRS, June 3-4, 2017) which will be held at Mount Holyoke College in South Hadley, Massachusetts. The GRC is the 11th in a series of Gordon Research Conferences that focus on the structure, dynamics and evolution of the Earth's interior. The Gordon Conference will be preceded by a Gordon Research Seminar, a unique forum for graduate students, post-docs, and other scientists with comparable levels of experience and education to present and exchange new data and cutting edge ideas. NSF funds will be used to attract young scientists to the GRC and GRS, from a diverse range of institutions, backgrounds and scientific disciplines. The 2017 Interior of the Earth GRC will focus on the deep Earth with the theme "Chemical and dynamical evolution of Earth's deep interior, from formation to today". The 2017 GRC includes nine special sessions with topical focus that spans the interior from the transition zone to the inner core, from the time of Earth accretion to the present day. The conference will provide an opportunity for junior scientists and graduate students to present their work in poster format and exchange ideas with leading researchers. The latter will be greatly facilitated by the preceding GRS, which has the theme "The Natural History of Plate Tectonics". The Gordon Research Seminar should foster development of new research directions in this field and would contribute to the health of a diverse STEM workforce. The field of study is multidisciplinary by nature, requiring input from many branches of the Earth Sciences. The organizers have sought to feature women and underrepresented groups when selecting the presenters and leaders.</AbstractNarration>
+<MinAmdLetterDate>04/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1739121</AwardID>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Garnero</LastName>
+<EmailAddress>garnero@asu.edu</EmailAddress>
+<StartDate>04/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gordon Research Conferences</Name>
+<CityName>West Kingston</CityName>
+<ZipCode>028921502</ZipCode>
+<PhoneNumber>4017834011</PhoneNumber>
+<StreetAddress>512 Liberty Lane</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1585</Code>
+<Text>STUDIES OF THE EARTHS DEEP INT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

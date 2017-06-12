@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Automorphic Forms and L-Functions</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>158997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew  Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Automorphic forms and L-functions are special kinds of mathematical functions that are useful for studying a broad array of questions in number theory. For instance, the Riemann zeta function, which has proven to be indispensable in studying the distribution of the prime numbers, is the simplest example of an L-function. Other types of L-functions are crucial for understanding whether certain polynomial equations have solutions, or more generally, how many solutions there are. Often these questions are related to how large the value of an L-function is at a special point. This project concerns the development of new tools for studying the values of L-functions.&lt;br/&gt;&lt;br/&gt;The investigator will study moments of L-functions that are beyond the convexity range, and deduce new bounds for central values of L-functions. A related theme is to develop foundational tools to study new families of L-functions, including a Petersson formula for newforms of arbitrary level.  Such tools are necessary to advance the analytic method for studying the representation problem for ternary quadratic forms. In addition, the investigator will study different aspects of the equidistribution of automorphic forms, such as restricted quantum unique ergodicity (QUE) as well as QUE in higher rank settings.  Finally, the investigator will study the zeros of automorphic functions of various types. The methods employed will be techniques from analytic number theory such as summation formulas, exponential sums and integrals, and the spectral theory of automorphic forms.</AbstractNarration>
+<MinAmdLetterDate>04/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702221</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Young</LastName>
+<EmailAddress>myoung@math.tamu.edu</EmailAddress>
+<StartDate>04/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M University Main Campus</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

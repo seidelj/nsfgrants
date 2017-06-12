@@ -4,7 +4,7 @@
   <Award>
     <AwardTitle>Concluding conference of the Special Program on Nonlinear Equations: Progress and Challenges in Nonlinear Equations</AwardTitle>
     <AwardEffectiveDate>03/01/2016</AwardEffectiveDate>
-    <AwardExpirationDate>02/28/2017</AwardExpirationDate>
+    <AwardExpirationDate>11/30/2017</AwardExpirationDate>
     <AwardAmount>50000</AwardAmount>
     <AwardInstrument>
       <Value>Standard Grant</Value>
@@ -44,5 +44,17 @@
       <StateName>Massachusetts</StateName>
       <StateCode>MA</StateCode>
     </Institution>
+    <ProgramElement>
+      <Code>1281</Code>
+      <Text>ANALYSIS PROGRAM</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1265</Code>
+      <Text>GEOMETRIC ANALYSIS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
   </Award>
 </rootTag>

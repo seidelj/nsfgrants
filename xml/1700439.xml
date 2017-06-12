@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>On Numbers, Germs, and Series</AwardTitle>
+    <AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2020</AwardExpirationDate>
+    <AwardAmount>57594</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03040000</Code>
+      <Directorate>
+        <LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Mathematical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Tomek Bartoszynski</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project applies algebraic and model-theoretic tools to study the growth rates of functions. Algebra is one of the oldest branches of mathematics, whereas model theory is a branch of mathematical logic, a fairly new subject that originated in the late 19th century with philosophical investigations into the foundations of mathematics. However, in recent decades logic has found many applications in other parts of mathematics, in computer science, and even in engineering. For about fifteen years, the PI has been involved in a collaborative effort to develop a model-theoretic treatment of asymptotic analysis. These investigations are naturally related to other fields within mathematics (mainly logic and analysis) but may also lead to novel applications of differential equations in science and engineering. They recently led to some decisive positive results, and many questions which seemed out of reach previously may now be answerable.&lt;br/&gt;&lt;br/&gt;More concretely, the goal of this project is to unify three seemingly very different approaches to enrich the real continuum by infinitesimal and infinite quantities: surreal numbers, germs of real-valued functions, and transseries. Surreal numbers have a combinatorial flavor and encompass Cantor's ordinal numbers; they were introduced by J. H. Conway in the 1970s in connection with game theory. Germs of real-valued functions are central objects in analysis; they were first systematically studied by P. du Bois-Reymond in the 1870s. Transseries are formal objects that model the growth rates of such germs at infinity; they arose in both analysis and logic during the 1980s. Their formal nature also makes transseries suitable for machine computations in computer algebra systems. The goal of this proposal is to deepen our understanding of these structures, and to establish links between them. For example, we would like to know: Are there analytic structures (Hardy fields) with the same logical features as transseries? Is there a natural isomorphism between surreals and transseries? Answers to questions such as these may now be within grasp due to fundamental advances in our understanding of the ideas of number, series, and function within the last decade, and would exhibit heretofore unknown relationships between them.</AbstractNarration>
+    <MinAmdLetterDate>04/11/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1700439</AwardID>
+    <Investigator>
+      <FirstName>Matthias</FirstName>
+      <LastName>Aschenbrenner</LastName>
+      <EmailAddress>matthias@math.ucla.edu</EmailAddress>
+      <StartDate>04/11/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Los Angeles</Name>
+      <CityName>LOS ANGELES</CityName>
+      <ZipCode>900951406</ZipCode>
+      <PhoneNumber>3107940102</PhoneNumber>
+      <StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1268</Code>
+      <Text>FOUNDATIONS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

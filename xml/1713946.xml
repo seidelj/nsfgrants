@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAPSI:EAPSI: Using Mass Spectrometry to Identify Protein Interactions at Fertilization</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>5400</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne L. Emig</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Understanding the processes that occur during fertilization is critical for developing safe and effective contraceptives and for treating infertility. Much has been learned about these processes in recent years. However, despite these successes, our knowledge of what happens on the molecular level during fertilization and the initiation of embryonic development is limited. For example, it is not known what molecules on the surface of the egg and the surface of the sperm start the fertilization process and allow the sperm to fuse with the egg. This project will investigate these molecular interactions taking place between the egg and sperm in collaboration with Dr. Rommel Mathias, an expert in studying protein-protein interactions, at Monash University in Melbourne, Australia. The primary goal is in the identification of molecules on the surface of the egg that are required for sperm binding and fusion during fertilization.&lt;br/&gt;&lt;br/&gt;In all animals, the initial conserved fertilization signal is a calcium wave that sweeps the entire egg. This calcium wave is initiated at sperm-egg fusion by a Src family tyrosine kinase and phospholipase C (PLC) gamma and it functions to both block polyspermy and initiate zygote development. The upstream protein interactions that influence the activation of Src and PLC are mostly unknown. Using a protein binding domain from the phospholipase C gamma enzyme, this project will identify proteins that interact with phospholipase C gamma during fertilization in the starfish. The starfish is an excellent model system for fertilization research because of the large quantity of easily accessible gametes, the success of in vitro fertilization, and the similarity of the known fertilization signaling pathways to that of humans. The Mathias lab specializes in viral-host protein interaction studies utilizing mass spectrometry and their expertise will be applied to identifying these fertilization-specific protein interactions using a state-of-the-art Thermo Fusion Orbitrap mass spectrometer.&lt;br/&gt;&lt;br/&gt;This award, under the East Asia and Pacific Summer Institutes program, supports summer research by a U.S. graduate student and is jointly funded by NSF and the Australian Academy of Science.</AbstractNarration>
+<MinAmdLetterDate>05/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713946</AwardID>
+<Investigator>
+<FirstName>Lauren</FirstName>
+<LastName>Bates</LastName>
+<EmailAddress/>
+<StartDate>05/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bates                   Lauren         S</Name>
+<CityName>Melbourne</CityName>
+<ZipCode>329015947</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5912</Code>
+<Text>AUSTRALIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7316</Code>
+<Text>EAPSI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

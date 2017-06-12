@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>A Community Building Approach to Preparing Secondary Science and Math Teachers</AwardTitle>
+    <AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2022</AwardExpirationDate>
+    <AwardAmount>660933</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Direct For Education and Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division Of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thomas Kim</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>With funding from the National Science Foundation's Robert Noyce Teacher Scholarship program, the Carthage Noyce Scholarship program will recruit undergraduate majors in biology, chemistry, mathematics, and physics and prepare them to become grades 6-12 science and math teachers. This Track 1 Noyce project will fund 26 scholarship recipients over 5 years. In this project, Carthage College in Kenosha, WI will collaborate with high-need middle and high schools in southeast Wisconsin. Scholars will be recruited into the teaching licensure program with early teaching opportunities through a STEM teaching immersion in the January term and through subsequent seminar classes. Scholarship recipients will conduct authentic STEM research alongside faculty in Carthage's well-established Summer Undergraduate Research Experience. This 10-week summer program will also provide an opportunity for scholars to work alongside in-service science and math teachers, who will be invited to participate in an affiliated 4-week research experience. The project will provide mentorship opportunities for scholars before teaching licensure and during their early years of teaching through a community of STEM teaching practice. Community building activities will include regular task-oriented meetings and summer retreats involving integrated STEM curriculum creation alongside effective and experienced in-service teachers. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A coalition of STEM and education faculty at Carthage College will implement a distinctive math and science teacher recruitment and preparation program in partnership with secondary schools in Wisconsin. The Carthage Noyce Scholarship program will prioritize early recruitment through immersive, well-supported teaching experiences and will tailor subsequent preparation for successful secondary-level teaching in urban settings through specific coursework as well as targeted clinical experiences in high-need schools. Exposure to authentic scientific and mathematical research will improve the depth of teacher preparation and provide valuable experience with the interdisciplinary nature of professional-level science and math to pre-service and in-service teachers . The project will also establish a community of STEM teaching practice wherein networking events, formal mentorship arrangements, and summer retreats develop scholars' professional identity and self-efficacy as teachers. Community of STEM teaching practice events will culminate each year in a summer retreat where scholars and in-service teachers are challenged to collaboratively design interdisciplinary curricula aligned with the Next Generation Science Standards. Integrated STEM lessons produced by curriculum design retreats will be made widely available as an outcome of the program to enhance curriculum in other high-need STEM classrooms.</AbstractNarration>
+    <MinAmdLetterDate>03/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1660620</AwardID>
+    <Investigator>
+      <FirstName>Andrea</FirstName>
+      <LastName>Henle</LastName>
+      <EmailAddress>ahenle@carthage.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Karin</FirstName>
+      <LastName>Sconzert</LastName>
+      <EmailAddress>ksconzert@carthage.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Aaron</FirstName>
+      <LastName>Trautwein</LastName>
+      <EmailAddress>atrautwein@carthage.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Christine</FirstName>
+      <LastName>Blaine</LastName>
+      <EmailAddress>blainel@carthage.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Julie</FirstName>
+      <LastName>Dahlstrom</LastName>
+      <EmailAddress>jdahlstrom1@carthage.edu</EmailAddress>
+      <StartDate>03/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Carthage College</Name>
+      <CityName>Kenosha</CityName>
+      <ZipCode>531401929</ZipCode>
+      <PhoneNumber>2625512303</PhoneNumber>
+      <StreetAddress>2001 Alford Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Wisconsin</StateName>
+      <StateCode>WI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1795</Code>
+      <Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9178</Code>
+      <Text>UNDERGRADUATE EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>SMET</Code>
+      <Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>
