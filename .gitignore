@@ -2,4 +2,6 @@ venv
 xml
 *.xml
 *.pyc
+*.csv
+*.zip
 .DS_Store
