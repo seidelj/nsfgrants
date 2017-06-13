@@ -57,7 +57,8 @@ def write_csv(parsed):
         cwriter.writerow(headers)
         for item in parsed:
             for elem in item['programelement']:
-                row = [item['awardid']]+[str(elem[h]) for h in headers[1:]]
+                #row = [item['awardid']]+[str(elem[h]).encode('utf8', 'replace') for h in headers[1:]]
+                row = [item['awardid']]+[re.sub('[^a-zA-Z0-9-_*.]', ' ', str(elem[h])) for h in headers[1:]]
                 cwriter.writerow(row)
     with open(os.path.join(PROJECT_ROOT, 'references.csv'), 'w') as f:
         cwriter = csv.writer(f)
@@ -65,7 +66,9 @@ def write_csv(parsed):
         cwriter.writerow(headers)
         for item in parsed:
             for elem in item['programreference']:
-                row = [item['awardid']]+[str(elem[h]) for h in headers[1:]]
+                #row = [item['awardid']]+[str(elem[h]) for h in headers[1:]]
+                row = [item['awardid']]+[re.sub('[^a-zA-Z0-9-_*.]', ' ', str(elem[h])) for h in headers[1:]]
+
                 cwriter.writerow(row)
 
     with open(os.path.join(PROJECT_ROOT, 'abstracts.csv'), 'w') as f:
